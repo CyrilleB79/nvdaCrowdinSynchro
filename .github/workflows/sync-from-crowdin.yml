@@ -1,0 +1,49 @@
+name: Sync translations from Crowdin
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # toutes les heures
+  workflow_dispatch:
+
+jobs:
+  synchronization:
+    runs-on: ubuntu-latest
+    env:
+      CROWDIN_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+      FILES: 'nvda.po userGuide.xliff changes.xliff'
+      LANGUAGES: 'fr it'  # List of languages to synchronize (separated by spaces, e.g. 'fr es it'
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Upgrade pip and install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install crowdin-api-client lxml nh3
+            
+      - name: Download translations for each language
+        run: |
+          for lang in $LANGUAGES; do
+            for file in $FILES; do
+              python scripts/downloadCrowdinFile.py "$CROWDIN_TOKEN" "$lang" "$file"
+            done
+          done
+
+      - name: Configure Git
+        run: |
+          git config user.name "Crowdin Bot"
+          git config user.email "crowdin-bot@example.com"
+
+      - name: Commit and push if changes
+        run: |
+          git add .
+          git diff --cached --quiet || git commit -m "Sync translations from Crowdin"
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }} HEAD:main
