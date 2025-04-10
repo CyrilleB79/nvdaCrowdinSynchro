@@ -7321,7 +7321,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Speak typed words |`NVDA+3` |`NVDA+3` |Controls when NVDA announces words you type. </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="9109e753-2205-4e8b-9054-6d39bb42d68c">
@@ -24841,9 +24841,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AutomaticAddonUpdates}</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic updates</source>
-        <target>Automatic updates</target>
+        <target>aggiornamenti automatici</target>
       </segment>
     </unit>
     <unit id="233de393-4225-46c5-9e25-296c2de9b9e8">
@@ -24908,7 +24908,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Options |Notify (Default), Update Automatically, Disabled </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="c34bb40e-c6b2-4ca0-bb00-d067200fa417">
@@ -24941,7 +24941,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Notify |Notify when updates are available to add-ons </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="760d97ee-8493-4751-8fba-288f3e4e6c55">
@@ -24952,7 +24952,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Update Automatically |Automatically update add-ons in the background </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="83eb7c50-ecda-4938-a473-4e1c7c77b479">
@@ -25021,7 +25021,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Options | Same (Default), Any, Do not update, Stable, Beta or dev, Beta, Dev </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="5101407f-f7e1-4c59-9787-56bbf1380634">
@@ -25032,7 +25032,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Default | Same </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="824d4ae9-0463-40f8-a473-498bd8b04056">
@@ -25043,7 +25043,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Option | Behaviour </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="5cb8f85e-77d3-430f-9f0a-811376724f56">
@@ -25054,7 +25054,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Same | Add-ons will remain on their channel </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="fe84c0ba-0cb3-48d8-bd5c-426ad813a896">
@@ -25065,7 +25065,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Any | Add-ons will automatically update to the latest version, regardless of channel </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="0e7bb3c4-6a44-4dc0-96c6-e3bad0925f90">
@@ -25076,7 +25076,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Do not update | Add-ons will not automatically update by default, you must enable them individually </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="6dd0d5a7-5741-4e63-bf0b-2b7903717aaa">
@@ -25087,7 +25087,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Stable | Add-ons will automatically update to stable versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="755043a8-0834-4685-b287-945079bf214b">
@@ -25098,7 +25098,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Beta or dev | Add-ons will automatically update to beta or dev versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="074fd46a-91aa-4415-a795-05b1e7560b49">
@@ -25109,7 +25109,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Beta | Add-ons will automatically update to beta versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="a961c9bd-0d8d-490b-b76b-14d7115dcb44">
@@ -25120,7 +25120,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Dev | Add-ons will automatically update to dev versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="f2c9de04-525d-4257-b675-bc95090423de">
@@ -25415,7 +25415,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Option |Behaviour </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="ba9de544-6ae0-44fb-8da7-06c7fe807a4b">
@@ -25426,7 +25426,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Allow this machine to be controlled |Use this computer as the "controlling" computer. This allows you to execute commands on the remote computer. </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="fda47399-3911-4349-8520-fdf517b7aa87">
@@ -25437,7 +25437,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Control another machine |Use this computer as the "controlled" computer. This allows the operator of the "controlling" computer to use this computer as if they were sitting in front of it. </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="af02981e-74c9-4832-be1a-9596b2b1ad2a">
@@ -25477,7 +25477,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Option |Behaviour </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="ed2c76eb-ca00-46bf-a198-2a1edfe7e652">
@@ -25488,7 +25488,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Use existing |Use an existing Remote Access server to mediate the connection (recommended). </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="c4229ecd-8563-4a67-8ed6-823b2f8f890b">
@@ -25499,7 +25499,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Host locally |Use this instance of NVDA as the Remote Access server (advanced). This option may require network configuration that is out of scope for this manual. </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="e508195a-301a-4839-a056-a306d6f799a2">
@@ -29212,7 +29212,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>  Only the server hostname (URL) and key are needed.</source>
-        <target>  &lt;target/&gt;</target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="df41743b-d70e-45a7-ae81-a5c202d73c8c">
@@ -29231,7 +29231,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>  Requires network setup, such as port forwarding.</source>
-        <target>  &lt;target/&gt;</target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="33590cb2-16ed-4cc8-8589-6992c732853f">
@@ -29559,7 +29559,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Name |Key |Description</source>
-        <target> &lt;target/&gt;</target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="2230817a-f92a-4d0c-8b64-ce179c826b22">
@@ -29570,7 +29570,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Connect or disconnect | `NVDA+alt+r` | If a remote session is in progress, disconnects from it. Otherwise, starts a new Remote session. </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="0b908760-a0ed-4689-800e-a09c29e5d649">
@@ -29581,7 +29581,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Toggle Control | `NVDA+alt+tab` | Switches between controlling the remote and local computer. </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="6cdce6db-8e57-4b70-bb93-f194166f85ef">
@@ -29592,7 +29592,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Connect | None | Starts a new Remote Access session. </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="771cf83f-a8b9-4d9d-83b9-565428414f6a">
@@ -29603,7 +29603,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Copy link | None | Copies a link to the remote session to the clipboard. </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="fc4bfc1d-4cb3-42ad-ad29-3d2021915725">
@@ -29614,7 +29614,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Disconnect | None | Ends an existing Remote Access session. </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="056bf4aa-ba4a-4e38-8c79-02459497fcb4">
@@ -29625,7 +29625,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Mute remote | None | Mutes or unmutes the speech coming from the remote computer. </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="235b82f6-ed1f-4468-a032-0ea3c18f3d94">
@@ -29636,7 +29636,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Push clipboard | None | Sends the contents of the clipboard to the remote computer. </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="669365b6-5282-446b-b3ec-fce96eca117d">
@@ -30596,9 +30596,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#AddonStoreUpdateChannel}</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Changing the automatic update channel</source>
-        <target>Changing the automatic update channel</target>
+        <target>Modifica del canale di aggiornamento automatico</target>
       </segment>
     </unit>
     <unit id="73968c62-e5c1-49d1-97f3-f3d0933783e7">
@@ -30636,7 +30636,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Option | Behaviour </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="d9ad535d-9ab9-4e31-ade2-3a1bd6db73f9">
@@ -30647,7 +30647,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Default | Add-on will follow the [default update channel](#DefaultAddonUpdateChannel) </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="51ed96cd-7c4f-4838-a405-edc4e62a55fc">
@@ -30658,7 +30658,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Same | Add-on will remain on the same channel </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="ea73e2f1-8a12-4681-853a-ba80c8512130">
@@ -30669,7 +30669,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Any | Add-on will automatically update to the latest version, regardless of channel </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="a09ffb72-24b7-49db-b7a7-71a49278e6a2">
@@ -30680,7 +30680,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Do not update | Add-on will not automatically update </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="7695251e-c87f-4695-adcb-48ccacd9fdd9">
@@ -30691,7 +30691,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Stable | Add-on will automatically update to stable versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="d90d5b13-1f79-4ace-bd21-2ab194f902db">
@@ -30702,7 +30702,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Beta or dev | Add-on will automatically update to beta or dev versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="9b6c04ef-201b-46f9-8b7d-b0d957510302">
@@ -30713,7 +30713,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Beta | Add-on will automatically update to beta versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="f24d40fa-d680-4e5e-8d1d-099b53422afa">
@@ -30724,7 +30724,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Dev | Add-on will automatically update to dev versions </source>
-        <target> &lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="258db609-7d25-4412-a50d-9353188df5e7">
@@ -41866,7 +41866,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Name |Key</source>
-        <target> &lt;target/&gt;</target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="33db1f39-1697-468d-8fbb-23c6d7222011">
@@ -41877,7 +41877,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Scroll braille display back | `pan_left` </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="19b6b359-980e-4c5e-b7b1-c2896dba6c21">
@@ -41888,7 +41888,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Scroll braille display forward | `pan_right` </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="b4d61299-abab-4dd4-94f4-2b490bad7b6b">
@@ -42509,9 +42509,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>`-n LANGUAGE` |`--lang=LANGUAGE` |Override the configured NVDA language. Set to "Windows" for current user default, "en" for English, etc.</source>
-        <target>`-n LANGUAGE` |`--lang=LANGUAGE` |Override the configured NVDA language. Set to "Windows" for current user default, "en" for English, etc.</target>
+        <target>`-n LANGUAGE` |`--lang=LANGUAGE` |Sovrascrive la lingua configurata in NVDA. Impostare su "Windows" Per il valore predefinito dell'utente corrente, "en" for Inglese, etc.</target>
       </segment>
     </unit>
     <unit id="5cefc31a-b733-4353-9033-c3b9602e6803">
@@ -42542,9 +42542,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>`-d` |`--disable-addons` |Add-ons will have no effect</source>
-        <target>`-d` |`--disable-addons` |Add-ons will have no effect</target>
+        <target>`-d` |`--disable-addons` |I componenti aggiuntivi non avranno effetto</target>
       </segment>
     </unit>
     <unit id="50707ed3-cecb-44fe-bd55-df4d4881b7ff">
@@ -42692,7 +42692,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source> Short |Long |Description</source>
-        <target> &lt;target/&gt;</target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="8f5be772-52a3-4594-82cc-a21476f421b2">
@@ -42703,7 +42703,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>`/S` |None |Silently uninstall NVDA. </source>
-        <target>&lt;target/&gt; </target>
+        <target>&lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="56e9eb75-58e9-489c-8556-1270dca7bfb2">
