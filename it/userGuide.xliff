@@ -7319,7 +7319,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Speak typed words |`NVDA+3` |`NVDA+3` |Controls when NVDA announces words you type. </source>
         <target>Legge le parole digitate |`NVDA+3` |`NVDA+3` |Stabilisce come NVDA debba leggere le parole che vengono scritte. </target>
       </segment>
@@ -8368,7 +8368,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 389</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>We recommend starting with the "Basic Training for NVDA" module.</source>
         <target>Si consiglia di iniziare con il modulo "Basic Training for NVDA".</target>
       </segment>
@@ -8698,7 +8698,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 440</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option allows you to choose whether or not NVDA should copy the user configuration from the currently running NVDA into the configuration for the currently logged on user, for the installed copy of NVDA.</source>
         <target>Questa opzione permette di scegliere se copiare la configurazione al momento in uso di NVDA nella configurazione dell’utente attualmente connesso, per la versione installata di NVDA.</target>
       </segment>
@@ -9361,7 +9361,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 537</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>By default, NVDA is set to use the Desktop layout, though you can switch to the Laptop layout in the Keyboard category of the [NVDA Settings](#NVDASettings) dialog, found under Preferences in the NVDA menu.</source>
         <target>Per impostazione predefinita, NVDA è configurato ad utilizzare il layout Desktop, ma è possibile passare al layout Laptop in qualsiasi momento dalla finestra [Impostazioni(#NVDASettings), categoria tastiera, situata nel menu preferenze di NVDA.</target>
       </segment>
@@ -9540,7 +9540,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 568</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Tapping once with one finger is simply known as a tap.</source>
         <target>Il gesto di toccare una volta con un dito viene comunemente chiamato tocco, in inglese tap.</target>
       </segment>
@@ -9818,7 +9818,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 614</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The actual commands will not execute while in input help mode.</source>
         <target>I comandi attuali non verranno eseguiti nella modalità Aiuto Immissione.</target>
       </segment>
@@ -11379,9 +11379,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Move to start of selection in review |`NVDA+alt+home` |`NVDA+alt+home` |None |Moves the review cursor to the first character of the selected text</source>
-        <target>&lt;target/&gt;</target>
+        <target>Spostarsi all'inizio della selezione in modalità esplorazione |`NVDA+alt+inizio` |`NVDA+alt+inizio` |Nessuno |Sposta il cursore di controllo al primo carattere del testo selezionato</target>
       </segment>
     </unit>
     <unit id="277bf234-d0ff-4f3b-88c0-ebca5e179697">
@@ -11390,9 +11390,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Move to end of selection in review |`NVDA+alt+end` |`NVDA+alt+end` |None |Moves the review cursor to the last character of the selected text</source>
-        <target>&lt;target/&gt;</target>
+        <target>Spostarsi alla fine della selezione in modalità esplorazione |`NVDA+alt+fine` |`NVDA+alt+fine` |Nessuno |Sposta il cursore di controllo all'ultimo carattere del testo selezionato</target>
       </segment>
     </unit>
     <unit id="40d87ed7-b08f-4ea9-9d21-4db08d4f0e24">
@@ -11474,9 +11474,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 861</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>A good way to remember the basic text review commands when using the Desktop layout is to think of them as being in a grid of three by three, with top to bottom being line, word and character and left to right being previous, current and next.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Un buon metodo per ricordarsi i comandi di base per l'esplorazione del testo con il cursore di controllo mentre ci si serve del layout Desktop consiste nel pensarli in una griglia 3 x 3, che dall'alto verso il basso presenta righe, parole e caratteri, mentre da sinistra a destra precedente, attuale e successivo.</target>
       </segment>
     </unit>
     <unit id="da7d30ee-9dd5-42da-9f0d-930cf1a80b1e">
@@ -13116,9 +13116,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Find text |NVDA+control+f |Opens the search dialog</source>
-        <target>&lt;target/&gt;</target>
+        <target>Trova testo |NVDA+control+f |Apre la finestra di ricerca</target>
       </segment>
     </unit>
     <unit id="812c76e4-840b-4efb-aa15-01970e403b58">
@@ -13138,9 +13138,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Find previous |NVDA+shift+f3 |searches the previous occurrence of the current search term</source>
-        <target>&lt;target/&gt;</target>
+        <target>Trova precedente |NVDA+Shift+f3 |cerca l'occorrenza precedente del termine appena digitato</target>
       </segment>
     </unit>
     <unit id="d337fba7-a786-4b8a-a727-857b09989837">
@@ -24841,7 +24841,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AutomaticAddonUpdates}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Automatic updates</source>
         <target>aggiornamenti automatici</target>
       </segment>
@@ -30596,7 +30596,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#AddonStoreUpdateChannel}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Changing the automatic update channel</source>
         <target>Modifica del canale di aggiornamento automatico</target>
       </segment>
@@ -42509,7 +42509,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>`-n LANGUAGE` |`--lang=LANGUAGE` |Override the configured NVDA language. Set to "Windows" for current user default, "en" for English, etc.</source>
         <target>`-n LANGUAGE` |`--lang=LANGUAGE` |Sovrascrive la lingua configurata in NVDA. Impostare su "Windows" Per il valore predefinito dell'utente corrente, "en" for Inglese, etc.</target>
       </segment>
@@ -42542,7 +42542,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>`-d` |`--disable-addons` |Add-ons will have no effect</source>
         <target>`-d` |`--disable-addons` |I componenti aggiuntivi non avranno effetto</target>
       </segment>

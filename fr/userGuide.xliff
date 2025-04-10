@@ -24841,9 +24841,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AutomaticAddonUpdates}</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic updates</source>
-        <target>Automatic updates</target>
+        <target>Mises à jour automatiques</target>
       </segment>
     </unit>
     <unit id="233de393-4225-46c5-9e25-296c2de9b9e8">
@@ -30596,9 +30596,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#AddonStoreUpdateChannel}</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Changing the automatic update channel</source>
-        <target>Changing the automatic update channel</target>
+        <target>Changement du canal de mise à jour automatique</target>
       </segment>
     </unit>
     <unit id="73968c62-e5c1-49d1-97f3-f3d0933783e7">
@@ -42509,9 +42509,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>`-n LANGUAGE` |`--lang=LANGUAGE` |Override the configured NVDA language. Set to "Windows" for current user default, "en" for English, etc.</source>
-        <target>`-n LANGUAGE` |`--lang=LANGUAGE` |Override the configured NVDA language. Set to "Windows" for current user default, "en" for English, etc.</target>
+        <target>`-n LANGUAGE` |`--lang=LANGUAGE` |Remplacer la langue configurée de NVDA. Définir sur "Windows" pour la langue par défaut de l'utilisateur actuel, "en" pour l'anglais, etc.</target>
       </segment>
     </unit>
     <unit id="5cefc31a-b733-4353-9033-c3b9602e6803">
@@ -42542,9 +42542,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>`-d` |`--disable-addons` |Add-ons will have no effect</source>
-        <target>`-d` |`--disable-addons` |Add-ons will have no effect</target>
+        <target>`-d` |`--disable-addons` |Les extensions n'auront aucun effet</target>
       </segment>
     </unit>
     <unit id="50707ed3-cecb-44fe-bd55-df4d4881b7ff">
