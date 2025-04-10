@@ -5480,45 +5480,45 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 20</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Default input and output braille tables can now be determined based on the NVDA language.</source>
-        <target>Default input and output braille tables can now be determined based on the NVDA language.</target>
+        <target>Les tables braille de saisie et d'affichage par défaut peuvent désormais être déterminées en fonction de la langue utilisée dans NVDA.</target>
       </segment>
     </unit>
     <unit id="7a853ee1-c275-407d-a752-94fec651658d">
       <notes>
         <note appliesTo="source">line: 21</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Native support has been added for the Dot Pad tactile graphics device from Dot Inc as a multiline braille display.</source>
-        <target>Native support has been added for the Dot Pad tactile graphics device from Dot Inc as a multiline braille display.</target>
+        <target>La prise en charge native a été ajoutée pour le dispositif graphique tactile Dot Pad de Dot Inc, en tant qu'afficheur braille multi-lignes.</target>
       </segment>
     </unit>
     <unit id="c49b2d8d-ed18-4d7f-b6e6-3949b745e04f">
       <notes>
         <note appliesTo="source">line: 22</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>There have been other minor fixes for braille displays, particularly around connectivity.</source>
-        <target>There have been other minor fixes for braille displays, particularly around connectivity.</target>
+        <target>D'autres corrections mineures ont été apportées au niveau des afficheurs braille, notamment en ce qui concerne la connectivité.</target>
       </segment>
     </unit>
     <unit id="b551b582-47b8-4bbd-aa16-bf36183ff98e">
       <notes>
         <note appliesTo="source">line: 24</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>LibLouis braille translator, eSpeak-NG and Unicode CLDR have been updated.</source>
-        <target>LibLouis braille translator, eSpeak-NG and Unicode CLDR have been updated.</target>
+        <target>Le traducteur braille LibLouis, eSpeak-NG et Unicode CLDR ont été mis à jour.</target>
       </segment>
     </unit>
     <unit id="0a63859f-c99b-456b-8023-7589070d125f">
       <notes>
         <note appliesTo="source">line: 25</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>New Coptic, compact Cuneiform, and Portuguese 6 dot Computer Braille tables are available.</source>
-        <target>New Coptic, compact Cuneiform, and Portuguese 6 dot Computer Braille tables are available.</target>
+        <target>De nouvelles tables braille sont disponibles : copte, cunéiforme compact et braille informatique portugais 6 points.</target>
       </segment>
     </unit>
     <unit id="b1977fe9-41ee-4489-ac23-afbb5d97a362">
@@ -5526,9 +5526,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 27</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Important notes</source>
-        <target>Important notes</target>
+        <target>Notes importantes</target>
       </segment>
     </unit>
     <unit id="f3f9931f-d5ba-4793-9dbe-1a1a7d0e4822">
@@ -5536,9 +5536,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 29</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>This release breaks compatibility with existing add-ons.</source>
-        <target>This release breaks compatibility with existing add-ons.</target>
+        <target>Cette version n'est pas compatible avec les extensions existantes.</target>
       </segment>
     </unit>
     <unit id="7c627caf-1fb8-4d0b-9579-a3998cdfcb7e">
@@ -5546,18 +5546,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 31</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Security Fixes</source>
-        <target>Security Fixes</target>
+        <target>Corrections de sécurité</target>
       </segment>
     </unit>
     <unit id="dd3d63d0-1124-4c8a-abb2-c0f38363ef49">
       <notes>
         <note appliesTo="source">line: 33</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</source>
-        <target>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</target>
+        <target>Merci de divulguer les problèmes de sécurité de manière responsable, conformément à la [politique de sécurité](https://github.com/nvaccess/nvda/blob/master/security.md) de NVDA.</target>
       </segment>
     </unit>
     <unit id="8d48f02c-4e78-466b-a914-17cfe3958e50">
@@ -5565,16 +5565,16 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 35</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Prevents showing potentially sensitive information on braille displays when the device is locked.</source>
-        <target>Prevents showing potentially sensitive information on braille displays when the device is locked.</target>
+        <target>Empêche l'affichage d'informations potentiellement sensibles sur les afficheurs braille lorsque l'appareil est verrouillé.</target>
       </segment>
     </unit>
     <unit id="ca3bc7b4-1799-460d-9897-d06d17e00e22">
       <notes>
         <note appliesTo="source">line: 36</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>([GHSA-8f8q-2jc3-6rf4](https://github.com/nvaccess/nvda/security/advisories/GHSA-8f8q-2jc3-6rf4))</source>
         <target>([GHSA-8f8q-2jc3-6rf4](https://github.com/nvaccess/nvda/security/advisories/GHSA-8f8q-2jc3-6rf4))</target>
       </segment>
@@ -5584,16 +5584,16 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 37</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Prevents the installer from loading unwanted DLLs from its directory.</source>
-        <target>Prevents the installer from loading unwanted DLLs from its directory.</target>
+        <target>Empêche l'installateur de charger des fichiers DLL indésirables depuis son répertoire.</target>
       </segment>
     </unit>
     <unit id="6ca0e1d4-2cc8-424f-95db-18431bfb30fd">
       <notes>
         <note appliesTo="source">line: 38</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>([GHSA-qf5h-qw92-rx2f](https://github.com/nvaccess/nvda/security/advisories/GHSA-qf5h-qw92-rx2f))</source>
         <target>([GHSA-qf5h-qw92-rx2f](https://github.com/nvaccess/nvda/security/advisories/GHSA-qf5h-qw92-rx2f))</target>
       </segment>
@@ -5603,9 +5603,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 40</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>New Features</source>
-        <target>New Features</target>
+        <target>Nouvelles fonctionnalités</target>
       </segment>
     </unit>
     <unit id="19e3afb5-78fd-454b-a4ca-6fbb663f92c4">
@@ -5613,7 +5613,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 42</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Add-on Store:</source>
         <target>Add-on Store:</target>
       </segment>
@@ -5623,9 +5623,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 43</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic updates (#3208):</source>
-        <target>Automatic updates (#3208):</target>
+        <target>Mises à jour automatqiques (#3208):</target>
       </segment>
     </unit>
     <unit id="be447b8c-de47-440b-82be-128cedf70413">
@@ -5633,9 +5633,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 44</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic update channels for add-ons can now be modified.</source>
-        <target>Automatic update channels for add-ons can now be modified.</target>
+        <target>Les canaux de mise à jour automatique des extensions peuvent désormais être modifiés.</target>
       </segment>
     </unit>
     <unit id="a04d32da-24e4-4265-a07f-1f57144ee623">
@@ -5643,9 +5643,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 45</note>
         <note appliesTo="source">prefix:       * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic update channels can be selected for installed add-ons via an "Update channel" submenu.</source>
-        <target>Automatic update channels can be selected for installed add-ons via an "Update channel" submenu.</target>
+        <target>Les canaux de mise à jour automatique peuvent être sélectionnés pour les extensions installées via un sous-menu "Canal de mise à jour".</target>
       </segment>
     </unit>
     <unit id="6a60bfd3-01fa-419b-b7bd-481ffb152a4c">
@@ -5653,9 +5653,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 46</note>
         <note appliesTo="source">prefix:       * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>The default automatic update channel can be set from the Add-on Store panel in NVDA's settings.</source>
-        <target>The default automatic update channel can be set from the Add-on Store panel in NVDA's settings.</target>
+        <target>Le canal de mise à jour automatique par défaut peut être défini depuis l'onglet de l'Addon Store dans les paramètres de NVDA.</target>
       </segment>
     </unit>
     <unit id="dd8713cf-8f02-4e91-a994-1c33ccc12356">
@@ -5663,9 +5663,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 47</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic updates can now happen in the background.</source>
-        <target>Automatic updates can now happen in the background.</target>
+        <target>Les mises à jour automatiques peuvent désormais s'effectuer en arrière-plan.</target>
       </segment>
     </unit>
     <unit id="b0f894fa-4772-4228-9e14-eaaff098f885">
@@ -5673,9 +5673,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 48</note>
         <note appliesTo="source">prefix:       * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>This can be enabled in the Add-on Store panel in NVDA's settings by changing "Automatic updates" to "Update Automatically".</source>
-        <target>This can be enabled in the Add-on Store panel in NVDA's settings by changing "Automatic updates" to "Update Automatically".</target>
+        <target>Cela peut être activé dans l'onglet Addon Store des paramètres de NVDA en modifiant "Mises à jour automatiques" en "Mettre à jour automatiquement".</target>
       </segment>
     </unit>
     <unit id="71341be2-b02c-4a0a-8a9b-79c6a8143f01">
@@ -5683,9 +5683,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 49</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic updates can now update incompatible add-ons to another, newer, incompatible version.</source>
-        <target>Automatic updates can now update incompatible add-ons to another, newer, incompatible version.</target>
+        <target>Les mises à jour automatiques peuvent maintenant remplacer une version incompatible d'une extension par une autre version plus récente, mais toujours incompatible.</target>
       </segment>
     </unit>
     <unit id="3310be30-53b9-4e8a-903e-f0adbf4501b2">
@@ -5693,9 +5693,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 50</note>
         <note appliesTo="source">prefix:       * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>This can be enabled in the Add-on Store panel in NVDA's settings.</source>
-        <target>This can be enabled in the Add-on Store panel in NVDA's settings.</target>
+        <target>Cette option peut être activée dans l'onglet Addon Store des paramètres de NVDA.</target>
       </segment>
     </unit>
     <unit id="e70b2017-983a-4f4c-b51e-af419f4e0387">
@@ -5703,9 +5703,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 51</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Added an action to cancel the install of add-ons. (#15578, @hwf1324)</source>
-        <target>Added an action to cancel the install of add-ons. (#15578, @hwf1324)</target>
+        <target>Ajout d'une option pour annuler l'installation des extensions. (#15578, @hwf1324)</target>
       </segment>
     </unit>
     <unit id="4e3a6230-514d-4ab1-bca0-856264d7252a">
@@ -5713,9 +5713,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 52</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Added an action to retry the installation if the download/installation of an add-on fails. (#17090, @hwf1324)</source>
-        <target>Added an action to retry the installation if the download/installation of an add-on fails. (#17090, @hwf1324)</target>
+        <target>Ajout d'une option pour retenter l'installation si le téléchargement ou l'installation d'une extension échoue. (#17090, @hwf1324)</target>
       </segment>
     </unit>
     <unit id="50cd82b1-49fe-4796-b72c-b75efbf4592b">
@@ -5723,9 +5723,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 53</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>The add-ons lists can be sorted by columns, including publication date, in ascending and descending order. (#15277, #16681, @nvdaes)</source>
-        <target>The add-ons lists can be sorted by columns, including publication date, in ascending and descending order. (#15277, #16681, @nvdaes)</target>
+        <target>Les listes d'extensions peuvent être triées par colonnes, y compris par date de publication, en ordre croissant ou décroissant. (#15277, #16681, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="e71872e9-8dfd-42fd-8343-3b4f8b52098a">
@@ -5733,9 +5733,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 54</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Speech:</source>
-        <target>Speech:</target>
+        <target>Parole:</target>
       </segment>
     </unit>
     <unit id="3babe504-a4e3-4b23-9ce4-b864d9438064">
@@ -5743,9 +5743,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 55</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Automatic language switching is now supported when using Microsoft Speech API version 5 (SAPI5) and Microsoft Speech Platform voices. (#17146, @gexgd0419)</source>
-        <target>Automatic language switching is now supported when using Microsoft Speech API version 5 (SAPI5) and Microsoft Speech Platform voices. (#17146, @gexgd0419)</target>
+        <target>Le changement automatique de langue est maintenant pris en charge lors de l'utilisation des voix Microsoft Speech API version 5 (SAPI5) et de Microsoft Speech Platform. (#17146, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="99dd16d5-bef7-4b0e-8ddc-c10c92e8601e">
@@ -5753,9 +5753,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 56</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Rate boost is now supported when using Microsoft Speech API version 5 (SAPI5) and Microsoft Speech Platform voices, which supports up to 6X speed. (#17606, @gexgd0419)</source>
-        <target>Rate boost is now supported when using Microsoft Speech API version 5 (SAPI5) and Microsoft Speech Platform voices, which supports up to 6X speed. (#17606, @gexgd0419)</target>
+        <target>L'accélération du débit est désormais prise en charge lors de l'utilisation des voix Microsoft Speech API version 5 (SAPI5) et Microsoft Speech Platform, permettant une vitesse jusqu'à 6 fois plus rapide. (#17606, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="2ddce60b-18aa-4115-93a9-048285f66aa4">
@@ -5763,9 +5763,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 57</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Web browsers:</source>
-        <target>Web browsers:</target>
+        <target>Navigateurs web:</target>
       </segment>
     </unit>
     <unit id="40999032-8c90-44c2-a39f-b0da203d9fbe">
@@ -5773,9 +5773,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 58</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>NVDA browse mode's native selection mode (`NVDA+shift+f10`) is now supported in Google Chrome, Edge and other applications based on Chromium 134 or newer. (#17838)</source>
-        <target>NVDA browse mode's native selection mode (`NVDA+shift+f10`) is now supported in Google Chrome, Edge and other applications based on Chromium 134 or newer. (#17838)</target>
+        <target>Le mode de sélection native de NVDA en mode navigation (`NVDA+shift+f10`) est désormais pris en charge dans Google Chrome, Edge et d'autres applications basées sur Chromium 134 ou plus récent. (#17838)</target>
       </segment>
     </unit>
     <unit id="7552ea32-24b9-4dcd-b150-1e8716c4526a">
