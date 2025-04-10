@@ -5717,7 +5717,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 31</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Remote Access: Connect to and control another computer running NVDA for remote assistance or collaboration.</source>
         <target>Accesso remoto: connettersi e controllare un altro computer che esegue NVDA per assistenza remota o collaborazione.</target>
       </segment>
@@ -6441,7 +6441,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 138</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You may need to wait a few seconds while a temporary copy of NVDA loads.</source>
         <target>Potrebbe essere necessario attendere qualche secondo durante il caricamento della copia temporanea di NVDA.</target>
       </segment>
@@ -6460,7 +6460,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 140</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The NVDA Launcher window appears with a button to open the license agreement.</source>
         <target>La finestra di esecuzione di NVDA viene visualizzata con un pulsante per aprire l'accordo di licenza.</target>
       </segment>
@@ -6469,7 +6469,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 141</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Press the `downArrow` to read the license agreement.</source>
         <target>Premere la "FrecciaGiù` per leggere l'accordo di licenza.</target>
       </segment>
@@ -6782,7 +6782,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 181</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>A dialog box appears to confirm that the install of NVDA has been successful.</source>
         <target>Verrà visualizzata una finestra di dialogo che conferma l'avvenuta installazione di NVDA.</target>
       </segment>
@@ -7308,7 +7308,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Speak typed characters |`NVDA+2` |`NVDA+2` |Controls when NVDA announces characters you type. </source>
         <target>Legge i caratteri digitati |`NVDA+2` |`NVDA+2` |Stabilisce come NVDA debba leggere i caratteri che vengono scritti </target>
       </segment>
