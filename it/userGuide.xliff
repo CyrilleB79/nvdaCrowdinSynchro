@@ -7321,7 +7321,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Speak typed words |`NVDA+3` |`NVDA+3` |Controls when NVDA announces words you type. </source>
-        <target>&lt;target/&gt;</target>
+        <target>Legge le parole digitate |`NVDA+3` |`NVDA+3` |Stabilisce come NVDA debba leggere le parole che vengono scritte. </target>
       </segment>
     </unit>
     <unit id="9109e753-2205-4e8b-9054-6d39bb42d68c">
@@ -8370,7 +8370,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>We recommend starting with the "Basic Training for NVDA" module.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Si consiglia di iniziare con il modulo "Basic Training for NVDA".</target>
       </segment>
     </unit>
     <unit id="35436243-99e1-4292-8f2e-5a4fbfbbcc02">
@@ -8700,7 +8700,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>This option allows you to choose whether or not NVDA should copy the user configuration from the currently running NVDA into the configuration for the currently logged on user, for the installed copy of NVDA.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Questa opzione permette di scegliere se copiare la configurazione al momento in uso di NVDA nella configurazione dell’utente attualmente connesso, per la versione installata di NVDA.</target>
       </segment>
     </unit>
     <unit id="d2d4b592-2bca-4e3d-8291-25f4acb51531">
@@ -9363,7 +9363,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>By default, NVDA is set to use the Desktop layout, though you can switch to the Laptop layout in the Keyboard category of the [NVDA Settings](#NVDASettings) dialog, found under Preferences in the NVDA menu.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Per impostazione predefinita, NVDA è configurato ad utilizzare il layout Desktop, ma è possibile passare al layout Laptop in qualsiasi momento dalla finestra [Impostazioni(#NVDASettings), categoria tastiera, situata nel menu preferenze di NVDA.</target>
       </segment>
     </unit>
     <unit id="426f73e2-908a-4304-8923-faeb0606d1b0">
@@ -9542,7 +9542,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>Tapping once with one finger is simply known as a tap.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Il gesto di toccare una volta con un dito viene comunemente chiamato tocco, in inglese tap.</target>
       </segment>
     </unit>
     <unit id="fa038863-bf8d-4c6d-bc5f-b8b29c4c05b3">
@@ -9820,7 +9820,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="translated">
         <source>The actual commands will not execute while in input help mode.</source>
-        <target>&lt;target/&gt;</target>
+        <target>I comandi attuali non verranno eseguiti nella modalità Aiuto Immissione.</target>
       </segment>
     </unit>
     <unit id="5b656e18-099a-4c4e-bc1f-88541d27b734">
