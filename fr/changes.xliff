@@ -5783,9 +5783,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 59</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>In Mozilla Firefox, NVDA will report the highlighted text when a URL containing a text fragment is visited. (#16910, @jcsteh)</source>
-        <target>In Mozilla Firefox, NVDA will report the highlighted text when a URL containing a text fragment is visited. (#16910, @jcsteh)</target>
+        <target>Dans Mozilla Firefox, lorsque vous visitez une URL contenant un fragment de texte, NVDA annoncera le texte mis en surbrillance. (#16910, @jcsteh)</target>
       </segment>
     </unit>
     <unit id="69b8d2bd-3b81-44c9-aa9d-55894b033b00">
@@ -5793,9 +5793,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 60</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>NVDA can now report when a link destination points to the current page. (#141, @LeonarddeR, @nvdaes)</source>
-        <target>NVDA can now report when a link destination points to the current page. (#141, @LeonarddeR, @nvdaes)</target>
+        <target>NVDA peut désormais indiquer lorsqu'un lien renvoie vers la page en cours de consultation. (#141, @LeonarddeR, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="78aedac5-a92a-4630-84a1-92e7c237fd91">
@@ -5803,7 +5803,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 61</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Microsoft Office:</source>
         <target>Microsoft Office:</target>
       </segment>
@@ -5813,9 +5813,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 62</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>When editing in PowerPoint text boxes, you can now move per sentence with `alt+upArrow`/`alt+downArrow`. (#17015, @LeonarddeR)</source>
-        <target>When editing in PowerPoint text boxes, you can now move per sentence with `alt+upArrow`/`alt+downArrow`. (#17015, @LeonarddeR)</target>
+        <target>Lors de l'édition dans les zones de texte de PowerPoint, vous pouvez maintenant vous déplacer par phrase en utilisant les touches `alt+flèche vers le haut` et `alt+flèche vers le bas`. (#17015, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="ceef0fe5-5dbb-4469-965e-41b41569ffd9">
@@ -5823,9 +5823,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 63</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>In Word, the selection update is now reported when using Word commands to extend or reduce the selection (`f8` or `shift+f8`). (#3293, @CyrilleB79)</source>
-        <target>In Word, the selection update is now reported when using Word commands to extend or reduce the selection (`f8` or `shift+f8`). (#3293, @CyrilleB79)</target>
+        <target>Dans Word, la mise à jour de la sélection est maintenant annoncée lorsque vous utilisez les commandes de Word pour étendre ou réduire la sélection (`f8` ou `Maj+f8`). (#3293, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="3e3c1bbf-28dd-40e1-baf0-0ac2d8c6da56">
@@ -5833,9 +5833,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 64</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>In Word 16.0.18226 and higher or when using Word object model, NVDA will now report if a heading is collapsed in both speech and braille. (#17499)</source>
-        <target>In Word 16.0.18226 and higher or when using Word object model, NVDA will now report if a heading is collapsed in both speech and braille. (#17499)</target>
+        <target>Dans Word version 16.0.18226 et supérieures, ou lorsque vous utilisez le modèle d'objet Word, NVDA indiquera désormais si un titre est réduit, à la fois vocalement et en braille. (#17499)</target>
       </segment>
     </unit>
     <unit id="3c55d45c-f6bd-4106-85b4-019f0af2800b">
@@ -5843,9 +5843,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 65</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>In Word with UIA, when using the native extended table navigation commands (`alt+home`, `alt+end`, `alt+pageUp`, and `alt+pageDown`), the caret movement will now be reported. (#17867, @CyrilleB79)</source>
-        <target>In Word with UIA, when using the native extended table navigation commands (`alt+home`, `alt+end`, `alt+pageUp`, and `alt+pageDown`), the caret movement will now be reported. (#17867, @CyrilleB79)</target>
+        <target>Dans Word avec UIA, lorsque vous utilisez les commandes natives de navigation étendue dans les tableaux (`alt+`Début, `alt+Fin`, `alt+pagePréc`, et `alt+pageSuiv`), le mouvement du curseur sera désormais annoncé. (#17867, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="a0015a1c-ba2d-4f95-9932-d29d555967f2">
