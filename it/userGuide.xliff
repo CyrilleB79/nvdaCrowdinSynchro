@@ -13263,9 +13263,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1135</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>However, NVDA has a Native Selection Mode which can be turned on in particular Browse Mode documents which can support it (Mozilla Firefox, and any browser based on Chromium 134 or newer) which causes the document's native selection to follow NVDA's Browse Mode selection.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Comunque, NVDA dispone di una modalità di selezione nativa attivabile in documenti particolari gestibili con la modalità navigazione in grado di supportarla (Mozilla Firefox, e qualsiasi browser basato su Chromium 134 o successivo) che fa in modo che la selezione originale del documento segua la selezione di NVDA, sempre in modalità navigazione.</target>
       </segment>
     </unit>
     <unit id="0c220da6-bf37-40be-b1a7-95859acd96c7">
@@ -15447,7 +15447,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Pressing enter or space will activate (normally click) the text at the cursor if possible.</source>
-        <target>è possibile anche attivare (che nel 90% delle volte significa cliccare) un punto desiderato spostandosi con le frecce e poi premendo il tasto invio o la barra spaziatrice. Questo risulta utile nel caso si voglia raggiungere un pulsante non etichettato, sia esso di un sito web o di un programma.</target>
+        <target>Premere Invio o la barra spaziatrice per attivare (cliccare) il testo alla posizione del cursore, se possibile.</target>
       </segment>
     </unit>
     <unit id="c3034842-d429-40e8-8dfc-16493b21b530">
@@ -15463,9 +15463,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1435</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Pressing `NVDA+f5` refreshes the recognition result.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Premere `NVDA+f5` per Aggiornare il risultato del riconoscimento.</target>
       </segment>
     </unit>
     <unit id="c88b0a53-dfd1-4ac2-ba45-0ff711243952">
@@ -15566,9 +15566,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1456</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>NVDA provides its own extra features for some applications to make certain tasks easier or to provide access to functionality which is not otherwise accessible to screen reader users.</source>
-        <target>&lt;target/&gt;</target>
+        <target>NVDA fornisce funzionalità aggiuntive per alcune applicazioni, al fine di rendere più semplici determinati compiti o offrire l’accesso a funzioni che altrimenti non sarebbero accessibili agli utenti di screen reader.</target>
       </segment>
     </unit>
     <unit id="2c227b4d-cc6c-4895-bb8d-1790e6f70e37">
@@ -15655,9 +15655,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Set column headers |`NVDA+shift+c` |Pressing this once tells NVDA this is the first header cell in the row that contains column headers, which should be automatically announced when moving between columns below this row. Pressing twice will clear the setting.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Imposta intestazioni di colonna | `NVDA+Shift+C` | Premendo questo comando una volta, si indica a NVDA che la cella corrente è la prima della riga con le intestazioni di colonna. Le intestazioni verranno così annunciate automaticamente mentre ci si sposta tra le colonne sottostanti. Premendolo due volte, l’impostazione verrà annullata.</target>
       </segment>
     </unit>
     <unit id="7df7e116-2f47-41a3-8502-a69530a689f9">
@@ -15666,9 +15666,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Set row headers |`NVDA+shift+r` |Pressing this once tells NVDA this is the first header cell in the column that contains row headers, which should be automatically announced when moving between rows after this column. Pressing twice will clear the setting.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Imposta intestazioni di riga | `NVDA+Shift+R` | Premendo questo comando una volta, si indica a NVDA che la cella corrente è la prima della colonna con le intestazioni di riga. Le intestazioni verranno così annunciate automaticamente mentre ci si sposta tra le righe sottostanti. Premendolo due volte, l’impostazione verrà annullata.</target>
       </segment>
     </unit>
     <unit id="10bbd711-e1a1-40b6-b0e3-9688c6f402dc">
@@ -15684,9 +15684,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1477</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This means that users of other screen readers who open this document at a later date will automatically have the row and column headers already set.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Ciò significa che gli utenti di altri screen reader che apriranno questo documento in un secondo momento avranno automaticamente le intestazioni di riga e colonne già impostate.</target>
       </segment>
     </unit>
     <unit id="d06b4120-ae35-4acf-80d0-7be851a30919">
@@ -15789,9 +15789,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1500</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>All comments for the document, along with other tracked changes, can also be listed in the NVDA Elements List when selecting Annotations as the type.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Tutti i commenti presenti nel documento, insieme alle altre modifiche tracciate, possono essere elencati anche nell'elenco elementi di NVDA, selezionando come tipo “Annotazioni”</target>
       </segment>
     </unit>
     <unit id="f4e6005a-baa3-4526-8cd1-f7aa0211772e">
@@ -15869,9 +15869,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Set column headers |`NVDA+shift+c` |Pressing this once tells NVDA this is the first header cell in the row that contains column headers, which should be automatically announced when moving between columns below this row. Pressing twice will clear the setting.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Imposta intestazioni di colonna |`NVDA+Shift+C` | Premendo questo comando una volta, si indica a NVDA che la cella corrente è la prima della riga con le intestazioni di colonna. Le intestazioni verranno così annunciate automaticamente mentre ci si sposta tra le colonne sottostanti. Premendolo due volte, l’impostazione verrà annullata.</target>
       </segment>
     </unit>
     <unit id="5282bfa7-d7bd-4f47-9100-a264111be39c">
@@ -15880,9 +15880,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Set row headers |`NVDA+shift+r` |Pressing this once tells NVDA this is the first header cell in the column that contains row headers, which should be automatically announced when moving between rows after this column. Pressing twice will clear the setting.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Imposta intestazioni di riga |`NVDA+Shift+C` | Premendo questo comando una volta, si indica a NVDA che la cella corrente è la prima della colonna con le intestazioni di riga. Le intestazioni verranno così annunciate automaticamente mentre ci si sposta tra le righe sottostanti. Premendolo due volte, l’impostazione verrà annullata.</target>
       </segment>
     </unit>
     <unit id="9bc41658-168a-4b6c-8cb3-31e69e010c73">
@@ -15898,9 +15898,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1518</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This means that users of other screen readers who open this workbook at a later date will automatically have the row and column headers already set.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Ciò significa che gli utenti di altri screen reader che aprono questa cartella di lavoro in un secondo momento avranno automaticamente le intestazioni di riga e colonne già impostate.</target>
       </segment>
     </unit>
     <unit id="f9cd227a-e1f2-4109-b921-065a7f1d7c76">
@@ -17261,16 +17261,16 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This option is a checkbox that allows you to choose whether or not a dialog appears when you exit NVDA that asks what action you want to perform.</source>
-        <target>Una casella di controllo che permette di decidere se, alla chiusura di NVDA, debbano comparire opzioni aggiuntive per decidere come chiudere il programma.</target>
+        <target>Una casella di controllo che permette di stabilire se, alla chiusura di NVDA, debbano comparire opzioni aggiuntive per decidere come chiudere il programma.</target>
       </segment>
     </unit>
     <unit id="3bfe6bad-945e-45ce-b387-1a8371f4e417">
       <notes>
         <note appliesTo="source">line: 1763</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>When checked, a dialog will appear when you attempt to exit NVDA, offering the following possibilities:</source>
-        <target>&lt;target/&gt;</target>
+        <target>Se attivata, comparirà una finestra all'uscita di NVDA, con le seguenti scelte:</target>
       </segment>
     </unit>
     <unit id="dba26658-2445-4987-a7c7-f312f8dfec5a">
@@ -17278,9 +17278,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1765</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>exit</source>
-        <target>&lt;target/&gt;</target>
+        <target>esci</target>
       </segment>
     </unit>
     <unit id="141c0b02-bfd8-41be-aa62-44bb2876bdb5">
@@ -17288,9 +17288,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1766</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>restart</source>
-        <target>&lt;target/&gt;</target>
+        <target>riavvia</target>
       </segment>
     </unit>
     <unit id="de5a15f4-2bbe-4658-86ab-5067faa513d6">
@@ -17298,9 +17298,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1767</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>restart with add-ons disabled and debug logging enabled</source>
-        <target>&lt;target/&gt;</target>
+        <target>riavvia con gli add-on disattivati e il debug nei log attivo</target>
       </segment>
     </unit>
     <unit id="f48d699f-cfe1-4fc9-a812-3891df7ebc36">
@@ -17308,9 +17308,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1768</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>restart with debug logging enabled</source>
-        <target>&lt;target/&gt;</target>
+        <target>riavvia con il debug nei log attivo</target>
       </segment>
     </unit>
     <unit id="e740ab36-822f-423d-ade1-c53a9a103fff">
@@ -17318,9 +17318,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1769</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>install pending updates (if any).</source>
-        <target>&lt;target/&gt;</target>
+        <target>Installa aggiornamenti in sospeso (se presenti).</target>
       </segment>
     </unit>
     <unit id="0e05fa1e-6bdb-4785-8c29-90924736ee6b">
@@ -17771,9 +17771,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1838</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You can also manually install the pending update from the Exit NVDA dialog (if enabled), from the NVDA menu, or when you perform a new check from the Help menu.</source>
-        <target>&lt;target/&gt;</target>
+        <target>si può anche installare manualmente l’aggiornamento in sospeso dalla finestra di uscita di NVDA (se abilitata), dal menu di NVDA oppure eseguendo un nuovo controllo dal menu “Aiuto”.</target>
       </segment>
     </unit>
     <unit id="1cf1f3b1-241c-49e1-8e33-18f8d9ad63e7">
@@ -17782,72 +17782,72 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#UpdateMirror}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Update Mirror</source>
-        <target>&lt;target/&gt;</target>
+        <target>Mirror di aggiornamento</target>
       </segment>
     </unit>
     <unit id="327044b7-f8f3-40dd-a31b-e0c24130e164">
       <notes>
         <note appliesTo="source">line: 1842</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>These controls allow you to specify an alternative URL to use to check for updates to NVDA.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Questi controlli consentono di specificare un URL alternativo da utilizzare per verificare gli aggiornamenti a NVDA.</target>
       </segment>
     </unit>
     <unit id="1eb3d0af-f174-4b79-97c9-3d8fd0e81748">
       <notes>
         <note appliesTo="source">line: 1843</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This may be of use in locations where access to the NV Access NVDA update server is slow or unavailable.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Ciò può risultare utile in quelle situazioni in cui l'accesso al server NV Access che si occupa degli aggiornamenti di NVDA risulti lento o non disponibile.</target>
       </segment>
     </unit>
     <unit id="facdcb0c-f97b-47e7-9838-1ed71029a871">
       <notes>
         <note appliesTo="source">line: 1845</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The read-only text box shows the current mirror URL.</source>
-        <target>&lt;target/&gt;</target>
+        <target>La casella di testo di sola lettura mostra l'URL corrente del Mirror.</target>
       </segment>
     </unit>
     <unit id="0295eda0-cd06-4cd4-8f59-32fa3e7440ef">
       <notes>
         <note appliesTo="source">line: 1846</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>If no mirror is in use (i.e. the NV Access update server is being used), "No mirror" is displayed.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Se non viene usato alcun mirror (ad esempio si utilizza il server di aggiornamento di Nv Access), verrà visualizzato "Nessun mirror".</target>
       </segment>
     </unit>
     <unit id="468ff857-eaf0-49da-9123-cb31c941e3ef">
       <notes>
         <note appliesTo="source">line: 1848</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>If you wish to change the update mirror, press the "Change..." button to open the [Set Update Mirror dialog](#SetURLDialog).</source>
-        <target>&lt;target/&gt;</target>
+        <target>Se si desidera modificare il server mirror di aggiornamento, premere il pulsante "Cambia..." per aprire la [finestra Imposta Mirror di Aggiornamento](#SetURLDialog).</target>
       </segment>
     </unit>
     <unit id="417226f3-93d8-41b4-b444-134a85fd13ed">
       <notes>
         <note appliesTo="source">line: 1850</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Please note that when using an update mirror, the operator of the mirror has access to all [information sent with update checks](#GeneralSettingsCheckForUpdates).</source>
-        <target>&lt;target/&gt;</target>
+        <target>Si noti che quando si utilizza un mirror di aggiornamento, l'amministratore di quel server ha accesso a tutte le [informazioni inviate con i controlli di aggiornamento](#GeneralSettingsCheckForUpdates).</target>
       </segment>
     </unit>
     <unit id="1b1345fa-c0f6-4bf0-a27d-89caf5eedca0">
       <notes>
         <note appliesTo="source">line: 1851</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Contact the operator of the update mirror for details of their data handling policies to ensure you are comfortable with the way your information will be handled before setting an update mirror.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Contattare il gestore del mirror di aggiornamento per conoscere i dettagli sulle politiche di gestione dei dati, così da assicurarsi di essere a proprio agio con il modo in cui le informazioni verranno trattate prima di impostare un mirror di aggiornamento.</target>
       </segment>
     </unit>
     <unit id="47d9f3c2-2f74-45d0-874e-ee1f8b491fa2">
@@ -17856,45 +17856,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#PreventDisplayTurningOff}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Prevent display from turning off during say all or reading with braille</source>
-        <target>&lt;target/&gt;</target>
+        <target>Impedisci allo schermo di disattivarsi durante la lettura continua o con il Braille.</target>
       </segment>
     </unit>
     <unit id="92438bd8-32e4-450d-a072-f6aee58f0eac">
       <notes>
         <note appliesTo="source">line: 1855</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This check box, when enabled, ensures that the display stays on when reading with say all or with braille (e.g. when pressing scroll buttons).</source>
-        <target>&lt;target/&gt;</target>
+        <target>Questa casella di controllo, se selezionata, garantisce che lo schermo rimanga attivo durante la lettura continua o con il Braille (ad esempio, quando si premono i pulsanti di scorrimento).</target>
       </segment>
     </unit>
     <unit id="62b3430f-2c86-4cda-b6d7-5de458e5c8f7">
       <notes>
         <note appliesTo="source">line: 1856</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This avoids the situation where the screen unexpectedly locks during a say all.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Ciò evita la situazione in cui lo schermo si blocca inaspettatamente durante la lettura continua.</target>
       </segment>
     </unit>
     <unit id="388ad5ce-4a07-474b-a814-f5b2494040d1">
       <notes>
         <note appliesTo="source">line: 1857</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option is enabled by default.</source>
-        <target>&lt;target/&gt;</target>
+        <target>L'opzione è attivata di default.</target>
       </segment>
     </unit>
     <unit id="4b258b12-7c8a-4691-bfc1-858ad4063732">
       <notes>
         <note appliesTo="source">line: 1858</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Consider disabling this option if you are suffering from a shorter battery life.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Considerare la disattivazione di questa impostazione nel caso in cui si riscontrasse una durata della batteria più breve.</target>
       </segment>
     </unit>
     <unit id="b37d4d24-25d9-4ed9-8544-aee0219cfce2">
@@ -17970,18 +17970,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1875</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The first option in the Speech Settings category is the Change... button.</source>
-        <target>&lt;target/&gt;</target>
+        <target>La prima opzione nella categoria Voce è il pulsante Cambia...</target>
       </segment>
     </unit>
     <unit id="7c84b582-0abb-462b-9c16-9c3a13259018">
       <notes>
         <note appliesTo="source">line: 1876</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This button activates the [Select Synthesizer](#SelectSynthesizer) dialog, which allows you to select the active speech synthesizer.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Questo bottone attiva la finestra [Seleziona Sintetizzatore](#SelectSynthesizer), che consente di selezionare il sintentizzatore vocale attivo.</target>
       </segment>
     </unit>
     <unit id="2dede44c-2edf-4f2c-a6d1-861f5c791cfc">
@@ -18019,7 +18019,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Voice option is a combo box listing all the voices of the current synthesizer that you have installed.</source>
-        <target>Una casella combinata che elenca tutte le voci del sintetizzatore selezionato.</target>
+        <target>L'opzione Voce consiste in una casella combinata che elenca tutte le voci installate del sintetizzatore corrente.</target>
       </segment>
     </unit>
     <unit id="27f479dd-62b2-4f43-a96b-7504090f0c90">
@@ -18497,9 +18497,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Options |Default (Enabled), Enabled, Disabled</source>
-        <target>&lt;target/&gt;</target>
+        <target>Opzioni |Default (Attivato), Attivato, Disattivato</target>
       </segment>
     </unit>
     <unit id="2617b3c2-bbfe-4b47-89db-74bbdc395c1e">
@@ -18508,9 +18508,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Default |Enabled</source>
-        <target>&lt;target/&gt;</target>
+        <target>Predefinito |Abilitato</target>
       </segment>
     </unit>
     <unit id="50f3a4ca-fb8b-4154-b9ed-44d4aecc86b6">
@@ -19258,9 +19258,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2093</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>If you select "Automatic", the table will be selected according with NVDA's current language.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Se si seleziona "automatico", la tabella verrà impostata in base alla lingua corrente di NVDA.</target>
       </segment>
     </unit>
     <unit id="f6037f74-d5e6-426e-bdb2-6d0a2e64d0b7">
@@ -19685,9 +19685,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2171</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>In this case, Braille will not follow system focus and system caret.</source>
-        <target>&lt;target/&gt;</target>
+        <target>In questo caso, il Braille non seguirà il focus e il cursore di sistema.</target>
       </segment>
     </unit>
     <unit id="8227c48e-3d11-412e-80c2-437ff9ccf394">
@@ -20472,27 +20472,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#BrailleSpeakOnNavigating}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Speak when navigating by line or paragraph</source>
-        <target>&lt;target/&gt;</target>
+        <target>Parla durante la navigazione per riga o paragrafo</target>
       </segment>
     </unit>
     <unit id="38f75666-3a10-4d29-860d-cda7f408e8b8">
       <notes>
         <note appliesTo="source">line: 2298</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Enabling this option will cause NVDA to speak lines or paragraphs reached using the braille display's navigation controls.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Abilitando questa opzione, NVDA leggerà le righe o i paragrafi raggiunti utilizzando i controlli di navigazione del display Braille.</target>
       </segment>
     </unit>
     <unit id="f0653379-ac73-4e48-918d-af14e99734eb">
       <notes>
         <note appliesTo="source">line: 2300</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>To toggle this option from anywhere, please assign a custom gesture to "speakOnNavigatingByUnit" in the "Braille" section of the [Input Gestures dialog](#InputGestures).</source>
-        <target>&lt;target/&gt;</target>
+        <target>Per attivare/disattivare questa opzione da qualsiasi luogo, si prega di assegnare un gesto personalizzato a "speakOnNavigatingByUnit" nella sezione "Braille" della [Finestra Tasti e Gesti](#InputGestures).</target>
       </segment>
     </unit>
     <unit id="66416aa7-4287-44f2-aa7f-5c1d87710de1">
@@ -21343,9 +21343,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2458</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>NVDA on the left and applications in both channels: NVDA will speak in the left channel, while other applications will play sounds in both left and right channels.</source>
-        <target>&lt;target/&gt;</target>
+        <target>NVDA a sinistra e applicazioni in entrambi i canali: NVDA parlerà nel canale sinistro, mentre le applicazioni riprodurranno i suoni nei canali sinistro e destro.</target>
       </segment>
     </unit>
     <unit id="b8547fd4-f86b-4e86-ba9f-26c2a66b6833">
@@ -21960,27 +21960,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2562</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Key: `NVDA+2`</source>
-        <target>&lt;target/&gt;</target>
+        <target>Tasto: `NVDA+2`</target>
       </segment>
     </unit>
     <unit id="11f90043-2a32-4862-afc7-3ddee8f95d23">
       <notes>
         <note appliesTo="source">line: 2564</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option controls when NVDA announces characters you type on the keyboard.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Questa opzione controlla quando NVDA annuncerà i caratteri digitati sulla tastiera.</target>
       </segment>
     </unit>
     <unit id="8e43a953-f8fd-4508-9673-dabd01dc478e">
       <notes>
         <note appliesTo="source">line: 2565</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The available options are:</source>
-        <target>&lt;target/&gt;</target>
+        <target>Le opzioni disponibili sono:</target>
       </segment>
     </unit>
     <unit id="281c0b8c-6b55-4309-b9ec-5ca770fbebfa">
