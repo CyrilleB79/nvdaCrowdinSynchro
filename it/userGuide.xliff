@@ -23958,9 +23958,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2924</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Enabled by default, this option allows you to choose if gestures (such as key presses) that do not result in an NVDA command and are not considered to be a command key in general, should be trapped from going through to the document you are currently focused on.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Abilitata per impostazione predefinita, questa opzione consente di scegliere se i gesti (come la pressione di tasti) che non producono un comando NVDA e che in generale non sono considerati tasti di comando debbano essere inibiti dal raggiungere il documento su cui è attualmente posizionato il focus.</target>
       </segment>
     </unit>
     <unit id="1ce1a74c-1667-4e51-bb57-334c7e334d51">
@@ -24305,7 +24305,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Cell coordinates</source>
-        <target>Coordinate delle celle delle tabelle</target>
+        <target>Coordinate delle celle</target>
       </segment>
     </unit>
     <unit id="a256ac4c-7794-4ee1-9d8d-94c68c7669f5">
@@ -24335,7 +24335,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Headings</source>
-        <target>collegamenti</target>
+        <target>Intestazioni</target>
       </segment>
     </unit>
     <unit id="8baeea0c-0d23-431a-a073-4aad9b22abbe">
@@ -24345,7 +24345,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Links</source>
-        <target>intestazioni</target>
+        <target>Collegamenti</target>
       </segment>
     </unit>
     <unit id="c316f013-0927-4f0c-907d-993beb84f2c6">
@@ -24353,9 +24353,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2972</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Link type (destination to same page)</source>
-        <target>&lt;target/&gt;</target>
+        <target>Tipo di link (destinazione alla stessa pagina)</target>
       </segment>
     </unit>
     <unit id="2e38ba90-c950-45c4-8df2-91032b39ddfc">
@@ -24395,7 +24395,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Groupings</source>
-        <target>Punti di riferimento</target>
+        <target>Gruppi</target>
       </segment>
     </unit>
     <unit id="790cf5a3-b6d8-4442-a84f-677ca6c3ee27">
@@ -24405,7 +24405,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Landmarks</source>
-        <target>Gruppi</target>
+        <target>Punti di riferimento</target>
       </segment>
     </unit>
     <unit id="790e4dfd-2e8d-44ef-9b80-dce90f7b4edc">
@@ -24617,9 +24617,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3010</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Speech: If speech is selected, when the amount of indentation changes, NVDA will say something like "twelve space" or "four tab."</source>
-        <target>&lt;target/&gt;</target>
+        <target>Voce: Se è selezionata l’opzione “Voce”, quando cambia il livello di indentazione, NVDA dirà qualcosa come “dodici spazi” oppure “quattro tabulazioni”.</target>
       </segment>
     </unit>
     <unit id="7cf12fe1-796c-4d1d-9ece-bd9d5ebc795d">
@@ -24627,9 +24627,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3011</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Tones: If Tones is selected, when the amount of indentation changes, tones indicate the amount of change in indent.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Beep: Se è selezionata l’opzione “Beep", quando cambia il livello di indentazione, dei segnali acustici indicheranno l’entità della variazione.**</target>
       </segment>
     </unit>
     <unit id="0258dc16-c4c5-4495-b685-1df54be9deb3">
@@ -24868,18 +24868,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3050</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>By default, notifications will only occur for add-ons with updates available within the same [channel](#AddonStoreFilterChannel) (e.g. stable, beta or dev).</source>
-        <target>&lt;target/&gt;</target>
+        <target>Per impostazione predefinita, le notifiche saranno valide solo per i componenti aggiuntivi con aggiornamenti disponibili all'interno dello stesso [canale](#AddonStoreFilterChannel) (ad esempio stabile, beta or dev).</target>
       </segment>
     </unit>
     <unit id="01cc2947-6b80-4ed3-9783-d701f305d1c3">
       <notes>
         <note appliesTo="source">line: 3051</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You can configure add-on update channels [individually for each add-on](#AddonStoreUpdateChannel) or for [all add-ons](#DefaultAddonUpdateChannel).</source>
-        <target>&lt;target/&gt;</target>
+        <target>È possibile configurare i canali di aggiornamento dei componenti aggiuntivi [individualmente per ciascun add-on](#AddonStoreUpdateChannel) o per [tutti gli add-on](#DefaultAddonUpdateChannel).</target>
       </segment>
     </unit>
     <unit id="4b4bf7bd-cb56-4385-a4f4-38aebe65ee46">
@@ -24895,9 +24895,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3054</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You will be prompted to restart NVDA when the updates are finished.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Verrà richiesto di riavviare NVDA al termine degli aggiornamenti.</target>
       </segment>
     </unit>
     <unit id="0a49fb26-6e16-4d5b-b8dc-f401a17a5657">
@@ -24906,9 +24906,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Options |Notify (Default), Update Automatically, Disabled </source>
-        <target>&lt;target/&gt;</target>
+        <target>Opzioni |Notifica (Default), Aggiorna Automaticamente, Disattivati </target>
       </segment>
     </unit>
     <unit id="c34bb40e-c6b2-4ca0-bb00-d067200fa417">
@@ -24939,9 +24939,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Notify |Notify when updates are available to add-ons </source>
-        <target>&lt;target/&gt;</target>
+        <target>Notifica |Notifica quando ci sono aggiornamenti disponibili per i componenti aggiuntivi </target>
       </segment>
     </unit>
     <unit id="760d97ee-8493-4751-8fba-288f3e4e6c55">
@@ -24950,9 +24950,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Update Automatically |Automatically update add-ons in the background </source>
-        <target>&lt;target/&gt;</target>
+        <target>Aggiorna Automaticamente |Aggiorna automaticamente i componenti aggiuntivi in background </target>
       </segment>
     </unit>
     <unit id="83eb7c50-ecda-4938-a473-4e1c7c77b479">
@@ -24972,9 +24972,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#DefaultAddonUpdateChannel}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Default Update Channel</source>
-        <target>&lt;target/&gt;</target>
+        <target>Canale di aggiornamento predefinito</target>
       </segment>
     </unit>
     <unit id="20fd982a-9a89-4d0f-97d5-71b6f530b16e">
