@@ -21988,9 +21988,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2567</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Off: NVDA will not announce typed characters.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Disattivato: NVDA non annuncerà i caratteri digitati.</target>
       </segment>
     </unit>
     <unit id="aebd7ca5-21cf-46d5-acbe-b742ef581f10">
@@ -21998,9 +21998,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2568</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Only in edit controls: NVDA will only announce characters typed in edit controls and other areas where text can be typed.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Solo nei controlli editazione: NVDA annuncerà solo caratteri digitati nei controlli di modifica e in altre aree in cui è possibile digitare il testo.</target>
       </segment>
     </unit>
     <unit id="c6a7b248-4d8d-47f4-8367-824786c8ba9a">
@@ -22008,9 +22008,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2569</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Always: NVDA will announce all typed characters.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Sempre: NVDA annuncerà tutti i caratteri digitati.</target>
       </segment>
     </unit>
     <unit id="2f4682f5-35e2-4db5-94a6-c1f76274566e">
@@ -22028,27 +22028,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2575</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Key: `NVDA+3`</source>
-        <target>&lt;target/&gt;</target>
+        <target>Tasto: `NVDA+3`</target>
       </segment>
     </unit>
     <unit id="612f678a-ef72-437b-b22e-3bfcddee6704">
       <notes>
         <note appliesTo="source">line: 2577</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option controls when NVDA announces words you type on the keyboard.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Questa opzione controlla quando NVDA annuncerà le parole digitate sulla tastiera.</target>
       </segment>
     </unit>
     <unit id="0b609715-5487-4b01-adb4-191746108304">
       <notes>
         <note appliesTo="source">line: 2578</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The available options are:</source>
-        <target>&lt;target/&gt;</target>
+        <target>Le opzioni disponibili sono:</target>
       </segment>
     </unit>
     <unit id="d81856ba-1816-4a29-b98c-cc93028ca7da">
@@ -22056,9 +22056,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2580</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Off: NVDA will not announce typed words.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Disattivato: NVDA non leggerà le parole digitate.</target>
       </segment>
     </unit>
     <unit id="ca7e601f-4c49-47f6-8573-e17394dff85d">
@@ -22066,9 +22066,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2581</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Only in edit controls: NVDA will only announce words typed in edit controls and other areas where text can be typed.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Solo nei controlli editazione: NVDA annuncerà solo parole digitate nei controlli di modifica e in altre aree in cui è possibile digitare il testo.</target>
       </segment>
     </unit>
     <unit id="95a25130-fd56-4610-a203-0473fe0f1cf6">
@@ -22076,9 +22076,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2582</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Always: NVDA will announce all typed words.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Sempre: NVDA annuncerà tutte le parole digitate.</target>
       </segment>
     </unit>
     <unit id="b2d0d1c7-7e99-4043-8e5a-d2be8ef65ac1">
@@ -22261,9 +22261,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2618</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option is on by default, though certain users may wish to turn this off, such as those typing Vietnamese with the UniKey typing software as it will cause incorrect character input.</source>
-        <target>&lt;target/&gt;</target>
+        <target>La funzione risulta attivata di default, tuttavia alcuni utenti potrebbero valutare di disattivarla, per esempio chi è solito scrivere in vietnamita con il software di scrittura UniKey, poiché provocherebbe errori nell'immissione dei caratteri.</target>
       </segment>
     </unit>
     <unit id="b8eeaba3-5aa0-4a82-ae96-35bec64fbdf2">
@@ -23339,9 +23339,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2819</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option, which is on by default, allows you to choose whether or not all visible candidates should be reported automatically when a candidate list appears or its page is changed.</source>
-        <target>&lt;target/&gt;</target>
+        <target>"Questa opzione, attiva per impostazione predefinita, consente di scegliere se tutti i caratteri suggeriti visibili debbano essere annunciati automaticamente quando viene visualizzato un elenco di caratteri suggeriti o quando si cambia pagina."</target>
       </segment>
     </unit>
     <unit id="9e02c4d6-1100-420c-b385-73f1c0356f1e">
@@ -23357,9 +23357,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2821</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>However, for phonetic input methods such as Chinese New Phonetic, it may be more useful to turn this option off, as all the symbols will sound the same and you will have to use the arrow keys to navigate the list items individually to gain more information from the character descriptions for each candidate.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Tuttavia, per i metodi di input fonetici come il Chinese New Phonetic, potrebbe essere più utile disattivare questa opzione, poiché tutti i simboli suoneranno allo stesso modo e sarà necessario usare i tasti freccia per scorrere singolarmente gli elementi dell'elenco e ottenere maggiori informazioni dalle descrizioni dei caratteri per ciascun suggerimento.</target>
       </segment>
     </unit>
     <unit id="866b2c56-df03-4b8f-9a89-45f8a4dd7164">
@@ -23386,9 +23386,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2826</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>For input methods where the selection can be changed with the arrow keys (such as Chinese New Phonetic) this is necessary, but for some input methods it may be more efficient typing with this option turned off.</source>
-        <target>&lt;target/&gt;</target>
+        <target>"Per i metodi di input che permettono di cambiare la selezione tramite i tasti freccia (come il Chinese New Phonetic), questa opzione è necessaria. Tuttavia, con altri metodi di input, la digitazione potrebbe risultare più efficiente se l’opzione è disattivata."</target>
       </segment>
     </unit>
     <unit id="f64dc3b8-21d6-42b8-bd7a-bd84a1019d13">
@@ -23509,9 +23509,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2845</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option allows you to choose whether or not NVDA should report new symbols as they appear in the composition string.</source>
-        <target>&lt;target/&gt;</target>
+        <target>Questa opzione consente di scegliere se NVDA debba segnalare o meno nuovi simboli man mano che appaiono nella stringa di composizione.</target>
       </segment>
     </unit>
     <unit id="a1b5af75-d370-4c8f-bc14-1632a5114f1a">
