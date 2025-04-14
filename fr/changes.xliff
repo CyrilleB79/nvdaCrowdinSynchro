@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr">
   <file id="changes.md" original="https://raw.githubusercontent.com/nvaccess/nvda/fb4921ef0f04859bf2092249415be6ababc5de31/user_docs/en/changes.md">
     <skeleton>
@@ -6242,9 +6241,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 107</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  Prefix matching on command line flags, e.g. using `--di` for `--disable-addons` is no longer supported. (#11644, @CyrilleB79)</source>
-        <target>  Prefix matching on command line flags, e.g. using `--di` for `--disable-addons` is no longer supported. (#11644, @CyrilleB79)</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="09f5159c-e564-4c0c-ae93-236426e2611e">
@@ -6331,9 +6330,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 116</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  If this does not work with your SAPI 4 voice, you can disable WASAPI for SAPI 4 in Advanced settings. (#17718, #17801, @gexgd0419)</source>
-        <target>  If this does not work with your SAPI 4 voice, you can disable WASAPI for SAPI 4 in Advanced settings. (#17718, #17801, @gexgd0419)</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="1b73b9ff-e42e-4de7-95d6-167a2b5473f1">
@@ -6630,9 +6629,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 148</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  Specifically, MathML inside of span and other elements that have the attribute `role="math"`. (#15058)</source>
-        <target>  Specifically, MathML inside of span and other elements that have the attribute `role="math"`. (#15058)</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="d767cb17-7cd0-4feb-afc6-e10941e88991">
@@ -6699,9 +6698,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 155</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  In any document, if the cursor is on the last line, it will be moved to the end when using this command. (#17251, #17430, @nvdaes)</source>
-        <target>  In any document, if the cursor is on the last line, it will be moved to the end when using this command. (#17251, #17430, @nvdaes)</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="21d58f6d-40d8-40b6-8384-4acb0f33e4b7">
@@ -7106,9 +7105,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 199</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  It queries the `treeInterceptor` by default, if any.</source>
-        <target>  It queries the `treeInterceptor` by default, if any.</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="259f65e2-6a9d-46cc-a46f-af3070023d50">
@@ -7145,9 +7144,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 203</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  It can be used in scripts to report the result when a boolean is toggled in `config.conf`</source>
-        <target>  It can be used in scripts to report the result when a boolean is toggled in `config.conf`</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="c44d183a-ac5f-413f-bdcb-2db30e78478c">
@@ -7570,9 +7569,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 249</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  Use `utils.mmdevice.getOutputDevices` instead.</source>
-        <target>  Use `utils.mmdevice.getOutputDevices` instead.</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="662ad44f-58f9-4174-947f-bd3bfc29e426">
@@ -7629,9 +7628,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 255</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>    It has been replaced by `config.conf["audio"]["outputDevice"]`, which stores a Windows core audio endpoint device ID. (#17547)</source>
-        <target>    It has been replaced by `config.conf["audio"]["outputDevice"]`, which stores a Windows core audio endpoint device ID. (#17547)</target>
+        <target>    &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="b569e7d4-0eb4-485f-93e0-d69356a9a939">
@@ -19704,9 +19703,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1732</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>  -</source>
-        <target>  -</target>
+        <target>  &lt;target/&gt;</target>
       </segment>
     </unit>
     <unit id="2ac39a66-04d7-449d-b432-843f4ad49c7e">
