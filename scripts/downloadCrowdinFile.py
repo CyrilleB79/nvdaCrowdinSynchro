@@ -14,4 +14,7 @@ l10nUtil.fetchCrowdinAuthToken = lambda: token
 if not os.path.isdir(lang):
 	os.mkdir(lang)
 
-l10nUtil.downloadTranslationFile(file, os.path.join(lang, file), lang)
+localFilePath = os.path.join(lang, file)
+l10nUtil.downloadTranslationFile(file, localFilePath, lang)
+if file.endswith(".xliff"):
+	l10nUtil.preprocessXliff(localFilePath, localFilePath)
