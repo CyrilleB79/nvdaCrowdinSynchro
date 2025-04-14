@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 05:22+0000\n"
-"PO-Revision-Date: 2025-04-14 09:14\n"
+"PO-Revision-Date: 2025-04-14 11:10\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -560,7 +560,7 @@ msgstr "frml"
 #. Translators: Displayed in braille when a link destination points to the same page
 #: braille.py:281
 msgid "smp"
-msgstr ""
+msgstr "smp"
 
 #. Translators: Displayed in braille when an object is not selected.
 #: braille.py:285
@@ -1013,7 +1013,7 @@ msgstr "Computer braille copto a 8 punti"
 #. braille settings dialog.
 #: brailleTables.py:262
 msgid "Coptic grade 1"
-msgstr ""
+msgstr "Copto grado 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -1025,7 +1025,7 @@ msgstr "Cuneiforme (traslitterato) grado 1"
 #. braille settings dialog.
 #: brailleTables.py:268
 msgid "Cuneiform (transliterated, compact diacritics) grade 1"
-msgstr ""
+msgstr "Cuneiforme (traslitterato, diacrittici compatti) grado 1"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -1655,7 +1655,7 @@ msgstr "Polacco braille letterario"
 #. braille settings dialog.
 #: brailleTables.py:629
 msgid "Portuguese 6 dot computer braille"
-msgstr ""
+msgstr "Portoghese braille computer 6 puntiPortoghese "
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -3629,12 +3629,12 @@ msgstr "Attiva o disattiva l'inclusione delle tabelle di layout in modalità nav
 #. Translators: Message reported upon action (e.g. context sensitive help, open documentation from NVDA menu)
 #: documentationUtils.py:63
 msgid "No documentation found."
-msgstr ""
+msgstr "Nessuna documentazione trovata."
 
 #. Translators: The title of the dialog to show the NVDA License.
 #: documentationUtils.py:98
 msgid "NVDA License"
-msgstr ""
+msgstr "Licenza NVDA"
 
 #. Translators: The name of a category of NVDA commands.
 #: globalCommands.py:77
@@ -3762,7 +3762,7 @@ msgstr "Attiva o disattiva l'aiuto immissione. Quando attivo, la pressione di un
 #: globalCommands.py:220
 #, python-brace-format
 msgid "input help on. Press {gestureKeys} again to turn it off."
-msgstr ""
+msgstr "Aiuto immissione attivato. Premi {gestureKeys} nuovamente per disattivarlo."
 
 #. Translators: This will be presented when the input help is toggled.
 #: globalCommands.py:224
@@ -3901,31 +3901,31 @@ msgstr "Si sposta all'impostazione disponibile precedente nelle impostazioni del
 #. Translators: Input help mode message for cycling the reporting of typed characters.
 #: globalCommands.py:569
 msgid "Cycles through options for when to speak typed characters."
-msgstr ""
+msgstr "Passa tra le opzioni disponibili per la lettura dei caratteri digitati"
 
 #. Translators: Reported when the user cycles through speak typed characters modes.
 #. {mode} will be replaced with the mode; e.g. Off, On, Only in edit controls.
 #: globalCommands.py:580
 #, python-brace-format
 msgid "Speak typed characters {mode}"
-msgstr ""
+msgstr "Leggi i caratteri digitati {mode}"
 
 #. Translators: Input help mode message for cycling the reporting of typed words.
 #: globalCommands.py:585
 msgid "Cycles through options for when to speak typed words."
-msgstr ""
+msgstr "Passa tra le opzioni disponibili per la lettura delle parole digitate"
 
 #. Translators: Reported when the user cycles through speak typed words modes.
 #. {mode} will be replaced with the mode; e.g. Off, On, Only in edit controls.
 #: globalCommands.py:596
 #, python-brace-format
 msgid "Speak typed words {mode}"
-msgstr ""
+msgstr "Leggi le parole digitate {mode}"
 
 #. Translators: Input help mode message for toggle speak command keys command.
 #: globalCommands.py:601
 msgid "Toggles on and off the speaking of command keys"
-msgstr ""
+msgstr "Attiva o disattiva la lettura dei tasti di comando"
 
 #. Translators: The message announced when toggling the speak typed command keyboard setting.
 #: globalCommands.py:608
@@ -4275,23 +4275,23 @@ msgstr "Leggi link attivato"
 #. Translators: Input help mode message for toggle report link type command.
 #: globalCommands.py:979
 msgid "Toggles on and off the reporting of link type"
-msgstr ""
+msgstr "Attiva o disattiva la lettura del tipo di link"
 
 #. Translators: The message announced when toggling the report link type document formatting setting.
 #: globalCommands.py:988
 msgid "Report link type on"
-msgstr ""
+msgstr "Leggi tipo di link attivato"
 
 #. Translators: The message announced when toggling the report link type document formatting setting.
 #: globalCommands.py:990
 msgid "Report link type off"
-msgstr ""
+msgstr "Leggi tipo di link disattivato"
 
 #. Translators: The message announced when reporting links is disabled,
 #. and the user tries to toggle the report link type document formatting setting.
 #: globalCommands.py:995
 msgid "The report links setting must be enabled to toggle report link type"
-msgstr ""
+msgstr "L'impostazione leggi i link deve essere abilitata per attivare o disattivare la lettura del tipo di link"
 
 #. Translators: Input help mode message for toggle report graphics command.
 #: globalCommands.py:999
@@ -4801,12 +4801,12 @@ msgstr "Sposta il cursore di controllo alla fine della riga dell'oggetto attuale
 #. Translators: Input help mode message for move review cursor to start of selection command.
 #: globalCommands.py:2270
 msgid "Moves the review cursor to the first character of the selection, and speaks it"
-msgstr ""
+msgstr "Sposta il cursore di controllo sul primo carattere della selezione, poi lo legge"
 
 #. Translators: Input help mode message for move review cursor to end of selection command.
 #: globalCommands.py:2298
 msgid "Moves the review cursor to the last character of the selection, and speaks it"
-msgstr ""
+msgstr "Sposta il cursore di controllo sull'ultimo carattere della selezione, poi lo legge"
 
 #. Translators: Input help mode message for Review Current Symbol command.
 #: globalCommands.py:2337
@@ -5439,17 +5439,17 @@ msgstr "Disattivata lettura in voce del carattere alla pressione di un cursor ro
 #. Translators: Input help mode message for toggle speaking when navigating by lines or paragraphs with braille.
 #: globalCommands.py:3746
 msgid "Toggles on and off speaking when navigating by lines or paragraph with braille"
-msgstr ""
+msgstr "Attiva o disattiva la lettura durante la navigazione per righe o paragrafi in braille"
 
 #. Translators: The message announced when toggling the speaking on navigating by unit braille setting.
 #: globalCommands.py:3755
 msgid "Speak whenn navigating by line or paragraph with braille on"
-msgstr ""
+msgstr "lettura durante la navigazione per righe o paragrafi in braille attivata"
 
 #. Translators: The message announced when toggling the speaking on navigating by unit braille setting.
 #: globalCommands.py:3757
 msgid "Speak when navigating by line or paragraph with braille off"
-msgstr ""
+msgstr "lettura durante la navigazione per righe o paragrafi in braille disattivata"
 
 #. Translators: Input help mode message for cycle braille cursor shape command.
 #: globalCommands.py:3762
@@ -5715,7 +5715,7 @@ msgstr "Il collegamento non ha una destinazione apparente"
 #. Translators: A destination for braille output.
 #: globalCommands.py:4316 brailleDisplayDrivers\dotPad\driver.py:257
 msgid "Graphic"
-msgstr ""
+msgstr "grafico"
 
 #. Translators: Informs the user that the window contains the destination of the
 #. link with given title
@@ -5727,7 +5727,7 @@ msgstr "Destinazione di: {name}"
 #. Translators: Reported when using the command to report the destination of a link.
 #: globalCommands.py:4331
 msgid "Unable to get the destination of this link."
-msgstr ""
+msgstr "Impossibile ottenere la destinazione di questo link."
 
 #. Translators: Reported when using the command to report the destination of a link.
 #: globalCommands.py:4334
@@ -5854,17 +5854,17 @@ msgstr "Passa tra le lingue disponibili per l'OCR di Windows"
 #. Translators: Describes a command.
 #: globalCommands.py:4638
 msgid "Toggle periodical refresh of a Windows OCR result"
-msgstr ""
+msgstr "Attiva o disattiva l'aggiornamento automatico del risultato dell'OCR di Windows"
 
 #. Translators: The message announced when toggling automatic refresh of recognized content
 #: globalCommands.py:4649
 msgid "Automatic refresh enabled"
-msgstr ""
+msgstr "Aggiornamento automatico attivato"
 
 #. Translators: The message announced when toggling automatic refresh of recognized content
 #: globalCommands.py:4651
 msgid "Automatic refresh disabled"
-msgstr ""
+msgstr "Aggiornamento automatico disattivato"
 
 #. Translators: Input help mode message for toggle report CLDR command.
 #: globalCommands.py:4661
@@ -8084,7 +8084,7 @@ msgstr "Funzionalità non disponibile"
 #. because of a component failure.
 #: ui.py:108
 msgid "An error has caused this feature to be unavailable at this time. Restarting NVDA or Windows may solve this problem."
-msgstr ""
+msgstr "Si è verificato un errore che ha reso questa funzione temporaneamente non disponibile. Riavviare NVDA o Windows potrebbe risolvere il problema."
 
 #. Translators: This is the message for a warning shown if NVDA cannot open a browsable message window
 #. because of a component failure. This prompt includes the title
@@ -8094,7 +8094,7 @@ msgstr ""
 #: ui.py:118
 #, python-brace-format
 msgid "An error has caused this feature ({title}) to be unavailable at this time. Restarting NVDA or Windows may solve this problem."
-msgstr ""
+msgstr "Si è verificato un errore che ha reso la funzione ({title}) temporaneamente non disponibile. Riavviare NVDA o Windows potrebbe risolvere il problema."
 
 #. Translators: The title for the dialog used to present general NVDA messages in browse mode.
 #: ui.py:186
@@ -8104,23 +8104,23 @@ msgstr "Messaggio NVDA"
 #. Translators: A notice to the user that a copy operation succeeded.
 #: ui.py:197
 msgid "Text copied."
-msgstr ""
+msgstr "Testo copiato."
 
 #. Translators: A notice to the user that a copy operation failed.
 #: ui.py:199
 msgid "Couldn't copy to clipboard."
-msgstr ""
+msgstr "Impossibile copiare negli appunti."
 
 #. Translators: The text of a button which closes the window.
 #. Translators: A close button on a message dialog.
 #: ui.py:202 gui\message.py:340
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 #. Translators: The label of a button to copy the text of the window to the clipboard.
 #: ui.py:205
 msgid "Copy"
-msgstr ""
+msgstr "Copia"
 
 #. Translators: A portion of an accessibility label for the "Copy" button,
 #. describing the key to press to activate the button. Currently, this key may only be Ctrl+Shift+C.
@@ -8128,7 +8128,7 @@ msgstr ""
 #. given language; or to set this to the empty string if that key combination is unavailable on some keyboard.
 #: ui.py:210
 msgid "control+shift+c"
-msgstr ""
+msgstr "control+shift+c"
 
 #. Translators: Spoken instead of a lengthy text when copied to clipboard.
 #. Translators: This is spoken when the user has selected a large portion of text.
