@@ -6351,9 +6351,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 118</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can still disable this functionality in the Speech category of the NVDA Settings dialog.</source>
-        <target>You can still disable this functionality in the Speech category of the NVDA Settings dialog.</target>
+        <target>Vous pouvez toujours désactiver cette fonctionnalité dans la catégorie Parole de la boîte de dialogue des Paramètres de NVDA.</target>
       </segment>
     </unit>
     <unit id="d773445c-5dfc-4508-b807-70e923280634">
@@ -6361,9 +6361,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 119</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The keyboard settings for "Speak typed characters" and "Speak typed words" now have three options: Off, Only in edit controls, and Always. (#17505, @Cary-rowen)</source>
-        <target>The keyboard settings for "Speak typed characters" and "Speak typed words" now have three options: Off, Only in edit controls, and Always. (#17505, @Cary-rowen)</target>
+        <target>Les paramètres clavier contrôlant l'annonce des caractères et des mots saisie ont maintenant trois options : Désactivé, Seulement dans les zones d'édition, et Toujours. (#17505, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="40802643-728a-4a88-a06c-ce4062fde34b">
