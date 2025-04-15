@@ -6371,9 +6371,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 120</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, "Speak typed characters" is now set to "Only in edit controls".</source>
-        <target>By default, "Speak typed characters" is now set to "Only in edit controls".</target>
+        <target>Par défaut, "écho clavier par caractères" est maintenant défini sur "Seulement dans les zones d'édition".</target>
       </segment>
     </unit>
     <unit id="684378a3-2c36-43c7-bd73-5fb6088d09be">
@@ -6381,9 +6381,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 121</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default input and output braille tables can now be determined based on the NVDA language. (#17306, #16390, #290, @nvdaes)</source>
-        <target>Default input and output braille tables can now be determined based on the NVDA language. (#17306, #16390, #290, @nvdaes)</target>
+        <target>Les tables braille de saisie et d'affichage par défaut peuvent maintenant être déterminées en fonction de la langue de NVDA. (#17306, #16390, #290, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="7613c32c-b897-4cab-83ca-986b457f9c2c">
@@ -6391,9 +6391,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 123</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Bug Fixes</source>
-        <target>Bug Fixes</target>
+        <target>Corrections de bugs</target>
       </segment>
     </unit>
     <unit id="be07a565-cd1c-4320-ac51-c5e135569c45">
@@ -6401,9 +6401,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 125</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Speech:</source>
-        <target>Speech:</target>
+        <target>Parole:</target>
       </segment>
     </unit>
     <unit id="bbea19a7-ead0-4265-936f-375f8fc5e9f7">
@@ -6411,9 +6411,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 126</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed an issue where continuous reading (say all) stopped at the end of the first sentence when using some SAPI5 synthesizers. (#16691, @gexgd0419)</source>
-        <target>Fixed an issue where continuous reading (say all) stopped at the end of the first sentence when using some SAPI5 synthesizers. (#16691, @gexgd0419)</target>
+        <target>Correction d'un problème où la lecture continue (Dire tout) s'arrêtait à la fin de la première phrase lors de l'utilisation de certains synthétiseurs SAPI5. (#16691, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="c1197ef1-cafa-4558-9c1b-0c02dd4b529b">
@@ -6421,9 +6421,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 127</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Voice parameters, such as rate and volume, will no longer be reset to default when using the synth settings ring to change between voices in the SAPI5 and SAPI4 synthesizer. (#17693, #2320, @gexgd0419)</source>
-        <target>Voice parameters, such as rate and volume, will no longer be reset to default when using the synth settings ring to change between voices in the SAPI5 and SAPI4 synthesizer. (#17693, #2320, @gexgd0419)</target>
+        <target>Les paramètres vocaux, tels que la vitesse et le volume, ne seront plus réinitialisés aux valeurs par défaut lors de l'utilisation de la boucle des paramètres synthétiseur pour changer de voix dans les synthétiseurs SAPI5 et SAPI4. (#17693, #2320, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="b257f331-d483-4c1c-837a-3102b1fe9dab">
@@ -6431,9 +6431,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 128</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed an issue where some SAPI4 voices (e.g. IBM TTS Chinese) cannot be loaded. (#17726, @gexgd0419)</source>
-        <target>Fixed an issue where some SAPI4 voices (e.g. IBM TTS Chinese) cannot be loaded. (#17726, @gexgd0419)</target>
+        <target>Correction d'un problème où certaines voix SAPI4 (par exemple IBM TTS Chinois) ne pouvaient pas être chargées. (#17726, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="893ab77c-e7e7-4243-acb8-76b719f5d2b5">
@@ -6441,7 +6441,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 129</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille:</source>
         <target>Braille:</target>
       </segment>
@@ -6451,9 +6451,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 130</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Native support for the Dot Pad tactile graphics device from Dot Inc as a multiline braille display. (#17007)</source>
-        <target>Native support for the Dot Pad tactile graphics device from Dot Inc as a multiline braille display. (#17007)</target>
+        <target>Prise en charge native du périphérique graphique tactile Dot Pad de Dot Inc en tant qu'afficheur braille multi-lignes. (#17007)</target>
       </segment>
     </unit>
     <unit id="f8dd3b6d-87ed-4116-986b-646dd1b763b4">
@@ -6461,9 +6461,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 131</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When using the Seika Notetaker, space and space with dots gestures are now displayed correctly in the Input Gestures dialog. (#17047, @school510587)</source>
-        <target>When using the Seika Notetaker, space and space with dots gestures are now displayed correctly in the Input Gestures dialog. (#17047, @school510587)</target>
+        <target>Lors de l'utilisation des blocs-notes Seika, les gestes utilisant la barre d'espace et la barre d'espace avec des points sont maintenant affichés correctement dans la boîte de dialogue Gestes de commande. (#17047, @school510587)</target>
       </segment>
     </unit>
     <unit id="23b2644c-04e5-4fc3-a6c2-bbe996015054">
