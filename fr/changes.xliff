@@ -6799,9 +6799,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 165</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If the plugins are reloaded while a browseable message is opened, NVDA will no longer fail to report subsequent focus moves. (#17323, @CyrilleB79)</source>
-        <target>If the plugins are reloaded while a browseable message is opened, NVDA will no longer fail to report subsequent focus moves. (#17323, @CyrilleB79)</target>
+        <target>Si les modules sont rechargés alors qu'un message navigable est ouvert, NVDA n'omettra plus d'annoncer les déplacements ultérieurs du focus. (#17323, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="9b6f55a2-fd8d-4330-885b-86ca19a9121c">
@@ -6809,9 +6809,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 166</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When using applications such as Skype, Discord, Signal and Phone Link for audio communication, NVDA speech and sounds no longer decrease in volume. (#17349, @jcsteh)</source>
-        <target>When using applications such as Skype, Discord, Signal and Phone Link for audio communication, NVDA speech and sounds no longer decrease in volume. (#17349, @jcsteh)</target>
+        <target>Lors de l'utilisation d'applications comme Skype, Discord, Signal et Phone Link pour la communication audio, le volume de la voix et des sons de NVDA ne diminue plus. (#17349, @jcsteh)</target>
       </segment>
     </unit>
     <unit id="6e37f292-b621-4a33-a0e3-5ec8cabd8933">
@@ -6829,9 +6829,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 168</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In web browsers, changes to text selection no longer sometimes fail to be reported in editable text controls. (#17501, @jcsteh)</source>
-        <target>In web browsers, changes to text selection no longer sometimes fail to be reported in editable text controls. (#17501, @jcsteh)</target>
+        <target>Dans les navigateurs web, les modifications de la sélection de texte sont maintenant toujours correctement annoncées dans les contrôles de texte modifiables. (#17501, @jcsteh)</target>
       </segment>
     </unit>
     <unit id="685f34bb-4a6a-4ec4-9341-673da9b930ed">
