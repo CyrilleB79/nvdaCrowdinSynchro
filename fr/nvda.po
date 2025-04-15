@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 05:22+0000\n"
-"PO-Revision-Date: 2025-04-15 05:12\n"
+"PO-Revision-Date: 2025-04-15 06:17\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -10169,7 +10169,7 @@ msgstr "La reconnaissance a échoué"
 #. Translators: Describes a command.
 #: contentRecog\recogUi.py:171
 msgid "Refresh the recognition result"
-msgstr ""
+msgstr "Raffraîchir le résultat de la reconnaissance"
 
 #. Translators: Reported when a manual update of a content recognition result (e.g. OCR result) is
 #. requested, but the content is already updated automatically.
