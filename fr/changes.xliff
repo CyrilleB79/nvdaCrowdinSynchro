@@ -5924,7 +5924,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 73</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When toggling double underline in Writer using the corresponding keyboard shortcut, NVDA announces the new state ("double underline on"/"double underline off"). (#6915, @michaelweghorn)</source>
         <target>When toggling double underline in Writer using the corresponding keyboard shortcut, NVDA announces the new state ("double underline on"/"double underline off"). (#6915, @michaelweghorn)</target>
       </segment>
@@ -5934,9 +5934,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 74</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA can now report the first line indent in LibreOffice 25.8 and later. (#13052, @michaelweghorn)</source>
-        <target>NVDA can now report the first line indent in LibreOffice 25.8 and later. (#13052, @michaelweghorn)</target>
+        <target>NVDA peut maintenant indiquer l'indentation de première ligne dans LibreOffice 25.8 et versions ultérieures. (#13052, @michaelweghorn)</target>
       </segment>
     </unit>
     <unit id="690052fe-8205-403e-a397-afe9f637136d">
@@ -5944,7 +5944,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 75</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>OCR:</source>
         <target>OCR:</target>
       </segment>
@@ -5954,9 +5954,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 76</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In a recognition result, `NVDA+f5` manually refreshes the recognized content. (#17715, @CyrilleB79)</source>
-        <target>In a recognition result, `NVDA+f5` manually refreshes the recognized content. (#17715, @CyrilleB79)</target>
+        <target>Dans un résultat de reconnaissance, `NVDA+f5` actualise manuellement le contenu reconnu. (#17715, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="054f2f25-763f-42b8-bfcc-61f88112d71e">
@@ -5964,9 +5964,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 77</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added an unassigned gesture to toggle periodically refreshing the Windows OCR result. (#16897)</source>
-        <target>Added an unassigned gesture to toggle periodically refreshing the Windows OCR result. (#16897)</target>
+        <target>Ajout d'un geste de commandes non assigné pour basculer l'actualisation périodique du résultat de l'OCR Windows. (#16897)</target>
       </segment>
     </unit>
     <unit id="cb090932-3eea-4e80-a8e1-d978eaba98ce">
@@ -5974,9 +5974,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 78</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote access functionality, based on the NVDA Remote add-on, has been integrated into NVDA. (#4390, @ctoth, @tspivey, @daiverd, NVDA Remote Contributors and funders)</source>
-        <target>Remote access functionality, based on the NVDA Remote add-on, has been integrated into NVDA. (#4390, @ctoth, @tspivey, @daiverd, NVDA Remote Contributors and funders)</target>
+        <target>Les fonctionnalités d'accès à distance, basées sur l'extension NVDA Remote, ont été intégrées à NVDA. (#4390, @ctoth, @tspivey, @daiverd, contributeurs et financeurs de NVDA Remote)</target>
       </segment>
     </unit>
     <unit id="a47c7ded-2c61-4f51-ae37-23ef498bdcc9">
@@ -5984,9 +5984,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 79</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is now possible to specify mirror URLs to use for NVDA updates and the Add-on Store. (#14974, #17151, #17310, @christopherpross)</source>
-        <target>It is now possible to specify mirror URLs to use for NVDA updates and the Add-on Store. (#14974, #17151, #17310, @christopherpross)</target>
+        <target>Il est maintenant possible de spécifier des URLs miroirs à utiliser pour les mises à jour de NVDA et l'Addon Store. (#14974, #17151, #17310, @christopherpross)</target>
       </segment>
     </unit>
     <unit id="a287ff34-3461-43a3-81a8-617c4d9a614c">
@@ -5994,9 +5994,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 80</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Support for math in PDFs has been added. (#9288, @NSoiffer)</source>
-        <target>Support for math in PDFs has been added. (#9288, @NSoiffer)</target>
+        <target>La prise en charge des formules mathématiques dans les PDF a été ajoutée. (#9288, @NSoiffer)</target>
       </segment>
     </unit>
     <unit id="64a56d67-3fbf-477b-8f1a-25d99fd737f7">
@@ -6004,9 +6004,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 81</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This works for formulas with associated MathML, such as some files generated by newer versions of TeX/LaTeX.</source>
-        <target>This works for formulas with associated MathML, such as some files generated by newer versions of TeX/LaTeX.</target>
+        <target>Cela fonctionne pour les formules avec du MathML associé, comme certains fichiers générés par les versions plus récentes de TeX/LaTeX.</target>
       </segment>
     </unit>
     <unit id="a6f2f83f-7a33-4b6e-b00e-f12db7ad1bc0">
@@ -6014,9 +6014,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 82</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Currently this is only supported in Foxit Reader &amp; Foxit Editor.</source>
-        <target>Currently this is only supported in Foxit Reader &amp; Foxit Editor.</target>
+        <target>Actuellement, cette fonctionnalité n'est prise en charge que dans Foxit Reader et Foxit Editor.</target>
       </segment>
     </unit>
     <unit id="fb372114-8e4a-4b34-ac2c-4e140f697b93">
@@ -6024,9 +6024,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 83</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA can now be configured to speak the current line or paragraph when navigating with braille navigation keys. (#17053, @nvdaes)</source>
-        <target>NVDA can now be configured to speak the current line or paragraph when navigating with braille navigation keys. (#17053, @nvdaes)</target>
+        <target>NVDA peut maintenant être configuré pour annoncer la ligne ou le paragraphe courant lors de la navigation avec les touches de navigation braille. (#17053, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="84ea75e9-a300-44de-a77e-047fc1efc8ae">
@@ -6034,9 +6034,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 84</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA is now able to report caret changes when pressing `alt+upArrow` or `alt+downArrow` gestures, for example in Visual Studio Code. (#17652, @LeonarddeR)</source>
-        <target>NVDA is now able to report caret changes when pressing `alt+upArrow` or `alt+downArrow` gestures, for example in Visual Studio Code. (#17652, @LeonarddeR)</target>
+        <target>NVDA est maintenant capable de signaler les changements de curseur lors de l'exécution des gestes de commande `alt+flècheHaut` ou `alt+flècheBas`, par exemple dans Visual Studio Code. (#17652, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="1d64e38e-067e-4266-badc-8554ffddfcc4">
@@ -6044,9 +6044,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 85</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added commands to move the review cursor to the first and last character of the selected text, assigned to `NVDA+alt+home` and `NVDA+alt+end`, respectively. (#17299, @nvdaes)</source>
-        <target>Added commands to move the review cursor to the first and last character of the selected text, assigned to `NVDA+alt+home` and `NVDA+alt+end`, respectively. (#17299, @nvdaes)</target>
+        <target>Ajout de commandes pour déplacer le curseur de revue au premier et au dernier caractère du texte sélectionné, assignées respectivement à `NVDA+alt+début` et `NVDA+alt+fin`. (#17299, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="2d8b21e8-b70d-45a6-91ff-47c2aa1d2993">
