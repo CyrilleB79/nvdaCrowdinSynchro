@@ -5864,9 +5864,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 67</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The result of more shortcuts is now reported in Word and Outlook:</source>
-        <target>The result of more shortcuts is now reported in Word and Outlook:</target>
+        <target>Le résultat de l'ajout de nouveaux raccourcis est maintenant visible dans Word et Outlook :</target>
       </segment>
     </unit>
     <unit id="0f695aed-520e-46fb-b2c3-4e176c5856c1">
@@ -5874,9 +5874,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 68</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>font formatting shortcuts (#10271, @CyrilleB79)</source>
-        <target>font formatting shortcuts (#10271, @CyrilleB79)</target>
+        <target>des raccourcis de mise en forme de police (#10271, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="d81b0182-87a0-42ee-ba06-21cdd2a21486">
@@ -5884,9 +5884,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 69</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>collapse or expand heading (#17545, @CyrilleB79)</source>
-        <target>collapse or expand heading (#17545, @CyrilleB79)</target>
+        <target>réduire ou développer un titre (#17545, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="fb2a1e43-2cd4-4886-a8f8-829e572b81f9">
@@ -5894,7 +5894,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 70</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>LibreOffice:</source>
         <target>LibreOffice:</target>
       </segment>
@@ -5904,9 +5904,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 71</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When increasing or decreasing the font size in Writer using the corresponding keyboard shortcuts, NVDA announces the new font size. (#6915, @michaelweghorn)</source>
-        <target>When increasing or decreasing the font size in Writer using the corresponding keyboard shortcuts, NVDA announces the new font size. (#6915, @michaelweghorn)</target>
+        <target>Lorsque vous augmentez ou diminuez la taille de la police dans Writer en utilisant les raccourcis clavier correspondants, NVDA annonce la nouvelle taille de police. (#6915, @michaelweghorn)</target>
       </segment>
     </unit>
     <unit id="83c1615b-35e9-40c6-b216-d54bc22fd949">
@@ -5914,9 +5914,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 72</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When applying the "Body Text" or a heading paragraph style using the corresponding keyboard shortcut in Writer 25.2 or newer, NVDA announces the new paragraph style. (#6915, @michaelweghorn)</source>
-        <target>When applying the "Body Text" or a heading paragraph style using the corresponding keyboard shortcut in Writer 25.2 or newer, NVDA announces the new paragraph style. (#6915, @michaelweghorn)</target>
+        <target>Lorsque vous appliquez le style de paragraphe corps de texte" ou un titre avec le raccourci clavier correspondant dans Writer 25.2 ou une version plus récente, NVDA annonce le nouveau style de paragraphe. (#6915, @michaelweghorn)</target>
       </segment>
     </unit>
     <unit id="7cbb5953-77f5-4680-b330-a60e56ab4c07">

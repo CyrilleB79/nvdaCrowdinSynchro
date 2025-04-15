@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 05:22+0000\n"
-"PO-Revision-Date: 2025-04-15 06:17\n"
+"PO-Revision-Date: 2025-04-15 09:13\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -5953,7 +5953,7 @@ msgstr "Passa tra le opzioni bilanciamento audio"
 #. Translators: Describes a command.
 #: globalCommands.py:4881
 msgid "Mute or unmute the speech coming from the remote computer"
-msgstr "Disattivazione o riattivazione del sintetizzatore proveniente dal computer remoto"
+msgstr "Disattiva o attiva l'audio della sintesi vocale proveniente dal computer remoto."
 
 #. Translators: Documentation string for the script that sends the contents of the clipboard to the remote machine.
 #: globalCommands.py:4891
@@ -5973,33 +5973,33 @@ msgstr "Link copiato."
 #. Translators: Documentation string for the script that disconnects a remote session.
 #: globalCommands.py:4911
 msgid "Disconnect a remote session"
-msgstr "Disconnette sessione remota"
+msgstr "Disconnetti sessione remota"
 
 #. Translators: A message indicating that the remote client is not connected.
 #: globalCommands.py:4920
 msgid "Not connected"
-msgstr ""
+msgstr "Non connesso"
 
 #. Translators: Documentation string for the script that invokes the remote session.
 #: globalCommands.py:4926
 msgid "Connect to a remote computer"
-msgstr ""
+msgstr "Connetti ad un computer remoto"
 
 #. Translators: A message indicating that the remote client is already connected.
 #: globalCommands.py:4937
 msgid "Already connected"
-msgstr ""
+msgstr "Già connesso"
 
 #. Translators: Describes the command that creates a remote session, or disconnects it if one already exists.
 #: globalCommands.py:4943
 msgctxt "remote"
 msgid "Toggle Remote connection"
-msgstr ""
+msgstr "Attiva / disattiva connessione remota"
 
 #. Translators: Documentation string for the script that toggles the control between guest and host machine.
 #: globalCommands.py:4956
 msgid "Toggles the control between guest and host machine"
-msgstr ""
+msgstr "Attiva o disattiva il controllo tra il computer ospite e quello remoto."
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
@@ -10079,25 +10079,25 @@ msgstr "Simbolo di inizio paragrafo Pilcrow, (¶)"
 #: config\configFlags.py:322
 msgctxt "remote"
 msgid "Allow this machine to be controlled"
-msgstr ""
+msgstr "Consenti il controllo di questo computer."
 
 #. Translators: Allow this computer to control the remote computer.
 #: config\configFlags.py:324
 msgctxt "remote"
 msgid "Control another machine"
-msgstr ""
+msgstr "Controlla un altro computer"
 
 #. Translators: Use an existing Remote control server
 #: config\configFlags.py:352
 msgctxt "remote"
 msgid "Use existing"
-msgstr ""
+msgstr "Usa esistente"
 
 #. Translators: Use NVDA as the Remote control server
 #: config\configFlags.py:354
 msgctxt "remote"
 msgid "Host locally"
-msgstr ""
+msgstr "Ospita in locale"
 
 #. Translators: Label for an option in NVDA settings.
 #: config\featureFlagEnums.py:53
@@ -12034,7 +12034,7 @@ msgstr "Azione non disponibile se la modalità Braille è impostata su output si
 #. Translators: Reported when an action cannot be performed because Remote Access functionality is disabled.
 #: gui\blockAction.py:94
 msgid "Action unavailable when Remote Access is disabled"
-msgstr ""
+msgstr "Azione non disponibile quando l'accesso remoto è disabilitato"
 
 #. Translators: The title of the Configuration Profiles dialog.
 #: gui\configProfiles.py:36
@@ -13721,25 +13721,25 @@ msgstr "Imposta il Server Mirror per gli Add-on"
 #: gui\settingsDialogs.py:3329
 msgctxt "remote"
 msgid "Enable Remote Access"
-msgstr ""
+msgstr "Abilita l'accesso remoto"
 
 #. Translators: A checkbox in Remote settings to set whether sounds play instead of beeps.
 #: gui\settingsDialogs.py:3346
 msgctxt "remote"
 msgid "&Play sounds instead of beeps"
-msgstr ""
+msgstr "Ri&produci campioni audio invece di segnali acustici."
 
 #. Translators: A checkbox in Remote settings to set whether NVDA should automatically connect to a control server on startup.
 #: gui\settingsDialogs.py:3355
 msgctxt "remote"
 msgid "Automatically &connect after NVDA starts"
-msgstr ""
+msgstr "&Connetti automaticamente dopo l'avvio di NVDA"
 
 #. Translators: A group of settings configuring how to connect if NVDA is set to automatically establish a Remote connection at startup.
 #: gui\settingsDialogs.py:3365
 msgctxt "remote"
 msgid "Automatic connection"
-msgstr ""
+msgstr "Connessione automatica"
 
 #. Translators: Label for a control in NVDA's Remote settings,
 #. allowing the user to select whether their computer is controlling or controlled.
@@ -13747,7 +13747,7 @@ msgstr ""
 #: gui\settingsDialogs.py:3374 _remoteClient\dialogs.py:293
 msgctxt "remote"
 msgid "&Mode:"
-msgstr ""
+msgstr "&Modalità:"
 
 #. Translators: Label for a control in NVDA's Remote settings,
 #. allowing users to choose whether they want to use an existing Remote relay server, or host their own.
@@ -13755,14 +13755,14 @@ msgstr ""
 #: gui\settingsDialogs.py:3383 _remoteClient\dialogs.py:300
 msgctxt "remote"
 msgid "&Server:"
-msgstr ""
+msgstr "&Server:"
 
 #. Translators: Label for the host field in NVDA's Remote settings.
 #. This is where users should enter the URL of the Remote server they want to use if they are not hosting their own.
 #. Translators: The label of an edit field in connect dialog to enter name or address of the remote computer.
 #: gui\settingsDialogs.py:3393 _remoteClient\dialogs.py:41
 msgid "&Host:"
-msgstr ""
+msgstr "&Host:"
 
 #. Translators: Label for the port field in NVDA's Remote settings.
 #. This is the port on which the local control server will be accessible,
@@ -13790,31 +13790,32 @@ msgstr "Elimina tutte le impronte  digitali memorizzate"
 msgctxt "remote"
 msgid "This will cause NVDA to forget all previously trusted Remote servers. When connecting to a previously trusted unauthorized Remote server, you will again be asked whether to trust its certificate.\n\n"
 "Are you sure you want to continue? This action cannot be undone."
-msgstr ""
+msgstr "Questa operazione farà sì che NVDA rimuova dalla memoria tutti i server remoti precedentemente considerati attendibili. Alla prossima connessione con un server remoto non autorizzato, anche se in passato era stato autorizzato, ti verrà nuovamente chiesto se desideri considerarlo attendibile.\n\n"
+"Sei sicuro di voler continuare? Questa azione non può essere annullata."
 
 #. Translators: This is the title of the dialog presented when the user tries to delete all stored trusted fingerprints.
 #: gui\settingsDialogs.py:3496
 msgctxt "remote"
 msgid "Delete all trusted fingerprints"
-msgstr ""
+msgstr "Elimina tutte le impronte digitali attendibili."
 
 #. Translators: This message is presented when the user tries to save the settings with the host or key field empty.
 #: gui\settingsDialogs.py:3513
 msgctxt "remote"
 msgid "Both host and key must be set in the Remote section in order to automatically connect using an existing Remote Access server after NVDA starts."
-msgstr ""
+msgstr "Sia l'host che la chiave d'accesso devono essere configurati nella sezione \"Accesso remoto\" per consentire la connessione automatica a un server di accesso remoto esistente al momento dell'avvio di NVDA."
 
 #. Translators: This message is presented when the user tries to save the settings with the port or key field empty.
 #: gui\settingsDialogs.py:3519
 msgctxt "remote"
 msgid "Both port and key must be set in the Remote section in order to automatically connect using a locally hosted Remote Access server after NVDA starts."
-msgstr ""
+msgstr "Sia la porta che la chiave d'accesso devono essere impostati nella sezione \"Accesso remoto\" per consentire la connessione automatica a un server di accesso remoto ospitato localmente al momento dell'avvio di NVDA."
 
 #. Translators: Title of a dialog.
 #: gui\settingsDialogs.py:3525
 msgctxt "remote"
 msgid "Remote Access Error"
-msgstr ""
+msgstr "Errore di accesso remoto"
 
 #. Translators: This is the label for the touch interaction settings panel.
 #: gui\settingsDialogs.py:3558
@@ -18495,12 +18496,12 @@ msgstr "Desktop protetto"
 #. Translators: Displayed when muting speech and sounds from the remote computer
 #: _remoteClient\client.py:123
 msgid "Muted remote"
-msgstr ""
+msgstr "Dispositivo remoto silenziato"
 
 #. Translators: Displayed when unmuting speech and sounds from the remote computer
 #: _remoteClient\client.py:125
 msgid "Unmuted remote"
-msgstr ""
+msgstr "Dispositivo remoto riattivato"
 
 #. Translators: Message shown when trying to push the clipboard to the remote computer while not connected.
 #. Translators: Message shown when trying to copy the link to connect to the remote computer while not connected.
@@ -18512,7 +18513,7 @@ msgstr "Non connesso."
 #: _remoteClient\client.py:142
 msgctxt "remote"
 msgid "No one else is connected"
-msgstr ""
+msgstr "Nessun'altro è connesso"
 
 #. Translators: Message shown when clipboard content cannot be sent to the remote computer.
 #: _remoteClient\client.py:150
@@ -18533,48 +18534,48 @@ msgstr "Impossibile connettersi al computer remoto"
 #: _remoteClient\client.py:249
 msgctxt "remote"
 msgid "Connect to Another Computer"
-msgstr ""
+msgstr "Connettiti a un altro computer"
 
 #. Translators: Presented when connected to the remote computer.
 #: _remoteClient\client.py:292
 msgid "Connected"
-msgstr ""
+msgstr "Connesso"
 
 #. Translators: Presented when connection to a remote computer was interupted.
 #. Translators: Message shown when the connection to the remote computer is lost.
 #: _remoteClient\client.py:310 _remoteClient\cues.py:30
 msgid "Disconnected"
-msgstr ""
+msgstr "Disconnesso"
 
 #. Translators: A message indicating that the remote client is not connected.
 #: _remoteClient\client.py:463
 msgctxt "remote"
 msgid "Not connected"
-msgstr ""
+msgstr "Non connesso"
 
 #. Translators: Presented when attempting to switch to controling a remote computer when connected as the controlled computer.
 #: _remoteClient\client.py:467
 msgctxt "remote"
 msgid "Not the controlling computer"
-msgstr ""
+msgstr "Non il computer di controllo"
 
 #. Translators: Presented when attempting to switch to controling a remote computer when there are no controllable computers in the channel.
 #: _remoteClient\client.py:471
 msgctxt "remote"
 msgid "No controlled computers are connected"
-msgstr ""
+msgstr "Non sono connessi computer controllati"
 
 #. Translators: Presented when sending keyboard keys from the controlling computer to the controlled computer.
 #: _remoteClient\client.py:479
 msgctxt "remote"
 msgid "Controlling remote computer"
-msgstr ""
+msgstr "Controllo remoto"
 
 #. Translators: Presented when keyboard control is back to the controlling computer.
 #: _remoteClient\client.py:485
 msgctxt "remote"
 msgid "Controlling local computer"
-msgstr ""
+msgstr "Controllo locale"
 
 #. Translators: Message shown when trying to connect while already connected.
 #: _remoteClient\client.py:526
@@ -18611,12 +18612,12 @@ msgstr "Collegato al server"
 #. Translators: Message shown when the clipboard is successfully pushed to the remote computer.
 #: _remoteClient\cues.py:44
 msgid "Clipboard pushed"
-msgstr "Caricato negli appunti."
+msgstr "Appunti inviati"
 
 #. Translators: Message shown when the clipboard is successfully received from the remote computer.
 #: _remoteClient\cues.py:50
 msgid "Clipboard received"
-msgstr ""
+msgstr "Appunti ricevuti"
 
 #. Translators: The button used to generate a random key/password.
 #: _remoteClient\dialogs.py:50 _remoteClient\dialogs.py:199
@@ -18632,13 +18633,13 @@ msgstr "Occorre impostare HOST."
 #: _remoteClient\dialogs.py:74
 msgctxt "remote"
 msgid "Generating key"
-msgstr ""
+msgstr "Generazione chiave d'accesso"
 
 #. Translators: Message on a dialog shown to users when asking a Remote control server to generate a key
 #: _remoteClient\dialogs.py:76
 msgctxt "remote"
 msgid "Generating key..."
-msgstr ""
+msgstr "Generazione chiave d'accesso in corso..."
 
 #. Translators: Message shown to users when requesting that a Remote control server generate a key fails.
 #. {host} will be replaced with the address of the Remote control server.
@@ -18646,13 +18647,13 @@ msgstr ""
 #, python-brace-format
 msgctxt "remote"
 msgid "Unable to connect to {host}. Check that you have internet access, and that there are no mistakes in the host field."
-msgstr ""
+msgstr "Impossibile connettersi a {host}. Verifica di essere connesso a Internet e che non ci siano errori nel campo host."
 
 #. Translators: Title of a dialog.
 #: _remoteClient\dialogs.py:111
 msgctxt "remote"
 msgid "Host connection failed"
-msgstr ""
+msgstr "Connessione all'host non riuscita."
 
 #. Translators: Label of the field displaying the external IP address if using direct (client to server) connection.
 #: _remoteClient\dialogs.py:175
@@ -18667,19 +18668,19 @@ msgstr "Ottieni &Ip esterno "
 #. Translators: Label of the edit field to enter key (password) to secure the remote connection.
 #: _remoteClient\dialogs.py:197
 msgid "&Key"
-msgstr ""
+msgstr "Chiave d'accesso (&k)"
 
 #. Translators: Title of a dialog shown to users while attempting to detect their external IP address
 #: _remoteClient\dialogs.py:218
 msgctxt "remote"
 msgid "Getting external IP"
-msgstr ""
+msgstr "Recupero dell’IP esterno"
 
 #. Translators: Message on a dialog shown to users while attempting to detect their external IP address
 #: _remoteClient\dialogs.py:220
 msgctxt "remote"
 msgid "Getting external IP..."
-msgstr ""
+msgstr "Recupero dell’IP esterno in corso..."
 
 #. Translators: Message shown when successfully getting external IP and the specified port is open
 #: _remoteClient\dialogs.py:247
@@ -18692,7 +18693,7 @@ msgstr "Indirizzo IP recuperato. La porta {port} è aperta."
 #: _remoteClient\dialogs.py:258
 #, python-brace-format
 msgid "Retrieved external IP, but port {port} is most likely not currently forwarded."
-msgstr ""
+msgstr "IP esterno rilevato, ma la porta {port} non sembra essere inoltrata correttamente."
 
 #. Translators: Error message when unable to get IP address from portcheck server
 #: _remoteClient\dialogs.py:273
@@ -18721,7 +18722,10 @@ msgid "The certificate of this server could not be verified. Using the wrong fin
 "Before continuing, please make sure that the following server certificate fingerprint is correct.\n"
 "Server SHA256 fingerprint: {fingerprint}\n\n"
 "Continue connecting anyway?"
-msgstr ""
+msgstr "Il certificato di questo server non può essere verificato. L'uso di un'impronta digitale errata potrebbe consentire a terzi di accedere alla sessione remota.\n\n"
+"Prima di procedere, assicurati che la seguente impronta digitale del certificato del server sia corretta.  \n"
+"Impronta digitale SHA256 del server: {fingerprint}\n\n"
+"Vuoi comunque continuare la connessione?"
 
 #. Translators: A button to connect and remember the server with unauthorized certificate.
 #: _remoteClient\dialogs.py:411
@@ -18736,7 +18740,7 @@ msgstr "Connetti"
 #. Translators: Message displayed when a remote machine tries to send a SAS but UI Access is disabled.
 #: _remoteClient\localMachine.py:260
 msgid "Unable to trigger Alt Control Delete from remote"
-msgstr ""
+msgstr "Impossibile inviare la combinazione Alt+Control+Canc dal computer remoto."
 
 #. Translators: Menu item in NvDA Remote submenu to mute speech and sounds from the remote computer.
 #: _remoteClient\menu.py:31
@@ -18751,7 +18755,7 @@ msgstr "Sintetizzatore e suoni del dispositivo remoto disattivati"
 #. Translators: Menu item in NVDA Remote submenu to push clipboard content to the remote computer.
 #: _remoteClient\menu.py:41
 msgid "&Push clipboard"
-msgstr "&Invia gli appunti."
+msgstr "Invia gli a&ppunti."
 
 #. Translators: Tooltip for the Push Clipboard menu item in the NVDA Remote submenu.
 #: _remoteClient\menu.py:43
@@ -18782,7 +18786,7 @@ msgstr "Accesso R&emoto"
 #. Translators: Tooltip for the Remote menu in the NVDA Tools menu.
 #: _remoteClient\menu.py:82
 msgid "NVDA Remote Access"
-msgstr ""
+msgstr "Accesso remoto NVDA"
 
 #. Translators: Item in NVDA Remote submenu to connect to a remote computer.
 #: _remoteClient\menu.py:152
@@ -18808,7 +18812,8 @@ msgstr "Disconnessione da un altro PC su cui NVDA Remote Access è in esecuzione
 #: _remoteClient\session.py:166
 msgid "The version of the relay server which you have connected to is not compatible with this version of the Remote Client.\n"
 "Please use a different server."
-msgstr ""
+msgstr "La versione del server di inoltro a cui sei connesso non è compatibile con questa versione del client remoto.\n"
+"Ti preghiamo di utilizzare un server diverso."
 
 #. Translators: Caption for message of the day dialog
 #: _remoteClient\session.py:186
