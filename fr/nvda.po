@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-14 05:22+0000\n"
-"PO-Revision-Date: 2025-04-17 18:16\n"
+"PO-Revision-Date: 2025-04-17 21:09\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -9623,27 +9623,27 @@ msgstr "Pas d'emoji"
 #. Translators: One of the view types in Word documents.
 #: appModules\winword.py:43
 msgid "DRAFT"
-msgstr ""
+msgstr "Brouillon"
 
 #. Translators: One of the view types in Word documents.
 #: appModules\winword.py:45
 msgid "Outline"
-msgstr ""
+msgstr "Mode plan"
 
 #. Translators: One of the view types in Word documents.
 #: appModules\winword.py:47
 msgid "Print layout"
-msgstr ""
+msgstr "Mode page"
 
 #. Translators: One of the view types in Word documents.
 #: appModules\winword.py:49
 msgid "Web layout"
-msgstr ""
+msgstr "Mode web"
 
 #. Translators: One of the view types in Word documents.
 #: appModules\winword.py:51
 msgid "Read mode"
-msgstr ""
+msgstr "Mode lecture"
 
 #. Translators: a message when toggling change tracking in Microsoft word
 #: appModules\winword.py:85
@@ -9658,17 +9658,17 @@ msgstr "Suivi des modifications désactivé"
 #. Translators: a message when collapsing or expanding headings in MS Word
 #: appModules\winword.py:125
 msgid "No heading selected"
-msgstr ""
+msgstr "Aucun titre sélectionné"
 
 #. Translators: a message when collapsing a heading in MS Word
 #: appModules\winword.py:133
 msgid "Collapsed"
-msgstr ""
+msgstr "Réduit"
 
 #. Translators: a message when expanding a heading in MS Word
 #: appModules\winword.py:136
 msgid "Expanded"
-msgstr ""
+msgstr "Développé"
 
 #. Translators: Sound split state
 #: audio\soundSplit.py:39
