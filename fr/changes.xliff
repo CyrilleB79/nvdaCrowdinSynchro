@@ -5854,9 +5854,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 66</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Word, when using the "report focus" command, the document layout will be announced if this information is available and reporting object descriptions is enabled. (#15088, @nvdaes)</source>
-        <target>In Word, when using the "report focus" command, the document layout will be announced if this information is available and reporting object descriptions is enabled. (#15088, @nvdaes)</target>
+        <target>Dans Word, lors de l'utilisation de la commande indiquant où se trouve le focus, la mise en page du document sera annoncée si cette information est disponible et que la description des objets est activée. (#15088, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="e9a4a07d-5a69-4caf-a524-06340cf10b91">
@@ -6054,9 +6054,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 86</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added a general setting to prevent the display turning off during say all or reading with braille.</source>
-        <target>Added a general setting to prevent the display turning off during say all or reading with braille.</target>
+        <target>Ajout d'un paramètre général pour empêcher l'extinction de l'écran pendant l'utilisation du mode "dire tout" ou la lecture en braille.</target>
       </segment>
     </unit>
     <unit id="b4c3234e-76af-4b3c-a875-21444c5b11b5">
