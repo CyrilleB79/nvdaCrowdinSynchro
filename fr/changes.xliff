@@ -7325,9 +7325,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 221</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This way device detection can be constrained further in cases where a VID/PID-combination is shared by multiple devices across multiple drivers, or when a HID device offers multiple endpoints, for example.</source>
-        <target>This way device detection can be constrained further in cases where a VID/PID-combination is shared by multiple devices across multiple drivers, or when a HID device offers multiple endpoints, for example.</target>
+        <target>De cette façon, la détection des périphériques peut être davantage limitée dans les cas où une combinaison VID/PID est partagée par plusieurs périphériques à travers plusieurs pilotes, ou encore lorsqu'un périphérique HID offre plusieurs points de terminaison.</target>
       </segment>
     </unit>
     <unit id="70642aad-ad05-4e1d-9857-d70f4a5c2788">
@@ -7335,9 +7335,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 222</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>See the method documentation as well as examples in the albatross and brailliantB drivers for more information.</source>
-        <target>See the method documentation as well as examples in the albatross and brailliantB drivers for more information.</target>
+        <target>Consultez la documentation de la méthode ainsi que des exemples dans les pilotes albatross et brailliantB pour plus d'informations.</target>
       </segment>
     </unit>
     <unit id="9eb504df-0e58-4986-8c84-17398d88aae1">
@@ -7345,9 +7345,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 223</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added a new function, `utils.mmdevice.getOutputDevices`, to enumerate audio output devices. (#17678)</source>
-        <target>Added a new function, `utils.mmdevice.getOutputDevices`, to enumerate audio output devices. (#17678)</target>
+        <target>Ajout d'une nouvelle fonction, `utils.mmdevice.getOutputDevices`, pour énumérer les périphériques de sortie audio. (#17678)</target>
       </segment>
     </unit>
     <unit id="bfa1561c-d4ce-4023-9bbe-63669a769de4">
@@ -7355,9 +7355,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 224</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added a new extension point `pre_synthSpeak` in `synthDriverHandler`, which will be called before the speech manager calls `speak` of the current synthesizer. (#17648)</source>
-        <target>Added a new extension point `pre_synthSpeak` in `synthDriverHandler`, which will be called before the speech manager calls `speak` of the current synthesizer. (#17648)</target>
+        <target>Ajout d'un nouveau point d'extension `pre_synthSpeak` dans `synthDriverHandler`, qui sera appelé avant que le gestionnaire de parole n'appelle `speak` du synthétiseur actuel. (#17648)</target>
       </segment>
     </unit>
     <unit id="342307ed-48af-4d3c-9cd8-1ac7652e233d">
@@ -7365,9 +7365,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 225</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA supports the `text-indent` IAccessible2 object attribute. (#13052, @michaelweghorn)</source>
-        <target>NVDA supports the `text-indent` IAccessible2 object attribute. (#13052, @michaelweghorn)</target>
+        <target>NVDA prend en charge l'attribut d'objet IAccessible2 `text-indent`. (#13052, @michaelweghorn)</target>
       </segment>
     </unit>
     <unit id="c5d12832-4657-4a1d-89af-013b41356b01">
@@ -7375,9 +7375,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 226</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When a script using `gesture.send` is triggered with a gesture that includes `numLock` as a modifier, Num Lock is no longer turned off. (#10827, @CyrilleB79)</source>
-        <target>When a script using `gesture.send` is triggered with a gesture that includes `numLock` as a modifier, Num Lock is no longer turned off. (#10827, @CyrilleB79)</target>
+        <target>Lorsqu'un script utilisant `gesture.send` est déclenché avec un geste qui inclut `numLock` comme modificateur, Num Lock n'est plus désactivé. (#10827, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="6bdd7ded-e1ca-4393-9462-4070a144afe1">
@@ -7385,27 +7385,27 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 228</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>API Breaking Changes</source>
-        <target>API Breaking Changes</target>
+        <target>Ruptures de compatibilité d'API</target>
       </segment>
     </unit>
     <unit id="17b39575-e78b-4865-8234-6987a3dee769">
       <notes>
         <note appliesTo="source">line: 230</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These are breaking API changes.</source>
-        <target>These are breaking API changes.</target>
+        <target>Il s'agit de changements d'API entraînant une rupture de compatibilité.</target>
       </segment>
     </unit>
     <unit id="24517a48-57cd-4f4a-a274-21330a1539fd">
       <notes>
         <note appliesTo="source">line: 231</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please open a GitHub issue if your add-on has an issue with updating to the new API.</source>
-        <target>Please open a GitHub issue if your add-on has an issue with updating to the new API.</target>
+        <target>Veuillez ouvrir une issue GitHub si votre extension rencontre un problème lors de la mise à jour vers la nouvelle API.</target>
       </segment>
     </unit>
     <unit id="57b9cb67-824f-41b7-8adc-e513b5f10e5c">
@@ -7413,18 +7413,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 233</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `addonStore.network.BASE_URL` constant has been removed.</source>
-        <target>The `addonStore.network.BASE_URL` constant has been removed.</target>
+        <target>La constante `addonStore.network.BASE_URL` a été supprimée.</target>
       </segment>
     </unit>
     <unit id="d49cfec1-e327-4a29-b794-aa51b7a13f2e">
       <notes>
         <note appliesTo="source">line: 234</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>As the Add-on Store base URL is now configurable directly within NVDA, no replacement is planned. (#17099)</source>
-        <target>As the Add-on Store base URL is now configurable directly within NVDA, no replacement is planned. (#17099)</target>
+        <target>Étant donné que l'URL de base de l'Addon Store est désormais configurable directement dans NVDA, aucun remplacement n'est prévu. (#17099)</target>
       </segment>
     </unit>
     <unit id="333f2599-5699-4d9c-80cf-1eb15e4fd7a9">
@@ -7432,18 +7432,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 235</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `updateCheck.CHECK_URL` constant has been removed.</source>
-        <target>The `updateCheck.CHECK_URL` constant has been removed.</target>
+        <target>La constante `updateCheck.CHECK_URL` a été supprimée.</target>
       </segment>
     </unit>
     <unit id="7d996341-4b3b-4866-8dbc-d25db96c8ea5">
       <notes>
         <note appliesTo="source">line: 236</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>As the NVDA update check URL is now configurable directly within NVDA, no replacement is planned. (#17151)</source>
-        <target>As the NVDA update check URL is now configurable directly within NVDA, no replacement is planned. (#17151)</target>
+        <target>Étant donné que l'URL de vérification des mises à jour NVDA est désormais configurable directement dans NVDA, aucun remplacement n'est prévu. (#17151)</target>
       </segment>
     </unit>
     <unit id="e26e0bef-9637-4672-b839-784015934a24">
@@ -7451,9 +7451,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 237</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAObjects.UIA.winConsoleUIA.WinTerminalUIA` has been removed with no public replacement. (#14047, #16820, @codeofdusk)</source>
-        <target>`NVDAObjects.UIA.winConsoleUIA.WinTerminalUIA` has been removed with no public replacement. (#14047, #16820, @codeofdusk)</target>
+        <target>`NVDAObjects.UIA.winConsoleUIA.WinTerminalUIA` a été supprimé sans remplacement public. (#14047, #16820, @codeofdusk)</target>
       </segment>
     </unit>
     <unit id="be632d31-3334-43da-856b-53edc2a8519e">
@@ -7461,9 +7461,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 238</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAObjects.IAccessible.ia2TextMozilla.FakeEmbeddingTextInfo` has been removed. (#16768, @jcsteh)</source>
-        <target>`NVDAObjects.IAccessible.ia2TextMozilla.FakeEmbeddingTextInfo` has been removed. (#16768, @jcsteh)</target>
+        <target>`NVDAObjects`NVDAObjects.IAccessible.ia2TextMozilla.FakeEmbeddingTextInfo` a été supprimé. (#16768, @jcsteh)</target>
       </segment>
     </unit>
     <unit id="872ac159-1321-4bfd-b26e-08ebe213aa1f">
@@ -7471,9 +7471,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 239</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols in `appModules.soffice` have been renamed (#6915, @michaelweghorn):</source>
-        <target>The following symbols in `appModules.soffice` have been renamed (#6915, @michaelweghorn):</target>
+        <target>Les symboles suivants dans `appModules.soffice` ont été renommés (#6915, @michaelweghorn):</target>
       </segment>
     </unit>
     <unit id="8cdcfc97-c967-462d-84e2-5ff74e2aa1c0">
@@ -7481,9 +7481,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 240</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`SymphonyDocument.announceToolbarButtonToggle` to `SymphonyDocument.announceFormattingGestureChange`</source>
-        <target>`SymphonyDocument.announceToolbarButtonToggle` to `SymphonyDocument.announceFormattingGestureChange`</target>
+        <target>`SymphonyDocument.announceToolbarButtonToggle` en `SymphonyDocument.announceFormattingGestureChange`</target>
       </segment>
     </unit>
     <unit id="822612c9-ebc7-4417-a7e0-338d62dcc24d">
@@ -7491,9 +7491,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 241</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`SymphonyDocument.script_toggleTextAttribute` to `SymphonyDocument.script_changeTextFormatting`</source>
-        <target>`SymphonyDocument.script_toggleTextAttribute` to `SymphonyDocument.script_changeTextFormatting`</target>
+        <target>`SymphonyDocument.script_toggleTextAttribute` en `SymphonyDocument.script_changeTextFormatting`</target>
       </segment>
     </unit>
     <unit id="0210d03a-6788-4f24-b02b-4287a44df1a2">
@@ -7501,9 +7501,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 242</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `space` keyword argument for `brailleDisplayDrivers.seikantk.InputGesture` now expects an `int` rather than a `bool`. (#17047, @school510587)</source>
-        <target>The `space` keyword argument for `brailleDisplayDrivers.seikantk.InputGesture` now expects an `int` rather than a `bool`. (#17047, @school510587)</target>
+        <target>L'argument clé `space` pour `brailleDisplayDrivers.seikantk.InputGesture` attend maintenant un `int` au lieu d'un `bool`. (#17047, @school510587)</target>
       </segment>
     </unit>
     <unit id="8fcf8cf1-b8eb-4969-a6cd-9ac5365bdc6e">
@@ -7511,9 +7511,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 243</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `[upgrade]` configuration section including `[upgrade][newLaptopKeyboardLayout]` has been removed. (#17191)</source>
-        <target>The `[upgrade]` configuration section including `[upgrade][newLaptopKeyboardLayout]` has been removed. (#17191)</target>
+        <target>La section de configuration `[upgrade]` incluant `[upgrade][newLaptopKeyboardLayout]` a été supprimée. (#17191)</target>
       </segment>
     </unit>
     <unit id="2f3993c8-c583-4085-ada0-66d312e8bf5c">
@@ -7521,9 +7521,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 244</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`updateCheck.checkForUpdate` now returns an `UpdateInfo` object instead of a dictionary. (#17310, @christopherpross)</source>
-        <target>`updateCheck.checkForUpdate` now returns an `UpdateInfo` object instead of a dictionary. (#17310, @christopherpross)</target>
+        <target>`updateCheck.checkForUpdate` renvoie maintenant un objet `UpdateInfo` au lieu d'un dictionnaire. (#17310, @christopherpross)</target>
       </segment>
     </unit>
     <unit id="05fb0e93-f435-45f5-8b51-c9ca2448e8e8">
@@ -7531,9 +7531,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 245</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The constructors of `updateCheck.UpdateResultDialog` and `updateCheck.UpdateDownloader` have been updated to take `UpdateInfo` objects instead of dictionaries of metadata. (#17310, @christopherpross)</source>
-        <target>The constructors of `updateCheck.UpdateResultDialog` and `updateCheck.UpdateDownloader` have been updated to take `UpdateInfo` objects instead of dictionaries of metadata. (#17310, @christopherpross)</target>
+        <target>Les constructeurs de `updateCheck.UpdateResultDialog` et `updateCheck.UpdateDownloader` ont été mis à jour pour prendre des objets `UpdateInfo` au lieu de dictionnaires de métadonnées. (#17310, @christopherpross)</target>
       </segment>
     </unit>
     <unit id="227fb95b-7daa-4f55-b512-b146ba443f21">
@@ -7541,9 +7541,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 246</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Due to the retirement of NVDA's winmm support (#17496, #17532, #17678):</source>
-        <target>Due to the retirement of NVDA's winmm support (#17496, #17532, #17678):</target>
+        <target>En raison de l'abandon du support winmm de NVDA (#17496, #17532, #17678):</target>
       </segment>
     </unit>
     <unit id="fbadf501-1174-4d52-a933-8fd755594c82">
@@ -7551,9 +7551,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 247</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been removed from `nvwave` without replacements: `CALLBACK_EVENT`, `CALLBACK_FUNCTION`, `CALLBACK_NULL`, `HWAVEOUT`, `LPHWAVEOUT`, `LPWAVEFORMATEX`, `LPWAVEHDR`, `MAXPNAMELEN`, `MMSYSERR_NOERROR`, `usingWasapiWavePlayer`, `WAVEHDR`, `WAVEOUTCAPS`, `waveOutProc`, `WAVE_MAPPER`, `WHDR_DONE`, `WinmmWavePlayer`, and `winmm`.</source>
-        <target>The following symbols have been removed from `nvwave` without replacements: `CALLBACK_EVENT`, `CALLBACK_FUNCTION`, `CALLBACK_NULL`, `HWAVEOUT`, `LPHWAVEOUT`, `LPWAVEFORMATEX`, `LPWAVEHDR`, `MAXPNAMELEN`, `MMSYSERR_NOERROR`, `usingWasapiWavePlayer`, `WAVEHDR`, `WAVEOUTCAPS`, `waveOutProc`, `WAVE_MAPPER`, `WHDR_DONE`, `WinmmWavePlayer`, and `winmm`.</target>
+        <target>Les symboles suivants ont été supprimés de `nvwave` sans remplacements: `CALLBACK_EVENT`, `CALLBACK_FUNCTION`, `CALLBACK_NULL`, `HWAVEOUT`, `LPHWAVEOUT`, `LPWAVEFORMATEX`, `LPWAVEHDR`, `MAXPNAMELEN`, `MMSYSERR_NOERROR`, `usingWasapiWavePlayer`, `WAVEHDR`, `WAVEOUTCAPS`, `waveOutProc`, `WAVE_MAPPER`, `WHDR_DONE`, `WinmmWavePlayer`, et `winmm`.</target>
       </segment>
     </unit>
     <unit id="577f916f-e5ff-4f67-bf13-1037f6c060c2">
@@ -7561,18 +7561,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 248</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been removed from `nvwave`: `getOutputDeviceNames`, `outputDeviceIDToName`, `outputDeviceNameToID`.</source>
-        <target>The following symbols have been removed from `nvwave`: `getOutputDeviceNames`, `outputDeviceIDToName`, `outputDeviceNameToID`.</target>
+        <target>Les symboles suivants ont été supprimés de `nvwave`: `getOutputDeviceNames`, `outputDeviceIDToName`, `outputDeviceNameToID`.</target>
       </segment>
     </unit>
     <unit id="39543c90-9b62-4b2b-9cd5-9d2147534302">
       <notes>
         <note appliesTo="source">line: 249</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use `utils.mmdevice.getOutputDevices` instead.</source>
-        <target>  Use `utils.mmdevice.getOutputDevices` instead.</target>
+        <target>  Utilisez `utils.mmdevice.getOutputDevices` à la place.</target>
       </segment>
     </unit>
     <unit id="662ad44f-58f9-4174-947f-bd3bfc29e426">
@@ -7580,9 +7580,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 250</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`nvwave.WasapiWavePlayer` has been renamed to `WavePlayer`.</source>
-        <target>`nvwave.WasapiWavePlayer` has been renamed to `WavePlayer`.</target>
+        <target>`nvwave.WasapiWavePlayer` a été renommé en `WavePlayer`.</target>
       </segment>
     </unit>
     <unit id="b7ec61e8-747a-4f68-b201-96c0a4c30770">
@@ -7590,9 +7590,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 251</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.settingsDialogs.AdvancedPanelControls.wasapiComboBox` has been removed.</source>
-        <target>`gui.settingsDialogs.AdvancedPanelControls.wasapiComboBox` has been removed.</target>
+        <target>`gui.settingsDialogs.AdvancedPanelControls.wasapiComboBox` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="47799452-2417-46fc-90e0-5607790777ea">
@@ -7600,9 +7600,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 252</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `WASAPI` key has been removed from the `audio` section of the config spec.</source>
-        <target>The `WASAPI` key has been removed from the `audio` section of the config spec.</target>
+        <target>La clé `WASAPI` a été supprimée de la section `audio` de la spécification de configuration.</target>
       </segment>
     </unit>
     <unit id="d33c0dae-24f1-4657-92fd-5edcf0319190">
