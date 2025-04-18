@@ -11767,7 +11767,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 760</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`speech.speechCanceled`. (#15700, @LeonarddeR)</source>
         <target>`speech.speechCanceled`. (#15700, @LeonarddeR)</target>
       </segment>
@@ -12499,7 +12499,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 837</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`PCWSTR`</source>
         <target>`PCWSTR`</target>
       </segment>
@@ -12519,7 +12519,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 839</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`ULONG_PTR`</source>
         <target>`ULONG_PTR`</target>
       </segment>
@@ -12529,7 +12529,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 840</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`ULONGLONG`</source>
         <target>`ULONGLONG`</target>
       </segment>
@@ -12539,7 +12539,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 841</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NULL`</source>
         <target>`NULL`</target>
       </segment>
@@ -12620,7 +12620,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`azardi-2.0` |`azardi20`</source>
         <target>`azardi-2.0` |`azardi20`</target>
       </segment>
@@ -12631,7 +12631,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`azuredatastudio` |`code`</source>
         <target>`azuredatastudio` |`code`</target>
       </segment>
@@ -12642,7 +12642,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`azuredatastudio-insiders` |`code`</source>
         <target>`azuredatastudio-insiders` |`code`</target>
       </segment>
@@ -12653,7 +12653,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`calculatorapp` |`calculator`</source>
         <target>`calculatorapp` |`calculator`</target>
       </segment>
@@ -12664,7 +12664,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`code - insiders` |`code`</source>
         <target>`code - insiders` |`code`</target>
       </segment>
@@ -12675,7 +12675,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`commsapps` |`hxmail`</source>
         <target>`commsapps` |`hxmail`</target>
       </segment>
@@ -12686,7 +12686,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`dbeaver` |`eclipse`</source>
         <target>`dbeaver` |`eclipse`</target>
       </segment>
@@ -12697,7 +12697,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`digitaleditionspreview` |`digitaleditions`</source>
         <target>`digitaleditionspreview` |`digitaleditions`</target>
       </segment>
@@ -12708,7 +12708,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`esybraille` |`esysuite`</source>
         <target>`esybraille` |`esysuite`</target>
       </segment>
@@ -12719,7 +12719,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`hxoutlook` |`hxmail`</source>
         <target>`hxoutlook` |`hxmail`</target>
       </segment>
@@ -12730,7 +12730,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`miranda64` |`miranda32`</source>
         <target>`miranda64` |`miranda32`</target>
       </segment>
@@ -12741,7 +12741,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`mpc-hc` |`mplayerc`</source>
         <target>`mpc-hc` |`mplayerc`</target>
       </segment>
@@ -12752,7 +12752,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`mpc-hc64` |`mplayerc`</source>
         <target>`mpc-hc64` |`mplayerc`</target>
       </segment>
@@ -12763,7 +12763,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`notepad++` |`notepadPlusPlus`</source>
         <target>`notepad++` |`notepadPlusPlus`</target>
       </segment>
@@ -12774,7 +12774,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`searchapp` |`searchui`</source>
         <target>`searchapp` |`searchui`</target>
       </segment>
@@ -12785,7 +12785,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`searchhost` |`searchui`</source>
         <target>`searchhost` |`searchui`</target>
       </segment>
@@ -12796,7 +12796,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`springtoolsuite4` |`eclipse`</source>
         <target>`springtoolsuite4` |`eclipse`</target>
       </segment>
@@ -12807,7 +12807,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`sts` |`eclipse`</source>
         <target>`sts` |`eclipse`</target>
       </segment>
@@ -12818,7 +12818,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`teamtalk3` |`teamtalk4classic`</source>
         <target>`teamtalk3` |`teamtalk4classic`</target>
       </segment>
@@ -12829,7 +12829,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`textinputhost` |`windowsinternal_composableshell_experiences_textinput_inputapp`</source>
         <target>`textinputhost` |`windowsinternal_composableshell_experiences_textinput_inputapp`</target>
       </segment>
@@ -12840,7 +12840,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`totalcmd64` |`totalcmd`</source>
         <target>`totalcmd64` |`totalcmd`</target>
       </segment>
@@ -12851,7 +12851,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`win32calc` |`calc`</source>
         <target>`win32calc` |`calc`</target>
       </segment>
@@ -12862,7 +12862,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winmail` |`msimn`</source>
         <target>`winmail` |`msimn`</target>
       </segment>
@@ -12873,7 +12873,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`zend-eclipse-php` |`eclipse`</source>
         <target>`zend-eclipse-php` |`eclipse`</target>
       </segment>
@@ -12884,7 +12884,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`zendstudio` |`eclipse`</source>
         <target>`zendstudio` |`eclipse`</target>
       </segment>
@@ -12944,7 +12944,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 883</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winVersion.WIN7`</source>
         <target>`winVersion.WIN7`</target>
       </segment>
@@ -12954,7 +12954,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 884</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winVersion.WIN7_SP1`</source>
         <target>`winVersion.WIN7_SP1`</target>
       </segment>
@@ -12964,7 +12964,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 885</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winVersion.WIN8`</source>
         <target>`winVersion.WIN8`</target>
       </segment>
@@ -13013,7 +13013,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 891</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2023.3.4</source>
         <target>2023.3.4</target>
       </segment>
@@ -13060,7 +13060,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 899</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-727q-h8j2-6p45](https://github.com/nvaccess/nvda/security/advisories/GHSA-727q-h8j2-6p45))</source>
         <target>([GHSA-727q-h8j2-6p45](https://github.com/nvaccess/nvda/security/advisories/GHSA-727q-h8j2-6p45))</target>
       </segment>
@@ -13100,7 +13100,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 906</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2023.3.3</source>
         <target>2023.3.3</target>
       </segment>
@@ -13147,7 +13147,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 914</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-xg6w-23rw-39r8](https://github.com/nvaccess/nvda/security/advisories/GHSA-xg6w-23rw-39r8))</source>
         <target>([GHSA-xg6w-23rw-39r8](https://github.com/nvaccess/nvda/security/advisories/GHSA-xg6w-23rw-39r8))</target>
       </segment>
@@ -13157,7 +13157,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 916</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2023.3.2</source>
         <target>2023.3.2</target>
       </segment>
@@ -13222,7 +13222,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 926</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-h7pp-6jqw-g3pj](https://github.com/nvaccess/nvda/security/advisories/GHSA-h7pp-6jqw-g3pj))</source>
         <target>([GHSA-h7pp-6jqw-g3pj](https://github.com/nvaccess/nvda/security/advisories/GHSA-h7pp-6jqw-g3pj))</target>
       </segment>
@@ -13232,7 +13232,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 928</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2023.3.1</source>
         <target>2023.3.1</target>
       </segment>
@@ -13279,7 +13279,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 936</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-h7pp-6jqw-g3pj](https://github.com/nvaccess/nvda/security/advisories/GHSA-h7pp-6jqw-g3pj))</source>
         <target>([GHSA-h7pp-6jqw-g3pj](https://github.com/nvaccess/nvda/security/advisories/GHSA-h7pp-6jqw-g3pj))</target>
       </segment>
@@ -13289,7 +13289,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 938</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2023.3</source>
         <target>2023.3</target>
       </segment>
@@ -14134,7 +14134,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1041</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2023.2</source>
         <target>2023.2</target>
       </segment>
@@ -15638,7 +15638,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1210</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2023.1</source>
         <target>2023.1</target>
       </segment>
@@ -16595,7 +16595,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1326</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`inputCore.decide_executeGesture`</source>
         <target>`inputCore.decide_executeGesture`</target>
       </segment>
@@ -16605,7 +16605,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1327</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`tones.decide_beep`</source>
         <target>`tones.decide_beep`</target>
       </segment>
@@ -16615,7 +16615,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1328</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`nvwave.decide_playWaveFile`</source>
         <target>`nvwave.decide_playWaveFile`</target>
       </segment>
@@ -16625,7 +16625,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1329</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`braille.pre_writeCells`</source>
         <target>`braille.pre_writeCells`</target>
       </segment>
@@ -16635,7 +16635,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1330</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`braille.filter_displaySize`</source>
         <target>`braille.filter_displaySize`</target>
       </segment>
@@ -16645,7 +16645,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1331</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`braille.decide_enabled`</source>
         <target>`braille.decide_enabled`</target>
       </segment>
@@ -26150,7 +26150,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2483</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2020.1</source>
         <target>2020.1</target>
       </segment>
@@ -26547,7 +26547,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2533</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2019.3</source>
         <target>2019.3</target>
       </segment>
@@ -26614,7 +26614,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2543</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Basic Braille Plus 40</source>
         <target>Basic Braille Plus 40</target>
       </segment>
@@ -26624,7 +26624,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2544</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Basic Braille Plus 32</source>
         <target>Basic Braille Plus 32</target>
       </segment>
@@ -26634,7 +26634,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2545</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Connect Braille</source>
         <target>Connect Braille</target>
       </segment>
