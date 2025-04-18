@@ -7610,9 +7610,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 253</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The output from `nvwave.outputDeviceNameToID`, and input to `nvwave.outputDeviceIDToName` are now string identifiers.</source>
-        <target>The output from `nvwave.outputDeviceNameToID`, and input to `nvwave.outputDeviceIDToName` are now string identifiers.</target>
+        <target>La sortie de `nvwave.outputDeviceNameToID` et l'entrée de `nvwave.outputDeviceIDToName` sont maintenant des identifiants de chaîne.</target>
       </segment>
     </unit>
     <unit id="084a8e31-cab7-4df0-acdd-3ff8a39a8222">
@@ -7620,18 +7620,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 254</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The configuration key `config.conf["speech"]["outputDevice"]` has been removed.</source>
-        <target>The configuration key `config.conf["speech"]["outputDevice"]` has been removed.</target>
+        <target>La clé de configuration `config.conf["speech"]["outputDevice"]` a été supprimée.</target>
       </segment>
     </unit>
     <unit id="8490fab4-0b9d-4216-b6d8-b267def08f96">
       <notes>
         <note appliesTo="source">line: 255</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>    It has been replaced by `config.conf["audio"]["outputDevice"]`, which stores a Windows core audio endpoint device ID. (#17547)</source>
-        <target>    It has been replaced by `config.conf["audio"]["outputDevice"]`, which stores a Windows core audio endpoint device ID. (#17547)</target>
+        <target>    Elle a été remplacée par `config.conf["audio"]["outputDevice"]`, qui stocke un ID de périphérique de point de terminaison audio Windows core. (#17547)</target>
       </segment>
     </unit>
     <unit id="b569e7d4-0eb4-485f-93e0-d69356a9a939">
@@ -7639,9 +7639,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 256</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `outputDevice` parameter to `WasapiWavePlayer.__init__` should now only be passed string arguments.</source>
-        <target>The `outputDevice` parameter to `WasapiWavePlayer.__init__` should now only be passed string arguments.</target>
+        <target>Le paramètre `outputDevice` de `WasapiWavePlayer.__init__` ne doit maintenant recevoir que des arguments de type chaîne.</target>
       </segment>
     </unit>
     <unit id="71b599e4-724e-4b6a-90e1-3f7f39b7c60d">
@@ -7649,9 +7649,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 257</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The deprecated `closeWhenIdle` and `buffered` parameters to `WasapiWavePlayer.__init__` have been removed.</source>
-        <target>The deprecated `closeWhenIdle` and `buffered` parameters to `WasapiWavePlayer.__init__` have been removed.</target>
+        <target>Les paramètres dépréciés `closeWhenIdle` et `buffered` de `WasapiWavePlayer.__init__` ont été supprimés.</target>
       </segment>
     </unit>
     <unit id="14f25227-0c94-49fc-9975-82ba830e61f9">
@@ -7659,9 +7659,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 258</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In `NVDAObjects.window.scintilla.ScintillaTextInfo`, if no text is selected, the `collapse` method is overriden to expand to line if the `end` parameter is set to `True` (#17431, @nvdaes)</source>
-        <target>In `NVDAObjects.window.scintilla.ScintillaTextInfo`, if no text is selected, the `collapse` method is overriden to expand to line if the `end` parameter is set to `True` (#17431, @nvdaes)</target>
+        <target>Dans `NVDAObjects.window.scintilla.ScintillaTextInfo`, si aucun texte n'est sélectionné, la méthode `collapse` est surchargée pour étendre à la ligne si le paramètre `end` est défini sur `True` (#17431, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="93869b50-ae5b-4e7e-8c6f-c9aa18b631a5">
@@ -7669,9 +7669,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 259</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been removed with no replacement: `languageHandler.getLanguageCliArgs`, `__main__.quitGroup` and `__main__.installGroup` . (#17486, @CyrilleB79)</source>
-        <target>The following symbols have been removed with no replacement: `languageHandler.getLanguageCliArgs`, `__main__.quitGroup` and `__main__.installGroup` . (#17486, @CyrilleB79)</target>
+        <target>Les symboles suivants ont été supprimés sans remplacement: `languageHandler.getLanguageCliArgs`, `__main__.quitGroup` et `__main__.installGroup`. (#17486, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="a7ae2825-da24-40b3-9bbc-5fc0ee33bdf4">
@@ -7679,9 +7679,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 260</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Prefix matching on command line flags, e.g. using `--di` for `--disable-addons` is no longer supported. (#11644, @CyrilleB79)</source>
-        <target>Prefix matching on command line flags, e.g. using `--di` for `--disable-addons` is no longer supported. (#11644, @CyrilleB79)</target>
+        <target>La correspondance par préfixe sur les options de ligne de commande, par exemple l'utilisation de `--di` pour `--disable-addons`, n'est plus prise en charge. (#11644, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="11c8a574-cd62-472f-a316-7c67a40ac0a2">
@@ -7689,9 +7689,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 261</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `useAsFallBack` keyword argument of `bdDetect.DriverRegistrar` has been renamed to `useAsFallback`. (#17521, @LeonarddeR)</source>
-        <target>The `useAsFallBack` keyword argument of `bdDetect.DriverRegistrar` has been renamed to `useAsFallback`. (#17521, @LeonarddeR)</target>
+        <target>L'argument clé `useAsFallBack` de `bdDetect.DriverRegistrar` a été renommé en `useAsFallback`. (#17521, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="71b8b516-e75c-4407-9ba5-7ab117a53ade">
@@ -7699,18 +7699,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 262</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `[addonStore][showWarning]` configuration setting has been removed.</source>
-        <target>The `[addonStore][showWarning]` configuration setting has been removed.</target>
+        <target>Le paramètre de configuration `[addonStore][showWarning]` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="a43d4b19-d45c-4288-ac8d-624267663153">
       <notes>
         <note appliesTo="source">line: 263</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Instead use `addonStore.dataManager.addonDataManager.storeSettings.showWarning`. (#17597)</source>
-        <target>Instead use `addonStore.dataManager.addonDataManager.storeSettings.showWarning`. (#17597)</target>
+        <target>Utilisez plutôt `addonStore.dataManager.addonDataManager.storeSettings.showWarning`. (#17597)</target>
       </segment>
     </unit>
     <unit id="d8c0275a-6fb2-41ed-9174-aa1f80709f7f">
@@ -7718,36 +7718,36 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 264</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`ui.browseableMessage` now takes a parameter `sanitizeHtmlFunc`.</source>
-        <target>`ui.browseableMessage` now takes a parameter `sanitizeHtmlFunc`.</target>
+        <target>`ui.browseableMessage` prend maintenant un paramètre `sanitizeHtmlFunc`.</target>
       </segment>
     </unit>
     <unit id="44017a67-0864-45c9-8c30-8c7a25dce611">
       <notes>
         <note appliesTo="source">line: 265</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This defaults to `nh3.clean` with default arguments.</source>
-        <target>This defaults to `nh3.clean` with default arguments.</target>
+        <target>Celui-ci prend par défaut `nh3.clean` avec les arguments par défaut.</target>
       </segment>
     </unit>
     <unit id="37c0a3c5-c9ea-4d91-9bee-ea5fd79f2ab0">
       <notes>
         <note appliesTo="source">line: 266</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means any HTML passed into `ui.browseableMessage` using `isHtml=True` is now sanitized by default.</source>
-        <target>This means any HTML passed into `ui.browseableMessage` using `isHtml=True` is now sanitized by default.</target>
+        <target>Cela signifie que tout HTML passé à `ui.browseableMessage` en utilisant `isHtml=True` est maintenant assaini par défaut.</target>
       </segment>
     </unit>
     <unit id="b53343dc-c951-455c-9e3e-ded8c440df4b">
       <notes>
         <note appliesTo="source">line: 267</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To change sanitization rules, such as whitelisting tags or attributes, create a function that calls `nh3.clean` with the desired parameters. (#16985)</source>
-        <target>To change sanitization rules, such as whitelisting tags or attributes, create a function that calls `nh3.clean` with the desired parameters. (#16985)</target>
+        <target>Pour modifier les règles d'assainissement, comme la mise en liste blanche de balises ou d'attributs, créez une fonction qui appelle `nh3.clean` avec les paramètres souhaités. (#16985)</target>
       </segment>
     </unit>
     <unit id="3e8bc4e4-f48d-40f4-85aa-47543969ef4a">
@@ -7755,18 +7755,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 268</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`updateCheck.UpdateAskInstallDialog` no longer automatically performs an action when the update or postpone buttons are pressed.</source>
-        <target>`updateCheck.UpdateAskInstallDialog` no longer automatically performs an action when the update or postpone buttons are pressed.</target>
+        <target>`updateCheck.UpdateAskInstallDialog` n'effectue plus automatiquement une action lorsque les boutons de mise à jour ou de report sont pressés.</target>
       </segment>
     </unit>
     <unit id="ad18ea79-7875-4b36-9542-d54d0c25d2f1">
       <notes>
         <note appliesTo="source">line: 269</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Instead, a `callback` property has been added, which returns a function that performs the appropriate action when called with the return value from the dialog. (#17582)</source>
-        <target>Instead, a `callback` property has been added, which returns a function that performs the appropriate action when called with the return value from the dialog. (#17582)</target>
+        <target>À la place, une propriété `callback` a été ajoutée, qui renvoie une fonction qui effectue l'action appropriée lorsqu'elle est appelée avec la valeur de retour de la boîte de dialogue. (#17582)</target>
       </segment>
     </unit>
     <unit id="33c12780-3f43-4bab-878b-0550be08cc6b">
@@ -7774,9 +7774,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 270</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Dialogs opened with `gui.runScriptModalDialog` are now recognised as modal by NVDA. (#17582)</source>
-        <target>Dialogs opened with `gui.runScriptModalDialog` are now recognised as modal by NVDA. (#17582)</target>
+        <target>Les boîtes de dialogue ouvertes avec `gui.runScriptModalDialog` sont maintenant reconnues comme modales par NVDA. (#17582)</target>
       </segment>
     </unit>
     <unit id="3172f598-1375-4940-b753-cb9259c35a32">
@@ -7784,9 +7784,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 271</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following API symbols related to the setting "Automatically set system focus to focusable elements" have been removed with no replacement: (#17598)</source>
-        <target>The following API symbols related to the setting "Automatically set system focus to focusable elements" have been removed with no replacement: (#17598)</target>
+        <target>Les symboles d'API suivants liés au paramètre "Définir automatiquement le focus système sur les éléments pouvant recevoir le focus" ont été supprimés sans remplacement: (#17598)</target>
       </segment>
     </unit>
     <unit id="ad466f04-33c6-46ce-abb2-f5420872df92">
@@ -7794,7 +7794,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 272</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`globalCommands.GlobalCommands.script_toggleAutoFocusFocusableElements`</source>
         <target>`globalCommands.GlobalCommands.script_toggleAutoFocusFocusableElements`</target>
       </segment>
@@ -7804,7 +7804,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 273</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.conf["virtualBuffers"]["autoFocusFocusableElements"]`</source>
         <target>`config.conf["virtualBuffers"]["autoFocusFocusableElements"]`</target>
       </segment>
@@ -7814,7 +7814,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 274</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.settingsDialogs.BrowseModePanel.autoFocusFocusableElementsCheckBox`</source>
         <target>`gui.settingsDialogs.BrowseModePanel.autoFocusFocusableElementsCheckBox`</target>
       </segment>
@@ -7824,9 +7824,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 275</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Because SAPI5 voices now use `nvwave.WavePlayer` to output audio: (#17592, @gexgd0419)</source>
-        <target>Because SAPI5 voices now use `nvwave.WavePlayer` to output audio: (#17592, @gexgd0419)</target>
+        <target>Étant donné que les voix SAPI5 utilisent maintenant `nvwave.WavePlayer` pour sortir l'audio: (#17592, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="5f464cd6-4964-43a2-93c5-08af8277a87c">
@@ -7834,9 +7834,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 276</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`synthDrivers.sapi5.SPAudioState` has been removed.</source>
-        <target>`synthDrivers.sapi5.SPAudioState` has been removed.</target>
+        <target>`synthDrivers.sapi5.SPAudioState` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="e365e8e1-b659-4932-bad1-8f608423f782">
@@ -7844,9 +7844,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 277</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`synthDrivers.sapi5.SynthDriver.ttsAudioStream` has been removed.</source>
-        <target>`synthDrivers.sapi5.SynthDriver.ttsAudioStream` has been removed.</target>
+        <target>`synthDrivers.sapi5.SynthDriver.ttsAudioStream` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="9590f641-efc6-4d14-b9cd-8e38c4b56948">
@@ -7854,9 +7854,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 278</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Instances of `autoSettingsUtils.driverSetting.DriverSetting` with an `id` that starts with an underscore (_) are no longer shown in NVDA's settings. (#17599)</source>
-        <target>Instances of `autoSettingsUtils.driverSetting.DriverSetting` with an `id` that starts with an underscore (_) are no longer shown in NVDA's settings. (#17599)</target>
+        <target>Les instances de `autoSettingsUtils.driverSetting.DriverSetting` avec un `id` commençant par un tiret bas (_) ne sont plus affichées dans les paramètres de NVDA. (#17599)</target>
       </segment>
     </unit>
     <unit id="fab1aaa9-0036-4135-9cb8-836111ab8cdd">
@@ -7864,9 +7864,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 279</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changed keyboard typing echo configuration from boolean to integer values. (#17505, @Cary-rowen)</source>
-        <target>Changed keyboard typing echo configuration from boolean to integer values. (#17505, @Cary-rowen)</target>
+        <target>Changement de la configuration de l'écho de frappe du clavier de valeurs booléennes à des valeurs entières. (#17505, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="116997f3-0ea9-445c-86bb-65ad059b2a35">
@@ -7874,9 +7874,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 280</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.conf["keyboard"]["speakTypedCharacters"]` and `config.conf["keyboard"]["speakTypedWords"]` now use integer values.</source>
-        <target>`config.conf["keyboard"]["speakTypedCharacters"]` and `config.conf["keyboard"]["speakTypedWords"]` now use integer values.</target>
+        <target>`config.conf["keyboard"]["speakTypedCharacters"]` et `config.conf["keyboard"]["speakTypedWords"]` utilisent maintenant des valeurs entières.</target>
       </segment>
     </unit>
     <unit id="e88c69b3-c60f-472f-8621-7aca6e55f8a1">
@@ -7884,9 +7884,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 281</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added `TypingEcho` enum in `config.configFlags` to represent these modes, 0=Off, 1=Only in edit controls, 2=Always.</source>
-        <target>Added `TypingEcho` enum in `config.configFlags` to represent these modes, 0=Off, 1=Only in edit controls, 2=Always.</target>
+        <target>Ajout de l'énumération `TypingEcho` dans `config.configFlags` pour représenter ces modes, 0=Désactivé, 1=Uniquement dans les zones d'édition, 2=Toujours.</target>
       </segment>
     </unit>
     <unit id="4f0e140d-4728-4619-8197-799e9fd66a58">
@@ -7894,9 +7894,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 282</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.settingsDialogs.KeyboardSettingsPanel.wordsCheckBox` and `gui.settingsDialogs.KeyboardSettingsPanel.charsCheckBox` has been removed.</source>
-        <target>`gui.settingsDialogs.KeyboardSettingsPanel.wordsCheckBox` and `gui.settingsDialogs.KeyboardSettingsPanel.charsCheckBox` has been removed.</target>
+        <target>`gui.settingsDialogs.KeyboardSettingsPanel.wordsCheckBox` et `gui.settingsDialogs.KeyboardSettingsPanel.charsCheckBox` ont été supprimés.</target>
       </segment>
     </unit>
     <unit id="04d111ad-b9b3-4c2e-8bc7-5b88205402cb">
@@ -7904,9 +7904,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 283</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `winUser.paint` has been renamed from `painStruct` to `paintStruct`, fixing a bug where passing in a `PAINTSTRUCT` would raise an exception. (#17744)</source>
-        <target>The `winUser.paint` has been renamed from `painStruct` to `paintStruct`, fixing a bug where passing in a `PAINTSTRUCT` would raise an exception. (#17744)</target>
+        <target>`winUser.paint` a été renommé de `painStruct` à `paintStruct`, corrigeant un bug où le passage d'un `PAINTSTRUCT` provoquait une exception. (#17744)</target>
       </segment>
     </unit>
     <unit id="fc314efc-1925-4df5-a470-eb27713a4541">
@@ -7914,9 +7914,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 284</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`documentationUtils.getDocFilePath` and `installer.getDocFilePath` no longer look for `.txt` files in locale documentation folders. (#17911, @CyrilleB79)</source>
-        <target>`documentationUtils.getDocFilePath` and `installer.getDocFilePath` no longer look for `.txt` files in locale documentation folders. (#17911, @CyrilleB79)</target>
+        <target>`documentationUtils.getDocFilePath` et `installer.getDocFilePath` ne recherchent plus les fichiers `.txt` dans les dossiers de documentation locale. (#17911, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="0c75c50e-2285-44e5-a6fe-df71c3aadb41">
@@ -7924,9 +7924,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 286</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Deprecations</source>
-        <target>Deprecations</target>
+        <target>Dépréciations</target>
       </segment>
     </unit>
     <unit id="fe1f780d-96b6-4df1-a95b-659138704dcd">
@@ -7934,18 +7934,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 288</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `braille.filter_displaySize` extension point is deprecated.</source>
-        <target>The `braille.filter_displaySize` extension point is deprecated.</target>
+        <target>Le point d'extension `braille.filter_displaySize` est déprécié.</target>
       </segment>
     </unit>
     <unit id="3331d68a-b53f-4855-af14-406fc9ff590e">
       <notes>
         <note appliesTo="source">line: 289</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please use `braille.filter_displayDimensions` instead. (#17011)</source>
-        <target>Please use `braille.filter_displayDimensions` instead. (#17011)</target>
+        <target>Veuillez utiliser `braille.filter_displayDimensions` à la place. (#17011)</target>
       </segment>
     </unit>
     <unit id="de9b3076-22ab-48f2-b33a-9d582ec4feae">
@@ -7953,18 +7953,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 290</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `gui.message.messageBox` and `gui.runScriptModalDialog` functions, and `gui.nvdaControls.MessageDialog` class are deprecated.</source>
-        <target>The `gui.message.messageBox` and `gui.runScriptModalDialog` functions, and `gui.nvdaControls.MessageDialog` class are deprecated.</target>
+        <target>Les fonctions `gui.message.messageBox` et `gui.runScriptModalDialog`, ainsi que la classe `gui.nvdaControls.MessageDialog` sont dépréciées.</target>
       </segment>
     </unit>
     <unit id="150482de-fa4d-4f59-be58-5f6597fcd6fb">
       <notes>
         <note appliesTo="source">line: 291</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `gui.message.MessageDialog` instead. (#17582)</source>
-        <target>Use `gui.message.MessageDialog` instead. (#17582)</target>
+        <target>Utilisez `gui.message.MessageDialog` à la place. (#17582)</target>
       </segment>
     </unit>
     <unit id="4bfafdfe-8f26-4c52-9e0b-c293e44679c5">
@@ -7972,9 +7972,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 292</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols are deprecated (#17486, @CyrilleB79):</source>
-        <target>The following symbols are deprecated (#17486, @CyrilleB79):</target>
+        <target>Les symboles suivants sont dépréciés (#17486, @CyrilleB79):</target>
       </segment>
     </unit>
     <unit id="d2ef79a6-f33f-48d8-a5e9-8cbd85d2267d">
@@ -7982,9 +7982,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 293</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NoConsoleOptionParser`, `stringToBool`, `stringToLang` in `__main__`; use the same symbols in `argsParsing` instead.</source>
-        <target>`NoConsoleOptionParser`, `stringToBool`, `stringToLang` in `__main__`; use the same symbols in `argsParsing` instead.</target>
+        <target>`NoConsoleOptionParser`, `stringToBool`, `stringToLang` dans `__main__`; utilisez les mêmes symboles dans `argsParsing` à la place.</target>
       </segment>
     </unit>
     <unit id="5f2f7a0d-c6d9-4b9d-a0fe-a737c73f9105">
@@ -7992,9 +7992,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 294</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`__main__.parser`; use `argsParsing.getParser()` instead.</source>
-        <target>`__main__.parser`; use `argsParsing.getParser()` instead.</target>
+        <target>`__main__.parser`; utilisez `argsParsing.getParser()` à la place.</target>
       </segment>
     </unit>
     <unit id="6e7ca70d-4ef6-46f1-bfc3-74d2a5201557">
@@ -8002,9 +8002,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 295</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`bdDetect.DeviceType` is deprecated in favour of `bdDetect.ProtocolType` and `bdDetect.CommunicationType` to take into account the fact that both HID and Serial communication can take place over USB and Bluetooth. (#17537 , @LeonarddeR)</source>
-        <target>`bdDetect.DeviceType` is deprecated in favour of `bdDetect.ProtocolType` and `bdDetect.CommunicationType` to take into account the fact that both HID and Serial communication can take place over USB and Bluetooth. (#17537 , @LeonarddeR)</target>
+        <target>`bdDetect.DeviceType` est déprécié en faveur de `bdDetect.ProtocolType` et `bdDetect.CommunicationType` pour prendre en compte le fait que les communications HID et Serial peuvent avoir lieu via USB et Bluetooth. (#17537, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="c5897f9a-e347-4570-8d21-633a7cbcac67">
@@ -8061,7 +8061,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 306</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2024.4.1</source>
         <target>2024.4.1</target>
       </segment>
@@ -8070,9 +8070,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 308</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a bug when saving speech symbol dictionaries.</source>
-        <target>This is a patch release to fix a bug when saving speech symbol dictionaries.</target>
+        <target>Cette version corrective vise à résoudre un bug lors de l'enregistrement des dictionnaires de symboles vocaux.</target>
       </segment>
     </unit>
     <unit id="8c5ef1a6-b2fe-422c-b794-8c96928ebcb4">
@@ -8902,7 +8902,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 417</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2024.3.1</source>
         <target>2024.3.1</target>
       </segment>
@@ -8941,7 +8941,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 425</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2024.3</source>
         <target>2024.3</target>
       </segment>
@@ -9260,7 +9260,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 468</note>
         <note appliesTo="source">prefix:       * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Yiddish.</source>
         <target>Yiddish.</target>
       </segment>
@@ -9827,7 +9827,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 530</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2024.2</source>
         <target>2024.2</target>
       </segment>
@@ -9976,7 +9976,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 553</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>figure (#10826)</source>
         <target>figure (#10826)</target>
       </segment>
@@ -10655,7 +10655,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 629</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2024.1</source>
         <target>2024.1</target>
       </segment>
@@ -11757,7 +11757,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 759</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`treeInterceptorHandler.post_browseModeStateChange`. (#14969, @nvdaes)</source>
         <target>`treeInterceptorHandler.post_browseModeStateChange`. (#14969, @nvdaes)</target>
       </segment>
@@ -16655,7 +16655,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1332</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`braille.displayChanged`</source>
         <target>`braille.displayChanged`</target>
       </segment>
@@ -16665,7 +16665,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1333</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`braille.displaySizeChanged`</source>
         <target>`braille.displaySizeChanged`</target>
       </segment>
@@ -16852,7 +16852,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1355</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`isWindowsLocked`</source>
         <target>`isWindowsLocked`</target>
       </segment>
@@ -16862,7 +16862,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1356</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`handleSessionChange`</source>
         <target>`handleSessionChange`</target>
       </segment>
@@ -16872,7 +16872,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1357</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`unregister`</source>
         <target>`unregister`</target>
       </segment>
@@ -16882,7 +16882,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1358</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`register`</source>
         <target>`register`</target>
       </segment>
@@ -16892,7 +16892,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1359</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`isLockStateSuccessfullyTracked`</source>
         <target>`isLockStateSuccessfullyTracked`</target>
       </segment>
@@ -16998,7 +16998,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1370</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`statusBarTimes`</source>
         <target>`statusBarTimes`</target>
       </segment>
@@ -17008,7 +17008,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1371</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`parseIntervalToTimestamp`</source>
         <target>`parseIntervalToTimestamp`</target>
       </segment>
@@ -17018,7 +17018,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1372</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`getOutputFormat`</source>
         <target>`getOutputFormat`</target>
       </segment>
@@ -17028,7 +17028,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1373</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`getParsingFormat`</source>
         <target>`getParsingFormat`</target>
       </segment>
@@ -17057,7 +17057,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1376</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`UIAHandler.customAnnotations.CustomAnnotationTypesCommon`</source>
         <target>`UIAHandler.customAnnotations.CustomAnnotationTypesCommon`</target>
       </segment>
@@ -17067,7 +17067,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1377</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`UIAHandler.customProps.CustomPropertiesCommon`</source>
         <target>`UIAHandler.customProps.CustomPropertiesCommon`</target>
       </segment>
@@ -17077,7 +17077,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1378</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAObjects.UIA.excel.ExcelCustomProperties`</source>
         <target>`NVDAObjects.UIA.excel.ExcelCustomProperties`</target>
       </segment>
@@ -17087,7 +17087,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1379</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAObjects.UIA.excel.ExcelCustomAnnotationTypes`</source>
         <target>`NVDAObjects.UIA.excel.ExcelCustomAnnotationTypes`</target>
       </segment>
@@ -17231,7 +17231,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1397</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.4</source>
         <target>2022.4</target>
       </segment>
@@ -17901,7 +17901,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1479</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.3.3</source>
         <target>2022.3.3</target>
       </segment>
@@ -17948,7 +17948,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1487</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-fpwc-2gxx-j9v7](https://github.com/nvaccess/nvda/security/advisories/GHSA-fpwc-2gxx-j9v7))</source>
         <target>([GHSA-fpwc-2gxx-j9v7](https://github.com/nvaccess/nvda/security/advisories/GHSA-fpwc-2gxx-j9v7))</target>
       </segment>
@@ -18048,7 +18048,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1502</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`isWindowsLocked`</source>
         <target>`isWindowsLocked`</target>
       </segment>
@@ -18058,7 +18058,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1503</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`handleSessionChange`</source>
         <target>`handleSessionChange`</target>
       </segment>
@@ -18068,7 +18068,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1504</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`unregister`</source>
         <target>`unregister`</target>
       </segment>
@@ -18078,7 +18078,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1505</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`register`</source>
         <target>`register`</target>
       </segment>
@@ -18088,7 +18088,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1506</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`isLockStateSuccessfullyTracked`</source>
         <target>`isLockStateSuccessfullyTracked`</target>
       </segment>
@@ -18098,7 +18098,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1508</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.3.2</source>
         <target>2022.3.2</target>
       </segment>
@@ -18136,7 +18136,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1515</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-3jj9-295f-h69w](https://github.com/nvaccess/nvda/security/advisories/GHSA-3jj9-295f-h69w))</source>
         <target>([GHSA-3jj9-295f-h69w](https://github.com/nvaccess/nvda/security/advisories/GHSA-3jj9-295f-h69w))</target>
       </segment>
@@ -18176,7 +18176,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1522</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.3.1</source>
         <target>2022.3.1</target>
       </segment>
@@ -18223,7 +18223,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1530</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-q7c2-pgqm-vvw5](https://github.com/nvaccess/nvda/security/advisories/GHSA-q7c2-pgqm-vvw5))</source>
         <target>([GHSA-q7c2-pgqm-vvw5](https://github.com/nvaccess/nvda/security/advisories/GHSA-q7c2-pgqm-vvw5))</target>
       </segment>
@@ -18242,7 +18242,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1532</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-72mj-mqhj-qh4w](https://github.com/nvaccess/nvda/security/advisories/GHSA-72mj-mqhj-qh4w))</source>
         <target>([GHSA-72mj-mqhj-qh4w](https://github.com/nvaccess/nvda/security/advisories/GHSA-72mj-mqhj-qh4w))</target>
       </segment>
@@ -18261,7 +18261,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1534</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-grvr-j2h8-3qm4](https://github.com/nvaccess/nvda/security/advisories/GHSA-grvr-j2h8-3qm4))</source>
         <target>([GHSA-grvr-j2h8-3qm4](https://github.com/nvaccess/nvda/security/advisories/GHSA-grvr-j2h8-3qm4))</target>
       </segment>
@@ -18291,7 +18291,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1540</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.3</source>
         <target>2022.3</target>
       </segment>
@@ -18495,7 +18495,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1568</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Totontepec Mixe</source>
         <target>Totontepec Mixe</target>
       </segment>
@@ -18723,7 +18723,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1598</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.2.4</source>
         <target>2022.2.4</target>
       </segment>
@@ -18761,7 +18761,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1605</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>([GHSA-585m-rpvv-93qg](https://github.com/nvaccess/nvda/security/advisories/GHSA-585m-rpvv-93qg))</source>
         <target>([GHSA-585m-rpvv-93qg](https://github.com/nvaccess/nvda/security/advisories/GHSA-585m-rpvv-93qg))</target>
       </segment>
@@ -18771,7 +18771,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1607</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.2.3</source>
         <target>2022.2.3</target>
       </segment>
@@ -18819,7 +18819,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1616</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.2.2</source>
         <target>2022.2.2</target>
       </segment>
@@ -18858,7 +18858,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1624</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.2.1</source>
         <target>2022.2.1</target>
       </segment>
@@ -18992,7 +18992,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1646</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2022.2</source>
         <target>2022.2</target>
       </segment>
@@ -19077,9 +19077,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1659</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`control+alt+home/end` to jump to first/last column.</source>
-        <target>`control+alt+home/end` to jump to first/last column.</target>
+        <target>`control+alt+début/fin` pour atteindre la première/dernière colonne.</target>
       </segment>
     </unit>
     <unit id="2418a26a-5e98-4898-9412-9f793704f9ac">
@@ -19087,9 +19087,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1660</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`control+alt+pageUp/pageDown` to jump to first/last row.</source>
-        <target>`control+alt+pageUp/pageDown` to jump to first/last row.</target>
+        <target>`control+alt+pagePréc/PageSuiv` pour atteindre la première/dernière ligne.</target>
       </segment>
     </unit>
     <unit id="b1f627c8-fc07-4685-ac3f-d161c84d1e69">
@@ -19704,7 +19704,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 1732</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  -</source>
         <target>  -</target>
       </segment>
@@ -19745,7 +19745,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>azuredatastudio |code</source>
         <target>azuredatastudio |code</target>
       </segment>
@@ -19756,7 +19756,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>azuredatastudio-insiders |code</source>
         <target>azuredatastudio-insiders |code</target>
       </segment>
@@ -19767,7 +19767,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>calculatorapp |calculator</source>
         <target>calculatorapp |calculator</target>
       </segment>
@@ -19778,7 +19778,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>code - insiders |code</source>
         <target>code - insiders |code</target>
       </segment>
