@@ -26694,9 +26694,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2551</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Figures are also reported. They are considered objects and therefore navigable with the o quick navigation key.</source>
-        <target>Figures are also reported. They are considered objects and therefore navigable with the o quick navigation key.</target>
+        <target>Les figures sont également signalées. Elles sont considérées comme des objets et donc navigables avec la touche de navigation rapide o.</target>
       </segment>
     </unit>
     <unit id="da6a4058-3797-4790-bb55-19bb65b3c91f">
@@ -26724,9 +26724,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2554</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added a script to enable screen curtain (until next restart with one press, or always while NVDA is running with two presses), no default gesture is assigned.</source>
-        <target>Added a script to enable screen curtain (until next restart with one press, or always while NVDA is running with two presses), no default gesture is assigned.</target>
+        <target>Ajout d'un script pour activer le rideau d'écran (jusqu'au prochain redémarrage avec une pression, ou toujours pendant l'exécution de NVDA avec deux pressions), aucun geste de commande par défaut n'est assigné.</target>
       </segment>
     </unit>
     <unit id="d9af3b45-fbb5-4e05-a607-d22ac7e1c27e">
@@ -26734,9 +26734,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2555</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Can be enabled and configured via the 'vision' category in NVDA's settings dialog.</source>
-        <target>Can be enabled and configured via the 'vision' category in NVDA's settings dialog.</target>
+        <target>Peut être activé et configuré via la catégorie 'vision' dans la boîte de dialogue des paramètres de NVDA.</target>
       </segment>
     </unit>
     <unit id="7f55e05a-6678-435a-b72c-c94cfd2a9d07">
@@ -26754,9 +26754,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2557</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Highlighting of the focus, navigator object, and browse mode caret position can be enabled and configured via the 'vision' category in NVDA's settings dialog.</source>
-        <target>Highlighting of the focus, navigator object, and browse mode caret position can be enabled and configured via the 'vision' category in NVDA's settings dialog.</target>
+        <target>La mise en surbrillance du focus, de l'objet navigateur et de la position du curseur en mode navigation peut être activée et configurée via la catégorie 'vision' dans la boîte de dialogue des paramètres de NVDA.</target>
       </segment>
     </unit>
     <unit id="a4bd98f5-7d85-4bba-ace8-956d6934bff0">
@@ -26764,9 +26764,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2558</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note: This feature is incompatible with the focus highlight add-on, however, the add-on can still be used while the built-in highlighter is disabled.</source>
-        <target>Note: This feature is incompatible with the focus highlight add-on, however, the add-on can still be used while the built-in highlighter is disabled.</target>
+        <target>Remarque: Cette fonctionnalité est incompatible avec l'addon de mise en surbrillance du focus, cependant, l'addon peut toujours être utilisé lorsque la surbrillance intégrée est désactivée.</target>
       </segment>
     </unit>
     <unit id="9fe3d82c-9055-4e0c-9b4d-d49aa17ad01d">
@@ -27364,9 +27364,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2624</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>win32api calls can be replaced with direct calls to win32 dll functions via ctypes.</source>
-        <target>win32api calls can be replaced with direct calls to win32 dll functions via ctypes.</target>
+        <target>les appels win32api peuvent être remplacés par des appels directs aux fonctions dll win32 via ctypes.</target>
       </segment>
     </unit>
     <unit id="f183d4eb-6371-4ca2-a86d-2430d2346aa7">
@@ -27374,9 +27374,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2625</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>win32con constants should be defined in your files.</source>
-        <target>win32con constants should be defined in your files.</target>
+        <target>les constantes win32con doivent être définies dans vos fichiers.</target>
       </segment>
     </unit>
     <unit id="2a1c917d-dae4-4ba7-b702-cea05ac1bde5">
@@ -27404,9 +27404,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2628</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This functionality is handled by SynthDriver.speak.</source>
-        <target>This functionality is handled by SynthDriver.speak.</target>
+        <target>Cette fonctionnalité est gérée par SynthDriver.speak.</target>
       </segment>
     </unit>
     <unit id="171a3a2c-91f0-4ae3-bc96-74713888d021">
@@ -27434,9 +27434,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2631</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Instead, they should notify the synthDriverHandler.synthIndexReached action with the index, once all previous audio has finished playing before that index.</source>
-        <target>Instead, they should notify the synthDriverHandler.synthIndexReached action with the index, once all previous audio has finished playing before that index.</target>
+        <target>À la place, ils devraient notifier l'action synthDriverHandler.synthIndexReached avec l'index, une fois que tous les précédents audios ont fini de jouer avant cet index.</target>
       </segment>
     </unit>
     <unit id="0315f7c3-c863-45e4-a3ac-73ed9bfe07b4">
@@ -27494,7 +27494,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2637</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>getControlFieldSpeech</source>
         <target>getControlFieldSpeech</target>
       </segment>
@@ -27504,7 +27504,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2638</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>getFormatFieldSpeech</source>
         <target>getFormatFieldSpeech</target>
       </segment>
@@ -27514,9 +27514,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2639</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>getSpeechTextForProperties now called getPropertiesSpeech</source>
-        <target>getSpeechTextForProperties now called getPropertiesSpeech</target>
+        <target>getSpeechTextForProperties est maintenant appelé getPropertiesSpeech</target>
       </segment>
     </unit>
     <unit id="1e5a0ec4-2a29-4aa3-a2f5-aa2aed1772fc">
@@ -27524,7 +27524,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2640</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>getIndentationSpeech</source>
         <target>getIndentationSpeech</target>
       </segment>
@@ -27534,7 +27534,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2641</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>getTableInfoSpeech</source>
         <target>getTableInfoSpeech</target>
       </segment>
@@ -27554,9 +27554,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2643</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>See the module documentation and textInfos.offsets module for example implementations.</source>
-        <target>See the module documentation and textInfos.offsets module for example implementations.</target>
+        <target>Consultez la documentation du module et le module textInfos.offsets pour des exemples d'implémentations.</target>
       </segment>
     </unit>
     <unit id="a384a7d0-4a72-4c4c-aceb-f65c3a119f64">
@@ -27574,9 +27574,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2645</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>AppModules removed:</source>
-        <target>AppModules removed:</target>
+        <target>AppModules supprimés:</target>
       </segment>
     </unit>
     <unit id="95d4dfe1-5af3-4f44-a0db-89687d4dba7e">
@@ -27584,9 +27584,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2646</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Windows XP sound recorder.</source>
-        <target>Windows XP sound recorder.</target>
+        <target>Enregistreur vocal de Windows XP.</target>
       </segment>
     </unit>
     <unit id="b6e04231-fc61-491e-9a8d-9da23009943b">
@@ -27594,9 +27594,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2647</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Klango Player, which is abandoned software.</source>
-        <target>Klango Player, which is abandoned software.</target>
+        <target>Klango Player, qui est un logiciel abandonné.</target>
       </segment>
     </unit>
     <unit id="d65a7908-4792-4675-8bc4-46c9de1d03c6">
