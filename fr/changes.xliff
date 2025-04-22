@@ -6363,7 +6363,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The keyboard settings for "Speak typed characters" and "Speak typed words" now have three options: Off, Only in edit controls, and Always. (#17505, @Cary-rowen)</source>
-        <target>Les paramètres clavier contrôlant l'annonce des caractères et des mots saisie ont maintenant trois options : Désactivé, Seulement dans les zones d'édition, et Toujours. (#17505, @Cary-rowen)</target>
+        <target>Les paramètres clavier contrôlant l'éccho des caractères et des mots pendant la saisie ont maintenant trois options : Désactivé, Seulement dans les zones d'édition, et Toujours. (#17505, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="40802643-728a-4a88-a06c-ce4062fde34b">
@@ -7128,7 +7128,8 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>`BrowseModeTreeInterceptor` object has a new `getLinkTypeInDocument` method which accepts an URL to check the link type of the object</source>
-        <target>L'objet `BrowseModeTreeInterceptor` possède une nouvelle méthode `getLinkTypeInDocument` qui accepte une URL pour vérifier le type de lien de l'objet</target>
+        <target>L'objet `BrowseModeTreeInterceptor` possède une nouvelle méthode `getLinkTypeInDocument` qui accepte une URL pour vérifier le type de lien de l'objet
+</target>
       </segment>
     </unit>
     <unit id="c2b534ac-3a55-4b29-94f9-ad5b6f027ec2">
@@ -8174,7 +8175,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>NVDA can now speak the character at the cursor when performing a braille cursor routing action.</source>
-        <target>NVDA peut désormais annoncer le caractère à la position du curseur lors d'un appui sur un curseur routine.</target>
+        <target>NVDA peut désormais annoncer le caractère à la position du curseur lors d'un appui sur une touche de routage curseur.</target>
       </segment>
     </unit>
     <unit id="dd4ea32b-fc7f-4995-9955-6625ef334a4e">
@@ -8183,7 +8184,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Cursor routing reliability has been improved, and support for routing keys in PowerPoint has been added.</source>
-        <target>La fiabilité du comportement des touches de curseurs routine a été améliorée et celles-ci sont désormais prise en charge dans PowerPoint.</target>
+        <target>La fiabilité des touches de routage curseur a  été améliorée et celles-ci sont désormais prise en charge dans PowerPoint.</target>
       </segment>
     </unit>
     <unit id="90f2fb46-aac3-4aee-8708-bd2564909242">
@@ -8316,7 +8317,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>When performing a braille cursor routing action, NVDA can now automatically speak the character at the cursor. (#8072, @LeonarddeR)</source>
-        <target>Lors de l'appui sur un curseur routine braille, NVDA peut désormais annoncer automatiquement le caractère à la position du curseur. (#8072, @LeonarddeR)</target>
+        <target>Lors de l'appui sur une touche de routage curseur, NVDA peut désormais annoncer automatiquement le caractère à la position du curseur. (#8072, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="0288f9bb-516d-43f5-b3ed-4c471686a06a">
@@ -24563,9 +24564,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2299</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Adds Bashkir grade 1 Braille table</source>
-        <target>Adds Bashkir grade 1 Braille table</target>
+        <target>Ajoute la table braille grade 1 en bachkir</target>
       </segment>
     </unit>
     <unit id="626edef1-ed21-4417-9816-3cdf18ab457d">
@@ -24573,9 +24574,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2300</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Adds Coptic 8 dot computer braille table</source>
-        <target>Adds Coptic 8 dot computer braille table</target>
+        <target>Ajout de la table braille informatique 8 points en copte</target>
       </segment>
     </unit>
     <unit id="83f30084-c009-4868-b9a6-2638beb05956">
@@ -24583,9 +24584,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2301</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Adds Russian literary braille and Russian literary braille (detailed) tables</source>
-        <target>Adds Russian literary braille and Russian literary braille (detailed) tables</target>
+        <target>Ajout des tables braille littéraire russe et braille littéraire russe (détaillée)</target>
       </segment>
     </unit>
     <unit id="6b02d810-aed8-4107-97bd-8393cf1a260d">
@@ -24593,9 +24594,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2302</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Adds Added Afrikaans grade 2 braille table</source>
-        <target>Adds Added Afrikaans grade 2 braille table</target>
+        <target>Ajout de la table braille abrégé en afrikaans</target>
       </segment>
     </unit>
     <unit id="bb1db923-fc8f-4d3b-9d36-0f68df13e742">
@@ -24603,9 +24604,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2303</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Removes the Russian grade 1 Braille table</source>
-        <target>Removes the Russian grade 1 Braille table</target>
+        <target>Suppression de la table braille intégral en russe</target>
       </segment>
     </unit>
     <unit id="e893e084-50b9-498c-954a-66b017da0d2a">
@@ -25083,7 +25084,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2356</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2020.3</source>
         <target>2020.3</target>
       </segment>
@@ -25171,9 +25172,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2368</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This can be toggled on and off by a new NVDA Document Formatting option for Highlighting.</source>
-        <target>This can be toggled on and off by a new NVDA Document Formatting option for Highlighting.</target>
+        <target>Ceci peut être activé et désactivé par une nouvelle option de formatage de document NVDA pour la surbrillance.</target>
       </segment>
     </unit>
     <unit id="3706e218-64a1-4974-910e-90641284ab61">
@@ -25631,9 +25632,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2420</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The majority of NVDA's classes are tracked including NVDAObjects, appModules, GlobalPlugins, SynthDrivers, and TreeInterceptors.</source>
-        <target>The majority of NVDA's classes are tracked including NVDAObjects, appModules, GlobalPlugins, SynthDrivers, and TreeInterceptors.</target>
+        <target>La majorité des classes de NVDA sont suivies, notamment les NVDAObjects, appModules, GlobalPlugins, SynthDrivers et TreeInterceptors.</target>
       </segment>
     </unit>
     <unit id="6fb78e26-ae8c-49be-b4c9-dd7a6f8e5a72">
@@ -25641,9 +25642,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2421</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A class that needs to be tracked should inherit from garbageHandler.TrackedObject.</source>
-        <target>A class that needs to be tracked should inherit from garbageHandler.TrackedObject.</target>
+        <target>Une classe qui doit être suivie devrait hériter de garbageHandler.TrackedObject.</target>
       </segment>
     </unit>
     <unit id="754876cf-ed5e-4322-9884-ddfd48686f45">
@@ -25671,7 +25672,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2425</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2020.2</source>
         <target>2020.2</target>
       </segment>
@@ -25710,7 +25711,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2432</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Nattiq nBraille (#10778)</source>
         <target>Nattiq nBraille (#10778)</target>
       </segment>
@@ -30291,9 +30292,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2969</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Cursor routing in braille now works correctly when in a list in a Word document. (#7971)</source>
-        <target>Cursor routing in braille now works correctly when in a list in a Word document. (#7971)</target>
+        <target>Le routage du curseur en braille fonctionne désormais correctement dans une liste d'un document Word. (#7971)</target>
       </segment>
     </unit>
     <unit id="d460d8e6-3197-4391-8fa8-c950f44e13d5">
@@ -30301,9 +30302,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2970</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Newly inserted bullets/numbers in a Word document are correctly reported in both speech and braille. (#7970)</source>
-        <target>Newly inserted bullets/numbers in a Word document are correctly reported in both speech and braille. (#7970)</target>
+        <target>Les puces/numéros nouvellement insérés dans un document Word sont correctement annoncés à la fois en braille et vocalement. (#7970)</target>
       </segment>
     </unit>
     <unit id="4e6f3946-3750-47e0-8704-5e373f7b09e7">
@@ -30371,9 +30372,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2979</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>listUsbDevices now yields dictionaries with device information including hardwareID and devicePath.</source>
-        <target>listUsbDevices now yields dictionaries with device information including hardwareID and devicePath.</target>
+        <target>listUsbDevices renvoie maintenant des dictionnaires contenant des informations sur les appareils, y compris le hardwareID et le devicePath.</target>
       </segment>
     </unit>
     <unit id="adef37fc-704a-41e1-9166-9306791ec88c">
@@ -30381,9 +30382,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2980</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Dictionaries yielded by listComPorts now also contain a usbID entry for COM ports with USB VID/PID information in their hardware ID.</source>
-        <target>Dictionaries yielded by listComPorts now also contain a usbID entry for COM ports with USB VID/PID information in their hardware ID.</target>
+        <target>Les dictionnaires renvoyés par listComPorts contiennent désormais une entrée usbID pour les ports COM avec des informations VID/PID USB dans leur identifiant matériel.</target>
       </segment>
     </unit>
     <unit id="6a45beeb-9419-4733-87a7-3bf403f80afc">
@@ -30421,9 +30422,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2984</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>config.pre_configSave is used to be notified when NVDA's configuration is about to be saved, and config.post_configSave is called after configuration has been saved.</source>
-        <target>config.pre_configSave is used to be notified when NVDA's configuration is about to be saved, and config.post_configSave is called after configuration has been saved.</target>
+        <target>config.pre_configSave est utilisé pour être notifié lorsque la configuration de NVDA est sur le point d'être sauvegardée, et config.post_configSave est appelé après que la configuration a été sauvegardée.</target>
       </segment>
     </unit>
     <unit id="14b8f759-8640-499d-9c94-cddd71132ae8">
@@ -30431,9 +30432,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2985</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>config.pre_configReset and config.post_configReset includes a factory defaults flag to specify if settings are reloaded from disk (false) or reset to defaults (true).</source>
-        <target>config.pre_configReset and config.post_configReset includes a factory defaults flag to specify if settings are reloaded from disk (false) or reset to defaults (true).</target>
+        <target>config.pre_configReset et config.post_configReset incluent un indicateur de valeurs par défaut d'usine pour spécifier si les paramètres sont rechargés depuis le disque (false) ou réinitialisés aux valeurs par défaut (true).</target>
       </segment>
     </unit>
     <unit id="958ef1ea-f30d-4c31-a556-e2567399ad75">
@@ -30461,7 +30462,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2989</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.2.1</source>
         <target>2018.2.1</target>
       </segment>
@@ -30480,7 +30481,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2993</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.2</source>
         <target>2018.2</target>
       </segment>
@@ -30609,9 +30610,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3009</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can assign these new modifier toggles using the commands found under Emulated system keyboard keys in the Input gestures dialog.</source>
-        <target>You can assign these new modifier toggles using the commands found under Emulated system keyboard keys in the Input gestures dialog.</target>
+        <target>Vous pouvez assigner ces nouveaux bascules de modificateurs en utilisant les commandes trouvées sous Touches émulées du clavier dans la boîte de dialogue des gestes de commandes.</target>
       </segment>
     </unit>
     <unit id="82c327d6-fe80-415a-8030-df9f0cdb3f85">
@@ -31009,7 +31010,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3056</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.1.1</source>
         <target>2018.1.1</target>
       </segment>
@@ -31028,7 +31029,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3060</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.1</source>
         <target>2018.1</target>
       </segment>
@@ -31067,9 +31068,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3067</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Microsoft Word:  When in browse mode, cursor to an embedded chart and press enter to interact with it.</source>
-        <target>In Microsoft Word:  When in browse mode, cursor to an embedded chart and press enter to interact with it.</target>
+        <target>Dans Microsoft Word : Lorsque vous êtes en mode navigation, déplacez le curseur vers un graphique intégré et appuyez sur Entrée pour interagir avec celui-ci.</target>
       </segment>
     </unit>
     <unit id="fb635116-e306-449e-9dd6-c05154f40469">
@@ -31077,9 +31078,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3068</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Microsoft PowerPoint when editing a slide: tab to a chart object, and press enter or space to interact with the chart.</source>
-        <target>In Microsoft PowerPoint when editing a slide: tab to a chart object, and press enter or space to interact with the chart.</target>
+        <target>Dans Microsoft PowerPoint lors de l'édition d'une diapositive : appuyez sur Tab pour atteindre un objet graphique, puis appuyez sur Entrée ou Espace pour interagir avec le graphique.</target>
       </segment>
     </unit>
     <unit id="d7cab9f4-98c1-4a56-a42a-fad2b7f9d5aa">
@@ -31087,9 +31088,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3069</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To stop interacting with a chart, press escape.</source>
-        <target>To stop interacting with a chart, press escape.</target>
+        <target>Pour arrêter d'interagir avec un graphique, appuyez sur Échap.</target>
       </segment>
     </unit>
     <unit id="759aef01-83a7-4917-be4f-7e000a01ecde">
@@ -31137,9 +31138,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3074</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA's braille input functionality can be used with these as well as other BC6 displays with firmware 3.0.0 and above.</source>
-        <target>NVDA's braille input functionality can be used with these as well as other BC6 displays with firmware 3.0.0 and above.</target>
+        <target>La fonctionnalité de saisie braille de NVDA peut être utilisée avec ceux-ci ainsi qu'avec d'autres afficheurs BC6 ayant un firmware 3.0.0 et supérieur.</target>
       </segment>
     </unit>
     <unit id="36b0d652-de3a-40aa-afdd-ec409e1cd4c8">
@@ -31187,9 +31188,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3081</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Some keys , notably scroll keys, have been reassigned to follow the conventions used by Hims products. Consult the user guide for more details.</source>
-        <target>Some keys , notably scroll keys, have been reassigned to follow the conventions used by Hims products. Consult the user guide for more details.</target>
+        <target>Certaines touches, notamment les touches de défilement, ont été réaffectées pour suivre les conventions utilisées par les produits Hims. Consultez le guide de l'utilisateur pour plus de détails.</target>
       </segment>
     </unit>
     <unit id="b97f8e8b-150a-4835-9988-2b5ded47312f">
