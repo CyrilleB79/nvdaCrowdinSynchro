@@ -27615,9 +27615,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2649</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>New code should use from configobj import validate instead of import validate</source>
-        <target>New code should use from configobj import validate instead of import validate</target>
+        <target>Le nouveau code devrait utiliser from configobj import validate au lieu de import validate</target>
       </segment>
     </unit>
     <unit id="1b979466-16a8-4b71-85b1-6eb204db1364">
@@ -27625,9 +27625,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2650</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>textInfos.Point and textInfos.Rect replaced by locationHelper.Point and locationHelper.RectLTRB respectively.</source>
-        <target>textInfos.Point and textInfos.Rect replaced by locationHelper.Point and locationHelper.RectLTRB respectively.</target>
+        <target>textInfos.Point et textInfos.Rect remplacés respectivement par locationHelper.Point et locationHelper.RectLTRB.</target>
       </segment>
     </unit>
     <unit id="3a046018-430c-426b-bd7e-5a6745812285">
@@ -27635,9 +27635,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2651</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>braille.BrailleHandler._get_tether and braille.BrailleHandler.set_tether have been removed.</source>
-        <target>braille.BrailleHandler._get_tether and braille.BrailleHandler.set_tether have been removed.</target>
+        <target>braille.BrailleHandler._get_tether et braille.BrailleHandler.set_tether ont été supprimés.</target>
       </segment>
     </unit>
     <unit id="cd6a7e99-d0e1-496c-9b96-c26943019e69">
@@ -27645,9 +27645,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2652</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>config.getConfigDirs has been removed.</source>
-        <target>config.getConfigDirs has been removed.</target>
+        <target>config.getConfigDirs a été supprimé.</target>
       </segment>
     </unit>
     <unit id="eecfafec-5f25-488d-9062-a043c532d8b6">
@@ -27655,9 +27655,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2653</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>config.ConfigManager.getConfigValidationParameter has been replaced by getConfigValidation</source>
-        <target>config.ConfigManager.getConfigValidationParameter has been replaced by getConfigValidation</target>
+        <target>config.ConfigManager.getConfigValidationParameter a été remplacé par getConfigValidation</target>
       </segment>
     </unit>
     <unit id="c0c75363-7aa4-4e00-bc1c-a2a27480d970">
@@ -27665,9 +27665,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2654</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>inputCore.InputGesture.logIdentifier property has been removed.</source>
-        <target>inputCore.InputGesture.logIdentifier property has been removed.</target>
+        <target>la propriété inputCore.InputGesture.logIdentifier a été supprimée.</target>
       </segment>
     </unit>
     <unit id="65273eab-5b83-420f-9175-e582cf93b09c">
@@ -27675,9 +27675,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2655</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use _get_identifiers in inputCore.InputGesture instead.</source>
-        <target>Use _get_identifiers in inputCore.InputGesture instead.</target>
+        <target>Utilisez _get_identifiers dans inputCore.InputGesture à la place.</target>
       </segment>
     </unit>
     <unit id="d7370569-dbc8-49c7-848d-4f426efb5a6f">
@@ -27685,9 +27685,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2656</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>synthDriverHandler.SynthDriver.speakText/speakCharacter have been removed.</source>
-        <target>synthDriverHandler.SynthDriver.speakText/speakCharacter have been removed.</target>
+        <target>synthDriverHandler.SynthDriver.speakText/speakCharacter ont été supprimés.</target>
       </segment>
     </unit>
     <unit id="50cee752-8db9-4ade-ae50-bfbe03f70309">
@@ -27695,9 +27695,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2657</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Removed several synthDriverHandler.SynthSetting classes.</source>
-        <target>Removed several synthDriverHandler.SynthSetting classes.</target>
+        <target>Plusieurs classes synthDriverHandler.SynthSetting ont été supprimées.</target>
       </segment>
     </unit>
     <unit id="5de3f153-0057-4dfe-88e7-decc4807f66d">
@@ -27705,9 +27705,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2658</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Previously kept for backwards compatibility (#8214), now considered obsolete.</source>
-        <target>Previously kept for backwards compatibility (#8214), now considered obsolete.</target>
+        <target>Auparavant conservées pour la rétrocompatibilité (#8214), maintenant considérées comme obsolètes.</target>
       </segment>
     </unit>
     <unit id="d88ff69d-95c4-45ce-9a10-910fa263d688">
@@ -27715,9 +27715,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2659</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Drivers that used the SynthSetting classes should be updated to use the DriverSetting classes.</source>
-        <target>Drivers that used the SynthSetting classes should be updated to use the DriverSetting classes.</target>
+        <target>Les pilotes qui utilisaient les classes SynthSetting doivent être mis à jour pour utiliser les classes DriverSetting.</target>
       </segment>
     </unit>
     <unit id="8ec491c8-4651-4867-b2fe-2574a19fe1a4">
@@ -27725,9 +27725,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2660</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Some legacy code has been removed, particularly:</source>
-        <target>Some legacy code has been removed, particularly:</target>
+        <target>Certains codes obsolètes ont été supprimés, notamment:</target>
       </segment>
     </unit>
     <unit id="08491303-c338-4bc3-b144-0af74c26a962">
@@ -27735,9 +27735,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2661</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Support for the Outlook pre 2003 message list.</source>
-        <target>Support for the Outlook pre 2003 message list.</target>
+        <target>La prise en charge des listes de messages Outlook antérieurs à 2003.</target>
       </segment>
     </unit>
     <unit id="573e13e0-6c10-4cb5-97cf-442054df9f8d">
@@ -27745,9 +27745,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2662</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>An overlay class for the classic start menu, only found in Windows Vista and earlier.</source>
-        <target>An overlay class for the classic start menu, only found in Windows Vista and earlier.</target>
+        <target>Une classe de superposition pour le menu Démarrer classique, présent uniquement dans Windows Vista et versions antérieures.</target>
       </segment>
     </unit>
     <unit id="dbb05d2c-f5ec-49f6-877d-0d2c70c39eca">
@@ -27755,9 +27755,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2663</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Dropped support for Skype 7, as it is definitely not working any more.</source>
-        <target>Dropped support for Skype 7, as it is definitely not working any more.</target>
+        <target>Abandon de la prise en charge de Skype 7, qui ne fonctionne définitivement plus.</target>
       </segment>
     </unit>
     <unit id="f02d2d02-4766-4ab9-b24a-6a8218ed7a76">
@@ -27775,9 +27775,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2665</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-ons can bundle their own providers in a visionEnhancementProviders folder.</source>
-        <target>Add-ons can bundle their own providers in a visionEnhancementProviders folder.</target>
+        <target>Les extensions peuvent regrouper leurs propres fournisseurs dans un dossier visionEnhancementProviders.</target>
       </segment>
     </unit>
     <unit id="78597a80-9391-4a02-af35-f3ed128c1e47">
@@ -27785,9 +27785,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2666</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>See the vision and visionEnhancementProviders modules for the implementation of the framework and examples, respectively.</source>
-        <target>See the vision and visionEnhancementProviders modules for the implementation of the framework and examples, respectively.</target>
+        <target>Consultez les modules vision et visionEnhancementProviders pour l'implémentation du framework et les exemples respectifs.</target>
       </segment>
     </unit>
     <unit id="f6f6f454-efbb-40cf-bca4-c5468f4f2a50">
@@ -27795,9 +27795,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2667</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Vision enhancement providers are enabled and configured via the 'vision' category in NVDA's settings dialog.</source>
-        <target>Vision enhancement providers are enabled and configured via the 'vision' category in NVDA's settings dialog.</target>
+        <target>Les fournisseurs d'amélioration de la vision sont activés et configurés via la catégorie 'vision' dans la boîte de dialogue des paramètres de NVDA.</target>
       </segment>
     </unit>
     <unit id="2ed2d65d-682c-4fc1-9a48-eaa57b73e2ee">
@@ -27825,9 +27825,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2670</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This new constant allows walking over the text in a DisplayModelTextInfo in a way that more closely resembles how the text chunks are saved in the underlying model.</source>
-        <target>This new constant allows walking over the text in a DisplayModelTextInfo in a way that more closely resembles how the text chunks are saved in the underlying model.</target>
+        <target>Cette nouvelle constante permet de parcourir le texte dans un DisplayModelTextInfo d'une manière qui ressemble davantage à la façon dont les fragments de texte sont enregistrés dans le modèle sous-jacent.</target>
       </segment>
     </unit>
     <unit id="274fe980-f39e-4422-9baa-e3b4045fadec">
@@ -27885,9 +27885,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2676</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Exceptions caused by the "chooseNVDAObjectOverlayClasses" and "event_NVDAObject_init" methods are now properly caught and logged.</source>
-        <target>Exceptions caused by the "chooseNVDAObjectOverlayClasses" and "event_NVDAObject_init" methods are now properly caught and logged.</target>
+        <target>Les exceptions causées par les méthodes "chooseNVDAObjectOverlayClasses" et "event_NVDAObject_init" sont maintenant correctement interceptées et enregistrées.</target>
       </segment>
     </unit>
     <unit id="4ad56ec8-e926-4402-b649-e00b90b38199">
@@ -27915,7 +27915,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2680</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2019.2.1</source>
         <target>2019.2.1</target>
       </segment>
@@ -27974,7 +27974,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2689</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2019.2</source>
         <target>2019.2</target>
       </segment>
@@ -28023,9 +28023,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2697</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that when this option is disabled, you can still enable browse mode manually by pressing NVDA+space.</source>
-        <target>Note that when this option is disabled, you can still enable browse mode manually by pressing NVDA+space.</target>
+        <target>Notez que lorsque cette option est désactivée, vous pouvez toujours activer manuellement le mode navigation en appuyant sur NVDA+espace.</target>
       </segment>
     </unit>
     <unit id="4e878d91-86b9-4bc7-a2c2-cd9bf3f1987b">
@@ -28083,9 +28083,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2703</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The gesture must be configured in the "Input gestures" dialog.</source>
-        <target>The gesture must be configured in the "Input gestures" dialog.</target>
+        <target>Le geste doit être configuré dans la boîte de dialogue "Gestes de commandes".</target>
       </segment>
     </unit>
     <unit id="a4d9ec78-de78-43ab-b828-e99cb0a54362">
@@ -28103,9 +28103,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2705</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Additionally, Javadoc information can be read from the editor when it is present by using NVDA+d.</source>
-        <target>Additionally, Javadoc information can be read from the editor when it is present by using NVDA+d.</target>
+        <target>De plus, les informations Javadoc peuvent être lues depuis l'éditeur lorsqu'elles sont présentes en utilisant NVDA+d.</target>
       </segment>
     </unit>
     <unit id="4290ad2c-30fe-4dfb-a786-1a92784b1f5c">
@@ -28123,9 +28123,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2707</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Rubber band effect: NVDA sporadically undoes the last browse mode keystroke by jumping to the previous location.</source>
-        <target>Rubber band effect: NVDA sporadically undoes the last browse mode keystroke by jumping to the previous location.</target>
+        <target>Effet élastique: NVDA annule sporadiquement la dernière frappe en mode navigation en revenant à l'emplacement précédent.</target>
       </segment>
     </unit>
     <unit id="0b0c0477-1ddf-470d-af21-3c92f5616995">
@@ -28133,9 +28133,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2708</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Edit boxes steal system focus when arrowing down through them on some websites.</source>
-        <target>Edit boxes steal system focus when arrowing down through them on some websites.</target>
+        <target>Les zones d'édition capturent le focus système lors du défilement à travers elles sur certains sites web.</target>
       </segment>
     </unit>
     <unit id="87443c4d-ac48-433b-a3dc-2d9b34bec296">
@@ -28143,9 +28143,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2709</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Browse mode keystrokes are slow to respond.</source>
-        <target>Browse mode keystrokes are slow to respond.</target>
+        <target>Les raccourcis clavier en mode navigation répondent lentement.</target>
       </segment>
     </unit>
     <unit id="9b6eb7e5-7e9d-46fb-a2b7-2cdd78fdadc0">
@@ -28623,9 +28623,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2763</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that this shadows the gettext translation function also called "_". To access the translation function: del _</source>
-        <target>Note that this shadows the gettext translation function also called "_". To access the translation function: del _</target>
+        <target>Notez que cela masque la fonction de traduction gettext également appelée "_". Pour accéder à la fonction de traduction : del _</target>
       </segment>
     </unit>
     <unit id="42f8845c-db12-4104-bbe9-eba95dc26b4b">
@@ -28633,7 +28633,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2765</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2019.1.1</source>
         <target>2019.1.1</target>
       </segment>
@@ -28692,7 +28692,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2774</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2019.1</source>
         <target>2019.1</target>
       </segment>
@@ -28777,9 +28777,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2787</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This will allow NVDA to track the mouse when a system is controlled remotely using TeamViewer or other remote control software.</source>
-        <target>This will allow NVDA to track the mouse when a system is controlled remotely using TeamViewer or other remote control software.</target>
+        <target>Cela permettra à NVDA de suivre la souris lorsqu'un système est contrôlé à distance à l'aide de TeamViewer ou d'autres logiciels de contrôle à distance.</target>
       </segment>
     </unit>
     <unit id="fed57042-9776-481a-b4c1-3832591f9f25">
@@ -28827,9 +28827,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2792</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This works in Firefox 66 and later.</source>
-        <target>This works in Firefox 66 and later.</target>
+        <target>Cela fonctionne dans Firefox 66 et les versions ultérieures.</target>
       </segment>
     </unit>
     <unit id="be07e380-e9b7-45f4-82f9-1aa88087ad53">
@@ -28837,9 +28837,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2793</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This does not work for certain list boxes (HTML select controls) in Chrome.</source>
-        <target>This does not work for certain list boxes (HTML select controls) in Chrome.</target>
+        <target>Cela ne fonctionne pas pour certaines zones de liste (Contrôles de sélection HTML) dans Chrome.</target>
       </segment>
     </unit>
     <unit id="c7b16a5f-6265-4987-873a-f9a293faa4f6">
@@ -28997,9 +28997,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2811</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For developers who need to test code as it is being developed,  enable NVDA's developer scratchpad directory in the Advanced category of NVDA settings, and place your code in the 'scratchpad' directory found in the NVDA user configuration directory when this option is enabled.</source>
-        <target>For developers who need to test code as it is being developed,  enable NVDA's developer scratchpad directory in the Advanced category of NVDA settings, and place your code in the 'scratchpad' directory found in the NVDA user configuration directory when this option is enabled.</target>
+        <target>Pour les développeurs qui doivent tester du code pendant son développement, activez le répertoire du bloc-notes du développeur de NVDA dans la catégorie Avancé des paramètres de NVDA, et placez votre code dans le répertoire 'scratchpad' situé dans le répertoire de configuration utilisateur de NVDA lorsque cette option est activée.</target>
       </segment>
     </unit>
     <unit id="be5994b0-e951-4aae-a0ab-62ae42a3b274">
@@ -29317,9 +29317,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2847</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>minimumNVDAVersion: The minimum required version of NVDA for an add-on to work properly.</source>
-        <target>minimumNVDAVersion: The minimum required version of NVDA for an add-on to work properly.</target>
+        <target>minimumNVDAVersion : La version minimale de NVDA requise pour qu'une extension fonctionne correctement.</target>
       </segment>
     </unit>
     <unit id="a9d2fd47-9244-48ff-999a-d5653b87a8c7">
@@ -29327,9 +29327,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2848</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>lastTestedNVDAVersion: The last version of NVDA an add-on has been tested with.</source>
-        <target>lastTestedNVDAVersion: The last version of NVDA an add-on has been tested with.</target>
+        <target>lastTestedNVDAVersion : La dernière version de NVDA avec laquelle une extension a été testée.</target>
       </segment>
     </unit>
     <unit id="8816ed83-6d5e-476b-839e-628241020ebb">
@@ -29377,7 +29377,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2854</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.4.1</source>
         <target>2018.4.1</target>
       </segment>
@@ -29396,7 +29396,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2858</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.4</source>
         <target>2018.4</target>
       </segment>
@@ -29725,9 +29725,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2900</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>CustomCheckListBox is an accessible subclass of wx.CheckListBox.</source>
-        <target>CustomCheckListBox is an accessible subclass of wx.CheckListBox.</target>
+        <target>CustomCheckListBox est une sous-classe accessible de wx.CheckListBox.</target>
       </segment>
     </unit>
     <unit id="f30a6a4b-ddc8-4c6b-a8a9-8653d4cf8ddc">
@@ -29735,9 +29735,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2901</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>AutoWidthColumnCheckListCtrl adds accessible check boxes to an AutoWidthColumnListCtrl, which itself is based on wx.ListCtrl.</source>
-        <target>AutoWidthColumnCheckListCtrl adds accessible check boxes to an AutoWidthColumnListCtrl, which itself is based on wx.ListCtrl.</target>
+        <target>AutoWidthColumnCheckListCtrl ajoute des cases à cocher accessibles à un AutoWidthColumnListCtrl, qui est lui-même basé sur wx.ListCtrl.</target>
       </segment>
     </unit>
     <unit id="138ad8d3-6ffb-4f18-9d71-88fa05039e81">
@@ -29755,9 +29755,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2903</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>See the implementation of gui.nvdaControls.ListCtrlAccPropServer for more info.</source>
-        <target>See the implementation of gui.nvdaControls.ListCtrlAccPropServer for more info.</target>
+        <target>Consultez l'implémentation de gui.nvdaControls.ListCtrlAccPropServer pour plus d'informations.</target>
       </segment>
     </unit>
     <unit id="10ed6554-ac83-4dc2-af12-706826ccc345">
@@ -29785,7 +29785,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2907</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.3.2</source>
         <target>2018.3.2</target>
       </segment>
@@ -29804,7 +29804,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2911</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.3.1</source>
         <target>2018.3.1</target>
       </segment>
@@ -29823,7 +29823,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2915</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2018.3</source>
         <target>2018.3</target>
       </segment>
@@ -29932,9 +29932,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2929</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>ALVA, Baum/HumanWare/APH/Orbit, Eurobraille, Handy Tech, Hims, SuperBraille and HumanWare BrailleNote and Brailliant BI/B displays are currently supported.</source>
-        <target>ALVA, Baum/HumanWare/APH/Orbit, Eurobraille, Handy Tech, Hims, SuperBraille and HumanWare BrailleNote and Brailliant BI/B displays are currently supported.</target>
+        <target>Les plages braille ALVA, Baum/HumanWare/APH/Orbit, Eurobraille, Handy Tech, Hims, SuperBraille et HumanWare BrailleNote et Brailliant BI/B sont actuellement prises en charge.</target>
       </segment>
     </unit>
     <unit id="061a82fb-85fb-4d57-a51b-ed6cb3bc4c42">
@@ -29942,9 +29942,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2930</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can enable this feature by selecting the automatic option from the list of braille displays in NVDA's braille display selection dialog.</source>
-        <target>You can enable this feature by selecting the automatic option from the list of braille displays in NVDA's braille display selection dialog.</target>
+        <target>Vous pouvez activer cette fonctionnalité en sélectionnant l'option automatique dans la liste des plages braille dans la boîte de dialogue de sélection de l'afficheur braille de NVDA.</target>
       </segment>
     </unit>
     <unit id="85a345e0-3d62-4f5c-af90-10dd327f4af3">
@@ -29952,9 +29952,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2931</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please consult the documentation for additional details.</source>
-        <target>Please consult the documentation for additional details.</target>
+        <target>Veuillez consulter la documentation pour plus de détails.</target>
       </segment>
     </unit>
     <unit id="3f00a1da-09b0-4a7c-9301-4937ef08b348">
@@ -30272,9 +30272,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2967</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Similar to other multiline text fields, When positioned at the start of a document in Braille, the display is now panned such that the first character of the document is at the start of the display. (#8406)</source>
-        <target>Similar to other multiline text fields, When positioned at the start of a document in Braille, the display is now panned such that the first character of the document is at the start of the display. (#8406)</target>
+        <target>Comme pour les autres champs de texte multiligne, lorsqu'on se trouve au début d'un document en Braille, l'affichage est maintenant déplacé de manière à ce que le premier caractère du document se trouve au début de l'affichage. (#8406)</target>
       </segment>
     </unit>
     <unit id="ea472bb4-5edd-4f6f-b1dc-6ce4a120b88b">
@@ -30282,9 +30282,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 2968</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reduced overly verbose focus presentation in both speech and braille when focusing a Word document. (#8407)</source>
-        <target>Reduced overly verbose focus presentation in both speech and braille when focusing a Word document. (#8407)</target>
+        <target>Réduction de la présentation trop verbeuse du focus à la fois en parole et en braille lors de la mise en focus d'un document Word. (#8407)</target>
       </segment>
     </unit>
     <unit id="22cd5464-d9b5-42d6-96ce-fbdc75740513">
@@ -35927,9 +35927,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3651</note>
         <note appliesTo="source">prefix:     1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Open the General Settings dialog again.</source>
-        <target>Open the General Settings dialog again.</target>
+        <target>Ouvrez à nouveau la boîte de dialogue des paramètres généraux.</target>
       </segment>
     </unit>
     <unit id="74c2621d-06e3-456e-bad2-79bbba7a4bb3">

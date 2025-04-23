@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-22 23:28+0000\n"
-"PO-Revision-Date: 2025-04-23 12:23\n"
+"PO-Revision-Date: 2025-04-23 13:23\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1865,7 +1865,7 @@ msgstr "Télougou intégral"
 #. braille settings dialog.
 #: brailleTables.py:737
 msgid "Thai 8 dot computer braille"
-msgstr "Thaï Braille informatique 8 points"
+msgstr "Braille informatique thaï 8 points"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -3007,7 +3007,7 @@ msgstr "Bas"
 #. Translators: Description for the Move past end of container command in browse mode.
 #: browseMode.py:2326
 msgid "Moves past the end of the container element, such as a list or table"
-msgstr "Aller à la fin de l'élément de conteneur tel qu'une liste ou un tableau"
+msgstr "Se déplace au-delà de la fin de l'élément conteneur, comme une liste ou un tableau"
 
 #. Translators: the description for the toggleScreenLayout script.
 #. Translators: the description for the toggleScreenLayout script on virtualBuffers.
@@ -11609,35 +11609,40 @@ msgid "Welcome to the COM Registration Fixing tool.\n\n"
 "Installing and uninstalling programs, as well as other events, can damage accessibility entries in the Windows registry. This can cause previously accessible elements to be presented incorrectly, or can cause \"unknown\" or \"pane\" to be spoken or brailled in some applications or Windows components, instead of the content you were expecting.\n\n"
 "This tool attempts to fix such common problems. Note that the tool must access the system registry, which requires administrative privileges.\n\n"
 "Press Continue to run the tool now."
-msgstr ""
+msgstr "Bienvenue dans l'outil de correction des enregistrements COM.\n\n"
+"L'installation et la désinstallation de programmes, ainsi que d'autres événements, peuvent endommager les entrées d'accessibilité dans le registre Windows. Cela peut entraîner une mauvaise présentation des éléments précédemment accessibles ou faire en sorte que certains éléments soient annoncés comme \"inconnu\" ou \"volet\" dans certaines applications ou composants Windows, au lieu du contenu attendu. \n\n"
+"Cet outil tente de résoudre ce type de problèmes courants. Veuillez noter que l'outil doit accéder au registre système, ce qui nécessite des privilèges administrateur.\n\n"
+"Appuyez sur Continuer pour exécuter l'outil maintenant."
 
 #. Translators: The title of various dialogs displayed when using the COM Registration Fixing tool
 #: gui\__init__.py:522
 msgid "Fix COM Registrations"
-msgstr ""
+msgstr "Correction des enregistrements COM"
 
 #. Translators: The message displayed while NVDA is running the COM Registration fixing tool
 #: gui\__init__.py:537
 msgid "Please wait while NVDA attempts to fix your system's COM registrations..."
-msgstr ""
+msgstr "Veuillez patienter pendant que NVDA tente de corriger les enregistrements COM de votre système..."
 
 #. Translators: message shown to the user on COM Registration Fix fail
 #: gui\__init__.py:564
 #, python-brace-format
 msgid "The COM Registration Fixing Tool was unsuccessful. This Windows error may provide more information.\n"
 "{error}"
-msgstr ""
+msgstr "L'outil de correction des enregistrements COM a échoué. Cette erreur Windows pourrait fournir plus d'informations.\n"
+"{error}"
 
 #. Translators: The title of a COM Registration Fixing Tool dialog, when the tool has failed
 #: gui\__init__.py:568
 msgid "COM Registration Fixing Tool Failed"
-msgstr ""
+msgstr "Échec de l'outil de correction des enregistrements COM"
 
 #. Translators: Message shown when the COM Registration Fixing tool completes.
 #: gui\__init__.py:575
 msgid "The COM Registration Fixing Tool has completed successfully.\n"
 "It is highly recommended that you restart your computer now, to make sure the changes take full effect."
-msgstr ""
+msgstr "L'outil de correction des enregistrements COM a été exécuté avec succès.\n"
+"Il est fortement recommandé de redémarrer votre ordinateur maintenant pour vous assurer que les modifications prennent pleinement effet."
 
 #. Translators: The label for the menu item to open NVDA Settings dialog.
 #: gui\__init__.py:602
