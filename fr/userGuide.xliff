@@ -25240,9 +25240,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#RemoteSettings}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Settings</source>
-        <target>Remote Settings</target>
+        <target>Paramètres à distance</target>
       </segment>
     </unit>
     <unit id="34d45e86-1a4c-470a-9fb6-4812a2ce7c7e">
