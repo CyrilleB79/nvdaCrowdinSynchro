@@ -35917,9 +35917,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3650</note>
         <note appliesTo="source">prefix:     1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Press the OK button.</source>
-        <target>Press the OK button.</target>
+        <target>Appuyez sur le bouton OK.</target>
       </segment>
     </unit>
     <unit id="febdd8d5-7217-4614-99e4-6e342cae1fa6">
@@ -39863,9 +39863,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4121</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Object review reviews text just within the navigator object, document review reviews all text in a browse mode document (if any) and screen review reviews text on the screen for the current application.</source>
-        <target>Object review reviews text just within the navigator object, document review reviews all text in a browse mode document (if any) and screen review reviews text on the screen for the current application.</target>
+        <target>La revue d'objet examine le texte uniquement dans l'objet navigateur, la revue de document examine tout le texte dans un document en mode navigation (s'il y en a) et la revue de l'écran examine le texte sur l'écran pour l'application actuelle.</target>
       </segment>
     </unit>
     <unit id="50572fe8-b2b5-422e-8ec6-52151ae20d4d">
@@ -39873,9 +39873,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4122</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The commands that previously move to/from flat review now toggle between these new review modes.</source>
-        <target>The commands that previously move to/from flat review now toggle between these new review modes.</target>
+        <target>Les commandes qui déplaçaient auparavant vers/depuis la revue basculent maintenant entre ces nouveaux modes de revue.</target>
       </segment>
     </unit>
     <unit id="7c8c3a22-0e66-4872-98a9-1b949c91c2d3">
@@ -39883,9 +39883,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4123</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The navigator object automatically follows the review cursor such that it remains the deepest object at the position of the review cursor when in document or screen review modes.</source>
-        <target>The navigator object automatically follows the review cursor such that it remains the deepest object at the position of the review cursor when in document or screen review modes.</target>
+        <target>L'objet navigateur suit automatiquement le curseur de revue de sorte qu'il reste l'objet le plus profond à la position du curseur de revue lorsqu'il est en modes de revue de document ou de l'écran.</target>
       </segment>
     </unit>
     <unit id="f12a607c-3860-4b89-a68f-7f8600266e77">
@@ -39893,9 +39893,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4124</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>After switching to screen review mode, NVDA will stay in this mode until you explicitly switch back to document or object review mode.</source>
-        <target>After switching to screen review mode, NVDA will stay in this mode until you explicitly switch back to document or object review mode.</target>
+        <target>Après avoir basculé en mode revue de l'écran, NVDA restera dans ce mode jusqu'à ce que vous reveniez explicitement au mode revue de document ou d'objet.</target>
       </segment>
     </unit>
     <unit id="5c497b0b-d29b-42e4-b4ac-999791cac62e">
@@ -39903,9 +39903,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4125</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When in document or object review mode, NVDA may automatically switch between these two modes depending on whether you are moving around a browse mode document or not.</source>
-        <target>When in document or object review mode, NVDA may automatically switch between these two modes depending on whether you are moving around a browse mode document or not.</target>
+        <target>En mode revue de document ou d'objet, NVDA peut automatiquement basculer entre ces deux modes selon que vous vous déplacez ou non dans un document en mode navigation.</target>
       </segment>
     </unit>
     <unit id="b49e5b9f-4dd7-4c03-96b0-e94130642c42">
@@ -40293,9 +40293,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4168</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-ons which depend on bisect (including the urllib2 module) should be updated to include this module.</source>
-        <target>Add-ons which depend on bisect (including the urllib2 module) should be updated to include this module.</target>
+        <target>Les extensions qui dépendent de bisect (y compris le module urllib2) devraient être mis à jour pour inclure ce module.</target>
       </segment>
     </unit>
     <unit id="8b6614a6-b9c3-4f6f-9cb4-597ea07b7562">
@@ -40303,7 +40303,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4170</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2013.1.1</source>
         <target>2013.1.1</target>
       </segment>
@@ -40362,7 +40362,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4180</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2013.1</source>
         <target>2013.1</target>
       </segment>
@@ -40381,7 +40381,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4184</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Important</source>
         <target>Important</target>
       </segment>
@@ -41081,9 +41081,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4268</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is most useful for braille displays which support connection via a legacy serial port.</source>
-        <target>This is most useful for braille displays which support connection via a legacy serial port.</target>
+        <target>Cela est particulièrement utile pour les anciens afficheurs braille qui prennent en charge la connexion via un port série.</target>
       </segment>
     </unit>
     <unit id="1503d3bf-98fd-47ef-89a6-54c34f1f4285">
@@ -41091,9 +41091,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4269</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is done using the getPossiblePorts class method on the BrailleDisplayDriver class.</source>
-        <target>This is done using the getPossiblePorts class method on the BrailleDisplayDriver class.</target>
+        <target>Cela se fait en utilisant la méthode de classe getPossiblePorts sur la classe BrailleDisplayDriver.</target>
       </segment>
     </unit>
     <unit id="a1a261af-3afa-48c1-953a-8828cef942ee">
@@ -41111,9 +41111,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4271</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille input is encompassed by the brailleInput.BrailleInputGesture class or a subclass thereof.</source>
-        <target>Braille input is encompassed by the brailleInput.BrailleInputGesture class or a subclass thereof.</target>
+        <target>La saisie braille est englobée par la classe brailleInput.BrailleInputGesture ou une sous-classe de celle-ci.</target>
       </segment>
     </unit>
     <unit id="d064e441-6e9f-4d2e-9864-8b4c012aae79">
@@ -41121,9 +41121,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4272</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Subclasses of braille.BrailleDisplayGesture (as implemented in braille display drivers) can also inherit from brailleInput.BrailleInputGesture. This allows display commands and braille input to be handled by the same gesture class.</source>
-        <target>Subclasses of braille.BrailleDisplayGesture (as implemented in braille display drivers) can also inherit from brailleInput.BrailleInputGesture. This allows display commands and braille input to be handled by the same gesture class.</target>
+        <target>Les sous-classes de braille.BrailleDisplayGesture (telles qu'implémentées dans les pilotes d'affichage braille) peuvent également hériter de brailleInput.BrailleInputGesture. Cela permet aux commandes d'affichage et à la saisie braille d'être gérées par la même classe de geste.</target>
       </segment>
     </unit>
     <unit id="213ab34a-21d5-4c87-9217-f8c2b3c98359">
@@ -41141,7 +41141,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4275</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2012.3</source>
         <target>2012.3</target>
       </segment>
@@ -41180,9 +41180,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4282</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reporting and navigation of candidate lists;</source>
-        <target>Reporting and navigation of candidate lists;</target>
+        <target>Annonce et navigation des listes de candidats;</target>
       </segment>
     </unit>
     <unit id="de6e07b7-03c0-4fd5-9161-6686663ba673">
@@ -41190,9 +41190,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4283</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reporting and navigation of composition strings; and</source>
-        <target>Reporting and navigation of composition strings; and</target>
+        <target>Annonce et navigation des chaînes de composition ; et</target>
       </segment>
     </unit>
     <unit id="95b47787-9fcf-4e7d-80ef-1cc0b8e3ded1">
