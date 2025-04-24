@@ -33184,9 +33184,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3315</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you want normalized identifiers, there is now an InputGesture.normalizedIdentifiers property which normalizes the identifiers returned by the identifiers property .</source>
-        <target>If you want normalized identifiers, there is now an InputGesture.normalizedIdentifiers property which normalizes the identifiers returned by the identifiers property .</target>
+        <target>Si vous voulez des identifiants normalisés, il existe maintenant une propriété InputGesture.normalizedIdentifiers qui normalise les identifiants renvoyés par la propriété identifiers.</target>
       </segment>
     </unit>
     <unit id="cb07fb8a-fe93-4c74-b407-30d14f2556c0">
@@ -33214,9 +33214,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3318</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`speech.REASON_*` constants: `controlTypes.REASON_*` should be used instead. (#6846)</source>
-        <target>`speech.REASON_*` constants: `controlTypes.REASON_*` should be used instead. (#6846)</target>
+        <target>Constantes `speech.REASON_*` : `controlTypes.REASON_*` doit être utilisé à la place. (#6846)</target>
       </segment>
     </unit>
     <unit id="80caa7bd-4270-48c3-8740-439240236ce6">
@@ -33224,9 +33224,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3319</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`i18nName` for synth settings: `displayName` and `displayNameWithAccelerator` should be used instead. (#6846, #5185)</source>
-        <target>`i18nName` for synth settings: `displayName` and `displayNameWithAccelerator` should be used instead. (#6846, #5185)</target>
+        <target>`i18nName` pour les paramètres de synthèse : `displayName` et `displayNameWithAccelerator` doivent être utilisés à la place. (#6846, #5185)</target>
       </segment>
     </unit>
     <unit id="128b170d-24c2-456f-92da-ec70891372af">
@@ -33234,7 +33234,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3320</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.validateConfig`. (#6846, #667)</source>
         <target>`config.validateConfig`. (#6846, #667)</target>
       </segment>
@@ -33244,9 +33244,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3321</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.save`: `config.conf.save` should be used instead. (#6846, #667)</source>
-        <target>`config.save`: `config.conf.save` should be used instead. (#6846, #667)</target>
+        <target>`config.save` : `config.conf.save` doit être utilisé à la place. (#6846, #667)</target>
       </segment>
     </unit>
     <unit id="30b43104-6e91-4c92-8dcb-43f7893d6799">
@@ -33274,9 +33274,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3324</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Unit tests and infrastructure are located in the tests/unit directory. See the docstring in the tests\unit\init.py file for details.</source>
-        <target>Unit tests and infrastructure are located in the tests/unit directory. See the docstring in the tests\unit\init.py file for details.</target>
+        <target>Les tests unitaires et l'infrastructure sont situés dans le répertoire tests/unit. Consultez la docstring dans le fichier tests\unit\init.py pour plus de détails.</target>
       </segment>
     </unit>
     <unit id="7d1b2aa9-42f5-4c64-a12e-0c94c949aad3">
@@ -33284,9 +33284,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3325</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can run tests using "scons tests". See the "Running Tests" section of readme.md for details.</source>
-        <target>You can run tests using "scons tests". See the "Running Tests" section of readme.md for details.</target>
+        <target>Vous pouvez exécuter les tests en utilisant "scons tests". Consultez la section "Running Tests" de readme.md pour plus de détails.</target>
       </segment>
     </unit>
     <unit id="596a2860-3d61-498c-866b-c9cc3a923d98">
@@ -33294,9 +33294,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3326</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you are submitting a pull request for NVDA, you should first run the tests and ensure they pass.</source>
-        <target>If you are submitting a pull request for NVDA, you should first run the tests and ensure they pass.</target>
+        <target>Si vous soumettez une pull request pour NVDA, vous devriez d'abord exécuter les tests et vous assurer qu'ils réussissent.</target>
       </segment>
     </unit>
     <unit id="a1939330-68c1-40ab-925f-232ed4d39d18">
@@ -33304,7 +33304,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3328</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2017.1</source>
         <target>2017.1</target>
       </segment>
@@ -33653,7 +33653,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3373</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2016.4</source>
         <target>2016.4</target>
       </segment>
@@ -34142,7 +34142,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3432</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2016.3</source>
         <target>2016.3</target>
       </segment>
@@ -34611,7 +34611,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3489</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2016.2.1</source>
         <target>2016.2.1</target>
       </segment>
@@ -34650,7 +34650,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3496</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2016.2</source>
         <target>2016.2</target>
       </segment>
@@ -35009,7 +35009,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3542</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2016.1</source>
         <target>2016.1</target>
       </segment>
@@ -35458,9 +35458,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3596</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When this is enabled (which is the default), it is essential that WavePlayer.idle be called when appropriate.</source>
-        <target>When this is enabled (which is the default), it is essential that WavePlayer.idle be called when appropriate.</target>
+        <target>Lorsque ceci est activé (ce qui est le cas par défaut), il est essentiel que WavePlayer.idle soit appelé au moment approprié.</target>
       </segment>
     </unit>
     <unit id="ad157124-637c-41bd-95cf-c79cc59e0c73">
@@ -35478,9 +35478,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3598</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Thread-safe braille display drivers can declare themselves as such using the BrailleDisplayDriver.isThreadSafe attribute. A driver must be thread-safe to benefit from the following features.</source>
-        <target>Thread-safe braille display drivers can declare themselves as such using the BrailleDisplayDriver.isThreadSafe attribute. A driver must be thread-safe to benefit from the following features.</target>
+        <target>Les pilotes d'affichage braille thread-safe peuvent se déclarer comme tels en utilisant l'attribut BrailleDisplayDriver.isThreadSafe. Un pilote doit être thread-safe pour bénéficier des fonctionnalités suivantes.</target>
       </segment>
     </unit>
     <unit id="65b1ebac-c7c3-4798-ac57-e59fcd75f03d">
@@ -35488,9 +35488,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3599</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Data is written to thread-safe braille display drivers in the background, thus improving performance.</source>
-        <target>Data is written to thread-safe braille display drivers in the background, thus improving performance.</target>
+        <target>Les données sont écrites sur les pilotes d'affichage braille thread-safe en arrière-plan, améliorant ainsi les performances.</target>
       </segment>
     </unit>
     <unit id="e18d5d63-6e0a-4efa-8861-c73b18257563">
@@ -35498,9 +35498,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3600</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>hwIo.Serial extends pyserial to call a callable when data is received instead of drivers having to poll.</source>
-        <target>hwIo.Serial extends pyserial to call a callable when data is received instead of drivers having to poll.</target>
+        <target>hwIo.Serial étend pyserial pour appeler un callable quand des données sont reçues, au lieu que les pilotes aient à interroger.</target>
       </segment>
     </unit>
     <unit id="8394c96e-b81f-4028-886d-21d66a7cdd87">
@@ -35508,9 +35508,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3601</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>hwIo.Hid provides support for braille displays communicating via USB HID.</source>
-        <target>hwIo.Hid provides support for braille displays communicating via USB HID.</target>
+        <target>hwIo.Hid fournit une prise en charge pour les plages braille communiquant via USB HID.</target>
       </segment>
     </unit>
     <unit id="610b58f9-17a1-41b1-9740-adbc88d0e402">
@@ -35518,9 +35518,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3602</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>hwPortUtils and hwIo can optionally provide detailed debug logging, including devices found and all data sent and received.</source>
-        <target>hwPortUtils and hwIo can optionally provide detailed debug logging, including devices found and all data sent and received.</target>
+        <target>hwPortUtils et hwIo peuvent éventuellement fournir une journalisation de débogage détaillée, incluant les périphériques trouvés et toutes les données envoyées et reçues.</target>
       </segment>
     </unit>
     <unit id="56ad79a0-56a4-4735-b0a6-6547d43b5979">
@@ -35538,9 +35538,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3604</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>MultitouchTracker objects now contain a childTrackers property which contains the MultiTouchTrackers the tracker was composed of. For example, 2 finger double tap has child trackers for two 2-finger taps. The 2-finger taps themselves have child trackers for two taps.</source>
-        <target>MultitouchTracker objects now contain a childTrackers property which contains the MultiTouchTrackers the tracker was composed of. For example, 2 finger double tap has child trackers for two 2-finger taps. The 2-finger taps themselves have child trackers for two taps.</target>
+        <target>Les objets MultitouchTracker contiennent maintenant une propriété childTrackers qui contient les MultiTouchTrackers dont le tracker était composé. Par exemple, un double tapotement à 2 doigts a des trackers enfants pour deux tapotements à 2 doigts. Les tapotements à 2 doigts eux-mêmes ont des trackers enfants pour deux tapotements.</target>
       </segment>
     </unit>
     <unit id="67c44efd-96f1-4535-a814-7f2265330db3">
@@ -35548,9 +35548,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3605</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>MultiTouchTracker objects now also contain a rawSingleTouchTracker property if the tracker was the result of one single finger doing a tap, flick or hover. The SingleTouchTracker allows access to the underlying ID assigned to the finger by the operating system and whether or not the finger is still in contact at the current time.</source>
-        <target>MultiTouchTracker objects now also contain a rawSingleTouchTracker property if the tracker was the result of one single finger doing a tap, flick or hover. The SingleTouchTracker allows access to the underlying ID assigned to the finger by the operating system and whether or not the finger is still in contact at the current time.</target>
+        <target>Les objets MultiTouchTracker contiennent maintenant également une propriété rawSingleTouchTracker si le tracker était le résultat d'un seul doigt effectuant un tapotement, un glissement ou un survol. Le SingleTouchTracker permet d'accéder à l'ID sous-jacent attribué au doigt par le système d'exploitation et de savoir si le doigt est toujours en contact au moment actuel.</target>
       </segment>
     </unit>
     <unit id="97bf1060-4869-4282-a85c-267a49eda057">
@@ -35558,9 +35558,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3606</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>TouchInputGestures now have x and y properties, removing the need to access the tracker for trivial cases.</source>
-        <target>TouchInputGestures now have x and y properties, removing the need to access the tracker for trivial cases.</target>
+        <target>Les TouchInputGestures ont maintenant des propriétés x et y, supprimant la nécessité d'accéder au tracker pour des cas triviaux.</target>
       </segment>
     </unit>
     <unit id="e545ba2c-8bc3-4b31-bd14-cf32e634cfd7">
@@ -35568,9 +35568,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3607</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>TouchInputGesturs now contain a preheldTracker property, which is a MultitouchTracker object representing the other fingers held while this action was being performed.</source>
-        <target>TouchInputGesturs now contain a preheldTracker property, which is a MultitouchTracker object representing the other fingers held while this action was being performed.</target>
+        <target>Les TouchInputGestures contiennent maintenant une propriété preheldTracker, qui est un objet MultitouchTracker représentant les autres doigts maintenus pendant que cette action était effectuée.</target>
       </segment>
     </unit>
     <unit id="cf1da4e6-9d29-4d50-a98b-8cc038f1e031">
@@ -35588,9 +35588,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3609</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Plural tap and holds (e.g. double tap and hold)</source>
-        <target>Plural tap and holds (e.g. double tap and hold)</target>
+        <target>Tapotements et maintenus multiples (par exemple double tapotement et maintien)</target>
       </segment>
     </unit>
     <unit id="c2766ba0-d5de-4e12-87c2-81a1970a50ae">
@@ -35598,9 +35598,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3610</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A generalized identifier with finger count removed for holds (e.g. hold+hover for 1finger_hold+hover).</source>
-        <target>A generalized identifier with finger count removed for holds (e.g. hold+hover for 1finger_hold+hover).</target>
+        <target>Un identifiant généralisé avec le nombre de doigts supprimé pour les maintenus (par exemple hold+hover pour 1finger_hold+hover).</target>
       </segment>
     </unit>
     <unit id="61de1e29-f310-4102-9ec0-302fe54ab03b">
@@ -35608,7 +35608,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3612</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2015.4</source>
         <target>2015.4</target>
       </segment>
@@ -35747,9 +35747,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3629</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This requires Chrome version 47 or later.</source>
-        <target>This requires Chrome version 47 or later.</target>
+        <target>Cela nécessite Chrome version 47 ou ultérieure.</target>
       </segment>
     </unit>
     <unit id="d50a1103-5ccb-463b-ade7-47229d0f97cb">
@@ -35887,9 +35887,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3647</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you enabled this using a previous version of NVDA, you will need to disable it and enable it again in order for the change to take effect. Follow this procedure:</source>
-        <target>If you enabled this using a previous version of NVDA, you will need to disable it and enable it again in order for the change to take effect. Follow this procedure:</target>
+        <target>Si vous avez activé cela en utilisant une version précédente de NVDA, vous devrez le désactiver et le réactiver pour que le changement prenne effet. Suivez cette procédure :</target>
       </segment>
     </unit>
     <unit id="5b9309f8-db7a-493c-81db-a9b10a6d2e55">
@@ -35897,9 +35897,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3648</note>
         <note appliesTo="source">prefix:     1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Open the General Settings dialog.</source>
-        <target>Open the General Settings dialog.</target>
+        <target>Ouvrez la boîte de dialogue des paramètres généraux.</target>
       </segment>
     </unit>
     <unit id="0cda61ba-0748-4aec-a9d2-525d739dcb28">
@@ -35907,9 +35907,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 3649</note>
         <note appliesTo="source">prefix:     1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Uncheck the Automatically start NVDA after I log on to Windows checkbox.</source>
-        <target>Uncheck the Automatically start NVDA after I log on to Windows checkbox.</target>
+        <target>Décochez la case Démarrer automatiquement NVDA après ma connexion à Windows.</target>
       </segment>
     </unit>
     <unit id="10d503ea-728b-4269-bf77-9b9cd266371e">
