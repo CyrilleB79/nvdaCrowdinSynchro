@@ -41200,9 +41200,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4284</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reporting of reading strings.</source>
-        <target>Reporting of reading strings.</target>
+        <target>Annonce des chaînes de lecture.</target>
       </segment>
     </unit>
     <unit id="a9c0f710-e8f3-4c15-8fd0-e47ebbaafc4d">
@@ -41270,9 +41270,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4291</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reading text directly under your finger while moving it around</source>
-        <target>Reading text directly under your finger while moving it around</target>
+        <target>Lecture du texte directement sous votre doigt lorsque vous le déplacez</target>
       </segment>
     </unit>
     <unit id="9c8351f5-2e85-4df0-a1c8-21d7d74e4c31">
@@ -41280,9 +41280,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4292</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Many gestures for performing object navigation, text review, and other NVDA commands.</source>
-        <target>Many gestures for performing object navigation, text review, and other NVDA commands.</target>
+        <target>De nombreux gestes pour effectuer la navigation par objet, la revue de texte et d'autres commandes NVDA.</target>
       </segment>
     </unit>
     <unit id="9195d2ea-9b5c-4c15-84e5-c6f337a128b6">
@@ -41360,9 +41360,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4300</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Reader XI, page labels are reported where present, reflecting changes to page numbering in different sections, etc. In earlier versions, this is not possible and only sequential page numbers are reported.</source>
-        <target>In Reader XI, page labels are reported where present, reflecting changes to page numbering in different sections, etc. In earlier versions, this is not possible and only sequential page numbers are reported.</target>
+        <target>Dans Reader XI, les étiquettes de page sont annoncées lorsqu'elles sont présentes, reflétant les changements de numérotation des pages dans différentes sections, etc. Dans les versions antérieures, cela n'est pas possible et seuls les numéros de page séquentiels sont annoncés.</target>
       </segment>
     </unit>
     <unit id="d2f3706b-c494-4289-8d78-2d1d95d84c5a">
@@ -42190,9 +42190,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4389</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is done using the pgettext(context, message) function.</source>
-        <target>This is done using the pgettext(context, message) function.</target>
+        <target>Cela se fait en utilisant la fonction pgettext(contexte, message).</target>
       </segment>
     </unit>
     <unit id="8008003e-ca25-4e3e-a8a5-6b2bd3d18aac">
@@ -42200,9 +42200,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4390</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is supported for both NVDA itself and add-ons.</source>
-        <target>This is supported for both NVDA itself and add-ons.</target>
+        <target>Cela est pris en charge à la fois pour NVDA lui-même ainsi que pour les extensions.</target>
       </segment>
     </unit>
     <unit id="8ae54849-2cef-4c8e-ba5f-45012784dbad">
@@ -42210,9 +42210,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4391</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>xgettext and msgfmt from GNU gettext must be used to create any PO and MO files. The Python tools do not support message contexts.</source>
-        <target>xgettext and msgfmt from GNU gettext must be used to create any PO and MO files. The Python tools do not support message contexts.</target>
+        <target>xgettext et msgfmt de GNU gettext doivent être utilisés pour créer tous les fichiers PO et MO. Les outils Python ne prennent pas en charge les contextes de message.</target>
       </segment>
     </unit>
     <unit id="60f1d0a8-86fb-4672-a4c0-890a6bf02f83">
@@ -42220,9 +42220,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4392</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For xgettext, pass the --keyword=pgettext:1c,2 command line argument to enable inclusion of message contexts.</source>
-        <target>For xgettext, pass the --keyword=pgettext:1c,2 command line argument to enable inclusion of message contexts.</target>
+        <target>Pour xgettext, passez l'argument de ligne de commande --keyword=pgettext:1c,2 pour permettre l'inclusion des contextes de message.</target>
       </segment>
     </unit>
     <unit id="411f8c2b-51e4-4f44-958a-1268b644c418">
@@ -42230,9 +42230,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4393</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>See http://www.gnu.org/software/gettext/manual/html_node/Contexts.html#Contexts for more information.</source>
-        <target>See http://www.gnu.org/software/gettext/manual/html_node/Contexts.html#Contexts for more information.</target>
+        <target>Voir http://www.gnu.org/software/gettext/manual/html_node/Contexts.html#Contexts pour plus d'informations.</target>
       </segment>
     </unit>
     <unit id="b51a511e-70d5-4466-ba39-0afec058a03d">
@@ -42260,7 +42260,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4397</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2012.2.1</source>
         <target>2012.2.1</target>
       </segment>
@@ -42279,7 +42279,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4401</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2012.2</source>
         <target>2012.2</target>
       </segment>
@@ -42578,7 +42578,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4441</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2012.1</source>
         <target>2012.1</target>
       </segment>
@@ -42657,9 +42657,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4452</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Inline information such as footnote and endnote numbers, heading levels, the existence of comments, table nesting levels, links, and text color;</source>
-        <target>Inline information such as footnote and endnote numbers, heading levels, the existence of comments, table nesting levels, links, and text color;</target>
+        <target>Informations en ligne telles que les numéros de notes de bas de page et de fin, les niveaux de titre, l'existence de commentaires, les niveaux d'imbrication des tableaux, les liens et la couleur du texte;</target>
       </segment>
     </unit>
     <unit id="5381d381-1922-403c-96cb-d93c57bc9c1c">
@@ -42667,9 +42667,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4453</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reporting when entering document sections such as the comments story, footnotes and endnotes stories, and header and footer stories.</source>
-        <target>Reporting when entering document sections such as the comments story, footnotes and endnotes stories, and header and footer stories.</target>
+        <target>Annonce lors de l'entrée dans des sections de document telles que l'historique des commentaires, l'historique des notes de bas de page et de fin, et l'historique des en-têtes et pieds de page.</target>
       </segment>
     </unit>
     <unit id="c7743b0d-578b-46b7-8d88-5fcc11818c64">
@@ -43247,9 +43247,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4517</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is used by braille to activate the position using cursor routing keys on a braille display. However, there may be other callers in future.</source>
-        <target>This is used by braille to activate the position using cursor routing keys on a braille display. However, there may be other callers in future.</target>
+        <target>Cela est utilisé par le braille pour activer la position en utilisant les touches de routage du curseur sur un afficheur braille. Cependant, il pourrait y avoir d'autres appelants à l'avenir.</target>
       </segment>
     </unit>
     <unit id="19667dc8-cb5e-4655-88f6-fff7a3ce841d">
@@ -43277,7 +43277,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4520</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>speech.REASON_* constants have been moved to controlTypes.</source>
         <target>speech.REASON_* constants have been moved to controlTypes.</target>
       </segment>
@@ -43287,9 +43287,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4521</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In controlTypes, speechRoleLabels and speechStateLabels have been renamed to just roleLabels and stateLabels, respectively.</source>
-        <target>In controlTypes, speechRoleLabels and speechStateLabels have been renamed to just roleLabels and stateLabels, respectively.</target>
+        <target>Dans controlTypes, speechRoleLabels et speechStateLabels ont été renommés respectivement en roleLabels et stateLabels.</target>
       </segment>
     </unit>
     <unit id="4a37c587-614a-488b-99f2-f465f9423361">
@@ -43317,7 +43317,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4525</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2011.3</source>
         <target>2011.3</target>
       </segment>
@@ -43856,9 +43856,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4588</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To support this, drivers must handle speech.LangChangeCommand in sequences past to SynthDriver.speak().</source>
-        <target>To support this, drivers must handle speech.LangChangeCommand in sequences past to SynthDriver.speak().</target>
+        <target>Pour prendre cela en charge, les pilotes doivent gérer speech.LangChangeCommand dans les séquences passées à SynthDriver.speak().</target>
       </segment>
     </unit>
     <unit id="71cf73ee-96dc-4cf4-98d3-d528c8629bf1">
