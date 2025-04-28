@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-28 01:36+0000\n"
-"PO-Revision-Date: 2025-04-28 10:46\n"
+"PO-Revision-Date: 2025-04-28 12:23\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -13747,7 +13747,7 @@ msgstr "Activer l'Accès à distance"
 #: gui\settingsDialogs.py:3346
 msgctxt "remote"
 msgid "&Play sounds instead of beeps"
-msgstr "& Jouer des sons à la place des bips"
+msgstr "&Jouer des sons à la place des bips"
 
 #. Translators: A checkbox in Remote Access settings to set whether NVDA should automatically connect to a control server on startup.
 #: gui\settingsDialogs.py:3355
