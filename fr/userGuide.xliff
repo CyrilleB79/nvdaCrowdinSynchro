@@ -28988,18 +28988,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3713</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, NVDA will still automatically start a new Remote Access session if configured to do so with the [Automatically connect after NVDA starts](#RemoteAutoconnect) setting.</source>
-        <target>However, NVDA will still automatically start a new Remote Access session if configured to do so with the [Automatically connect after NVDA starts](#RemoteAutoconnect) setting.</target>
+        <target>Cependant, NVDA démarrera toujours automatiquement une nouvelle session d'Accès à Distance si configuré pour le faire avec le paramètre [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect).</target>
       </segment>
     </unit>
     <unit id="60077139-084d-4afd-b7ad-fb845737bd70">
       <notes>
         <note appliesTo="source">line: 3714</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can still manually disconnect in secure mode.</source>
-        <target>You can still manually disconnect in secure mode.</target>
+        <target>Vous pouvez toujours vous déconnecter manuellement en mode sécurisé.</target>
       </segment>
     </unit>
     <unit id="c2dbf4f4-9fcb-4436-b737-cf20029553cd">
