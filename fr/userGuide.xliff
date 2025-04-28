@@ -5719,9 +5719,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 31</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Ability to [connect to and control another computer running NVDA](#RemoteAccess) for remote assistance or collaboration</source>
-        <target>Ability to [connect to and control another computer running NVDA](#RemoteAccess) for remote assistance or collaboration</target>
+        <target>Possibilité de [se connecter et contrôler un autre ordinateur exécutant NVDA](#RemoteAccess) pour assistance à distance ou collaboration</target>
       </segment>
     </unit>
     <unit id="3621dc26-377b-4133-8c66-67736611187a">
@@ -5769,9 +5769,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 36</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Ability to run during Windows sign-in and [other secure screens](#SecureScreens)</source>
-        <target>Ability to run during Windows sign-in and [other secure screens](#SecureScreens)</target>
+        <target>Possibilité de s'exécuter lors de la connexion Windows et [autres écrans sécurisés](#SecureScreens)</target>
       </segment>
     </unit>
     <unit id="f764b6db-1280-473f-a474-283d20038a1b">
@@ -25243,9 +25243,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#RemoteSettings}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access Settings</source>
-        <target>Remote Access Settings</target>
+        <target>Paramètres d'accès à distance</target>
       </segment>
     </unit>
     <unit id="34d45e86-1a4c-470a-9fb6-4812a2ce7c7e">
@@ -25319,18 +25319,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3123</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this option to select the type of audio cues played by Remote Access.</source>
-        <target>Use this option to select the type of audio cues played by Remote Access.</target>
+        <target>Utiliser cette option pour sélectionner le type d'effets sonores joués lors de l'Accès à Distance.</target>
       </segment>
     </unit>
     <unit id="a3c63540-f210-465c-bdfd-8d7f999bdd4c">
       <notes>
         <note appliesTo="source">line: 3125</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When checked, NVDA will produce natural-sounding audio cues for Remote Access events.</source>
-        <target>When checked, NVDA will produce natural-sounding audio cues for Remote Access events.</target>
+        <target>Si cochée, NVDA produira des effets sonores naturels pour les événements d'Accès à Distance.</target>
       </segment>
     </unit>
     <unit id="0d0af15b-2303-4501-8ab6-938e0f9d06e5">
@@ -25624,9 +25624,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3179</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means that you will again be asked whether to connect to all unrecognised Remote Access servers, even ones that you have previously connected to.</source>
-        <target>This means that you will again be asked whether to connect to all unrecognised Remote Access servers, even ones that you have previously connected to.</target>
+        <target>Cela signifie qu'on vous demandera à nouveau si vous souhaitez vous connecter à tous les serveurs d'Accès à Distance non reconnus, même ceux auxquels vous vous êtes déjà connecté.</target>
       </segment>
     </unit>
     <unit id="869c3bb3-208a-45f7-8a08-e3b9c2e82afd">
@@ -28921,9 +28921,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3701</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can enable Remote Access [in Remote Access settings](#RemoteSettings).</source>
-        <target>You can enable Remote Access [in Remote Access settings](#RemoteSettings).</target>
+        <target>Vous pouvez activer l'Accès à Distance [dans les paramètres d'Accès à Distance](#RemoteSettings).</target>
       </segment>
     </unit>
     <unit id="b0890d69-c731-4ac7-ac2b-700a3bcbce31">
@@ -28961,9 +28961,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessSetup}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Setting Up a Remote Access Session</source>
-        <target>Setting Up a Remote Access Session</target>
+        <target>Configuration d'une Session d'Accès à Distance</target>
       </segment>
     </unit>
     <unit id="ad1f4954-7b35-4fda-a6c3-a30807ec3036">
@@ -28979,9 +28979,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3712</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If NVDA is running in [secure mode](#SecureMode), you cannot manually initiate a new Remote Access session.</source>
-        <target>If NVDA is running in [secure mode](#SecureMode), you cannot manually initiate a new Remote Access session.</target>
+        <target>Si NVDA fonctionne en [mode sécurisé](#SecureMode), vous ne pouvez pas initier manuellement une nouvelle session d'Accès à Distance.</target>
       </segment>
     </unit>
     <unit id="b98ba472-736b-4064-a635-a06206770515">
