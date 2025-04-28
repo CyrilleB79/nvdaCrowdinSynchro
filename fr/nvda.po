@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-28 01:36+0000\n"
-"PO-Revision-Date: 2025-04-28 15:13\n"
+"PO-Revision-Date: 2025-04-28 16:14\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6011,7 +6011,7 @@ msgstr "Déjà connecté"
 #: globalCommands.py:4949
 msgctxt "remote"
 msgid "Toggles whether Remote Access is connected"
-msgstr "Active ou désactive la connexion à l’accès à distant"
+msgstr "Active ou désactive la connexion à l’accès distant"
 
 #. Translators: Documentation string for the script that toggles the control between guest and host computers.
 #: globalCommands.py:4964
@@ -18818,7 +18818,7 @@ msgstr "Accès &Distant"
 #: _remoteClient\menu.py:85
 msgctxt "remote"
 msgid "Allow someone to control this computer from elsewhere, or control another computer running NVDA with this one."
-msgstr "Autoriser quelqu’un à contrôler cet ordinateur depuis ailleurs, ou contrôler un autre ordinateur exécutant NVDA avec celui-ci."
+msgstr "Autoriser quelqu’un à contrôler cet ordinateur depuis n'importe où, ou contrôler un autre ordinateur exécutant NVDA avec celui-ci."
 
 #. Translators: Item in the Remote Access submenu to connect to another computer.
 #: _remoteClient\menu.py:156
