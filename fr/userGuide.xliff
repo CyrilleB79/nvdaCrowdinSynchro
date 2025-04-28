@@ -29018,9 +29018,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3718</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Open the NVDA menu and select Tools, then "Remote Access", then "Connect...".</source>
-        <target>Open the NVDA menu and select Tools, then "Remote Access", then "Connect...".</target>
+        <target>Ouvrir le menu NVDA et sélectionner Outils, puis "Accès Distant", puis "Se connecter...".</target>
       </segment>
     </unit>
     <unit id="24ec5ea3-56d1-4aa9-b8a6-932b276065f9">
