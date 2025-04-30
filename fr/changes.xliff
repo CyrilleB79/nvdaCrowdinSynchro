@@ -5624,9 +5624,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 43</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Automatic updates (#3208):</source>
-        <target>Mises à jour automatqiques (#3208):</target>
+        <target>Mises à jour automatiques (#3208):</target>
       </segment>
     </unit>
     <unit id="be447b8c-de47-440b-82be-128cedf70413">
