@@ -25301,18 +25301,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3118</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access will only continue sessions started by the installed copy of NVDA on secure desktops.</source>
-        <target>Remote Access will only continue sessions started by the installed copy of NVDA on secure desktops.</target>
+        <target>L'accès distant ne poursuivra que les sessions démarrées par la copie installée de NVDA sur les bureaux sécurisés.</target>
       </segment>
     </unit>
     <unit id="584a22fd-b482-4c2b-8b83-7028e6ceb2fd">
       <notes>
         <note appliesTo="source">line: 3119</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means that you cannot, for instance, start a Remote Access session with a portable copy of NVDA and have the session continue on secure screens.</source>
-        <target>This means that you cannot, for instance, start a Remote Access session with a portable copy of NVDA and have the session continue on secure screens.</target>
+        <target>Cela signifie par exemple que vous ne pouvez pas démarrer une session d'Accès distant avec une copie portable de NVDA et poursuivre la session sur des écrans sécurisés.</target>
       </segment>
     </unit>
     <unit id="59c923d6-7942-4e2d-bd70-4916b46ad34a">
@@ -29048,9 +29048,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3721</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For Mode, choose "Allow this computer to be controlled".</source>
-        <target>For Mode, choose "Allow this computer to be controlled".</target>
+        <target>Pour le Mode, choisissez "permettre le contrôle de cet ordinateur".</target>
       </segment>
     </unit>
     <unit id="e1cd83c6-366f-4b6f-a3a2-85d831163b33">
@@ -29068,9 +29068,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3723</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Existing Remote Access server: If using a server, enter the hostname (e.g., `nvdaremote.com`).</source>
-        <target>Existing Remote Access server: If using a server, enter the hostname (e.g., `nvdaremote.com`).</target>
+        <target>Serveur d'Accès distant existant : Si vous utilisez un serveur, saisissez le nom d'hôte (par exemple `nvdaremote.com`).</target>
       </segment>
     </unit>
     <unit id="294731e3-0f87-4d69-beb5-e6f281356d4a">
@@ -29088,18 +29088,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3725</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Press OK.</source>
-        <target>Press OK.</target>
+        <target>Appuyez sur OK.</target>
       </segment>
     </unit>
     <unit id="a48a2a66-75e8-4ac6-99c7-412ec3d1905a">
       <notes>
         <note appliesTo="source">line: 3726</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Share the connection key with the other person.</source>
-        <target>Share the connection key with the other person.</target>
+        <target>Partagez la clé de connexion avec l'autre personne.</target>
       </segment>
     </unit>
     <unit id="f47e6ab5-61e9-4091-8a4f-f649c3ccdff4">
@@ -29118,9 +29118,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3730</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Open the NVDA menu and select Tools, then "Remote Access", then "Connect...".</source>
-        <target>Open the NVDA menu and select Tools, then "Remote Access", then "Connect...".</target>
+        <target>Ouvrez le menu NVDA et sélectionnez Outils, puis "Accès distant", puis "Se connecter...".</target>
       </segment>
     </unit>
     <unit id="f0be88c2-e26e-4a09-9a16-37efdb39e0df">
@@ -29128,9 +29128,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3731</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For Mode, choose "Control another computer".</source>
-        <target>For Mode, choose "Control another computer".</target>
+        <target>Pour le Mode, choisissez "Contrôler un autre ordinateur".</target>
       </segment>
     </unit>
     <unit id="8fd990b6-e29d-470f-9ce4-f4acaa64a119">
@@ -29168,27 +29168,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessConnect}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Remote Access Connection Dialog</source>
-        <target>The Remote Access Connection Dialog</target>
+        <target>Le dialogue de connexion de l'Accès distant</target>
       </segment>
     </unit>
     <unit id="c5c47aeb-b14f-4680-b2a4-2e33af0d0eb8">
       <notes>
         <note appliesTo="source">line: 3739</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Remote Access connection dialog allows you to connect to a new or existing session.</source>
-        <target>The Remote Access connection dialog allows you to connect to a new or existing session.</target>
+        <target>La boîte de dialogue de connexion de l'Accès distant vous permet de vous connecter à une nouvelle session ou à une session existante.</target>
       </segment>
     </unit>
     <unit id="86881c90-2e6a-410f-a709-d1c3f7eeccd9">
       <notes>
         <note appliesTo="source">line: 3740</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To open the dialog, open the NVDA menu, and navigate to Tools, then "Remote Access", then "Connect...".</source>
-        <target>To open the dialog, open the NVDA menu, and navigate to Tools, then "Remote Access", then "Connect...".</target>
+        <target>Pour accéder à la boîte de dialogue, ouvrez le menu NVDA, naviguez jusqu'à Outils, "Accès distant", puis "Se connecter...".</target>
       </segment>
     </unit>
     <unit id="af783b29-d5b4-4857-bc29-fd06e6c3fd33">
@@ -29231,9 +29231,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3747</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Next is the Server control, which lets you choose the type of Remote Access connection you would like to use.</source>
-        <target>Next is the Server control, which lets you choose the type of Remote Access connection you would like to use.</target>
+        <target>*Vous trouvrez ensuite les options vous permettant de choisir le type de connexion d'Accès distant que vous souhaitez utiliser.</target>
       </segment>
     </unit>
     <unit id="99ce2bd1-e120-44aa-aa3b-365798a2f0a2">
@@ -29563,9 +29563,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3801</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Once a Remote Access session is active, you can switch between controlling the remote computer and your own, share your clipboard, and mute the remote session:</source>
-        <target>Once a Remote Access session is active, you can switch between controlling the remote computer and your own, share your clipboard, and mute the remote session:</target>
+        <target>Une fois qu'une session d'Accès distant est active, vous pouvez basculer entre le contrôle de l'ordinateur distant et le vôtre, partager votre presse-papiers et couper le son de la session distante :</target>
       </segment>
     </unit>
     <unit id="3825cc2f-df6e-40ea-b0d9-8235c199d8e1">
@@ -29583,9 +29583,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3804</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Send text from your clipboard to the other computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Send clipboard".</source>
-        <target>Send text from your clipboard to the other computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Send clipboard".</target>
+        <target>Envoyez du texte depuis votre presse-papiers vers l'autre ordinateur en ouvrant le menu NVDA, en sélectionnant Outils, "Accès distant", puis "Envoyer le presse-papiers".</target>
       </segment>
     </unit>
     <unit id="47d40460-bbf9-43bc-8e04-f0ebe6a084b1">
@@ -29593,9 +29593,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3805</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mute the remote computer's speech output on your local computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Mute remote".</source>
-        <target>Mute the remote computer's speech output on your local computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Mute remote".</target>
+        <target>Coupez la synthèse vocale de l'ordinateur distant sur votre ordinateur local en ouvrant le menu NVDA, en sélectionnant Outils, "Accès distant", puis "Couper le son distant".</target>
       </segment>
     </unit>
     <unit id="2907e809-9f1b-4de0-8e83-c9f868d89301">
@@ -29626,9 +29626,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Toggle Remote connection | `NVDA+alt+r` | Starts a new Remote Access session or, if a session is already in progress, disconnects from it. </source>
-        <target> Toggle Remote connection | `NVDA+alt+r` | Starts a new Remote Access session or, if a session is already in progress, disconnects from it. </target>
+        <target> Basculer la connexion distante | `NVDA+alt+r` | Démarre une nouvelle session d'Accès distant, ou s'en déconnecte si une session est déjà en cours. </target>
       </segment>
     </unit>
     <unit id="0b908760-a0ed-4689-800e-a09c29e5d649">
@@ -29648,9 +29648,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Connect | None | Starts a new Remote Access session. Unavailable in [secure mode](#SecureMode). </source>
-        <target> Connect | None | Starts a new Remote Access session. Unavailable in [secure mode](#SecureMode). </target>
+        <target> Se connecter | Aucun | Démarre une nouvelle session d'Accès à distance. Non disponible en [mode sécurisé](#SecureMode). </target>
       </segment>
     </unit>
     <unit id="771cf83f-a8b9-4d9d-83b9-565428414f6a">
@@ -29692,9 +29692,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Send clipboard | None | Sends the contents of the clipboard to the remote computer. </source>
-        <target> Send clipboard | None | Sends the contents of the clipboard to the remote computer. </target>
+        <target> Envoyer le presse-papiers | Aucun | Envoie le contenu du presse-papiers à l'ordinateur distant. </target>
       </segment>
     </unit>
     <unit id="94267446-c550-43a5-80a9-d9596e6f85fd">
