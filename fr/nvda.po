@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-02 03:16+0000\n"
-"PO-Revision-Date: 2025-05-02 12:23\n"
+"PO-Revision-Date: 2025-05-02 14:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -560,7 +560,7 @@ msgstr "frml"
 #. Translators: Displayed in braille when a link destination points to the same page
 #: braille.py:281
 msgid "smp"
-msgstr "smp"
+msgstr "mmp"
 
 #. Translators: Displayed in braille when an object is not selected.
 #: braille.py:285
