@@ -25446,9 +25446,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Allow this computer to be controlled |Use this computer as the "controlled" computer. This allows the operator of the "controlling" computer to use this computer as if they were sitting in front of it. </source>
-        <target>Allow this computer to be controlled |Use this computer as the "controlled" computer. This allows the operator of the "controlling" computer to use this computer as if they were sitting in front of it. </target>
+        <target>Permettre le contrôle de cet ordinateur |Ceci permet à une personne de contrôler votre ordinateur à distance à partir de son ordinateur, comme si elle était assise devant. </target>
       </segment>
     </unit>
     <unit id="b9e02315-fd92-42e4-941a-68e452bb789f">
@@ -25457,9 +25457,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Control another computer |Use this computer as the "controlling" computer. This allows you to execute commands on the remote computer. </source>
-        <target>Control another computer |Use this computer as the "controlling" computer. This allows you to execute commands on the remote computer. </target>
+        <target>Contrôler un autre ordinateur |Utilisez cet ordinateur comme l'ordinateur "contrôleur". Ceci vous permet d'exécuter des commandes sur l'ordinateur distant. </target>
       </segment>
     </unit>
     <unit id="af02981e-74c9-4832-be1a-9596b2b1ad2a">
