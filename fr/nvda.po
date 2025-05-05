@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-02 03:16+0000\n"
-"PO-Revision-Date: 2025-05-04 23:11\n"
+"POT-Creation-Date: 2025-05-05 00:28+0000\n"
+"PO-Revision-Date: 2025-05-05 01:03\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3422,7 +3422,7 @@ msgstr "Certaines opérations sur les extensions ont échouées. Consulter le fi
 #: gui\message.py:161 gui\settingsDialogs.py:1074 gui\settingsDialogs.py:5397
 #: gui\settingsDialogs.py:5755 gui\startupDialogs.py:128
 #: _remoteClient\dialogs.py:62 _remoteClient\dialogs.py:300
-#: _remoteClient\dialogs.py:383
+#: _remoteClient\dialogs.py:384
 msgid "Error"
 msgstr "Erreur"
 
@@ -18720,24 +18720,24 @@ msgid "Unable to contact portcheck server, please manually retrieve your IP addr
 msgstr "Impossible de contacter le serveur de vérification de port, veuillez récupérer votre adresse IP publique manuellement"
 
 #. Translators: Message displayed when the host or key field is empty and the user tries to connect.
-#: _remoteClient\dialogs.py:367
+#: _remoteClient\dialogs.py:368
 msgid "Both host and key must be set."
 msgstr "L'adresse du serveur et la clé doivent être tous deux renseignés."
 
 #. Translators: Message displayed when the port or key field is empty and the user tries to connect.
-#: _remoteClient\dialogs.py:375
+#: _remoteClient\dialogs.py:376
 msgid "Both port and key must be set."
 msgstr "Le port et la clé doivent être tous deux renseignés."
 
 #. Translators: Title of the dialog presented when attempting to connect to a server with an untrusted certificate.
-#: _remoteClient\dialogs.py:422
+#: _remoteClient\dialogs.py:429
 msgctxt "remote"
 msgid "Security Warning"
 msgstr "Avertissement de sécurité"
 
 #. Translators: Message presented when attempting to connect to a server with an untrusted certificate.
 #. {fingerprint} will be replaced with the SHA256 fingerprint of the server certificate.
-#: _remoteClient\dialogs.py:427
+#: _remoteClient\dialogs.py:434
 #, python-brace-format
 msgctxt "remote"
 msgid "The certificate of this server could not be verified. Using the wrong fingerprint may allow a third party to access the Remote Access session.\n\n"
@@ -18750,12 +18750,12 @@ msgstr "Le certificat de ce serveur n’a pas pu être vérifié. L’utilisatio
 "Se connecter quand même ?"
 
 #. Translators: A button to connect and remember the server with unauthorized certificate.
-#: _remoteClient\dialogs.py:442
+#: _remoteClient\dialogs.py:449
 msgid "Connect and do not ask again for this server"
 msgstr "Se connecter et ne plus demander pour ce serveur"
 
 #. Translators: A button to connect and ask again for the server with unauthorized certificate.
-#: _remoteClient\dialogs.py:444
+#: _remoteClient\dialogs.py:451
 msgid "Connect"
 msgstr "Se connecter"
 
