@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-06 07:50+0000\n"
-"PO-Revision-Date: 2025-05-06 08:17\n"
+"PO-Revision-Date: 2025-05-06 09:13\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -3736,7 +3736,7 @@ msgstr "Audio"
 #: globalCommands.py:125 gui\settingsDialogs.py:3320
 msgctxt "remote"
 msgid "Remote Access"
-msgstr ""
+msgstr "Accesso Remoto"
 
 #. Translators: Reported when there are no settings to configure in synth settings ring
 #. (example: when there is no setting for language).
@@ -5257,7 +5257,7 @@ msgstr "Mostra le impostazioni formattazione documento di NVDA"
 #: globalCommands.py:3431
 msgctxt "remote"
 msgid "Shows the Remote Access settings"
-msgstr ""
+msgstr "Mostra le impostazioni di accesso remoto"
 
 #. Translators: Input help mode message for opening default dictionary dialog.
 #: globalCommands.py:3440
@@ -5722,7 +5722,7 @@ msgstr "Il collegamento non ha una destinazione apparente"
 #. Translators: A destination for braille output.
 #: globalCommands.py:4325 brailleDisplayDrivers\dotPad\driver.py:257
 msgid "Graphic"
-msgstr "grafico"
+msgstr "Grafico"
 
 #. Translators: Informs the user that the window contains the destination of the
 #. link with given title
@@ -5961,19 +5961,19 @@ msgstr "Passa tra le opzioni bilanciamento audio"
 #: globalCommands.py:4890
 msgctxt "remote"
 msgid "Mutes or unmutes the speech coming from the remote computer"
-msgstr ""
+msgstr "Attiva o disattiva la sintesi vocale proveniente dal computer remoto"
 
 #. Translators: Documentation string for the script that sends the contents of the clipboard to the remote computer.
 #: globalCommands.py:4900
 msgctxt "remote"
 msgid "Sends the contents of the clipboard to the remote computer"
-msgstr ""
+msgstr "Invia il contenuto degli appunti al computer remoto"
 
 #. Translators: Documentation string for the script that copies a link to the Remote Access session to the clipboard.
 #: globalCommands.py:4908
 msgctxt "remote"
 msgid "Copies a link to the current Remote Access session to the clipboard"
-msgstr ""
+msgstr "Copia negli appunti un link alla sessione remota corrente"
 
 #. Translators: A message indicating that a link has been copied to the clipboard.
 #: globalCommands.py:4915
@@ -5984,7 +5984,7 @@ msgstr "Link copiato."
 #: globalCommands.py:4920
 msgctxt "remote"
 msgid "Disconnects from the current Remote Access session"
-msgstr ""
+msgstr "Disconnette dalla sessione remota corrente"
 
 #. Translators: A message indicating that the remote client is not connected.
 #. Translators: Message shown when attempting to mute the remote computer when no session is connected.
@@ -6002,7 +6002,7 @@ msgstr "Non connesso"
 #: globalCommands.py:4932
 msgctxt "remote"
 msgid "Connects to a remote computer"
-msgstr ""
+msgstr "Si collega a un computer remoto"
 
 #. Translators: A message indicating that the remote client is already connected.
 #: globalCommands.py:4943
@@ -6013,13 +6013,13 @@ msgstr "Già connesso"
 #: globalCommands.py:4949
 msgctxt "remote"
 msgid "Toggles whether Remote Access is connected"
-msgstr ""
+msgstr "Attiva o disattiva connessione remota"
 
 #. Translators: Documentation string for the script that toggles the control between guest and host computers.
 #: globalCommands.py:4964
 msgctxt "remote"
 msgid "Switches whether the keyboard controls the local or remote computer"
-msgstr ""
+msgstr "Stabilisce se la tastiera controlla il computer locale o remoto"
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
@@ -9900,7 +9900,7 @@ msgstr "Destinazione braille"
 #. Translators: A destination for braille output.
 #: brailleDisplayDrivers\dotPad\driver.py:251
 msgid "Text"
-msgstr "Testo"
+msgstr "Area testuale"
 
 #. Translators: Names of braille displays.
 #: brailleDisplayDrivers\eurobraille\constants.py:10
@@ -10099,13 +10099,13 @@ msgstr "Simbolo di inizio paragrafo Pilcrow, (¶)"
 #: config\configFlags.py:322
 msgctxt "remote"
 msgid "Allow this computer to be controlled"
-msgstr ""
+msgstr "Consenti il controllo di questo computer"
 
 #. Translators: Option that allows this computer to control the remote computer.
 #: config\configFlags.py:324
 msgctxt "remote"
 msgid "Control another computer"
-msgstr ""
+msgstr "Controlla un altro computer"
 
 #. Translators: Use an existing Remote control server
 #: config\configFlags.py:352
@@ -12055,7 +12055,7 @@ msgstr "Azione non disponibile se la modalità Braille è impostata su output si
 #: gui\blockAction.py:94
 msgctxt "remote"
 msgid "Action unavailable when Remote Access is disabled"
-msgstr ""
+msgstr "Azione non disponibile quando l'accesso remoto è disabilitato"
 
 #. Translators: The title of the Configuration Profiles dialog.
 #: gui\configProfiles.py:36
@@ -13811,25 +13811,26 @@ msgstr "Elimina tutte le impronte  digitali memorizzate"
 msgctxt "remote"
 msgid "This will cause NVDA to forget all previously trusted Remote Access servers. When connecting to a previously trusted unrecognised server, you will again be asked whether to trust its certificate.\n\n"
 "Are you sure you want to continue? This action cannot be undone."
-msgstr ""
+msgstr "Questo farà sì che NVDA dimentichi tutti i server di accesso remoto precedentemente considerati attendibili. Quando ti connetterai ad un server, ti verrà nuovamente chiesto se desideri considerare attendibile il suo certificato.\n\n"
+"Sei sicuro di voler continuare? Questa azione non può essere annullata."
 
 #. Translators: This is the title of the dialog presented when the user tries to delete all stored trusted fingerprints.
 #: gui\settingsDialogs.py:3496
 msgctxt "remote"
 msgid "Delete All Trusted Fingerprints"
-msgstr ""
+msgstr "Rimuovi tutte le impronte certificate attendibili"
 
 #. Translators: This message is presented when the user tries to save the settings with the host or key field empty.
 #: gui\settingsDialogs.py:3513
 msgctxt "remote"
 msgid "Both host and key must be set in the Remote Access section in order to automatically connect using an existing server after NVDA starts."
-msgstr ""
+msgstr "Nella sessione Accesso Remoto devono essere impostati sia l'host che la chiave per connettersi automaticamente utilizzando un server esistente all'avvio di NVDA."
 
 #. Translators: This message is presented when the user tries to save the settings with the port or key field empty.
 #: gui\settingsDialogs.py:3519
 msgctxt "remote"
 msgid "Both port and key must be set in the Remote Access category in order to automatically connect using a locally hosted server after NVDA starts."
-msgstr ""
+msgstr "Nella categoria Accesso Remoto devono essere impostati sia la porta che la chiave per connettersi automaticamente a un server ospitato localmente all'avvio di NVDA."
 
 #. Translators: Title of a dialog.
 #: gui\settingsDialogs.py:3525
@@ -18533,7 +18534,7 @@ msgstr "Nessun'altro è connesso"
 #: _remoteClient\client.py:155
 msgctxt "remote"
 msgid "Unable to send clipboard"
-msgstr ""
+msgstr "Impossibile inviare gli appunti"
 
 #. Translators: Title of the connection error dialog.
 #: _remoteClient\client.py:234
@@ -18590,45 +18591,45 @@ msgstr "Controllo remoto"
 #: _remoteClient\client.py:550
 msgctxt "remote"
 msgid "A Remote Access session is already in progress. Disconnect before starting a new session."
-msgstr ""
+msgstr "è già in corso una sessione remota. Disconnettiti prima di iniziarne un'altra."
 
 #. Translators: Title of the connection error dialog.
 #: _remoteClient\client.py:553
 msgctxt "remote"
 msgid "Already Connected"
-msgstr ""
+msgstr "Già connesso"
 
 #. Translators: Ask the user if they want to control the remote computer.
 #: _remoteClient\client.py:568
 #, python-brace-format
 msgctxt "remote"
 msgid "Do you wish to control the computer on server {server} with key {key}?"
-msgstr ""
+msgstr "Vuoi controllare il computer sul server {server} con chiave {key}?"
 
 #. Translators: Ask the user if they want to allow the remote computer to control this computer.
 #: _remoteClient\client.py:574
 #, python-brace-format
 msgctxt "remote"
 msgid "Do you wish to allow this computer to be controlled on server {server} with key {key}?"
-msgstr ""
+msgstr "Vuoi consentire a questo computer di essere controllato sul server {server} con la chiave {key}?"
 
 #. Translators: Title of the connection request dialog.
 #: _remoteClient\client.py:580
 msgctxt "remote"
 msgid "Remote Access Connection Request"
-msgstr ""
+msgstr "Richiesta di connessione ad accesso remoto"
 
 #. Translators: Presented in direct (client to server) Remote Access connection when the controlled computer is ready.
 #: _remoteClient\cues.py:36
 msgctxt "remote"
 msgid "Connected as controlled computer"
-msgstr ""
+msgstr "Connesso come computer controllato"
 
 #. Translators: Message shown when the clipboard is successfully sent to the remote computer.
 #: _remoteClient\cues.py:44
 msgctxt "remote"
 msgid "Clipboard sent"
-msgstr ""
+msgstr "Appunti inviati"
 
 #. Translators: Message shown when the clipboard is successfully received from the remote computer.
 #: _remoteClient\cues.py:50
@@ -18685,7 +18686,7 @@ msgstr "Ottieni &Ip esterno "
 #: _remoteClient\dialogs.py:209
 msgctxt "remote"
 msgid "&Key"
-msgstr ""
+msgstr "Chiave (&K)"
 
 #. Translators: Title of a dialog shown to users while attempting to detect their external IP address
 #: _remoteClient\dialogs.py:230
@@ -18731,7 +18732,7 @@ msgstr "Occorre impostare porta e chiave d'accesso."
 #: _remoteClient\dialogs.py:429
 msgctxt "remote"
 msgid "Security Warning"
-msgstr ""
+msgstr "Avviso di sicurezza"
 
 #. Translators: Message presented when attempting to connect to a server with an untrusted certificate.
 #. {fingerprint} will be replaced with the SHA256 fingerprint of the server certificate.
@@ -18742,7 +18743,10 @@ msgid "The certificate of this server could not be verified. Using the wrong fin
 "Before continuing, please make sure that the following server certificate fingerprint is correct.\n"
 "Server SHA256 fingerprint: {fingerprint}\n\n"
 "Continue connecting anyway?"
-msgstr ""
+msgstr "Il certificato di questo server non può essere verificato. Usare un'impronta errata potrebbe consentire a terzi di accedere alla sessione di Accesso Remoto.\n\n"
+"Prima di continuare, assicurati che la seguente impronta del certificato del server sia corretta.\n"
+"Impronta SHA256 del server: {fingerprint}\n\n"
+"Vuoi comunque continuare la connessione?"
 
 #. Translators: A button to connect and remember the server with unauthorized certificate.
 #: _remoteClient\dialogs.py:449
@@ -18768,19 +18772,19 @@ msgstr "Silenzia dispositivo remoto."
 #: _remoteClient\menu.py:34
 msgctxt "remote"
 msgid "Mute speech and sounds from the remote computer."
-msgstr ""
+msgstr "Disattiva sintesi vocale e suoni del computer remoto."
 
 #. Translators: Menu item in the Remote Access submenu to send the contents of the clipboard to the remote computer.
 #: _remoteClient\menu.py:42
 msgctxt "remote"
 msgid "&Send clipboard"
-msgstr ""
+msgstr "Invia Appunti (&S)"
 
 #. Translators: Tooltip for the Send clipboard menu item in the Remote Access submenu.
 #: _remoteClient\menu.py:44
 msgctxt "remote"
 msgid "Send the clipboard text to the remote computer."
-msgstr ""
+msgstr "Invia il testo degli appunti al computer remoto."
 
 #. Translators: Menu item in the Remote Access submenu to copy a link to the current session.
 #: _remoteClient\menu.py:55
@@ -18791,31 +18795,31 @@ msgstr "Copia &link"
 #: _remoteClient\menu.py:57
 msgctxt "remote"
 msgid "Copy a link to the current Remote Access session to the clipboard."
-msgstr ""
+msgstr "Copia negli appunti un link alla sessione remota corrente."
 
 #. Translators: Menu item in the Remote Access submenu to send Control+Alt+Delete to the remote computer.
 #: _remoteClient\menu.py:68
 msgctxt "remote"
 msgid "Send ctrl+alt+del"
-msgstr ""
+msgstr "Invia ctrl+alt+canc"
 
 #. Translators: Tooltip for the Send Ctrl+Alt+Del menu item in the Remote Access submenu.
 #: _remoteClient\menu.py:70
 msgctxt "remote"
 msgid "Send control+alt+delete to the controlled computer."
-msgstr ""
+msgstr "Invia control+alt+Canc al computer remoto."
 
 #. Translators: Label of the Remote Access submenu in the NVDA tools menu.
 #: _remoteClient\menu.py:81
 msgctxt "remote"
 msgid "R&emote Access"
-msgstr ""
+msgstr "Accesso R&emoto"
 
 #. Translators: Tooltip for the Remote Access submenu in the NVDA Tools menu.
 #: _remoteClient\menu.py:85
 msgctxt "remote"
 msgid "Allow someone to control this computer from elsewhere, or control another computer running NVDA with this one."
-msgstr ""
+msgstr "Consenti a qualcuno di controllare questo computer da remoto oppure usa questo computer per controllarne un altro su cui è in esecuzione NVDA."
 
 #. Translators: Item in the Remote Access submenu to connect to another computer.
 #: _remoteClient\menu.py:156
@@ -18826,7 +18830,7 @@ msgstr "Connetti..."
 #: _remoteClient\menu.py:158
 msgctxt "remote"
 msgid "Remotely connect to another computer running NVDA."
-msgstr ""
+msgstr "Connettiti da remoto a un altro computer su cui è in esecuzione NVDA."
 
 #. Translators: Menu item in the Remote Access submenu to disconnect from another computer running NVDA.
 #: _remoteClient\menu.py:176
@@ -18837,23 +18841,23 @@ msgstr "Disconnetti"
 #: _remoteClient\menu.py:178
 msgctxt "remote"
 msgid "Disconnect from the current Remote Access session."
-msgstr ""
+msgstr "Disconnettiti dalla sessione remota corrente."
 
 #. Translators: Message presented when attempting to connect to an incompatible Remote Access server.
 #: _remoteClient\session.py:168
 msgctxt "remote"
 msgid "The Remote Access server you have connected to is not compatible with this version of NVDA. Please use a different server."
-msgstr ""
+msgstr "Il server di Accesso Remoto a cui ti sei connesso non è compatibile con questa versione di NVDA. Utilizza un altro server."
 
 #. Translators: Title of a dialog showing a message sent by a Remote Access server.
 #: _remoteClient\session.py:188
 msgctxt "remote"
 msgid "Message from Remote Access Server"
-msgstr ""
+msgstr "Messaggio dal server remoto"
 
 #. Translators: Message for when the remote NVDA is not connected
 #: _remoteClient\session.py:553
 msgctxt "remote"
 msgid "Remote NVDA not connected"
-msgstr ""
+msgstr "NVDA non connesso da remoto"
 
