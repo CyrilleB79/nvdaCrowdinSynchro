@@ -5456,9 +5456,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 14</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>It's now easier to manually refresh OCR and toggle automatic refresh, with new commands.</source>
-        <target>Il est désormais plus facile de rafraîchir manuellement l'OCR et de basculer le rafraîchissement automatique grâce à de nouvelles commandes.</target>
+        <target>Il est désormais plus facile d'actualiser manuellement l'OCR et de basculer l'actualisation automatique grâce à de nouvelles commandes.</target>
       </segment>
     </unit>
     <unit id="20963f36-9dbc-442d-94cc-1034306850a5">
@@ -5776,9 +5776,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 58</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>NVDA browse mode's native selection mode (`NVDA+shift+f10`) is now supported in Google Chrome, Edge and other applications based on Chromium 134 or newer. (#17838)</source>
-        <target>Le mode de sélection native de NVDA en mode navigation (`NVDA+shift+f10`) est désormais pris en charge dans Google Chrome, Edge et d'autres applications basées sur Chromium 134 ou plus récent. (#17838)</target>
+        <target>Le mode de sélection native de NVDA en mode navigation (`NVDA+maj+f10`) est désormais pris en charge dans Google Chrome, Edge et d'autres applications basées sur Chromium 134 ou plus récent. (#17838)</target>
       </segment>
     </unit>
     <unit id="7552ea32-24b9-4dcd-b150-1e8716c4526a">
@@ -5826,9 +5826,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 63</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>In Word, the selection update is now reported when using Word commands to extend or reduce the selection (`f8` or `shift+f8`). (#3293, @CyrilleB79)</source>
-        <target>Dans Word, la mise à jour de la sélection est maintenant annoncée lorsque vous utilisez les commandes de Word pour étendre ou réduire la sélection (`f8` ou `Maj+f8`). (#3293, @CyrilleB79)</target>
+        <target>Dans Word, la mise à jour de la sélection est maintenant annoncée lorsque vous utilisez les commandes de Word pour étendre ou réduire la sélection (`f8` ou `maj+f8`). (#3293, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="3e3c1bbf-28dd-40e1-baf0-0ac2d8c6da56">
@@ -5846,9 +5846,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 65</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>In Word with UIA, when using the native extended table navigation commands (`alt+home`, `alt+end`, `alt+pageUp`, and `alt+pageDown`), the caret movement will now be reported. (#17867, @CyrilleB79)</source>
-        <target>Dans Word avec UIA, lorsque vous utilisez les commandes natives de navigation étendue dans les tableaux (`alt+`Début, `alt+Fin`, `alt+pagePréc`, et `alt+pageSuiv`), le mouvement du curseur sera désormais annoncé. (#17867, @CyrilleB79)</target>
+        <target>Dans Word avec UIA, lorsque vous utilisez les commandes natives de navigation étendue dans les tableaux (`alt+début`, `alt+fin`, `alt+pagePréc`, et `alt+pageSuiv`), le mouvement du curseur sera désormais annoncé. (#17867, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="a0015a1c-ba2d-4f95-9932-d29d555967f2">
@@ -5868,7 +5868,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The result of more shortcuts is now reported in Word and Outlook:</source>
-        <target>Le résultat de l'ajout de nouveaux raccourcis est maintenant visible dans Word et Outlook :</target>
+        <target>Le résultat de davantage de raccourcis est maintenant annoncé dans Word et Outlook :</target>
       </segment>
     </unit>
     <unit id="0f695aed-520e-46fb-b2c3-4e176c5856c1">
@@ -5878,7 +5878,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>font formatting shortcuts (#10271, @CyrilleB79)</source>
-        <target>des raccourcis de mise en forme de police (#10271, @CyrilleB79)</target>
+        <target>raccourcis de mise en forme de police (#10271, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="d81b0182-87a0-42ee-ba06-21cdd2a21486">
@@ -5928,7 +5928,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>When toggling double underline in Writer using the corresponding keyboard shortcut, NVDA announces the new state ("double underline on"/"double underline off"). (#6915, @michaelweghorn)</source>
-        <target>When toggling double underline in Writer using the corresponding keyboard shortcut, NVDA announces the new state ("double underline on"/"double underline off"). (#6915, @michaelweghorn)</target>
+        <target>Lorsque vous activez ou désactivez le double soulignement dans Writer à l'aide du raccourci clavier correspondant, NVDA annonce le nouvel état ("soulignage double activé" / "soulignage double désactivé"). (#6915, @michaelweghorn)</target>
       </segment>
     </unit>
     <unit id="dc5b6bdb-7018-42cc-b255-8780a6b8de22">
@@ -5948,7 +5948,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>OCR:</source>
-        <target>OCR:</target>
+        <target>Reconnaissance Optique de Caractères :</target>
       </segment>
     </unit>
     <unit id="04990fc0-b683-48d3-8d8d-c606a0edff9c">
@@ -5968,7 +5968,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Added an unassigned gesture to toggle periodically refreshing the Windows OCR result. (#16897)</source>
-        <target>Ajout d'un geste de commandes non assigné pour basculer l'actualisation périodique du résultat de l'OCR Windows. (#16897)</target>
+        <target>Ajout d'un geste de commandes non assigné pour activer ou désactiver l'actualisation périodique du résultat de la Reconnaissance Optique de Caractères de Windows. (#16897)</target>
       </segment>
     </unit>
     <unit id="cb090932-3eea-4e80-a8e1-d978eaba98ce">
@@ -5978,7 +5978,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Remote access functionality, based on the NVDA Remote add-on, has been integrated into NVDA. (#4390, @ctoth, @tspivey, @daiverd, NVDA Remote Contributors and funders)</source>
-        <target>Les fonctionnalités d'accès à distance, basées sur l'extension NVDA Remote, ont été intégrées à NVDA. (#4390, @ctoth, @tspivey, @daiverd, contributeurs et financeurs de NVDA Remote)</target>
+        <target>La fonctionnalité d'accès à distance, basée sur l'extension NVDA Remote, a été intégrée à NVDA. (#4390, @ctoth, @tspivey, @daiverd, contributeurs et financeurs de NVDA Remote)</target>
       </segment>
     </unit>
     <unit id="a47c7ded-2c61-4f51-ae37-23ef498bdcc9">
