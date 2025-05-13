@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-13 09:28+0000\n"
-"PO-Revision-Date: 2025-05-13 12:25\n"
+"PO-Revision-Date: 2025-05-13 14:13\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3736,7 +3736,7 @@ msgstr "Audio"
 #: globalCommands.py:125 gui\settingsDialogs.py:3321
 msgctxt "remote"
 msgid "Remote Access"
-msgstr "Accès Distant"
+msgstr "Accès à distance"
 
 #. Translators: Reported when there are no settings to configure in synth settings ring
 #. (example: when there is no setting for language).
@@ -5257,7 +5257,7 @@ msgstr "Afficher les paramètres de mise en forme des documents de NVDA"
 #: globalCommands.py:3431
 msgctxt "remote"
 msgid "Shows the Remote Access settings"
-msgstr "Affiche les paramètres de l’accès distant"
+msgstr "Affiche les paramètres de d’accès à distance"
 
 #. Translators: Input help mode message for opening default dictionary dialog.
 #: globalCommands.py:3440
@@ -5973,13 +5973,13 @@ msgstr "Envoie le contenu du presse-papiers à l’ordinateur distant"
 #: globalCommands.py:4908
 msgctxt "remote"
 msgid "Copies a link to the current Remote Access session to the clipboard"
-msgstr "Copie un lien vers la session d’accès distant actuelle dans le presse-papiers"
+msgstr "Copie un lien vers la session d’accès à distance actuelle dans le presse-papiers"
 
 #. Translators: Documentation string for the script that disconnects a Remote Access session.
 #: globalCommands.py:4918
 msgctxt "remote"
 msgid "Disconnects from the current Remote Access session"
-msgstr "Se déconnecte de la session d’accès distant actuelle"
+msgstr "Se déconnecte de la session d’accès à distance actuelle"
 
 #. Translators: A message indicating that the remote client is not connected.
 #. Translators: Message shown when attempting to mute the remote computer when no session is connected.
@@ -6009,13 +6009,13 @@ msgstr "Déjà connecté"
 #: globalCommands.py:4947
 msgctxt "remote"
 msgid "Toggles whether Remote Access is connected"
-msgstr "Active ou désactive la connexion à l’accès distant"
+msgstr "Active ou désactive la connexion d’accès à distance"
 
 #. Translators: Documentation string for the script that toggles the control between guest and host computers.
 #: globalCommands.py:4962
 msgctxt "remote"
 msgid "Switches whether the keyboard controls the local or remote computer"
-msgstr "Détermine si le clavier contrôle l’ordinateur local ou distant"
+msgstr "Bascule entre le contrôle de l’ordinateur local ou distant"
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
@@ -12051,7 +12051,7 @@ msgstr "Action indisponible lorsque le mode braille est réglé sur l'affichage 
 #: gui\blockAction.py:87
 msgctxt "remote"
 msgid "Action unavailable when Remote Access is disabled"
-msgstr "Action indisponible lorsque l’accès distant est désactivé"
+msgstr "Action indisponible lorsque l’accès à distance est désactivé"
 
 #. Translators: The title of the Configuration Profiles dialog.
 #: gui\configProfiles.py:36
@@ -13751,7 +13751,7 @@ msgstr "&Jouer des sons à la place des bips"
 #: gui\settingsDialogs.py:3365
 msgctxt "remote"
 msgid "Confirm before disconnecting when controlled"
-msgstr ""
+msgstr "Confirmation de la déconnexion pour l'ordinateur contrôlé"
 
 #. Translators: A checkbox in Remote Access settings to set whether NVDA should automatically connect to a control server on startup.
 #: gui\settingsDialogs.py:3374
@@ -13813,20 +13813,21 @@ msgstr "Supprimer toutes les empreintes digitales de confiance"
 #: gui\settingsDialogs.py:3460
 msgctxt "remote"
 msgid "Read only"
-msgstr ""
+msgstr "Lecture seule"
 
 #. Translators: Message presented to users when viewing Remote Access settings in secure mode.
 #: gui\settingsDialogs.py:3462
 msgctxt "remote"
 msgid "Remote Access settings are read only as NVDA is running in secure mode."
-msgstr ""
+msgstr "Les paramètres de l'accès à distance ne sont accessible qu'en lecture car NVDA s'exécute en mode sécurisé."
 
 #. Translators: This message is presented when the user tries to delete all stored trusted fingerprints.
 #: gui\settingsDialogs.py:3523
 msgctxt "remote"
 msgid "This will cause NVDA to forget all previously trusted Remote Access servers. When connecting to a previously trusted unrecognised server, you will again be asked whether to trust its certificate.\n\n"
 "Are you sure you want to continue?"
-msgstr ""
+msgstr "NVDA oubliera tous les serveurs d’accès à distance précédemment approuvés. Lorsque vous vous connecterez à un serveur non reconnu précédemment approuvé, il vous sera à nouveau demandé si vous souhaitez approuver son certificat.\n\n"
+"Êtes-vous sûre de vouloir continuer ?"
 
 #. Translators: This is the title of the dialog presented when the user tries to delete all stored trusted fingerprints.
 #: gui\settingsDialogs.py:3528
@@ -13838,13 +13839,13 @@ msgstr "Supprimer toutes les signatures approuvées"
 #: gui\settingsDialogs.py:3545
 msgctxt "remote"
 msgid "Both host and key must be set in the Remote Access section in order to automatically connect using an existing server after NVDA starts."
-msgstr "L’hôte et la clé doivent être tous deux définis dans la section Accès distant afin de se connecter automatiquement à l’aide d’un serveur existant après le démarrage de NVDA."
+msgstr "L’hôte et la clé doivent être tous deux définis dans la section Accès à distance afin de se connecter automatiquement à l’aide d’un serveur existant après le démarrage de NVDA."
 
 #. Translators: This message is presented when the user tries to save the settings with the port or key field empty.
 #: gui\settingsDialogs.py:3551
 msgctxt "remote"
 msgid "Both port and key must be set in the Remote Access category in order to automatically connect using a locally hosted server after NVDA starts."
-msgstr "Le port et la clé doivent être tous deux définis dans la section Accès distant afin de se connecter automatiquement à l’aide d’un serveur existant après le démarrage de NVDA."
+msgstr "Le port et la clé doivent être tous deux définis dans la section Accès à distance afin d'ouvrir une connexion automatique à l’aide d’un serveur hébergé localement après le démarrage de NVDA."
 
 #. Translators: Title of a dialog.
 #: gui\settingsDialogs.py:3557
@@ -18568,13 +18569,13 @@ msgstr "Lien copié"
 #: _remoteClient\client.py:233
 msgctxt "remote"
 msgid "Confirm Disconnection"
-msgstr ""
+msgstr "Confirmer la déconnexion"
 
 #. Translators: Message shown when disconnecting from the remote computer.
 #: _remoteClient\client.py:237
 msgctxt "remote"
 msgid "Are you sure you want to disconnect from the Remote Access session?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir vous déconnecter de la session d'accès à distance ?"
 
 #. Translators: Title of the connection error dialog.
 #: _remoteClient\client.py:279
@@ -18625,7 +18626,7 @@ msgstr "Contrôle de l'ordinateur distant"
 #: _remoteClient\client.py:614
 msgctxt "remote"
 msgid "A Remote Access session is already in progress. Disconnect before starting a new session."
-msgstr "Une session d’accès distant est déjà en cours. Déconnectez-vous avant de démarrer une nouvelle session."
+msgstr "Une session d’accès à distance est déjà en cours. Déconnectez-vous avant de démarrer une nouvelle session."
 
 #. Translators: Title of the connection error dialog.
 #: _remoteClient\client.py:617
@@ -18651,7 +18652,7 @@ msgstr "Souhaitez-vous autoriser cet ordinateur à être contrôlé sur le serve
 #: _remoteClient\client.py:644
 msgctxt "remote"
 msgid "Remote Access Connection Request"
-msgstr "Demande de connexion à l’accès distant"
+msgstr "Demande de connexion pour un accès à distance"
 
 #. Translators: Presented in direct (client to server) Remote Access connection when the controlled computer is ready.
 #: _remoteClient\cues.py:36
@@ -18777,7 +18778,7 @@ msgid "The certificate of this server could not be verified. Using the wrong fin
 "Before continuing, please make sure that the following server certificate fingerprint is correct.\n"
 "Server SHA256 fingerprint: {fingerprint}\n\n"
 "Continue connecting anyway?"
-msgstr "Le certificat de ce serveur n’a pas pu être vérifié. L’utilisation d’une empreinte erronée pourrait permettre à un tiers d’accéder à la session d’accès distant.\n\n"
+msgstr "Le certificat de ce serveur n’a pas pu être vérifié. L’utilisation d’une empreinte erronée pourrait permettre à un tiers d’accéder à la session d’accès à distance.\n\n"
 "Avant de continuer, veuillez vous assurer que l’empreinte du certificat de serveur suivante est correcte.\n"
 "Empreinte SHA256 du serveur : {fingerprint}\n\n"
 "Se connecter quand même ?"
@@ -18829,7 +18830,7 @@ msgstr "Copier le &lien"
 #: _remoteClient\menu.py:57
 msgctxt "remote"
 msgid "Copy a link to the current Remote Access session to the clipboard."
-msgstr "Copier un lien vers la session d’accès distant actuelle dans le presse-papiers."
+msgstr "Copier un lien vers la session d’accès à distance actuelle dans le presse-papiers."
 
 #. Translators: Menu item in the Remote Access submenu to send Control+Alt+Delete to the remote computer.
 #: _remoteClient\menu.py:68
@@ -18847,7 +18848,7 @@ msgstr "Envoyer Contrôle+Alt+Supprimer à l’ordinateur contrôlé."
 #: _remoteClient\menu.py:81
 msgctxt "remote"
 msgid "R&emote Access"
-msgstr "Accès &Distant"
+msgstr "Accès à &distance"
 
 #. Translators: Tooltip for the Remote Access submenu in the NVDA Tools menu.
 #: _remoteClient\menu.py:85
@@ -18875,19 +18876,19 @@ msgstr "Se &déconnecter"
 #: _remoteClient\menu.py:178
 msgctxt "remote"
 msgid "Disconnect from the current Remote Access session."
-msgstr "Se déconnecter de la session d’accès distant actuelle."
+msgstr "Se déconnecter de la session d’accès à distance actuelle."
 
 #. Translators: Message presented when attempting to connect to an incompatible Remote Access server.
 #: _remoteClient\session.py:168
 msgctxt "remote"
 msgid "The Remote Access server you have connected to is not compatible with this version of NVDA. Please use a different server."
-msgstr "Le serveur d’accès distant auquel vous vous êtes connecté est incompatible avec cette version de NVDA. Veuillez utiliser un autre serveur."
+msgstr "Le serveur d’accès à distance auquel vous vous êtes connecté est incompatible avec cette version de NVDA. Veuillez utiliser un autre serveur."
 
 #. Translators: Title of a dialog showing a message sent by a Remote Access server.
 #: _remoteClient\session.py:188
 msgctxt "remote"
 msgid "Message from Remote Access Server"
-msgstr "Message du serveur d’accès distant"
+msgstr "Message du serveur d’accès à distance"
 
 #. Translators: Message for when the remote NVDA is not connected
 #: _remoteClient\session.py:553
