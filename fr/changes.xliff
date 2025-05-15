@@ -6872,9 +6872,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 172</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Closing the COM registration fixing tool while on its intro screen with alt+f4 now correctly cancels the tool rather than letting it try to run. (#18090)</source>
-        <target>Closing the COM registration fixing tool while on its intro screen with alt+f4 now correctly cancels the tool rather than letting it try to run. (#18090)</target>
+        <target>La fermeture de l'outil de Correction des Enregistrements COM sur son dialogue d'ouverture avec `alt+f4` annule désormais correctement son exécution plutôt que de le laisser tenter son exécution. (# 18090)</target>
       </segment>
     </unit>
     <unit id="70c8f98f-d5b5-4ec6-8e26-7de32f2da4e7">
