@@ -5456,9 +5456,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 14</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>New commands have been added to manually refresh an OCR result, and to toggle periodically refreshing OCR results.</source>
-        <target>New commands have been added to manually refresh an OCR result, and to toggle periodically refreshing OCR results.</target>
+        <target>De nouvelles commandes ont été ajoutées pour actualiser manuellement un résultat de Reconnaissance Optique de Caractères et pour activer ou désactiver l'actualisation périodique des résultats de reconnaissance.</target>
       </segment>
     </unit>
     <unit id="20963f36-9dbc-442d-94cc-1034306850a5">
@@ -7601,9 +7601,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 252</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Additionally, the method signature of its `__init__` has changed as follows:</source>
-        <target>  Additionally, the method signature of its `__init__` has changed as follows:</target>
+        <target>  De plus, la signature de sa méthode `__init__` a changé comme suit :</target>
       </segment>
     </unit>
     <unit id="8ddc3742-3862-46c8-ab55-edceda0c301f">
@@ -7611,9 +7611,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 253</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `outputDevice` parameter should now only be passed string arguments.</source>
-        <target>The `outputDevice` parameter should now only be passed string arguments.</target>
+        <target>Le paramètre `outputDevice` ne reçoit désormais que des arguments de type string.</target>
       </segment>
     </unit>
     <unit id="52f69654-6bf0-4424-8854-6d692a3906cb">
@@ -7621,9 +7621,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 254</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The deprecated `closeWhenIdle` and `buffered` parameters have been removed.</source>
-        <target>The deprecated `closeWhenIdle` and `buffered` parameters have been removed.</target>
+        <target>Les paramètres obsolètes `closeWhenIdle` and `buffered` ont été supprimés.</target>
       </segment>
     </unit>
     <unit id="b7ec61e8-747a-4f68-b201-96c0a4c30770">
@@ -10741,7 +10741,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The Add-on Store now supports bulk actions (e.g. installing, enabling add-ons) by selecting multiple add-ons</source>
-        <target>L'Add-on Store prend désormais en charge les actions groupées (par exemple, l'installation, l'activation d'extensions) en sélectionnant plusieurs extensions.</target>
+        <target>L'Add-on Store prend désormais en charge les actions groupées (par exemple, l'installation, l'activation d'extensions) en sélectionnant plusieurs extensions</target>
       </segment>
     </unit>
     <unit id="7f61598a-1b1e-4e79-ae9b-9faa11815599">
@@ -13501,7 +13501,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>  Incompatible versions of these add-ons will be disabled when updating NVDA:</source>
-        <target>  Les versions incompatibles de ces extensions seront désactivées lors de la mise à jour de NVDA.</target>
+        <target>  Les versions incompatibles de ces extensions seront désactivées lors de la mise à jour de NVDA :</target>
       </segment>
     </unit>
     <unit id="b6790c85-2fdd-4fb9-8cef-8c137f3607f0">
@@ -19210,7 +19210,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Using the NVDA Windows Store version.</source>
-        <target>Lors de l'utilisation de la version Windows Store</target>
+        <target>Lors de l'utilisation de la version Windows Store.</target>
       </segment>
     </unit>
     <unit id="12689559-8b81-4d85-8529-e4415ecb5920">
@@ -19508,7 +19508,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>In Windows 11, it is again possible to navigate and interact with user interface elements,</source>
-        <target>Sous Windows 11, il est à nouveau possible de naviguer et d'interagir avec certains éléments de l'interface utilisateur</target>
+        <target>Sous Windows 11, il est à nouveau possible de naviguer et d'interagir avec certains éléments de l'interface utilisateur,</target>
       </segment>
     </unit>
     <unit id="469436c6-2562-40a5-acf0-704da31a3f00">
@@ -20334,7 +20334,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Added new braille table: Japanese (Kantenji) literary braille.</source>
-        <target>Ajout de nouvelles tables Braille : Japonais (Kantenji) braille littéraire</target>
+        <target>Ajout de nouvelles tables Braille : Japonais (Kantenji) braille littéraire.</target>
       </segment>
     </unit>
     <unit id="a34f93ea-e830-4a5d-8266-decc7d07540c">
@@ -20344,7 +20344,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Added new German 6 dot computer braille table.</source>
-        <target>Ajout de la nouvelle table Braille Allemand Braille informatique 6 points</target>
+        <target>Ajout de la nouvelle table Braille Allemand Braille informatique 6 points.</target>
       </segment>
     </unit>
     <unit id="291e013d-8d91-41b3-9796-01c6f1036b2d">
@@ -23822,7 +23822,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>For example: `controlTypes.IsCurrent.YES.displayString`.</source>
-        <target>Par exemple `controlTypes.IsCurrent.YES.displayString`</target>
+        <target>Par exemple `controlTypes.IsCurrent.YES.displayString`.</target>
       </segment>
     </unit>
     <unit id="6775707c-02f8-4428-b9e2-59c8c2cbc7d0">
@@ -24566,7 +24566,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Updated liblouis braille translator to version 3.16.1:</source>
-        <target>Mise à jour du transcripteur Braille Liblouis à la version 3.16.1.</target>
+        <target>Mise à jour du transcripteur Braille Liblouis à la version 3.16.1 :</target>
       </segment>
     </unit>
     <unit id="3634fa33-e26e-45af-92ad-623eb0e440cf">
@@ -29567,7 +29567,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Updated eSpeak-NG to commit 919f3240cbb.</source>
-        <target>Mise à jour de eSpeak-NG à la révision 919f3240cbb</target>
+        <target>Mise à jour de eSpeak-NG à la révision 919f3240cbb.</target>
       </segment>
     </unit>
     <unit id="7dfca3d7-fe7f-4560-8261-f7643224f2b4">
