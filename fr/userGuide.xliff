@@ -15451,9 +15451,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1435</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Pressing `NVDA+f5` refreshes the recognition result.</source>
-        <target>Pressing `NVDA+f5` refreshes the recognition result.</target>
+        <target>Un appui sur `NVDA+f5` actualise le résultat de la reconnaissance.</target>
       </segment>
     </unit>
     <unit id="c88b0a53-dfd1-4ac2-ba45-0ff711243952">
