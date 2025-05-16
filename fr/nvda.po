@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 01:06+0000\n"
-"PO-Revision-Date: 2025-05-16 05:13\n"
+"POT-Creation-Date: 2025-05-16 07:34+0000\n"
+"PO-Revision-Date: 2025-05-16 08:17\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -18791,12 +18791,12 @@ msgstr "Se connecter"
 #: _remoteClient\localMachine.py:289
 msgctxt "remote"
 msgid "Unable to trigger control+alt+delete"
-msgstr ""
+msgstr "Impossible de déclencher un contrôle+alt+suppr"
 
 #. Translators: Menu item in Remote Access submenu to mute speech and sounds from the remote computer.
 #: _remoteClient\menu.py:32
 msgid "Mute remote"
-msgstr "Co&uper le son distant"
+msgstr "Couper le son distant"
 
 #. Translators: Tooltip for the Mute Remote menu item in the Remote Access submenu.
 #: _remoteClient\menu.py:34
@@ -18808,7 +18808,7 @@ msgstr "Couper la parole et les sons de l’ordinateur distant."
 #: _remoteClient\menu.py:42
 msgctxt "remote"
 msgid "&Send clipboard"
-msgstr "&Envoyer le presse-papiers"
+msgstr "Envoyer le pre&sse-papiers"
 
 #. Translators: Tooltip for the Send clipboard menu item in the Remote Access submenu.
 #: _remoteClient\menu.py:44
@@ -18831,7 +18831,7 @@ msgstr "Copier un lien vers la session d’accès à distance actuelle dans le p
 #: _remoteClient\menu.py:68
 msgctxt "remote"
 msgid "S&end control+alt+delete"
-msgstr ""
+msgstr "&Envoyer Ctrl+Alt+Suppr"
 
 #. Translators: Tooltip for the Send Control+Alt+Delete menu item in the Remote Access submenu.
 #: _remoteClient\menu.py:70
