@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-19 04:05+0000\n"
-"PO-Revision-Date: 2025-05-19 05:13\n"
+"PO-Revision-Date: 2025-05-19 08:19\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -13819,7 +13819,8 @@ msgstr "Le impostazioni di accesso remoto di NVDA risultano in sola lettura poic
 msgctxt "remote"
 msgid "This will cause NVDA to forget all previously trusted Remote Access servers. When connecting to a previously trusted unrecognised server, you will again be asked whether to trust its certificate.\n\n"
 "Are you sure you want to continue?"
-msgstr ""
+msgstr "Questo causerà la perdita di tutti i server di accesso remoto precedentemente considerati attendibili da NVDA. Quando ti connetterai a un server non riconosciuto ma precedentemente considerato attendibile, ti verrà nuovamente chiesto se desideri fidarti del suo certificato..\n\n"
+"Sei sicuro di voler continuare?"
 
 #. Translators: This is the title of the dialog presented when the user tries to delete all stored trusted fingerprints.
 #: gui\settingsDialogs.py:3518
@@ -18789,7 +18790,7 @@ msgstr "Connetti"
 #: _remoteClient\localMachine.py:289
 msgctxt "remote"
 msgid "Unable to trigger control+alt+delete"
-msgstr ""
+msgstr "Impossibile inviare control+alt+canc"
 
 #. Translators: Menu item in Remote Access submenu to mute speech and sounds from the remote computer.
 #: _remoteClient\menu.py:32
@@ -18829,7 +18830,7 @@ msgstr "Copia negli appunti un link alla sessione remota corrente."
 #: _remoteClient\menu.py:68
 msgctxt "remote"
 msgid "S&end control+alt+delete"
-msgstr ""
+msgstr "Invia control+alt+canc&ella"
 
 #. Translators: Tooltip for the Send Control+Alt+Delete menu item in the Remote Access submenu.
 #: _remoteClient\menu.py:70
