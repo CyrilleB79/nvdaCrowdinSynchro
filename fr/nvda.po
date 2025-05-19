@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 07:34+0000\n"
-"PO-Revision-Date: 2025-05-19 03:13\n"
+"POT-Creation-Date: 2025-05-19 04:05+0000\n"
+"PO-Revision-Date: 2025-05-19 05:13\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5879,104 +5879,104 @@ msgid "Toggles on and off the reporting of CLDR characters, such as emojis"
 msgstr "Activer ou désactiver l'annonce des caractères CLDR, tels que les emojis"
 
 #. Translators: presented when the report CLDR is toggled.
-#: globalCommands.py:4676
+#: globalCommands.py:4677
 msgid "report CLDR characters off"
 msgstr "annonce des caractères CLDR désactivée"
 
 #. Translators: presented when the report CLDR is toggled.
-#: globalCommands.py:4680
+#: globalCommands.py:4681
 msgid "report CLDR characters on"
 msgstr "annonce des caractères CLDR activée"
 
 #. Translators: Input help mode message for speech Unicode normalization command.
-#: globalCommands.py:4687
+#: globalCommands.py:4688
 msgid "Cycle through the speech Unicode normalization states"
 msgstr "Faire défiler les états de normalisation Unicode de la parole"
 
 #. Translators: Used when reporting speech Unicode normalization state
 #. (default behavior).
-#: globalCommands.py:4702
+#: globalCommands.py:4703
 #, python-brace-format
 msgid "Speech Unicode normalization default ({default})"
 msgstr "Normalisation Unicode de la parole par défaut ({default})"
 
 #. Translators: Used when reporting speech Unicode normalization state
 #. (disabled or enabled).
-#: globalCommands.py:4708
+#: globalCommands.py:4709
 #, python-brace-format
 msgid "Speech Unicode normalization {state}"
 msgstr "Normalisation Unicode de la parole {state}"
 
 #. Translators: Describes a command.
-#: globalCommands.py:4720
+#: globalCommands.py:4721
 msgid "Toggles the state of the screen curtain, enable to make the screen black or disable to show the contents of the screen. Pressed once, screen curtain is enabled until you restart NVDA. Pressed twice, screen curtain is enabled until you disable it"
 msgstr "Activer ou désactiver le rideau d'écran, soit en rendant l'écran noir soit en affichant son contenu. Un appui active le rideau d'écran jusqu'au prochain redémarrage de NVDA. Deux appuis activent le rideau jusqu'à ce que vous le désactiviez"
 
 #. Translators: Reported when the screen curtain is disabled.
-#: globalCommands.py:4779
+#: globalCommands.py:4780
 msgid "Screen curtain disabled"
 msgstr "Rideau d'écran désactivé"
 
 #. Translators: Reported when the screen curtain could not be enabled.
-#: globalCommands.py:4786
+#: globalCommands.py:4787
 msgid "Could not disable screen curtain"
 msgstr "Impossible de désactiver le rideau d'écran"
 
 #. Translators: Reported when the screen curtain is not available.
-#: globalCommands.py:4797
+#: globalCommands.py:4798
 msgid "Screen curtain not available"
 msgstr "Rideau d'écran indisponible"
 
 #. Translators: Reported when the screen curtain is enabled.
-#: globalCommands.py:4809
+#: globalCommands.py:4810
 msgid "Screen curtain enabled"
 msgstr "Rideau d'écran activé"
 
 #. Translators: Reported when the screen curtain is temporarily enabled.
-#: globalCommands.py:4812
+#: globalCommands.py:4813
 msgid "Temporary Screen curtain, enabled until next restart"
 msgstr "Rideau d'écran temporaire, activé jusqu'au prochain redémarrage"
 
 #. Translators: Reported when the screen curtain could not be enabled.
-#: globalCommands.py:4825
+#: globalCommands.py:4826
 msgid "Could not enable screen curtain"
 msgstr "Impossible d'activer le rideau d'écran"
 
 #. Translators: Warning message when trying to enable the screen curtain when OCR is active.
-#: globalCommands.py:4858 visionEnhancementProviders\screenCurtain.py:281
+#: globalCommands.py:4859 visionEnhancementProviders\screenCurtain.py:281
 msgid "Could not enable screen curtain when performing content recognition"
 msgstr "Impossible d'activer le rideau d'écran Durant la reconnaissance de contenu"
 
 #. Translators: Describes a command.
-#: globalCommands.py:4866
+#: globalCommands.py:4867
 msgid "Cycles through paragraph navigation styles"
 msgstr "Faire défiler les styles de navigation par paragraphe"
 
 #. Translators: Describes a command.
-#: globalCommands.py:4880
+#: globalCommands.py:4881
 msgid "Cycles through sound split modes"
 msgstr "Faire défiler les modes de séparation du son"
 
 #. Translators: Documentation string for the script that toggles whether the output from the remote computer is muted.
-#: globalCommands.py:4890
+#: globalCommands.py:4891
 msgctxt "remote"
 msgid "Mutes or unmutes the speech coming from the remote computer"
 msgstr "Coupe ou réactive le son de la parole provenant de l’ordinateur distant"
 
 #. Translators: Documentation string for the script that sends the contents of the clipboard to the remote computer.
-#: globalCommands.py:4900
+#: globalCommands.py:4901
 msgctxt "remote"
 msgid "Sends the contents of the clipboard to the remote computer"
 msgstr "Envoie le contenu du presse-papiers à l’ordinateur distant"
 
 #. Translators: Documentation string for the script that copies a link to the Remote Access session to the clipboard.
-#: globalCommands.py:4908
+#: globalCommands.py:4909
 msgctxt "remote"
 msgid "Copies a link to the current Remote Access session to the clipboard"
 msgstr "Copie un lien vers la session d’accès à distance actuelle dans le presse-papiers"
 
 #. Translators: Documentation string for the script that disconnects a Remote Access session.
-#: globalCommands.py:4918
+#: globalCommands.py:4919
 msgctxt "remote"
 msgid "Disconnects from the current Remote Access session"
 msgstr "Se déconnecte de la session d’accès à distance actuelle"
@@ -5987,7 +5987,7 @@ msgstr "Se déconnecte de la session d’accès à distance actuelle"
 #. Translators: Message shown when trying to copy the link to connect to the remote computer while not connected.
 #. Translators: Message shown when attempting to send control+alt+delete when no session is connected.
 #. Translators: A message indicating that the remote client is not connected.
-#: globalCommands.py:4924 _remoteClient\client.py:125
+#: globalCommands.py:4925 _remoteClient\client.py:125
 #: _remoteClient\client.py:149 _remoteClient\client.py:171
 #: _remoteClient\client.py:187 _remoteClient\client.py:519
 msgctxt "remote"
@@ -5995,44 +5995,44 @@ msgid "Not connected"
 msgstr "Non connecté"
 
 #. Translators: Documentation string for the script that starts a new Remote Access session.
-#: globalCommands.py:4930
+#: globalCommands.py:4931
 msgctxt "remote"
 msgid "Connects to a remote computer"
 msgstr "Se connecte à un ordinateur distant"
 
 #. Translators: A message indicating that the remote client is already connected.
-#: globalCommands.py:4941
+#: globalCommands.py:4942
 msgid "Already connected"
 msgstr "Déjà connecté"
 
 #. Translators: Describes the script that creates a new Remote Access session, or disconnects it if one already exists.
-#: globalCommands.py:4947
+#: globalCommands.py:4948
 msgctxt "remote"
 msgid "Toggles whether Remote Access is connected"
 msgstr "Active ou désactive la connexion d’accès à distance"
 
 #. Translators: Documentation string for the script that toggles the control between guest and host computers.
-#: globalCommands.py:4962
+#: globalCommands.py:4963
 msgctxt "remote"
 msgid "Switches whether the keyboard controls the local or remote computer"
 msgstr "Bascule entre le contrôle de l’ordinateur local ou distant"
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
-#: globalCommands.py:5004
+#: globalCommands.py:5005
 msgid "Can't change the active profile while an NVDA dialog is open"
 msgstr "Impossible de changer le profil de configuration actif quand un dialogue de NVDA est ouvert"
 
 #. Translators: a message when a configuration profile is manually deactivated.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5009
+#: globalCommands.py:5010
 #, python-brace-format
 msgid "{profile} profile deactivated"
 msgstr "Profil de configuration {profile} désactivé"
 
 #. Translators: a message when a configuration profile is manually activated.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5014
+#: globalCommands.py:5015
 #, python-brace-format
 msgid "{profile} profile activated"
 msgstr "Profil de configuration {profile} activé"
@@ -6040,7 +6040,7 @@ msgstr "Profil de configuration {profile} activé"
 #. Translators: The description shown in input help for a script that
 #. activates or deactivates a config profile.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5030
+#: globalCommands.py:5031
 #, python-brace-format
 msgid "Activates or deactivates the {profile} configuration profile"
 msgstr "Activer ou désactiver le profil de configuration {profile}"
