@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 09:58+0000\n"
-"PO-Revision-Date: 2025-05-19 23:12\n"
+"POT-Creation-Date: 2025-05-20 00:37+0000\n"
+"PO-Revision-Date: 2025-05-20 01:02\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -3420,7 +3420,7 @@ msgstr "Alcune operazioni sui componenti aggiuntivi non sono riuscite. Consulta 
 #: gui\installerGui.py:112 gui\installerGui.py:520 gui\installerGui.py:535
 #: gui\installerGui.py:607 gui\logViewer.py:112 gui\logViewer.py:143
 #: gui\message.py:161 gui\settingsDialogs.py:1076 gui\settingsDialogs.py:5419
-#: gui\settingsDialogs.py:5776 gui\startupDialogs.py:128
+#: gui\settingsDialogs.py:5779 gui\startupDialogs.py:128
 #: _remoteClient\dialogs.py:62 _remoteClient\dialogs.py:300
 #: _remoteClient\dialogs.py:384
 msgid "Error"
@@ -12358,7 +12358,7 @@ msgstr "&Filtra per:"
 #. Translators: The label of a button to add a gesture in the Input Gestures dialog.
 #. Translators: The label for a button in the Symbol Pronunciation dialog to add a new symbol.
 #. Translators: The label for a button in speech dictionaries dialog to add new entries.
-#: gui\inputGestures.py:615 gui\settingsDialogs.py:5664 gui\speechDict.py:215
+#: gui\inputGestures.py:615 gui\settingsDialogs.py:5667 gui\speechDict.py:215
 msgid "&Add"
 msgstr "&Aggiungi"
 
@@ -14443,91 +14443,91 @@ msgid "NVDA Settings"
 msgstr "Impostazioni NVDA"
 
 #. Translators: The profile name for normal configuration
-#: gui\settingsDialogs.py:5504
+#: gui\settingsDialogs.py:5507
 msgid "normal configuration"
 msgstr "Configurazione normale"
 
 #. Translators: This is the label for the add symbol dialog.
-#: gui\settingsDialogs.py:5539
+#: gui\settingsDialogs.py:5542
 msgid "Add Symbol"
 msgstr "Aggiungi Simbolo"
 
 #. Translators: This is the label for the edit field in the add symbol dialog.
-#: gui\settingsDialogs.py:5544
+#: gui\settingsDialogs.py:5547
 msgid "&Symbol:"
 msgstr "&Simbolo:"
 
 #. Translators: This is the label for the symbol pronunciation dialog.
 #. %s is replaced by the language for which symbol pronunciation is being edited.
-#: gui\settingsDialogs.py:5574
+#: gui\settingsDialogs.py:5577
 #, python-format
 msgid "Symbol Pronunciation (%s)"
 msgstr "Pronuncia simbolo %s"
 
 #. Translators: The label of a text field to search for symbols in the speech symbols dialog.
-#: gui\settingsDialogs.py:5588
+#: gui\settingsDialogs.py:5591
 msgctxt "speechSymbols"
 msgid "&Filter by:"
 msgstr "&Filtra per:"
 
 #. Translators: The label for symbols list in symbol pronunciation dialog.
-#: gui\settingsDialogs.py:5597
+#: gui\settingsDialogs.py:5600
 msgid "&Symbols"
 msgstr "&Simboli"
 
 #. Translators: The label for a column in symbols list used to identify a symbol.
-#: gui\settingsDialogs.py:5607
+#: gui\settingsDialogs.py:5610
 msgid "Symbol"
 msgstr "Simbolo"
 
 #. Translators: The label for a column in symbols list used to identify a replacement.
 #. Translators: The label for a column in dictionary entries list and in a list of symbols
 #. from symbol pronunciation dialog used to identify replacement for a pattern or a symbol
-#: gui\settingsDialogs.py:5609 gui\speechDict.py:191
+#: gui\settingsDialogs.py:5612 gui\speechDict.py:191
 msgid "Replacement"
 msgstr "Voce in sostituzione"
 
 #. Translators: The label for a column in symbols list used to identify a symbol's speech level (either none, some, most, all or character).
-#: gui\settingsDialogs.py:5611
+#: gui\settingsDialogs.py:5614
 msgid "Level"
 msgstr "Livello"
 
 #. Translators: The label for a column in symbols list which specifies when the actual symbol will be sent to the synthesizer (preserved).
 #. See the "Punctuation/Symbol Pronunciation" section of the User Guide for details.
-#: gui\settingsDialogs.py:5614
+#: gui\settingsDialogs.py:5617
 msgid "Preserve"
 msgstr "conserva"
 
 #. Translators: The label for the group of controls in symbol pronunciation dialog to change the pronunciation of a symbol.
-#: gui\settingsDialogs.py:5618
+#: gui\settingsDialogs.py:5621
 msgid "Change selected symbol"
 msgstr "Cambia simbolo selezionato"
 
 #. Translators: The label for the edit field in symbol pronunciation dialog to change the replacement text of a symbol.
 #. Translators: This is a label for an edit field in add dictionary entry dialog
 #. and in punctuation/symbol pronunciation dialog.
-#: gui\settingsDialogs.py:5636 gui\speechDict.py:55
+#: gui\settingsDialogs.py:5639 gui\speechDict.py:55
 msgid "&Replacement"
 msgstr "Voce in &sostituzione"
 
 #. Translators: The label for the combo box in symbol pronunciation dialog to change the speech level of a symbol.
-#: gui\settingsDialogs.py:5645
+#: gui\settingsDialogs.py:5648
 msgid "&Level"
 msgstr "&Livello"
 
 #. Translators: The label for the combo box in symbol pronunciation dialog to change when a symbol is sent to the synthesizer.
-#: gui\settingsDialogs.py:5652
+#: gui\settingsDialogs.py:5655
 msgid "&Send actual symbol to synthesizer"
 msgstr "Invia il &simbolo corrente al sintetizzatore"
 
 #. Translators: The label for a button in the Symbol Pronunciation dialog to remove a symbol.
-#: gui\settingsDialogs.py:5667
+#: gui\settingsDialogs.py:5670
 msgid "Re&move"
 msgstr "Ri&muovi"
 
 #. Translators: An error reported in the Symbol Pronunciation dialog
 #. when adding a symbol that is already present.
-#: gui\settingsDialogs.py:5774
+#: gui\settingsDialogs.py:5777
 #, python-format
 msgid "Symbol \"%s\" is already present."
 msgstr "Simbolo \"%s\" già presente."
