@@ -25287,7 +25287,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Remote Access will only continue sessions started by the installed copy of NVDA on secure desktops.</source>
-        <target>L'accès distant ne poursuivra que les sessions démarrées par la copie installée de NVDA sur les bureaux sécurisés.</target>
+        <target>L'accès à distance ne poursuivra que les sessions démarrées par la copie installée de NVDA sur les bureaux sécurisés.</target>
       </segment>
     </unit>
     <unit id="584a22fd-b482-4c2b-8b83-7028e6ceb2fd">
@@ -25296,7 +25296,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This means that you cannot, for instance, start a Remote Access session with a portable copy of NVDA and have the session continue on secure screens.</source>
-        <target>Cela signifie par exemple que vous ne pouvez pas démarrer une session d'Accès distant avec une copie portable de NVDA et poursuivre la session sur des écrans sécurisés.</target>
+        <target>Cela signifie par exemple que vous ne pouvez pas démarrer une session d'accès à distance avec une copie portable de NVDA et poursuivre la session sur des écrans sécurisés.</target>
       </segment>
     </unit>
     <unit id="59c923d6-7942-4e2d-bd70-4916b46ad34a">
@@ -25639,7 +25639,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This means that you will again be asked whether to connect to all unrecognised Remote Access servers, even ones that you have previously connected to.</source>
-        <target>Cela signifie qu'on vous demandera à nouveau si vous souhaitez vous connecter à tous les serveurs d'Accès à Distance non reconnus, même ceux auxquels vous vous êtes déjà connecté.</target>
+        <target>Cela signifie qu'on vous demandera à nouveau si vous souhaitez vous connecter à tous les serveurs d'accès à distance non reconnus, même ceux auxquels vous vous êtes déjà connecté.</target>
       </segment>
     </unit>
     <unit id="869c3bb3-208a-45f7-8a08-e3b9c2e82afd">
@@ -28927,7 +28927,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>You can enable Remote Access [in Remote Access settings](#RemoteSettings).</source>
-        <target>Vous pouvez activer l'Accès à Distance [dans les paramètres d'Accès à Distance](#RemoteSettings).</target>
+        <target>Vous pouvez activer l'accès à distance [dans les paramètres d'accès à distance](#RemoteSettings).</target>
       </segment>
     </unit>
     <unit id="b0890d69-c731-4ac7-ac2b-700a3bcbce31">
@@ -28974,7 +28974,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If NVDA is running in [secure mode](#SecureMode), you cannot manually initiate a new Remote Access session.</source>
-        <target>Si NVDA fonctionne en [mode sécurisé](#SecureMode), vous ne pouvez pas initier manuellement une nouvelle session d'Accès à Distance.</target>
+        <target>Si NVDA fonctionne en [mode sécurisé](#SecureMode), vous ne pouvez pas initier manuellement une nouvelle session d'accès à distance.</target>
       </segment>
     </unit>
     <unit id="b98ba472-736b-4064-a635-a06206770515">
@@ -28983,7 +28983,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>However, NVDA will still automatically start a new Remote Access session if configured to do so with the [Automatically connect after NVDA starts](#RemoteAutoconnect) setting.</source>
-        <target>Cependant, NVDA démarrera toujours automatiquement une nouvelle session d'Accès à Distance si configuré pour le faire avec le paramètre [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect).</target>
+        <target>Cependant, NVDA démarrera toujours automatiquement une nouvelle session d'accès à distance s'il est configuré pour le faire avec le paramètre [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect).</target>
       </segment>
     </unit>
     <unit id="60077139-084d-4afd-b7ad-fb845737bd70">
@@ -29488,7 +29488,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Once a Remote Access session is active, you can switch between controlling the remote computer and your own, share your clipboard, and mute the remote session:</source>
-        <target>Une fois qu'une session d'Accès distant est active, vous pouvez basculer entre le contrôle de l'ordinateur distant et le vôtre, partager votre presse-papiers et couper le son de la session distante :</target>
+        <target>Une fois qu'une session d'accès à distance est active, vous pouvez basculer entre le contrôle de l'ordinateur distant et le vôtre, partager votre presse-papiers et couper le son de la session distante :</target>
       </segment>
     </unit>
     <unit id="3825cc2f-df6e-40ea-b0d9-8235c199d8e1">
@@ -29508,7 +29508,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Send text from your clipboard to the other computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Send clipboard".</source>
-        <target>Envoyez du texte depuis votre presse-papiers vers l'autre ordinateur en ouvrant le menu NVDA, en sélectionnant Outils, "Accès distant", puis "Envoyer le presse-papiers".</target>
+        <target>Envoyez du texte depuis votre presse-papiers vers l'autre ordinateur en ouvrant le menu NVDA, en sélectionnant Outils, "Accès à distance", puis "Envoyer le presse-papiers".</target>
       </segment>
     </unit>
     <unit id="f32a5919-3e28-4cc3-8854-7e52b3335500">
@@ -29579,7 +29579,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source> Toggle Remote connection | `NVDA+alt+r` | Starts a new Remote Access session or, if a session is already in progress, disconnects from it. </source>
-        <target> Basculer la connexion distante | `NVDA+alt+r` | Démarre une nouvelle session d'Accès distant, ou s'en déconnecte si une session est déjà en cours. </target>
+        <target> Activer ou désactiver la connexion d’accès à distance | `NVDA+alt+r` | Démarre une nouvelle session d'accès à distance, ou s'en déconnecte si une session est déjà en cours. </target>
       </segment>
     </unit>
     <unit id="0b908760-a0ed-4689-800e-a09c29e5d649">
@@ -29601,7 +29601,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source> Connect | None | Starts a new Remote Access session. Unavailable in [secure mode](#SecureMode). </source>
-        <target> Se connecter | Aucune | Démarre une nouvelle session d'Accès à distance. Non disponible en [mode sécurisé](#SecureMode). </target>
+        <target> Se connecter | Aucune | Démarre une nouvelle session d'accès à distance. Non disponible en [mode sécurisé](#SecureMode). </target>
       </segment>
     </unit>
     <unit id="771cf83f-a8b9-4d9d-83b9-565428414f6a">
