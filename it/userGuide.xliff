@@ -5705,9 +5705,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 31</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Ability to [connect to and control another computer running NVDA](#RemoteAccess) for remote assistance or collaboration</source>
-        <target>Ability to [connect to and control another computer running NVDA](#RemoteAccess) for remote assistance or collaboration</target>
+        <target>Capacità di [Collegarsi ad un altro computer che esegue NVDA e controllarlo](#RemoteAccess) per assistenza o collaborazione</target>
       </segment>
     </unit>
     <unit id="3621dc26-377b-4133-8c66-67736611187a">
@@ -5755,9 +5755,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 36</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Ability to run during Windows sign-in and [other secure screens](#SecureScreens)</source>
-        <target>Ability to run during Windows sign-in and [other secure screens](#SecureScreens)</target>
+        <target>Capacità di funzionare durante l'accesso a Windows e [altre schermate protette](#SecureScreens)</target>
       </segment>
     </unit>
     <unit id="f764b6db-1280-473f-a474-283d20038a1b">
@@ -5947,9 +5947,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 62</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Besides English, NVDA has been translated into 55 languages including: Afrikaans, Albanian, Amharic, Arabic, Aragonese, Bosnian, Bulgarian, Burmese, Catalan, Chinese (simplified and traditional), Croatian, Czech, Danish, Dutch, Farsi, Finnish, French, Galician, Georgian, German (Germany and Switzerland), Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Japanese, Kannada, Korean, Kyrgyz, Lithuanian, Macedonian, Mongolian, Nepali, Norwegian, Polish, Portuguese (Brazil and Portugal), Punjabi, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish (Colombia and Spain), Swedish, Tamil, Thai, Turkish, Ukrainian and Vietnamese.</source>
-        <target>Besides English, NVDA has been translated into 55 languages including: Afrikaans, Albanian, Amharic, Arabic, Aragonese, Bosnian, Bulgarian, Burmese, Catalan, Chinese (simplified and traditional), Croatian, Czech, Danish, Dutch, Farsi, Finnish, French, Galician, Georgian, German (Germany and Switzerland), Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Japanese, Kannada, Korean, Kyrgyz, Lithuanian, Macedonian, Mongolian, Nepali, Norwegian, Polish, Portuguese (Brazil and Portugal), Punjabi, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish (Colombia and Spain), Swedish, Tamil, Thai, Turkish, Ukrainian and Vietnamese.</target>
+        <target>Oltre all’inglese, NVDA è stato tradotto in 55 lingue, tra cui: afrikaans, albanese, amarico, arabo, aragonese, bosniaco, bulgaro, birmano, catalano, cinese (semplificato e tradizionale), croato, ceco, danese, olandese, farsi, finlandese, francese, galiziano, georgiano, tedesco (Germania e Svizzera), greco, ebraico, hindi, ungherese, islandese, irlandese, italiano, giapponese, kannada, coreano, kirghiso, lituano, macedone, mongolo, nepalese, norvegese, polacco, portoghese (Brasile e Portogallo), punjabi, rumeno, russo, serbo, slovacco, sloveno, spagnolo (Colombia e Spagna), svedese, tamil, thai, turco, ucraino e vietnamita.</target>
       </segment>
     </unit>
     <unit id="6dbfeab6-d167-4f5e-9706-f501d729511e">
@@ -24874,9 +24874,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3053</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When set to "Update Automatically", add-ons will automatically update in the background.</source>
-        <target>When set to "Update Automatically", add-ons will automatically update in the background.</target>
+        <target>Quando impostato su "Aggiorna automaticamente",gli add-on si aggiorneranno automaticamente in background.</target>
       </segment>
     </unit>
     <unit id="6b079c41-7718-4724-84ee-ca4bc531bc88">
@@ -24969,36 +24969,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3069</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When [Automatic add-on updates](#AutomaticAddonUpdates) are enabled, by default, add-ons only update to the same [channel](#AddonStoreFilterChannel).</source>
-        <target>When [Automatic add-on updates](#AutomaticAddonUpdates) are enabled, by default, add-ons only update to the same [channel](#AddonStoreFilterChannel).</target>
+        <target>Quando [Gli aggiornamenti automatici degli add-on](#AutomaticAddonUpdates) sono abilitati, per impostazione predefinita, i componenti aggiuntivi si aggiornano solo per lo stesso [canale](#AddonStoreFilterChannel).</target>
       </segment>
     </unit>
     <unit id="2fd47649-6beb-4ca7-9fad-3bde5576629f">
       <notes>
         <note appliesTo="source">line: 3070</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, an installed beta version will only update to a newer beta version.</source>
-        <target>For example, an installed beta version will only update to a newer beta version.</target>
+        <target>Ad esempio, una versione beta installata si aggiornerà solo ad una versione beta più recente.</target>
       </segment>
     </unit>
     <unit id="77bb92c7-2c71-4f6f-8b68-5ebe2a34ff0f">
       <notes>
         <note appliesTo="source">line: 3071</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option sets the default update channel for all add-ons.</source>
-        <target>This option sets the default update channel for all add-ons.</target>
+        <target>Questa opzione imposta il canale di aggiornamento predefinito per tutti i componenti aggiuntivi.</target>
       </segment>
     </unit>
     <unit id="84b10d60-1fcf-43ed-9090-3bc8700d05f5">
       <notes>
         <note appliesTo="source">line: 3072</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can also change the update channel for a [specific add-on individually from the Add-on Store](#AddonStoreUpdateChannel).</source>
-        <target>You can also change the update channel for a [specific add-on individually from the Add-on Store](#AddonStoreUpdateChannel).</target>
+        <target>è anche possibile modificare il canale di aggiornamento per uno [specifico componente aggiuntivo individualmente dall'Add-on Store](#AddonStoreUpdateChannel).</target>
       </segment>
     </unit>
     <unit id="cd20a83a-5ddc-4238-be1d-ce0aa7802205">
@@ -25007,9 +25007,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Same (Default), Any, Do not update, Stable, Beta or dev, Beta, Dev </source>
-        <target> Options | Same (Default), Any, Do not update, Stable, Beta or dev, Beta, Dev </target>
+        <target> Opzioni | Lo stesso (Predefinito), Qualsiasi, Non aggiornare, Stabile, Beta o dev, Beta, Dev </target>
       </segment>
     </unit>
     <unit id="5101407f-f7e1-4c59-9787-56bbf1380634">
@@ -25018,9 +25018,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Same </source>
-        <target> Default | Same </target>
+        <target> Predefinito | Lo stesso </target>
       </segment>
     </unit>
     <unit id="824d4ae9-0463-40f8-a473-498bd8b04056">
@@ -25029,9 +25029,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Option | Behaviour </source>
-        <target> Option | Behaviour </target>
+        <target> Opzione | Comportamento </target>
       </segment>
     </unit>
     <unit id="5cb8f85e-77d3-430f-9f0a-811376724f56">
@@ -25040,9 +25040,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Same | Add-ons will remain on their channel </source>
-        <target> Same | Add-ons will remain on their channel </target>
+        <target> Lo stesso | Gli add-on rimarranno nel loro canale </target>
       </segment>
     </unit>
     <unit id="fe84c0ba-0cb3-48d8-bd5c-426ad813a896">
@@ -25051,9 +25051,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Any | Add-ons will automatically update to the latest version, regardless of channel </source>
-        <target> Any | Add-ons will automatically update to the latest version, regardless of channel </target>
+        <target> Qualsiasi | I componenti aggiuntivi si aggiorneranno automaticamente all'ultima versione, indipendentemente dal canale </target>
       </segment>
     </unit>
     <unit id="0e7bb3c4-6a44-4dc0-96c6-e3bad0925f90">
@@ -25062,9 +25062,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Do not update | Add-ons will not automatically update by default, you must enable them individually </source>
-        <target> Do not update | Add-ons will not automatically update by default, you must enable them individually </target>
+        <target> Non aggiornare | I componenti aggiuntivi non si aggiorneranno automaticamente per impostazione predefinita, è necessario abilitarli individualmente </target>
       </segment>
     </unit>
     <unit id="6dd0d5a7-5741-4e63-bf0b-2b7903717aaa">
@@ -25073,9 +25073,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Stable | Add-ons will automatically update to stable versions </source>
-        <target> Stable | Add-ons will automatically update to stable versions </target>
+        <target> Stabile | I componenti aggiuntivi si aggiorneranno automaticamente alle versioni stabili </target>
       </segment>
     </unit>
     <unit id="755043a8-0834-4685-b287-945079bf214b">
@@ -25084,9 +25084,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Beta or dev | Add-ons will automatically update to beta or dev versions </source>
-        <target> Beta or dev | Add-ons will automatically update to beta or dev versions </target>
+        <target> Beta o dev | I componenti aggiuntivi si aggiorneranno automaticamente alle versioni beta o dev </target>
       </segment>
     </unit>
     <unit id="074fd46a-91aa-4415-a795-05b1e7560b49">
@@ -25095,9 +25095,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Beta | Add-ons will automatically update to beta versions </source>
-        <target> Beta | Add-ons will automatically update to beta versions </target>
+        <target> Beta | I componenti aggiuntivi si aggiorneranno automaticamente alle versioni beta </target>
       </segment>
     </unit>
     <unit id="a961c9bd-0d8d-490b-b76b-14d7115dcb44">
@@ -25106,9 +25106,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Dev | Add-ons will automatically update to dev versions </source>
-        <target> Dev | Add-ons will automatically update to dev versions </target>
+        <target> Dev | I componenti aggiuntivi si aggiorneranno automaticamente alle versioni Dev </target>
       </segment>
     </unit>
     <unit id="f2c9de04-525d-4257-b675-bc95090423de">
@@ -25117,54 +25117,54 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AllowIncompatibleAddonUpdates}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Allow automatic updates to install incompatible add-ons</source>
-        <target>Allow automatic updates to install incompatible add-ons</target>
+        <target>Consenti agli aggiornamenti automatici di installare add-on incompatibili</target>
       </segment>
     </unit>
     <unit id="9a6c7f72-bed4-4786-be93-ae684ab723b2">
       <notes>
         <note appliesTo="source">line: 3091</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting enables automatic updates to add-ons that may not be fully compatible with the current version of NVDA.</source>
-        <target>This setting enables automatic updates to add-ons that may not be fully compatible with the current version of NVDA.</target>
+        <target>Questa impostazione consente aggiornamenti automatici a componenti aggiuntivi che potrebbero non essere completamente compatibili con la versione corrente di NVDA.</target>
       </segment>
     </unit>
     <unit id="3a417004-d82a-4cb2-aa2e-af8740bfe4ce">
       <notes>
         <note appliesTo="source">line: 3092</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, this is disabled, meaning automatic updates will only upgrade to add-on versions marked as compatible with the current version of NVDA.</source>
-        <target>By default, this is disabled, meaning automatic updates will only upgrade to add-on versions marked as compatible with the current version of NVDA.</target>
+        <target>Per impostazione predefinita, la funzione è disabilitata, il che significa che gli aggiornamenti automatici opereranno solo sulle versioni contrassegnate come compatibili con la versione corrente di NVDA.</target>
       </segment>
     </unit>
     <unit id="bca925ec-287d-400d-958b-0dcecb269433">
       <notes>
         <note appliesTo="source">line: 3093</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Automatic updates will still update an incompatible add-on version to a compatible version when it is released.</source>
-        <target>Automatic updates will still update an incompatible add-on version to a compatible version when it is released.</target>
+        <target>Gli aggiornamenti automatici aggiorneranno comunque una versione incompatibile di un componente aggiuntivo a una versione compatibile non appena sarà disponibile.</target>
       </segment>
     </unit>
     <unit id="955b207c-1a8b-40d9-8128-5562ba762e23">
       <notes>
         <note appliesTo="source">line: 3094</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enabling this may be useful for switching over to using add-on breaking releases (the first release of the year).</source>
-        <target>Enabling this may be useful for switching over to using add-on breaking releases (the first release of the year).</target>
+        <target>Abilitare questa opzione può essere utile per passare alle versioni che interrompono la compatibilità con i componenti aggiuntivi (la prima versione dell’anno).</target>
       </segment>
     </unit>
     <unit id="ad61f6ad-b9fe-4117-a3b6-445c3a07d07b">
       <notes>
         <note appliesTo="source">line: 3095</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is particularly useful for alpha and beta testers, who are testing compatibility of add-ons during the early stages of an add-on breaking release.</source>
-        <target>This is particularly useful for alpha and beta testers, who are testing compatibility of add-ons during the early stages of an add-on breaking release.</target>
+        <target>Questo è particolarmente utile per i tester delle versioni alpha e beta, che verificano la compatibilità dei componenti aggiuntivi nelle fasi iniziali di una versione che interrompe la compatibilità.</target>
       </segment>
     </unit>
     <unit id="ae02468e-ba87-4868-bd19-77304b444ae2">
@@ -25173,54 +25173,54 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AddonStoreMetadataMirror}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mirror server</source>
-        <target>Mirror server</target>
+        <target>Server mirror</target>
       </segment>
     </unit>
     <unit id="4b93a787-3809-4a37-b50b-9b37d36c5a85">
       <notes>
         <note appliesTo="source">line: 3099</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These controls allow you to specify an alternative URL to download Add-on Store data from.</source>
-        <target>These controls allow you to specify an alternative URL to download Add-on Store data from.</target>
+        <target>Questi controlli consentono di specificare un URL alternativo per scaricare i dati dei componenti aggiuntivi</target>
       </segment>
     </unit>
     <unit id="e00a9820-461e-48c0-9768-79381ca3e9e1">
       <notes>
         <note appliesTo="source">line: 3100</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This may be of use in locations where access to the NV Access Add-on Store server is slow or unavailable.</source>
-        <target>This may be of use in locations where access to the NV Access Add-on Store server is slow or unavailable.</target>
+        <target>Questo può essere utile in luoghi in cui l’accesso al server dello Store dei componenti aggiuntivi di NV Access è lento o non disponibile.</target>
       </segment>
     </unit>
     <unit id="6db5bc5d-4352-440c-86f3-5e434a2e1dfd">
       <notes>
         <note appliesTo="source">line: 3102</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The read-only text box shows the current mirror URL.</source>
-        <target>The read-only text box shows the current mirror URL.</target>
+        <target>La casella di testo di sola lettura mostra l'URL del mirror corrente.</target>
       </segment>
     </unit>
     <unit id="c31aa45c-52d3-432d-9da6-63de4ecabbd1">
       <notes>
         <note appliesTo="source">line: 3103</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If no mirror is in use (i.e. the NV Access Add-on Store server is being used), "No mirror" is displayed.</source>
-        <target>If no mirror is in use (i.e. the NV Access Add-on Store server is being used), "No mirror" is displayed.</target>
+        <target>Se non risulta in uso alcun mirrror (ad esempio si sta utilizzando il server di NVAccess per gli add-on, verrà mostrata la dicitura "Nessun mirror".</target>
       </segment>
     </unit>
     <unit id="5c1cbc23-5376-40c3-9f92-320c61ce131a">
       <notes>
         <note appliesTo="source">line: 3105</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you wish to change the Add-on Store mirror, press the "Change..." button to open the [Set Add-on Store Mirror dialog](#SetURLDialog).</source>
-        <target>If you wish to change the Add-on Store mirror, press the "Change..." button to open the [Set Add-on Store Mirror dialog](#SetURLDialog).</target>
+        <target>Se si desidera modificare il mirrrror per l'add-on store, premere il pulsante "Cambia..." per aprire la [Finestra Imposta il server mirror per gli add-on](#SetURLDialog).</target>
       </segment>
     </unit>
     <unit id="2657d7be-4212-4e5b-b97d-a85dfe7476b6">
@@ -25229,18 +25229,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#RemoteSettings}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access Settings</source>
-        <target>Remote Access Settings</target>
+        <target>Impostazioni accesso remoto</target>
       </segment>
     </unit>
     <unit id="34d45e86-1a4c-470a-9fb6-4812a2ce7c7e">
       <notes>
         <note appliesTo="source">line: 3109</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This category allows you to configure the behaviour of [Remote Access](#RemoteAccess).</source>
-        <target>This category allows you to configure the behaviour of [Remote Access](#RemoteAccess).</target>
+        <target>Questa categoria consente di configurare il comportamento dell'[Accesso Remoto](#RemoteAccess).</target>
       </segment>
     </unit>
     <unit id="e4703b50-8f75-4f41-bd21-2659efb04c3c">
@@ -25249,63 +25249,63 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteEnable}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enable Remote Access</source>
-        <target>Enable Remote Access</target>
+        <target>Abilita l'Accesso Remoto</target>
       </segment>
     </unit>
     <unit id="5ed75b2e-5083-4afc-8df2-a1ef193fdba2">
       <notes>
         <note appliesTo="source">line: 3113</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this checkbox to enable or disable NVDA's Remote Access feature.</source>
-        <target>Use this checkbox to enable or disable NVDA's Remote Access feature.</target>
+        <target>Utilizzare questa casella di controllo per attivare o disattivare la funzionalità di Accesso Remoto di NVDA.</target>
       </segment>
     </unit>
     <unit id="9fada5ff-5a84-4a80-977e-ec584832d240">
       <notes>
         <note appliesTo="source">line: 3115</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When this is unchecked, the Remote Access feature is entirely unavailable.</source>
-        <target>When this is unchecked, the Remote Access feature is entirely unavailable.</target>
+        <target>Se la casella è non selezionata, la funzionalità non sarà disponibile.</target>
       </segment>
     </unit>
     <unit id="dda10917-5d77-41cd-8a44-b08932cadedb">
       <notes>
         <note appliesTo="source">line: 3117</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please note that in order to continue a Remote Access session on secure screens such as User Account Control prompts, you must enable this setting, save the changes, and then [copy your settings to NVDA's system configuration directory](#GeneralSettingsCopySettings).</source>
-        <target>Please note that in order to continue a Remote Access session on secure screens such as User Account Control prompts, you must enable this setting, save the changes, and then [copy your settings to NVDA's system configuration directory](#GeneralSettingsCopySettings).</target>
+        <target>Nota: per poter continuare una sessione di Accesso Remoto nelle schermate protette, come i prompt del Controllo dell’Account Utente, è necessario abilitare questa opzione, salvare le modifiche e poi [copiare le impostazioni nella directory di configurazione di sistema di NVDA](#GeneralSettingsCopySettings).</target>
       </segment>
     </unit>
     <unit id="75044417-01a7-42a4-b008-a49b11a8d746">
       <notes>
         <note appliesTo="source">line: 3118</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access will only continue sessions started by the installed copy of NVDA on secure desktops.</source>
-        <target>Remote Access will only continue sessions started by the installed copy of NVDA on secure desktops.</target>
+        <target>L’Accesso Remoto continuerà solo le sessioni avviate dalla copia installata di NVDA nelle schermate protette.</target>
       </segment>
     </unit>
     <unit id="584a22fd-b482-4c2b-8b83-7028e6ceb2fd">
       <notes>
         <note appliesTo="source">line: 3119</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means that you cannot, for instance, start a Remote Access session with a portable copy of NVDA and have the session continue on secure screens.</source>
-        <target>This means that you cannot, for instance, start a Remote Access session with a portable copy of NVDA and have the session continue on secure screens.</target>
+        <target>Questo significa, ad esempio, che non è possibile avviare una sessione di Accesso Remoto con una copia portable di NVDA e farla proseguire nelle schermate protette.</target>
       </segment>
     </unit>
     <unit id="59c923d6-7942-4e2d-bd70-4916b46ad34a">
       <notes>
         <note appliesTo="source">line: 3121</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following options are only available if Remote Access is enabled.</source>
-        <target>The following options are only available if Remote Access is enabled.</target>
+        <target>Le seguenti opzioni sono disponibili solo se l'accesso remoto è abilitato.</target>
       </segment>
     </unit>
     <unit id="f7926c47-0767-4ec0-aff1-fd42b391c4cc">
