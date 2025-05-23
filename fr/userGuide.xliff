@@ -9528,9 +9528,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 568</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tapping once with one finger is simply known as a tap.</source>
-        <target>Tapping once with one finger is simply known as a tap.</target>
+        <target>Tapoter une fois avec un seul doigt s'appelle une simple tape.</target>
       </segment>
     </unit>
     <unit id="fa038863-bf8d-4c6d-bc5f-b8b29c4c05b3">
@@ -9806,9 +9806,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 614</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The actual commands will not execute while in input help mode.</source>
-        <target>The actual commands will not execute while in input help mode.</target>
+        <target>Les commandes réelles ne s'exécuteront pas en mode d'aide à la saisie.</target>
       </segment>
     </unit>
     <unit id="5b656e18-099a-4c4e-bc1f-88541d27b734">
@@ -11462,9 +11462,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 861</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A good way to remember the basic text review commands when using the Desktop layout is to think of them as being in a grid of three by three, with top to bottom being line, word and character and left to right being previous, current and next.</source>
-        <target>A good way to remember the basic text review commands when using the Desktop layout is to think of them as being in a grid of three by three, with top to bottom being line, word and character and left to right being previous, current and next.</target>
+        <target>Pour vous aider à mémoriser les touches de commandes de la disposition ordinateur de bureau, notez que les commandes de base de revue de texte sont organisées selon une grille de 3 sur 3 avec, de haut en bas, lignes, mots, caractères et, de gauche à droite, précédent, courant, suivant.</target>
       </segment>
     </unit>
     <unit id="da7d30ee-9dd5-42da-9f0d-930cf1a80b1e">
@@ -13104,9 +13104,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Find text |NVDA+control+f |Opens the search dialog</source>
-        <target>Find text |NVDA+control+f |Opens the search dialog</target>
+        <target>Rechercher du texte |NVDA+contrôle+f |Ouvre le dialogue de recherche</target>
       </segment>
     </unit>
     <unit id="812c76e4-840b-4efb-aa15-01970e403b58">
@@ -13126,9 +13126,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Find previous |NVDA+shift+f3 |searches the previous occurrence of the current search term</source>
-        <target>Find previous |NVDA+shift+f3 |searches the previous occurrence of the current search term</target>
+        <target>Trouver l'occurrence précédente |NVDA+maj+f3 |recherche l'occurrence précédente du terme en cours de recherche</target>
       </segment>
     </unit>
     <unit id="d337fba7-a786-4b8a-a727-857b09989837">
