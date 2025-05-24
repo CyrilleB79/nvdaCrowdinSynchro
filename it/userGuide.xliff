@@ -28245,9 +28245,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Revert configuration |`NVDA+control+r` |`NVDA+control+r` |Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults.</source>
-        <target>Revert configuration |`NVDA+control+r` |`NVDA+control+r` |Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults.</target>
+        <target>Ripristina configurazione |`NVDA+control+r` |`NVDA+control+r` |Con una pressione, la configurazione verrà ripristinata all’ultimo salvataggio. Con la tripla pressione, verranno ripristinate le impostazioni predefinite di fabbrica.</target>
       </segment>
     </unit>
     <unit id="399befd7-919a-441c-8d48-a1800124f0df">
@@ -28889,45 +28889,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ## </note>
         <note appliesTo="source">suffix:  {#RemoteAccess}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access</source>
-        <target>Remote Access</target>
+        <target>Accesso Remoto</target>
       </segment>
     </unit>
     <unit id="901c6fe7-6d7d-4c92-8afd-8f19dfcf1110">
       <notes>
         <note appliesTo="source">line: 3700</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>With NVDA's built-in remote access feature, you can control another computer running NVDA or allow someone to control your computer.</source>
-        <target>With NVDA's built-in remote access feature, you can control another computer running NVDA or allow someone to control your computer.</target>
+        <target>Con la funzione integrata di Accesso Remoto di NVDA, è possibile controllare un altro computer su cui è in esecuzione lo screen reader oppure permettere a qualcuno di controllare il proprio.</target>
       </segment>
     </unit>
     <unit id="292f195a-fc6a-4365-b2ff-29879fd8ac81">
       <notes>
         <note appliesTo="source">line: 3701</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This makes it easy to provide or receive assistance, collaborate, or access your own computer remotely.</source>
-        <target>This makes it easy to provide or receive assistance, collaborate, or access your own computer remotely.</target>
+        <target>Questo rende semplice offrire o ricevere assistenza, collaborare o accedere da remoto al proprio computer.</target>
       </segment>
     </unit>
     <unit id="419acf1f-0ffb-417b-8e90-3df4bcdf18a2">
       <notes>
         <note appliesTo="source">line: 3703</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote access is disabled by default for your security.</source>
-        <target>Remote access is disabled by default for your security.</target>
+        <target>L'accesso remoto è disabilitato da impostazioni predefinite per la propria sicurezza.</target>
       </segment>
     </unit>
     <unit id="ead81db6-306f-43cc-a1f8-40c7328a9c9d">
       <notes>
         <note appliesTo="source">line: 3704</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can enable Remote Access [in Remote Access settings](#RemoteSettings).</source>
-        <target>You can enable Remote Access [in Remote Access settings](#RemoteSettings).</target>
+        <target>È possibile attivare l'Accesso Remoto [nelle impostazioni di Accesso Remoto](#RemoteSettings).</target>
       </segment>
     </unit>
     <unit id="b0890d69-c731-4ac7-ac2b-700a3bcbce31">
@@ -28936,63 +28936,63 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessGettingStarted}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Getting Started</source>
-        <target>Getting Started</target>
+        <target>Per cominciare</target>
       </segment>
     </unit>
     <unit id="2f9674a8-2834-44ef-b9db-cda4bb1227d3">
       <notes>
         <note appliesTo="source">line: 3708</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Before you begin, ensure NVDA is installed and running on both computers.</source>
-        <target>Before you begin, ensure NVDA is installed and running on both computers.</target>
+        <target>Prima di iniziare, assicurarsi che NVDA sia installato ed in esecuzione su entrambi i computer.</target>
       </segment>
     </unit>
     <unit id="88fcd8b4-add6-4ecf-9f4d-1e223ed9d021">
       <notes>
         <note appliesTo="source">line: 3709</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Also ensure that the Enable Remote Access checkbox [in Remote Access settings](#RemoteSettings) is checked on both computers.</source>
-        <target>Also ensure that the Enable Remote Access checkbox [in Remote Access settings](#RemoteSettings) is checked on both computers.</target>
+        <target>Inoltre accertarsi che la casella di controllo Attiva Accesso Remoto [nelle impostazioni di Accesso Remoto](#RemoteSettings) sia selezionata in entrambi i computer.</target>
       </segment>
     </unit>
     <unit id="09ac6e0e-f092-4b9e-b319-5abcadb9abb8">
       <notes>
         <note appliesTo="source">line: 3710</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The remote access feature will then be available from the Tools menu in NVDA; there's no need for additional downloads or installations.</source>
-        <target>The remote access feature will then be available from the Tools menu in NVDA; there's no need for additional downloads or installations.</target>
+        <target>La funzione di accesso remoto sarà quindi disponibile dal menu Strumenti in NVDA; Non sono necessari download o installazioni aggiuntive.</target>
       </segment>
     </unit>
     <unit id="eafcf2e7-dfce-4bad-b792-268912a360ca">
       <notes>
         <note appliesTo="source">line: 3712</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If NVDA is running in [secure mode](#SecureMode), you cannot manually initiate a new Remote Access session.</source>
-        <target>If NVDA is running in [secure mode](#SecureMode), you cannot manually initiate a new Remote Access session.</target>
+        <target>Se NVDA è in esecuzione in [Modalità Protetta](#SecureMode), Non è possibile avviare manualmente una nuova sessione di accesso remoto.</target>
       </segment>
     </unit>
     <unit id="b98ba472-736b-4064-a635-a06206770515">
       <notes>
         <note appliesTo="source">line: 3713</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, NVDA will still automatically start a new Remote Access session if configured to do so with the [Automatically connect after NVDA starts](#RemoteAutoconnect) setting.</source>
-        <target>However, NVDA will still automatically start a new Remote Access session if configured to do so with the [Automatically connect after NVDA starts](#RemoteAutoconnect) setting.</target>
+        <target>Tuttavia, NVDA avvierà comunque automaticamente una nuova sessione di Accesso Remoto se è configurato per farlo tramite [l’impostazione Connetti automaticamente all’avvio di NVDA.](#RemoteAutoconnect)</target>
       </segment>
     </unit>
     <unit id="60077139-084d-4afd-b7ad-fb845737bd70">
       <notes>
         <note appliesTo="source">line: 3714</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can still manually disconnect in secure mode.</source>
-        <target>You can still manually disconnect in secure mode.</target>
+        <target>È comunque possibile disconnettersi manualmente in modalità protetta.</target>
       </segment>
     </unit>
     <unit id="0d4b737e-ca74-4357-88ff-453f773adacc">
@@ -29001,36 +29001,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessSetup}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Setting Up a Remote Access Session</source>
-        <target>Setting Up a Remote Access Session</target>
+        <target>Impostazione di una sessione di accesso remoto</target>
       </segment>
     </unit>
     <unit id="f32eba5f-9e5e-44ae-b4ff-535144c504da">
       <notes>
         <note appliesTo="source">line: 3718</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote access sessions are configured via the Remote Access connection dialog.</source>
-        <target>Remote access sessions are configured via the Remote Access connection dialog.</target>
+        <target>Le sessioni di accesso remoto sono configurate tramite la finestra di dialogo Connessione di accesso remoto.</target>
       </segment>
     </unit>
     <unit id="c30ddb9a-50c5-416c-a25d-46508dfc7432">
       <notes>
         <note appliesTo="source">line: 3719</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Open the NVDA menu and select Tools, then "Remote Access", then "Connect...".</source>
-        <target>Open the NVDA menu and select Tools, then "Remote Access", then "Connect...".</target>
+        <target>Aprire il menu NVDA e selezionare strumenti, quindi "Accesso remoto", poi "Connetti ...".</target>
       </segment>
     </unit>
     <unit id="a85bf4ba-f2a5-4d8d-a16a-3489c727d330">
       <notes>
         <note appliesTo="source">line: 3720</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Or from anywhere press `NVDA+alt+r`.</source>
-        <target>Or from anywhere press `NVDA+alt+r`.</target>
+        <target>O da qualsiasi punto Premere `nvda+alt+r`.</target>
       </segment>
     </unit>
     <unit id="26584c3b-625c-4312-8d12-f46fee6648c4">
@@ -29039,27 +29039,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessMode}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mode Selection (Controlling or Controlled)</source>
-        <target>Mode Selection (Controlling or Controlled)</target>
+        <target>Selezione della modalità (controllare o essere controllati)</target>
       </segment>
     </unit>
     <unit id="41731c56-a34f-4506-bb60-144bfae68ac9">
       <notes>
         <note appliesTo="source">line: 3724</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You'll need to decide which computer will be controlled (the controlled computer) and which will be controlling (the controlling computer).</source>
-        <target>You'll need to decide which computer will be controlled (the controlled computer) and which will be controlling (the controlling computer).</target>
+        <target>È necessario stabilire quale computer sarà controllato (cioè quello accessibile da remoto) e quale fungerà da postazione di controllo (cioè quello che gestirà la sessione).</target>
       </segment>
     </unit>
     <unit id="f64f101a-b693-4442-a9cb-64d2c0e5ee00">
       <notes>
         <note appliesTo="source">line: 3726</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>the mode combo box allows you to choose whether this computer will be controlled (Another person will interact with your computer) or controlling (you will interact with someone else's computer).</source>
-        <target>the mode combo box allows you to choose whether this computer will be controlled (Another person will interact with your computer) or controlling (you will interact with someone else's computer).</target>
+        <target>La casella combinata "Modalità" consente di scegliere se questo computer sarà controllato (un’altra persona interagirà con il tuo computer) oppure funga da postazione di controllo (interagirai tu con il computer di un’altra persona).</target>
       </segment>
     </unit>
     <unit id="e1c1a5cb-7290-4da4-aea3-9702dd592d7b">
