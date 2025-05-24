@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-22 03:03+0000\n"
-"PO-Revision-Date: 2025-05-24 13:21\n"
+"PO-Revision-Date: 2025-05-24 14:10\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -11454,7 +11454,7 @@ msgstr "Apre una visualizzazione ad albero"
 #. For example, links of a table of contents of a document with different sections.
 #: controlTypes\state.py:212
 msgid "same page"
-msgstr "Stessa pagina"
+msgstr "Interno"
 
 #. Translators: This is presented when a selectable object (e.g. a list item) is not selected.
 #: controlTypes\state.py:218
