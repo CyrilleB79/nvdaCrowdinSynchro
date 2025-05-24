@@ -25314,36 +25314,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteConfirmDisconnect}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Confirm before disconnecting when controlled</source>
-        <target>Confirm before disconnecting when controlled</target>
+        <target>Chiedi conferma prima di disconnetterti se il pc è controllato</target>
       </segment>
     </unit>
     <unit id="36fe7e4c-6119-4f13-9138-8ad9781efc57">
       <notes>
         <note appliesTo="source">line: 3125</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option controls whether confirmation is required before disconnecting from a Remote Access session when connected as the controlled computer.</source>
-        <target>This option controls whether confirmation is required before disconnecting from a Remote Access session when connected as the controlled computer.</target>
+        <target>Questa opzione determina se è necessaria una conferma prima di disconnettersi da una sessione di Accesso Remoto quando si è collegati come computer controllato.</target>
       </segment>
     </unit>
     <unit id="da0acbbd-feb5-4a61-a595-c0c4479636c6">
       <notes>
         <note appliesTo="source">line: 3127</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When checked, NVDA will ask for confirmation before disconnecting.</source>
-        <target>When checked, NVDA will ask for confirmation before disconnecting.</target>
+        <target>Se controllato, NVDA chiederà conferma prima di disconnettersi.</target>
       </segment>
     </unit>
     <unit id="c64ad95a-8244-483b-a4d2-298aaa04d808">
       <notes>
         <note appliesTo="source">line: 3128</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When unchecked, NVDA will disconnect immediately without confirmation.</source>
-        <target>When unchecked, NVDA will disconnect immediately without confirmation.</target>
+        <target>Altrimenti, NVDA si disconnetterà immediatamente senza richiedere alcuna conferma.</target>
       </segment>
     </unit>
     <unit id="4b142507-9401-4d1f-b8da-cb443c3cb501">
@@ -25352,45 +25352,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnect}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Automatically connect after NVDA starts</source>
-        <target>Automatically connect after NVDA starts</target>
+        <target>Connetti automaticamente dopo l'avvio di NVDA</target>
       </segment>
     </unit>
     <unit id="a3c0240c-e753-44ff-9a12-10d41cd30396">
       <notes>
         <note appliesTo="source">line: 3132</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option allows you to automatically establish a Remote Access session when NVDA starts.</source>
-        <target>This option allows you to automatically establish a Remote Access session when NVDA starts.</target>
+        <target>Questa opzione consente di stabilire automaticamente una sessione di accesso remoto all'avvio di NVDA.</target>
       </segment>
     </unit>
     <unit id="620f9532-0216-4f60-bb66-8c743593e654">
       <notes>
         <note appliesTo="source">line: 3133</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This could be useful, for example, to control your home computer when away from home.</source>
-        <target>This could be useful, for example, to control your home computer when away from home.</target>
+        <target>Ciò potrebbe essere utile, ad esempio, per controllare il computer di casa quando ci si trova lontano.</target>
       </segment>
     </unit>
     <unit id="a10b52e9-c203-4785-becd-4eae781c7d34">
       <notes>
         <note appliesTo="source">line: 3135</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use caution when enabling this option, as it may increase the risk of unauthorized access to your computer.</source>
-        <target>Use caution when enabling this option, as it may increase the risk of unauthorized access to your computer.</target>
+        <target>Usare cautela quando si abilita questa opzione, in quanto può aumentare il rischio di accesso non autorizzato al proprio computer.</target>
       </segment>
     </unit>
     <unit id="8d685a96-562f-4854-b21c-0cd126cb21d5">
       <notes>
         <note appliesTo="source">line: 3137</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For further details on the following options, please refer to the [Setting Up a Remote Access Session section](#RemoteAccessSetup)</source>
-        <target>For further details on the following options, please refer to the [Setting Up a Remote Access Session section](#RemoteAccessSetup)</target>
+        <target>Per ulteriori dettagli sulle seguenti opzioni, consultare la [sezione impostare una connessione di accesso remoto](#RemoteAccessSetup)</target>
       </segment>
     </unit>
     <unit id="5015a520-5bed-409d-9f4f-743e2fa0cb6d">
@@ -25399,27 +25399,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectMode}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mode</source>
-        <target>Mode</target>
+        <target>Modalità</target>
       </segment>
     </unit>
     <unit id="ae432baf-3488-4305-8381-8aae0c4e2310">
       <notes>
         <note appliesTo="source">line: 3141</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Select the connection mode for automatic connections.</source>
-        <target>Select the connection mode for automatic connections.</target>
+        <target>Selezionare la modalità di connessione per connessioni automatiche.</target>
       </segment>
     </unit>
     <unit id="f92b4b86-c3b5-4ce6-b4e4-2bf81ec20d86">
       <notes>
         <note appliesTo="source">line: 3143</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</target>
+        <target>Questa opzione è disponibile soltanto quando [Connetti automaticamente dopo l'avvio di NVDA](#RemoteAutoconnect) è attivata.</target>
       </segment>
     </unit>
     <unit id="cd41a94e-2ad8-4085-8167-bba3b861b438">
@@ -25428,9 +25428,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Option |Behaviour </source>
-        <target>Option |Behaviour </target>
+        <target>Opzione |Comportamento </target>
       </segment>
     </unit>
     <unit id="fc75148d-f685-4daf-a643-aa0e7ded2ee0">
@@ -25439,9 +25439,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Allow this computer to be controlled |Use this computer as the "controlled" computer. This allows the operator of the "controlling" computer to use this computer as if they were sitting in front of it. </source>
-        <target>Allow this computer to be controlled |Use this computer as the "controlled" computer. This allows the operator of the "controlling" computer to use this computer as if they were sitting in front of it. </target>
+        <target>Consenti il controllo di questo computer |Utilizza questo computer come “controllato”. In questo modo, l’operatore del computer “controllante” potrà utilizzarlo a distanza come se fosse fisicamente davanti allo schermo. </target>
       </segment>
     </unit>
     <unit id="b9e02315-fd92-42e4-941a-68e452bb789f">
@@ -25450,9 +25450,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Control another computer |Use this computer as the "controlling" computer. This allows you to execute commands on the remote computer. </source>
-        <target>Control another computer |Use this computer as the "controlling" computer. This allows you to execute commands on the remote computer. </target>
+        <target>Controlla un altro computer |Usa questo pc come "computer controllato". Ciò consente di eseguire comandi sul pc remoto. </target>
       </segment>
     </unit>
     <unit id="af02981e-74c9-4832-be1a-9596b2b1ad2a">
@@ -25461,7 +25461,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectServer}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Server</source>
         <target>Server</target>
       </segment>
@@ -25470,18 +25470,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3152</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Select the server type for automatic connections.</source>
-        <target>Select the server type for automatic connections.</target>
+        <target>Selezionare il tipo di server per connessioni automatiche.</target>
       </segment>
     </unit>
     <unit id="f5886c51-a6c9-4ca7-850f-ed42eca20fea">
       <notes>
         <note appliesTo="source">line: 3154</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</target>
+        <target>Questa opzione è disponibile soltanto quando [Connetti automaticamente dopo l'avvio di NVDA](#RemoteAutoconnect) è attivata.</target>
       </segment>
     </unit>
     <unit id="35ae2c00-7dad-4f5a-8886-e3d3f723c788">
@@ -25490,9 +25490,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Option |Behaviour </source>
-        <target>Option |Behaviour </target>
+        <target>Opzione |Comportamento </target>
       </segment>
     </unit>
     <unit id="ed2c76eb-ca00-46bf-a198-2a1edfe7e652">
@@ -25501,9 +25501,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use existing |Use an existing Remote Access server to mediate the connection (recommended). </source>
-        <target>Use existing |Use an existing Remote Access server to mediate the connection (recommended). </target>
+        <target>Usa esistente |Utilizza un server di Accesso Remoto esistente per gestire la connessione (consigliato). </target>
       </segment>
     </unit>
     <unit id="c4229ecd-8563-4a67-8ed6-823b2f8f890b">
@@ -25512,9 +25512,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Host locally |Use this instance of NVDA as the Remote Access server (advanced). This option may require network configuration that is out of scope for this manual. </source>
-        <target>Host locally |Use this instance of NVDA as the Remote Access server (advanced). This option may require network configuration that is out of scope for this manual. </target>
+        <target>Ospita in locale |Usare questa istanza di NVDA come server di Accesso Remoto (avanzato). Questa opzione potrebbe richiedere una configurazione di rete non trattata in questo manuale. </target>
       </segment>
     </unit>
     <unit id="e508195a-301a-4839-a056-a306d6f799a2">
@@ -25523,7 +25523,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectHost}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Host</source>
         <target>Host</target>
       </segment>
@@ -25532,27 +25532,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3163</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this field to set the URL of the Remote Access server you would like to use for automatic connections.</source>
-        <target>Use this field to set the URL of the Remote Access server you would like to use for automatic connections.</target>
+        <target>Usare questo campo per impostare l’URL del server di Accesso Remoto che si desidera utilizzare per le connessioni automatiche.Use this field to set the URL of the Remote Access server you would like to use for automatic connections.</target>
       </segment>
     </unit>
     <unit id="a2314d0b-fed3-4a5d-a629-782ecb20a197">
       <notes>
         <note appliesTo="source">line: 3164</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If the server uses a port other than 6837, include it after a colon (eg. `example.com:1234`).</source>
-        <target>If the server uses a port other than 6837, include it after a colon (eg. `example.com:1234`).</target>
+        <target>Se il server utilizza una porta diversa da 6837, inserirla dopo i due punti (esempio `example.com:1234`).</target>
       </segment>
     </unit>
     <unit id="1c48db19-a2bd-4c29-810c-6a7b38a6269a">
       <notes>
         <note appliesTo="source">line: 3166</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Use existing".</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Use existing".</target>
+        <target>Questa opzione è disponibile soltanto quando [Connetti automaticamente dopo l'avvio di NVDA](#RemoteAutoconnect) è attivata, e l'opzione [Server](#RemoteAutoconnectServer) è impostata su "Usa esistente".</target>
       </segment>
     </unit>
     <unit id="3922ec7e-84f7-4733-b639-2617ff92e68a">
@@ -25561,27 +25561,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectPort}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Port</source>
-        <target>Port</target>
+        <target>Porta</target>
       </segment>
     </unit>
     <unit id="f49141eb-1eed-4825-9e4c-f2a0fc51c141">
       <notes>
         <note appliesTo="source">line: 3170</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this field to set the TCP port you would like to use for automatic connections.</source>
-        <target>Use this field to set the TCP port you would like to use for automatic connections.</target>
+        <target>Usare questo campo per impostare la porta TCP che si desidera utilizzare per connessioni automatiche.</target>
       </segment>
     </unit>
     <unit id="37ce416a-0855-444d-a6cd-828aaba73600">
       <notes>
         <note appliesTo="source">line: 3172</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Host locally".</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Host locally".</target>
+        <target>Questa opzione è disponibile soltanto quando [Connetti automaticamente dopo l'avvio di NVDA](#RemoteAutoconnect) è attivata, e l'opzione [Server](#RemoteAutoconnectServer) è impostata su "Usa esistente".</target>
       </segment>
     </unit>
     <unit id="951b1ca5-229b-4118-b4dd-f6056d1befe8">
@@ -25590,27 +25590,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectKey}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Key</source>
-        <target>Key</target>
+        <target>Chiave</target>
       </segment>
     </unit>
     <unit id="b9bde79d-75c9-4096-b11b-84f41c61fb6f">
       <notes>
         <note appliesTo="source">line: 3176</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this field to set the key (password) you would like to use for automatic connections.</source>
-        <target>Use this field to set the key (password) you would like to use for automatic connections.</target>
+        <target>Usare questo campo per impostare la chiave (password) che si desidera utilizzare per connessioni automatiche.</target>
       </segment>
     </unit>
     <unit id="cc411c22-798f-4e84-8d71-0d917fe47cd4">
       <notes>
         <note appliesTo="source">line: 3178</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</target>
+        <target>Questa opzione è disponibile soltanto quando [Connetti automaticamente dopo l'avvio di NVDA](#RemoteAutoconnect) è attivata, e l'opzione [Server](#RemoteAutoconnectServer) è impostata su "Usa esistente".</target>
       </segment>
     </unit>
     <unit id="4214e903-3572-4c71-acef-65b3419d8335">
@@ -25619,45 +25619,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteDeleteFingerprints}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Delete all trusted fingerprints</source>
-        <target>Delete all trusted fingerprints</target>
+        <target>Elimina tutte le impronte digitali attendibili.</target>
       </segment>
     </unit>
     <unit id="91483535-71a7-4971-83d5-162e7c743e8d">
       <notes>
         <note appliesTo="source">line: 3182</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This button allows you to forget the fingerprints of all previously trusted Remote Access servers.</source>
-        <target>This button allows you to forget the fingerprints of all previously trusted Remote Access servers.</target>
+        <target>Questo pulsante consente di dimenticare le impronte digitali di tutti i server di Accesso Remoto.</target>
       </segment>
     </unit>
     <unit id="cb352821-53f2-4c81-8da5-d04a2190e726">
       <notes>
         <note appliesTo="source">line: 3183</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means that you will again be asked whether to connect to all unrecognised Remote Access servers, even ones that you have previously connected to.</source>
-        <target>This means that you will again be asked whether to connect to all unrecognised Remote Access servers, even ones that you have previously connected to.</target>
+        <target>Questo significa che verrà nuovamente chiesto se si desidera connettersi a tutti i server di Accesso Remoto non riconosciuti, anche a quelli a cui ci si è già connesso in passato.</target>
       </segment>
     </unit>
     <unit id="869c3bb3-208a-45f7-8a08-e3b9c2e82afd">
       <notes>
         <note appliesTo="source">line: 3184</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You will be asked to confirm before all trusted fingerprints are deleted.</source>
-        <target>You will be asked to confirm before all trusted fingerprints are deleted.</target>
+        <target>Verrà richiesta conferma prima che tutte le impronte digitali attendibili vengano eliminate.</target>
       </segment>
     </unit>
     <unit id="5a6e6ae6-9b3f-40a3-989d-8dd76024335a">
       <notes>
         <note appliesTo="source">line: 3186</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available if there are trusted fingerprints stored in your configuration.</source>
-        <target>This option is only available if there are trusted fingerprints stored in your configuration.</target>
+        <target>Questa opzione è disponibile solo se nella configurazione sono memorizzate impronte digitali attendibili.</target>
       </segment>
     </unit>
     <unit id="41cbd374-e298-42ab-badc-9dd6efb312c8">
@@ -25771,9 +25771,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#SetURLDialog}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set Mirror Dialog</source>
-        <target>Set Mirror Dialog</target>
+        <target>Finestra impostazione mirror</target>
       </segment>
     </unit>
     <unit id="b8b24625-92be-49a9-b30e-5079a4c3bc96">
