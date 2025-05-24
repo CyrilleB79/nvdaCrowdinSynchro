@@ -15870,7 +15870,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Set row headers |`NVDA+shift+r` |Pressing this once tells NVDA this is the first header cell in the column that contains row headers, which should be automatically announced when moving between rows after this column. Pressing twice will clear the setting.</source>
-        <target>Imposta intestazioni di riga |`NVDA+Shift+C` | Premendo questo comando una volta, si indica a NVDA che la cella corrente è la prima della colonna con le intestazioni di riga. Le intestazioni verranno così annunciate automaticamente mentre ci si sposta tra le righe sottostanti. Premendolo due volte, l’impostazione verrà annullata.</target>
+        <target>Imposta intestazioni di riga |`NVDA+Shift+R` | Premendo questo comando una volta, si indica a NVDA che la cella corrente è la prima della colonna con le intestazioni di riga. Le intestazioni verranno così annunciate automaticamente mentre ci si sposta tra le righe sottostanti. Premendolo due volte, l’impostazione verrà annullata.</target>
       </segment>
     </unit>
     <unit id="9bc41658-168a-4b6c-8cb3-31e69e010c73">
@@ -25780,18 +25780,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3207</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This dialog allows you to specify the URL of a mirror to use when [updating NVDA](#GeneralSettingsCheckForUpdates) or [using the Add-on Store](#AddonsManager).</source>
-        <target>This dialog allows you to specify the URL of a mirror to use when [updating NVDA](#GeneralSettingsCheckForUpdates) or [using the Add-on Store](#AddonsManager).</target>
+        <target>Questa finestra consente di specificare l'URL del mirror da utilizzare quando [si aggiorna NVDA](#GeneralSettingsCheckForUpdates) o [si utilizza l'Add-on Store](#AddonsManager).</target>
       </segment>
     </unit>
     <unit id="e6fbcabf-879b-44a0-aacc-2a0f7878f147">
       <notes>
         <note appliesTo="source">line: 3208</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This may be of use in locations where access to the NV Access servers for these functions is slow or unavailable.</source>
-        <target>This may be of use in locations where access to the NV Access servers for these functions is slow or unavailable.</target>
+        <target>Ciò può essere utile in luoghi in cui l'accesso ai server di NVAccess per queste funzioni risulta lento o non disponibile.</target>
       </segment>
     </unit>
     <unit id="f73dfe76-9328-4ad1-8a98-4aae4490d98f">
@@ -25799,9 +25799,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3210</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When setting the [NVDA update mirror](#UpdateMirror), the title of this dialog will be "Set NVDA Update Mirror".</source>
-        <target>When setting the [NVDA update mirror](#UpdateMirror), the title of this dialog will be "Set NVDA Update Mirror".</target>
+        <target>Quando si imposta il [Mirror di aggiornamento per NVDA](#UpdateMirror), il titolo di questa finestra diventerà "Imposta mirror per gli aggiornamenti di NVDA".</target>
       </segment>
     </unit>
     <unit id="19a0ca46-0cf7-4f44-a012-76fb71b7bd3b">
@@ -25809,9 +25809,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3211</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When setting the [Add-on Store mirror](#AddonStoreMetadataMirror), the title of this dialog will be "Set Add-on Store Mirror Server".</source>
-        <target>When setting the [Add-on Store mirror](#AddonStoreMetadataMirror), the title of this dialog will be "Set Add-on Store Mirror Server".</target>
+        <target>Se invece si imposta il [mirror per l'Add-on Store](#AddonStoreMetadataMirror), il titolo della finestra sarà "Imposta il server mirrror per l'Add-on Store".</target>
       </segment>
     </unit>
     <unit id="8a9fda8d-8feb-4a2e-9bb2-54857a6b1d3a">
@@ -25820,7 +25820,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SetURLTextbox}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>URL</source>
         <target>URL</target>
       </segment>
@@ -25829,36 +25829,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3215</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enter the URL (web address) of the mirror you wish to use here.</source>
-        <target>Enter the URL (web address) of the mirror you wish to use here.</target>
+        <target>Inserire l'URL (indirizzo web) del mirror che si desidera utilizzare.</target>
       </segment>
     </unit>
     <unit id="af23ed2c-1ebe-4e3c-954e-114c91ebc45e">
       <notes>
         <note appliesTo="source">line: 3216</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only HTTP and HTTPS URLs are supported.</source>
-        <target>Only HTTP and HTTPS URLs are supported.</target>
+        <target>Sono supportati solo indirizzi di tipo HTTP e HTTPS.</target>
       </segment>
     </unit>
     <unit id="eb8ca7c0-5d29-4578-8d2f-d82a2b5054f3">
       <notes>
         <note appliesTo="source">line: 3217</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For your privacy, NV Access recommends using HTTPS URLs whenever possible.</source>
-        <target>For your privacy, NV Access recommends using HTTPS URLs whenever possible.</target>
+        <target>Per la tua privacy, NV Access consiglia di utilizzare gli URL HTTPS quando possibile.</target>
       </segment>
     </unit>
     <unit id="1baea992-7155-41e4-9d86-1a2732c418c3">
       <notes>
         <note appliesTo="source">line: 3219</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Leave this blank to use the default NV Access server.</source>
-        <target>Leave this blank to use the default NV Access server.</target>
+        <target>Lasciare il campo vuoto per utilizzare il server NV Access predefinito.</target>
       </segment>
     </unit>
     <unit id="cc6cb82c-2a45-463f-ba63-094caf917760">
@@ -25867,7 +25867,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SetURLTest}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Test...</source>
         <target>Test...</target>
       </segment>
@@ -25876,27 +25876,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3223</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Press this button to test the mirror URL you have entered.</source>
-        <target>Press this button to test the mirror URL you have entered.</target>
+        <target>Premere questo pulsante per testare l'indirizzo del mirror inserito.</target>
       </segment>
     </unit>
     <unit id="c4cdecb9-2f3e-488a-9dbe-aba87da6fe2b">
       <notes>
         <note appliesTo="source">line: 3224</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You must be connected to the internet for the test to succeed.</source>
-        <target>You must be connected to the internet for the test to succeed.</target>
+        <target>Bisogna essere connessi a Internet affinché il test abbia successo.</target>
       </segment>
     </unit>
     <unit id="e4d23412-941b-43bc-a8a8-461f3d8250fe">
       <notes>
         <note appliesTo="source">line: 3225</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is recommended that you always test the URL before saving it.</source>
-        <target>It is recommended that you always test the URL before saving it.</target>
+        <target>Si consiglia di testare sempre l'URL prima di salvarlo.</target>
       </segment>
     </unit>
     <unit id="e3d0c2c5-1a59-4caf-9b4f-67e824c90639">
@@ -26232,9 +26232,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3279</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only where necessary: where the Microsoft Word object model is not available at all</source>
-        <target>Only where necessary: where the Microsoft Word object model is not available at all</target>
+        <target>Solo quando necessario: laddove il modello a oggetti Microsoft Word non risulta disponibile in alcun modo</target>
       </segment>
     </unit>
     <unit id="d38474d6-8394-449b-baed-21d03501240a">
@@ -27147,36 +27147,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#TrimLeadingSilenceSpeech}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Trim leading silence in speech audio</source>
-        <target>Trim leading silence in speech audio</target>
+        <target>Rimuovi silenzi iniziali della sintesi</target>
       </segment>
     </unit>
     <unit id="a0439eac-a01a-4596-b651-b95700fd4bc7">
       <notes>
         <note appliesTo="source">line: 3420</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, NVDA will remove silence from the start of speech audio, which may improve the responsiveness of some speech synthesizers.</source>
-        <target>When enabled, NVDA will remove silence from the start of speech audio, which may improve the responsiveness of some speech synthesizers.</target>
+        <target>Se attivato, NVDA rimuoverà eventuali silenzi da quando la sintesi vocale inizia a parlare, il che può portare ad un aumento delle prestazioni per alcuni sintetizzatori.</target>
       </segment>
     </unit>
     <unit id="6dc82e04-38d5-4e56-8922-c8174017cbad">
       <notes>
         <note appliesTo="source">line: 3421</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is enabled by default, and should only affect the silence at the beginning of speech.</source>
-        <target>This option is enabled by default, and should only affect the silence at the beginning of speech.</target>
+        <target>Questa opzione è abilitata per impostazione predefinita, dovrebbe influenzare il silenzio presente solo all'inizio del parlato.</target>
       </segment>
     </unit>
     <unit id="df3db20e-89e8-438f-9608-977d65dbe68f">
       <notes>
         <note appliesTo="source">line: 3422</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you find that some necessary silence periods are also missing (e.g. pause between two sentences) when using a speech synthesizer add-on, you may turn this feature off entirely to resolve the issue.</source>
-        <target>If you find that some necessary silence periods are also missing (e.g. pause between two sentences) when using a speech synthesizer add-on, you may turn this feature off entirely to resolve the issue.</target>
+        <target>Se si nota che mancano anche alcune pause necessarie (ad esempio tra due frasi) quando si usa un sintetizzatore vocale proveniente da un add-on, si può disattivare completamente questa funzione per risolvere il problema.</target>
       </segment>
     </unit>
     <unit id="c220247b-10ff-495a-ba07-7ca83b57a89a">
@@ -27185,45 +27185,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#UseWASAPIForSAPI4}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use WASAPI for SAPI 4 audio output</source>
-        <target>Use WASAPI for SAPI 4 audio output</target>
+        <target>Utilizza WASAPI per l'uscita audio Sapi4</target>
       </segment>
     </unit>
     <unit id="6a99c36f-33d2-4a02-9572-9b6df4e1f31b">
       <notes>
         <note appliesTo="source">line: 3426</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option enables Microsoft Speech API version 4 (SAPI 4) voices to output audio via the Windows Audio Session API (WASAPI).</source>
-        <target>This option enables Microsoft Speech API version 4 (SAPI 4) voices to output audio via the Windows Audio Session API (WASAPI).</target>
+        <target>Questa opzione consente alle voci Microsoft Speech API versione 4 (SAPI 4) di riprodurre l’audio tramite l’API Windows Audio Session (WASAPI).</target>
       </segment>
     </unit>
     <unit id="73d79f19-633b-4ab0-9975-abd1bd212926">
       <notes>
         <note appliesTo="source">line: 3427</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This can allow SAPI 4 voices to work with more features, such as audio ducking, leading silence trimming, and keeping audio device awake.</source>
-        <target>This can allow SAPI 4 voices to work with more features, such as audio ducking, leading silence trimming, and keeping audio device awake.</target>
+        <target>Questo consente alle voci SAPI 4 di sfruttare funzionalità aggiuntive come la riduzione automatica del volume degli altri suoni (audio ducking), l’eliminazione del silenzio iniziale e il mantenimento attivo del dispositivo audio.</target>
       </segment>
     </unit>
     <unit id="79c46af5-44a3-49d7-86b7-e737d5440a24">
       <notes>
         <note appliesTo="source">line: 3428</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, some SAPI 4 voices might not work with the current WASAPI implementation.</source>
-        <target>However, some SAPI 4 voices might not work with the current WASAPI implementation.</target>
+        <target>Tuttavia, alcune voci SAPI 4 potrebbero non funzionare con l'attuale implementazione WASAPI.</target>
       </segment>
     </unit>
     <unit id="cddb15b9-7651-4c05-9478-b17653c2c94c">
       <notes>
         <note appliesTo="source">line: 3429</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you find that the SAPI 4 voice you are using stops working, you may disable this option.</source>
-        <target>If you find that the SAPI 4 voice you are using stops working, you may disable this option.</target>
+        <target>Se ci si rende conto che la voce SAPI 4 in utilizzo smette di funzionare, è possibile disabilitare questa opzione.</target>
       </segment>
     </unit>
     <unit id="e21a8ba0-863c-413d-bdb2-fef30cfb7f17">
@@ -27232,9 +27232,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Options |Default (Enabled), Disabled, Enabled</source>
-        <target>Options |Default (Enabled), Disabled, Enabled</target>
+        <target>Ozioni |Predefinito (Attivato), Disattivato, Attivato</target>
       </segment>
     </unit>
     <unit id="38c5b121-abdc-4cab-aea7-297a9bb40e74">
@@ -27243,9 +27243,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default |Enabled</source>
-        <target>Default |Enabled</target>
+        <target>Predefinito |Attivato</target>
       </segment>
     </unit>
     <unit id="9818ec02-721e-4b97-aa0e-668e024c4ab0">
@@ -27936,9 +27936,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3539</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Normal backslashes in the Replacement field should thus be doubled, e.g. "a\\\\b" should be typed in order to get the "a\\b" replacement.</source>
-        <target>Normal backslashes in the Replacement field should thus be doubled, e.g. "a\\\\b" should be typed in order to get the "a\\b" replacement.</target>
+        <target>Nel campo di sostituzione, i normali backslash devono quindi essere raddoppiati; ad esempio, per ottenere la sostituzione "a\\b", è necessario digitare "a\\\\b".</target>
       </segment>
     </unit>
     <unit id="f049f307-8c00-4fc7-91ce-8b2d0a9e87d1">
@@ -28234,9 +28234,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Save configuration |`NVDA+control+c` |`NVDA+control+c` |Saves your current configuration so that it is not lost when you exit NVDA</source>
-        <target>Save configuration |`NVDA+control+c` |`NVDA+control+c` |Saves your current configuration so that it is not lost when you exit NVDA</target>
+        <target>Salva configurazione |`NVDA+control+c` |`NVDA+control+c` |Salva la configurazione attuale in modo che non vada persa all'uscita di NVDA</target>
       </segment>
     </unit>
     <unit id="c2f0e356-e676-4641-bad3-db94e1e7f07b">
