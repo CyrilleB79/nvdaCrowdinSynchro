@@ -13251,9 +13251,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1135</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, NVDA has a Native Selection Mode which can be turned on in particular Browse Mode documents which can support it (Mozilla Firefox, and any browser based on Chromium 134 or newer) which causes the document's native selection to follow NVDA's Browse Mode selection.</source>
-        <target>However, NVDA has a Native Selection Mode which can be turned on in particular Browse Mode documents which can support it (Mozilla Firefox, and any browser based on Chromium 134 or newer) which causes the document's native selection to follow NVDA's Browse Mode selection.</target>
+        <target>Cependant, NVDA dispose d'un mode de sélection native qui peut être activé dans certains documents en mode navigation qui le supportent (Mozilla Firefox et les navigateurs basés sur Chromium 134 ou plus récent), ce qui fait que la sélection native dans le document suit la sélection du mode navigation de NVDA.</target>
       </segment>
     </unit>
     <unit id="0c220da6-bf37-40be-b1a7-95859acd96c7">
@@ -15554,9 +15554,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1456</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA provides its own extra features for some applications to make certain tasks easier or to provide access to functionality which is not otherwise accessible to screen reader users.</source>
-        <target>NVDA provides its own extra features for some applications to make certain tasks easier or to provide access to functionality which is not otherwise accessible to screen reader users.</target>
+        <target>NVDA fournit ses propres fonctionnalités additionnelles dans certaines applications pour rendre certaines tâches plus faciles ou pour donner accès à des fonctionnalités qui ne seraient pas accessibles autrement.</target>
       </segment>
     </unit>
     <unit id="2c227b4d-cc6c-4895-bb8d-1790e6f70e37">
@@ -15643,9 +15643,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set column headers |`NVDA+shift+c` |Pressing this once tells NVDA this is the first header cell in the row that contains column headers, which should be automatically announced when moving between columns below this row. Pressing twice will clear the setting.</source>
-        <target>Set column headers |`NVDA+shift+c` |Pressing this once tells NVDA this is the first header cell in the row that contains column headers, which should be automatically announced when moving between columns below this row. Pressing twice will clear the setting.</target>
+        <target>Définir les en-têtes de colonne |`NVDA+maj+c` |Un appui indique à NVDA qu'il s'agit de la première cellule de la ligne qui contient les en-têtes de colonne, qui doivent être annoncées automatiquement lors du déplacement entre les colonnes sous cette ligne. Un double appui efface ce paramétrage.</target>
       </segment>
     </unit>
     <unit id="7df7e116-2f47-41a3-8502-a69530a689f9">
@@ -15654,9 +15654,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set row headers |`NVDA+shift+r` |Pressing this once tells NVDA this is the first header cell in the column that contains row headers, which should be automatically announced when moving between rows after this column. Pressing twice will clear the setting.</source>
-        <target>Set row headers |`NVDA+shift+r` |Pressing this once tells NVDA this is the first header cell in the column that contains row headers, which should be automatically announced when moving between rows after this column. Pressing twice will clear the setting.</target>
+        <target>Définir les en-têtes de ligne |`NVDA+maj+r` |Un appui indique à NVDA qu'il s'agit de la première cellule de la ligne qui contient les en-têtes de ligne, qui doivent être annoncées automatiquement lors du déplacement entre les lignes sous cette colonne. Un double appui efface ce paramétrage.</target>
       </segment>
     </unit>
     <unit id="10bbd711-e1a1-40b6-b0e3-9688c6f402dc">
@@ -15672,9 +15672,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1477</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means that users of other screen readers who open this document at a later date will automatically have the row and column headers already set.</source>
-        <target>This means that users of other screen readers who open this document at a later date will automatically have the row and column headers already set.</target>
+        <target>Cela signifie que d'autres utilisateurs de revues d'écran ouvrant ce document ultérieurement auront automatiquement les titres des lignes et colonnes déjà définis.</target>
       </segment>
     </unit>
     <unit id="d06b4120-ae35-4acf-80d0-7be851a30919">
@@ -15777,9 +15777,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1500</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>All comments for the document, along with other tracked changes, can also be listed in the NVDA Elements List when selecting Annotations as the type.</source>
-        <target>All comments for the document, along with other tracked changes, can also be listed in the NVDA Elements List when selecting Annotations as the type.</target>
+        <target>Tous les commentaires pour le document ainsi que les autres suivis de modifications peuvent aussi être listés dans la liste d'éléments de NVDA en choisissant le type Annotations.</target>
       </segment>
     </unit>
     <unit id="f4e6005a-baa3-4526-8cd1-f7aa0211772e">
@@ -15857,9 +15857,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set column headers |`NVDA+shift+c` |Pressing this once tells NVDA this is the first header cell in the row that contains column headers, which should be automatically announced when moving between columns below this row. Pressing twice will clear the setting.</source>
-        <target>Set column headers |`NVDA+shift+c` |Pressing this once tells NVDA this is the first header cell in the row that contains column headers, which should be automatically announced when moving between columns below this row. Pressing twice will clear the setting.</target>
+        <target>Définir les en-têtes de colonne |`NVDA+maj+c` |Un appui indique à NVDA qu'il s'agit de la première cellule de la ligne qui contient les en-têtes de colonne, qui doivent être annoncées automatiquement lors du déplacement entre les colonnes sous cette ligne. Un double appui efface ce paramétrage.</target>
       </segment>
     </unit>
     <unit id="5282bfa7-d7bd-4f47-9100-a264111be39c">
@@ -15868,9 +15868,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set row headers |`NVDA+shift+r` |Pressing this once tells NVDA this is the first header cell in the column that contains row headers, which should be automatically announced when moving between rows after this column. Pressing twice will clear the setting.</source>
-        <target>Set row headers |`NVDA+shift+r` |Pressing this once tells NVDA this is the first header cell in the column that contains row headers, which should be automatically announced when moving between rows after this column. Pressing twice will clear the setting.</target>
+        <target>Définir les en-têtes de ligne |`NVDA+maj+r` |Un appui indique à NVDA qu'il s'agit de la première cellule de la ligne qui contient les en-têtes de ligne, qui doivent être annoncées automatiquement lors du déplacement entre les lignes sous cette colonne. Un double appui efface ce paramétrage.</target>
       </segment>
     </unit>
     <unit id="9bc41658-168a-4b6c-8cb3-31e69e010c73">
@@ -15886,9 +15886,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1518</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means that users of other screen readers who open this workbook at a later date will automatically have the row and column headers already set.</source>
-        <target>This means that users of other screen readers who open this workbook at a later date will automatically have the row and column headers already set.</target>
+        <target>Cela signifie que d'autres utilisateurs de revues d'écran ouvrant ce classeur ultérieurement auront automatiquement les titres des lignes et colonnes déjà définis.</target>
       </segment>
     </unit>
     <unit id="f9cd227a-e1f2-4109-b921-065a7f1d7c76">
@@ -17256,9 +17256,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1763</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When checked, a dialog will appear when you attempt to exit NVDA, offering the following possibilities:</source>
-        <target>When checked, a dialog will appear when you attempt to exit NVDA, offering the following possibilities:</target>
+        <target>Quand elle est cochée, un dialogue apparaît lorsque vous voulez quitter NVDA, vous proposant les choix suivants :</target>
       </segment>
     </unit>
     <unit id="dba26658-2445-4987-a7c7-f312f8dfec5a">
@@ -17266,9 +17266,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1765</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>exit</source>
-        <target>exit</target>
+        <target>quitter</target>
       </segment>
     </unit>
     <unit id="141c0b02-bfd8-41be-aa62-44bb2876bdb5">
@@ -17276,9 +17276,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1766</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>restart</source>
-        <target>restart</target>
+        <target>redémarrer</target>
       </segment>
     </unit>
     <unit id="de5a15f4-2bbe-4658-86ab-5067faa513d6">
@@ -17286,9 +17286,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1767</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>restart with add-ons disabled and debug logging enabled</source>
-        <target>restart with add-ons disabled and debug logging enabled</target>
+        <target>redémarrer avec les extensions désactivées et le journal activé en mode débogage</target>
       </segment>
     </unit>
     <unit id="f48d699f-cfe1-4fc9-a812-3891df7ebc36">
@@ -17296,9 +17296,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1768</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>restart with debug logging enabled</source>
-        <target>restart with debug logging enabled</target>
+        <target>redémarrer avec le journal activé en mode débogage</target>
       </segment>
     </unit>
     <unit id="e740ab36-822f-423d-ade1-c53a9a103fff">
@@ -17306,9 +17306,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1769</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>install pending updates (if any).</source>
-        <target>install pending updates (if any).</target>
+        <target>installer la mise à jour en attente (le cas échéant)</target>
       </segment>
     </unit>
     <unit id="0e05fa1e-6bdb-4785-8c29-90924736ee6b">
@@ -17759,9 +17759,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1838</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can also manually install the pending update from the Exit NVDA dialog (if enabled), from the NVDA menu, or when you perform a new check from the Help menu.</source>
-        <target>You can also manually install the pending update from the Exit NVDA dialog (if enabled), from the NVDA menu, or when you perform a new check from the Help menu.</target>
+        <target>Vous pouvez également vérifier manuellement les mises à jour en sélectionnant "Recherche d'une Mise à Jour..." sous "Aide" du menu NVDA.</target>
       </segment>
     </unit>
     <unit id="1cf1f3b1-241c-49e1-8e33-18f8d9ad63e7">
@@ -21948,9 +21948,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2562</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Key: `NVDA+2`</source>
-        <target>Key: `NVDA+2`</target>
+        <target>Raccourci clavier : `NVDA+2`</target>
       </segment>
     </unit>
     <unit id="11f90043-2a32-4862-afc7-3ddee8f95d23">
@@ -22016,9 +22016,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2575</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Key: `NVDA+3`</source>
-        <target>Key: `NVDA+3`</target>
+        <target>Raccourci clavier : `NVDA+3`</target>
       </segment>
     </unit>
     <unit id="612f678a-ef72-437b-b22e-3bfcddee6704">
@@ -22249,9 +22249,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2618</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is on by default, though certain users may wish to turn this off, such as those typing Vietnamese with the UniKey typing software as it will cause incorrect character input.</source>
-        <target>This option is on by default, though certain users may wish to turn this off, such as those typing Vietnamese with the UniKey typing software as it will cause incorrect character input.</target>
+        <target>Cette option est activée par défaut, mais certains utilisateurs souhaiteraient la désactiver, comme ceux tapant en vietnamien avec le logiciel de dactylographie UniKey, car cela causerait la saisie de caractères incorrects.</target>
       </segment>
     </unit>
     <unit id="b8eeaba3-5aa0-4a82-ae96-35bec64fbdf2">
@@ -23327,9 +23327,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2819</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option, which is on by default, allows you to choose whether or not all visible candidates should be reported automatically when a candidate list appears or its page is changed.</source>
-        <target>This option, which is on by default, allows you to choose whether or not all visible candidates should be reported automatically when a candidate list appears or its page is changed.</target>
+        <target>Cette option, activée par défaut, vous permet de choisir si NVDA doit ou non annoncer la suggestion sélectionnée lorsqu'une liste de suggestions apparaît ou quand la sélection est changée.</target>
       </segment>
     </unit>
     <unit id="9e02c4d6-1100-420c-b385-73f1c0356f1e">
@@ -23345,9 +23345,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2821</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, for phonetic input methods such as Chinese New Phonetic, it may be more useful to turn this option off, as all the symbols will sound the same and you will have to use the arrow keys to navigate the list items individually to gain more information from the character descriptions for each candidate.</source>
-        <target>However, for phonetic input methods such as Chinese New Phonetic, it may be more useful to turn this option off, as all the symbols will sound the same and you will have to use the arrow keys to navigate the list items individually to gain more information from the character descriptions for each candidate.</target>
+        <target>Toutefois, pour les méthodes de saisie phonétique comme le nouveau chinois phonétique, il peut être plus utile de désactiver cette option puisque tous les symboles ont les mêmes sons et vous devrez utiliser les touches fléchées pour naviguer dans les éléments de la liste individuellement pour obtenir plus d'informations de la description de caractères pour chaque suggestion.</target>
       </segment>
     </unit>
     <unit id="866b2c56-df03-4b8f-9a89-45f8a4dd7164">
@@ -23374,9 +23374,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2826</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For input methods where the selection can be changed with the arrow keys (such as Chinese New Phonetic) this is necessary, but for some input methods it may be more efficient typing with this option turned off.</source>
-        <target>For input methods where the selection can be changed with the arrow keys (such as Chinese New Phonetic) this is necessary, but for some input methods it may be more efficient typing with this option turned off.</target>
+        <target>Pour les méthodes où la suggestion peut être changée en utilisant les flèches (comme chinois Nouveau Phonétique) cela est nécessaire, cependant pour certaines méthodes il est préférable de désactiver cette option.</target>
       </segment>
     </unit>
     <unit id="f64dc3b8-21d6-42b8-bd7a-bd84a1019d13">
@@ -23497,9 +23497,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2845</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option allows you to choose whether or not NVDA should report new symbols as they appear in the composition string.</source>
-        <target>This option allows you to choose whether or not NVDA should report new symbols as they appear in the composition string.</target>
+        <target>Cette option permet de choisir si oui ou non NVDA doit annoncer tous les symboles quand ils apparaissent dans la chaîne de composition.&lt;/target&gt;</target>
       </segment>
     </unit>
     <unit id="a1b5af75-d370-4c8f-bc14-1632a5114f1a">
@@ -23946,9 +23946,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2924</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enabled by default, this option allows you to choose if gestures (such as key presses) that do not result in an NVDA command and are not considered to be a command key in general, should be trapped from going through to the document you are currently focused on.</source>
-        <target>Enabled by default, this option allows you to choose if gestures (such as key presses) that do not result in an NVDA command and are not considered to be a command key in general, should be trapped from going through to the document you are currently focused on.</target>
+        <target>Activée par défaut, cette option vous permet de choisir si des gestes (tels que l'appui sur des touches) qui ne déclenchent pas une commande NVDA et ne sont pas considérés comme une commande en général, devraient être interceptés pour ne pas interagir avec le document actuellement en focus.</target>
       </segment>
     </unit>
     <unit id="1ce1a74c-1667-4e51-bb57-334c7e334d51">
@@ -24341,9 +24341,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2972</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Link type (destination to same page)</source>
-        <target>Link type (destination to same page)</target>
+        <target>Type de lien (destination sur la même page)</target>
       </segment>
     </unit>
     <unit id="2e38ba90-c950-45c4-8df2-91032b39ddfc">
@@ -24605,9 +24605,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3010</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Speech: If speech is selected, when the amount of indentation changes, NVDA will say something like "twelve space" or "four tab."</source>
-        <target>Speech: If speech is selected, when the amount of indentation changes, NVDA will say something like "twelve space" or "four tab."</target>
+        <target>Parole : Si parole est sélectionnée, quand le niveau de retrait change, NVDA dit quelque chose comme "douze espaces" ou "quatre tabulations.".</target>
       </segment>
     </unit>
     <unit id="7cf12fe1-796c-4d1d-9ece-bd9d5ebc795d">
@@ -24615,9 +24615,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3011</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tones: If Tones is selected, when the amount of indentation changes, tones indicate the amount of change in indent.</source>
-        <target>Tones: If Tones is selected, when the amount of indentation changes, tones indicate the amount of change in indent.</target>
+        <target>Sons : Si sons est sélectionné, quand le niveau de retrait change, des sons indiquent la quantité de changement dans le retrait.</target>
       </segment>
     </unit>
     <unit id="0258dc16-c4c5-4495-b685-1df54be9deb3">
@@ -24960,9 +24960,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#DefaultAddonUpdateChannel}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default Update Channel</source>
-        <target>Default Update Channel</target>
+        <target>Canal de mise à jour par défaut</target>
       </segment>
     </unit>
     <unit id="20fd982a-9a89-4d0f-97d5-71b6f530b16e">
@@ -25117,9 +25117,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AllowIncompatibleAddonUpdates}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Allow automatic updates to install incompatible add-ons</source>
-        <target>Allow automatic updates to install incompatible add-ons</target>
+        <target>Permettre aux mises à jour automatique d'installer des extensions incompatibles</target>
       </segment>
     </unit>
     <unit id="9a6c7f72-bed4-4786-be93-ae684ab723b2">
@@ -25173,9 +25173,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AddonStoreMetadataMirror}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mirror server</source>
-        <target>Mirror server</target>
+        <target>Miroir</target>
       </segment>
     </unit>
     <unit id="4b93a787-3809-4a37-b50b-9b37d36c5a85">
@@ -25249,9 +25249,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteEnable}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enable Remote Access</source>
-        <target>Enable Remote Access</target>
+        <target>Activer l'Accès à distance</target>
       </segment>
     </unit>
     <unit id="5ed75b2e-5083-4afc-8df2-a1ef193fdba2">
@@ -25314,9 +25314,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteConfirmDisconnect}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Confirm before disconnecting when controlled</source>
-        <target>Confirm before disconnecting when controlled</target>
+        <target>Confirmation de la déconnexion pour l'ordinateur contrôlé</target>
       </segment>
     </unit>
     <unit id="36fe7e4c-6119-4f13-9138-8ad9781efc57">
@@ -25352,9 +25352,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnect}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Automatically connect after NVDA starts</source>
-        <target>Automatically connect after NVDA starts</target>
+        <target>Se connecter automatiquement après le démarrage de NVDA</target>
       </segment>
     </unit>
     <unit id="a3c0240c-e753-44ff-9a12-10d41cd30396">
@@ -25399,7 +25399,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectMode}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mode</source>
         <target>Mode</target>
       </segment>
@@ -25461,9 +25461,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectServer}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Server</source>
-        <target>Server</target>
+        <target>Serveur</target>
       </segment>
     </unit>
     <unit id="6c98f242-7c5f-434e-acb7-8ce15b4b003b">
@@ -25523,9 +25523,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectHost}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Host</source>
-        <target>Host</target>
+        <target>Hôte</target>
       </segment>
     </unit>
     <unit id="2b42f111-d711-46d4-93e9-f4baa41e1ea1">
@@ -25561,7 +25561,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectPort}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Port</source>
         <target>Port</target>
       </segment>
@@ -25590,9 +25590,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteAutoconnectKey}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Key</source>
-        <target>Key</target>
+        <target>Clé</target>
       </segment>
     </unit>
     <unit id="b9bde79d-75c9-4096-b11b-84f41c61fb6f">
@@ -25619,9 +25619,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#RemoteDeleteFingerprints}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Delete all trusted fingerprints</source>
-        <target>Delete all trusted fingerprints</target>
+        <target>Supprimer toutes les empreintes digitales de confiance</target>
       </segment>
     </unit>
     <unit id="91483535-71a7-4971-83d5-162e7c743e8d">
@@ -25771,9 +25771,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#SetURLDialog}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set Mirror Dialog</source>
-        <target>Set Mirror Dialog</target>
+        <target>Dialogue Définir un miroir</target>
       </segment>
     </unit>
     <unit id="b8b24625-92be-49a9-b30e-5079a4c3bc96">
@@ -25820,7 +25820,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SetURLTextbox}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>URL</source>
         <target>URL</target>
       </segment>
@@ -25867,9 +25867,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SetURLTest}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Test...</source>
-        <target>Test...</target>
+        <target>Tester...</target>
       </segment>
     </unit>
     <unit id="2d408ecc-d3a0-49ce-8e87-7fb1110b95e9">
@@ -26232,9 +26232,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3279</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only where necessary: where the Microsoft Word object model is not available at all</source>
-        <target>Only where necessary: where the Microsoft Word object model is not available at all</target>
+        <target>Seulement si nécessaire : quand le modèle d'objet Microsoft Word n'est pas disponible du tout</target>
       </segment>
     </unit>
     <unit id="d38474d6-8394-449b-baed-21d03501240a">
@@ -27147,9 +27147,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#TrimLeadingSilenceSpeech}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Trim leading silence in speech audio</source>
-        <target>Trim leading silence in speech audio</target>
+        <target>Supprimer le silence au début du flux audio de la parole</target>
       </segment>
     </unit>
     <unit id="a0439eac-a01a-4596-b651-b95700fd4bc7">
@@ -27185,9 +27185,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#UseWASAPIForSAPI4}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use WASAPI for SAPI 4 audio output</source>
-        <target>Use WASAPI for SAPI 4 audio output</target>
+        <target>Utiliser WASAPI pour la sortie audio SAPI 4</target>
       </segment>
     </unit>
     <unit id="6a99c36f-33d2-4a02-9572-9b6df4e1f31b">
@@ -27936,9 +27936,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3539</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Normal backslashes in the Replacement field should thus be doubled, e.g. "a\\\\b" should be typed in order to get the "a\\b" replacement.</source>
-        <target>Normal backslashes in the Replacement field should thus be doubled, e.g. "a\\\\b" should be typed in order to get the "a\\b" replacement.</target>
+        <target>Ainsi, dans le champ Remplacement, les barres obliques normales doivent être doublées, ex : "a\\\\b" doit être tapé pour obtenir le remplacement de "a\\b".</target>
       </segment>
     </unit>
     <unit id="f049f307-8c00-4fc7-91ce-8b2d0a9e87d1">
@@ -28889,9 +28889,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ## </note>
         <note appliesTo="source">suffix:  {#RemoteAccess}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access</source>
-        <target>Remote Access</target>
+        <target>Accès à distance</target>
       </segment>
     </unit>
     <unit id="901c6fe7-6d7d-4c92-8afd-8f19dfcf1110">
@@ -40652,7 +40652,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#BRLTTY}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>BRLTTY</source>
         <target>BRLTTY</target>
       </segment>
@@ -40887,7 +40887,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#Albatross}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tivomatic Caiku Albatross 46/80</source>
         <target>Tivomatic Caiku Albatross 46/80</target>
       </segment>
@@ -41772,7 +41772,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#dotPad}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Dot Pad</source>
         <target>Dot Pad</target>
       </segment>
