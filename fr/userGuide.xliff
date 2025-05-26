@@ -5552,7 +5552,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA NVDA_VERSION User Guide</source>
-        <target>Guide de l’utilisateur de NVDA NVDA_VERSION</target>
+        <target>Guide de l'utilisateur de NVDA NVDA_VERSION</target>
       </segment>
     </unit>
     <unit id="4cfb7a81-1d0d-49b0-a043-55d47443a545">
@@ -7566,7 +7566,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Move backwards |`shift+letter` |Press `shift` and any of the above letters to move to the previous element of that type</source>
-        <target>Revenir en arrière |`maj+lettre` |Pressez `maj` et n'importe laquelle des lettres ci-dessus pour aller à l'élément précédent de ce type</target>
+        <target>Revenir en arrière |`maj+lettre` |Appuyez sur `maj` et n'importe laquelle des lettres ci-dessus pour aller à l'élément précédent de ce type</target>
       </segment>
     </unit>
     <unit id="d9295a4b-f3f1-4988-89e7-c28a4e0231d3">
@@ -8258,7 +8258,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>There is a main [English language email list](https://nvda.groups.io/g/nvda) and a page full of [local language groups](https://github.com/nvaccess/nvda/wiki/Connect).</source>
-        <target>Il existe une [liste de diffusion  principale en anglais](https://nvda.groups.io/g/nvda) et une page complète de [groupes de langues locales](https://github.com/nvaccess/nvda-community/wiki/Connect) .</target>
+        <target>Il existe une [liste de diffusion principale en anglais](https://nvda.groups.io/g/nvda) et une page complète de [groupes de langues locales](https://github.com/nvaccess/nvda-community/wiki/Connect) .</target>
       </segment>
     </unit>
     <unit id="e91aa707-228a-4e7f-9a49-d2ed408bfeb8">
@@ -8359,7 +8359,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>We recommend starting with the "Basic Training for NVDA" module.</source>
-        <target>Nous recommandons de commencer par le module « Formation de base pour NVDA ».</target>
+        <target>Nous recommandons de commencer par le module "Formation de base pour NVDA".</target>
       </segment>
     </unit>
     <unit id="35436243-99e1-4292-8f2e-5a4fbfbbcc02">
@@ -8575,7 +8575,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Before you're able to press the Continue button you will have to use the checkbox to confirm that you understand that these add-ons will be disabled.</source>
-        <target>Avant de pouvoir presser le bouton Continuer, vous devrez utiliser la case à cocher pour confirmer que vous comprenez que ces extensions seront désactivées.</target>
+        <target>Avant de pouvoir appuyer sur le bouton Continuer, vous devrez utiliser la case à cocher pour confirmer que vous comprenez que ces extensions seront désactivées.</target>
       </segment>
     </unit>
     <unit id="fa153b47-cb07-4741-a3d2-0f2926bafa8a">
@@ -9426,7 +9426,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To toggle touch interaction support, press NVDA+control+alt+t.</source>
-        <target>Pour activer/désactiver le support d'interaction tactile, pressez NVDA+contrôle+alt+t.</target>
+        <target>Pour activer/désactiver le support d'interaction tactile, appuyez sur NVDA+contrôle+alt+t.</target>
       </segment>
     </unit>
     <unit id="d18096a2-0659-4d25-b49e-a3dc0935d179">
@@ -9753,7 +9753,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>When you find the key you wish to press, double-tap the key or lift your finger, depending on options chosen from the [Touch Interaction Settings category](#TouchInteraction) of the NVDA Settings.</source>
-        <target>Quand vous avez trouvé la touche que vous voulez presser, double-tapez la touche ou retirez votre doigt, selon les options définies dans la catégorie [Paramètres d'Interaction Tactile](#TouchInteraction)des Paramètres NVDA.</target>
+        <target>Quand vous avez trouvé la touche sur laquelle vous voulez appuyer, double-tapez la touche ou retirez votre doigt, selon les options définies dans la catégorie [Paramètres d'Interaction Tactile](#TouchInteraction)des Paramètres NVDA.</target>
       </segment>
     </unit>
     <unit id="85ebe012-cc9a-4c15-aba2-ec2801aa7296">
@@ -12601,7 +12601,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To toggle single letter navigation on and off for the current document, press NVDA+shift+space.</source>
-        <target>Pour activer ou désactiver la navigation rapide pour le document courant, pressez NVDA+maj+espace.</target>
+        <target>Pour activer ou désactiver la navigation rapide pour le document courant, appuyez sur NVDA+maj+espace.</target>
       </segment>
     </unit>
     <unit id="e816d95a-0d13-4ca4-8958-3a4ee8fff0f7">
@@ -13176,7 +13176,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To interact with these objects, you can press enter on them.</source>
-        <target>Pour interagir avec ces objets, vous pouvez presser Entrée sur eux.</target>
+        <target>Pour interagir avec ces objets, vous pouvez appuyer sur Entrée sur eux.</target>
       </segment>
     </unit>
     <unit id="7571ca15-9062-4a0f-9a4b-5af64f5baa54">
@@ -14905,7 +14905,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>When using contracted braille, text is inserted when you press space or enter at the end of a word.</source>
-        <target>Quand on utilise le braille abrégé, le texte est inséré quand on presse espace ou entrée à la fin d'un mot.</target>
+        <target>Quand on utilise le braille abrégé, le texte est inséré quand on appuie sur espace ou entrée à la fin d'un mot.</target>
       </segment>
     </unit>
     <unit id="cf3afa2f-e4c4-4b21-bd26-bfb7877caac9">
@@ -14923,7 +14923,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For example, if you are using a braille code that begins numbers with a number sign and you press backspace to move to the end of a number, you will need to type the number sign again to enter additional numbers.</source>
-        <target>Par exemple, si vous utilisez un code braille dont les nombres doivent commencer par un indicateur numérique et pressez retour arrière pour aller à la fin d'un nombre, vous devrez entrer à nouveau l'indicateur numérique pour entrer des chiffres supplémentaires.</target>
+        <target>Par exemple, si vous utilisez un code braille dont les nombres doivent commencer par un indicateur numérique et appuyez sur retour arrière pour aller à la fin d'un nombre, vous devrez entrer à nouveau l'indicateur numérique pour entrer des chiffres supplémentaires.</target>
       </segment>
     </unit>
     <unit id="ecebc8d4-a662-4ec7-8b5e-7e9f0a18b24f">
@@ -15116,7 +15116,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>While NVDA is primarily aimed at blind or vision impaired people who primarily use speech and/or braille to operate a computer, it also provides built-in facilities to change the contents of the screen.</source>
-        <target>Bien que NVDA soit en premier lieu destiné à des personnes aveugles ou malvoyantes qui utilisent principalement la parole ou le braille pour accéder à un ordinateur, il offre aussi des facilités internes pour changer le contenu de l'écran.</target>
+        <target>Bien que NVDA soit en premier lieu destiné à des personnes aveugles ou malvoyantes qui utilisent principalement la parole ou le braille pour accéder à un ordinateur, il offre aussi des facilités internes pour modifier le contenu de l'écran.</target>
       </segment>
     </unit>
     <unit id="04c58d6a-9969-4c59-9122-608c25c6285e">
@@ -15537,7 +15537,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To recognize the text in the current navigator object using Windows OCR, press NVDA+r.</source>
-        <target>Pour reconnaître le texte dans l'objet navigateur courant en utilisant la reconnaissance optique de caractères de Windows, pressez NVDA+r.</target>
+        <target>Pour reconnaître le texte dans l'objet navigateur courant en utilisant la reconnaissance optique de caractères de Windows, appuyez sur NVDA+r.</target>
       </segment>
     </unit>
     <unit id="2b1a4fef-d044-4d09-92a0-7a471f41fbf0">
@@ -15704,7 +15704,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To toggle Browse mode on and off in Microsoft Word, press NVDA+space.</source>
-        <target>Pour activer ou désactiver le mode navigation sous Microsoft Word, pressez NVDA+espace.</target>
+        <target>Pour activer ou désactiver le mode navigation sous Microsoft Word, appuyez sur NVDA+espace.</target>
       </segment>
     </unit>
     <unit id="0fa4a535-73d4-4e1f-b24c-4f9b2b38883a">
@@ -15918,7 +15918,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To access the Elements List in Excel, press NVDA+f7.</source>
-        <target>Pour accéder à la liste d'éléments sous Excel, pressez NVDA+f7.</target>
+        <target>Pour accéder à la liste d'éléments sous Excel, appuyez sur NVDA+f7.</target>
       </segment>
     </unit>
     <unit id="740d2939-51f8-4182-abd7-d72c0cd16416">
@@ -16132,7 +16132,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To add or edit a certain note, in a focused cell, press shift+f2.</source>
-        <target>Pour ajouter ou éditer une note, dans une cellule en focus, pressez maj+f2.</target>
+        <target>Pour ajouter ou éditer une note, dans une cellule ayant le focus, appuyez sur maj+f2.</target>
       </segment>
     </unit>
     <unit id="64f34509-e7c7-4b82-8f68-0a881e1fcf7b">
@@ -16615,7 +16615,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Once you have selected text, press the applications key or shift+f10 to show the available options for working with the selection.</source>
-        <target>Une fois que vous avez sélectionné le texte, pressez la touche applications ou maj+f10 pour afficher les options disponibles pour travailler avec la sélection.</target>
+        <target>Une fois que vous avez sélectionné le texte, appuyez sur la touche applications ou maj+f10 pour afficher les options disponibles pour travailler avec la sélection.</target>
       </segment>
     </unit>
     <unit id="0900a3f6-fc98-4129-804b-f9192b73d4f0">
@@ -17078,7 +17078,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If pressed, the shortcut key will open the NVDA Settings dialog directly to that particular category.</source>
-        <target>Si on le presse, ce raccourci ouvrira le dialogue Paramètres directement dans cette catégorie particulière.</target>
+        <target>Si on l'exécute, ce raccourci ouvrira le dialogue Paramètres directement dans cette catégorie particulière.</target>
       </segment>
     </unit>
     <unit id="d6cb9ace-5b70-47ec-9fa0-7d702d4fad93">
@@ -17809,7 +17809,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If no mirror is in use (i.e. the NV Access update server is being used), "No mirror" is displayed.</source>
-        <target>Si aucun miroir n’est utilisé (c’est-à-dire que le serveur de mise à jour NV Access est utilisé), «Aucun miroir» s’affiche.</target>
+        <target>Si aucun miroir n’est utilisé (c’est-à-dire que le serveur de mise à jour de NV Access est utilisé), "Aucun miroir" s’affiche.</target>
       </segment>
     </unit>
     <unit id="468ff857-eaf0-49da-9123-cb31c941e3ef">
@@ -17818,7 +17818,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you wish to change the update mirror, press the "Change..." button to open the [Set Update Mirror dialog](#SetURLDialog).</source>
-        <target>Si vous souhaitez modifier le miroir de mise à jour, appuyez sur le bouton «Modifier...» pour ouvrir la boîte de dialogue [Définir le miroir de mise à jour](#SetURLDialog).</target>
+        <target>Si vous souhaitez modifier le miroir de mise à jour, appuyez sur le bouton "Modifier..." pour ouvrir la boîte de dialogue [Définir le miroir de mise à jour](#SetURLDialog).</target>
       </segment>
     </unit>
     <unit id="417226f3-93d8-41b4-b444-134a85fd13ed">
@@ -17923,7 +17923,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Speech category in the NVDA Settings dialog contains options that lets you change the speech synthesizer as well as voice characteristics for the chosen synthesizer.</source>
-        <target>La catégorie "Parole" dans le dialogue Paramètres de NVDA, contient des options vous permettant de changer le synthétiseur vocal ainsi que les caractéristiques de la voix pour le synthétiseur choisi.</target>
+        <target>La catégorie "Parole" dans le dialogue Paramètres de NVDA, contient des options vous permettant de modifier le synthétiseur vocal ainsi que les caractéristiques de la voix pour le synthétiseur choisi.</target>
       </segment>
     </unit>
     <unit id="a3bce64e-8364-4f6b-ba5b-46e2da10bb19">
@@ -17961,7 +17961,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The first option in the Speech Settings category is the Change... button.</source>
-        <target>La première option dans la catégorie Paramètres de Parole est le bouton Changer...</target>
+        <target>La première option dans la catégorie Paramètres de Parole est le bouton Modifier...</target>
       </segment>
     </unit>
     <unit id="7c84b582-0abb-462b-9c16-9c3a13259018">
@@ -17970,7 +17970,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This button activates the [Select Synthesizer](#SelectSynthesizer) dialog, which allows you to select the active speech synthesizer.</source>
-        <target>Ce bouton ouvre la boîte de dialogue [Sélectionner le synthétiseur](#SelectSynthesizer), qui vous permet de sélectionner le synthétiseur vocal actif.</target>
+        <target>Ce bouton ouvre la boîte de dialogue [Choisir le Synthétiseur](#SelectSynthesizer), qui vous permet de choisir le synthétiseur vocal actif.</target>
       </segment>
     </unit>
     <unit id="2dede44c-2edf-4f2c-a6d1-861f5c791cfc">
@@ -18073,7 +18073,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If using a third-party synthesizer, you may also be able to change this value if your chosen voice supports it.</source>
-        <target>Si vous utilisez un synthétiseur tiers, vous pourrez peut-être changer cette valeur aussi, si la voix que vous aurez choisie prend cela en charge.</target>
+        <target>Si vous utilisez un synthétiseur tiers, vous pourrez peut-être modifier cette valeur aussi, si la voix que vous aurez choisie prend cela en charge.</target>
       </segment>
     </unit>
     <unit id="90e0595b-141d-4a65-b58d-d5f50a2a6a5f">
@@ -18964,7 +18964,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Synthesizer dialog, which can be opened by activating the Change... button in the speech category of the NVDA settings dialog, allows you to select which Synthesizer NVDA should use to speak with.</source>
-        <target>Le dialogue Synthétiseur, qui s'ouvre en activant le bouton Changer dans la catégorie Parole du dialogue Paramètres, permet de choisir le synthétiseur de parole qui sera utilisé par NVDA.</target>
+        <target>Le dialogue Synthétiseur, qui s'ouvre en activant le bouton Modifier dans la catégorie Parole du dialogue Paramètres, permet de choisir le synthétiseur de parole qui sera utilisé par NVDA.</target>
       </segment>
     </unit>
     <unit id="168b59d1-ebe1-4ac7-a180-9f7be744df12">
@@ -19049,7 +19049,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you wish to quickly change speech settings without going to the Speech category of the NVDA settings dialog, there are some NVDA key commands that allow you to move through the most common speech settings from anywhere while running NVDA:</source>
-        <target>Si vous voulez changer rapidement les paramètres vocaux sans passer par la catégorie Voix du dialogue Paramètres, il y a quelques touches de commandes qui vous permettent de le faire de n'importe où quand NVDA est en fonction.</target>
+        <target>Si vous voulez modifier rapidement les paramètres vocaux sans passer par la catégorie Voix du dialogue Paramètres, il y a quelques touches de commandes qui vous permettent de le faire de n'importe où quand NVDA est en fonction.</target>
       </segment>
     </unit>
     <unit id="ed46d691-1a69-4200-8f54-698ee58f5673">
@@ -19175,7 +19175,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Change... button in the Braille category of the NVDA Settings dialog activates the [Select Braille Display](#SelectBrailleDisplay) dialog, which allows you to select the active braille display.</source>
-        <target>Dans la catégorie Braille du dialogue Paramètres, le bouton Changer... active le dialogue [Choix de l'Afficheur Braille](#SelectBrailleDisplay) qui vous permet de choisir l'afficheur braille actif.</target>
+        <target>Dans la catégorie Braille du dialogue Paramètres, le bouton Modifier... active le dialogue [Choisir l'Afficheur Braille](#SelectBrailleDisplay) qui vous permet de choisir l'afficheur braille actif.</target>
       </segment>
     </unit>
     <unit id="b1cd2cc1-a2a1-4bf9-a2c0-6197163c21f9">
@@ -19249,7 +19249,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you select "Automatic", the table will be selected according with NVDA's current language.</source>
-        <target>Si vous sélectionnez «Automatique», la table sera sélectionnée en fonction de la langue actuelle de NVDA.</target>
+        <target>Si vous sélectionnez "Automatique", la table sera sélectionnée en fonction de la langue actuelle de NVDA.</target>
       </segment>
     </unit>
     <unit id="f6037f74-d5e6-426e-bdb2-6d0a2e64d0b7">
@@ -20434,7 +20434,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Speak character when routing cursor in text</source>
-        <target>"Annoncer le caractère lors du routage du curseur dans le texte</target>
+        <target>Annoncer le caractère lors du routage du curseur dans le texte</target>
       </segment>
     </unit>
     <unit id="ce9d14d3-37ab-4530-9a35-936260e3f028">
@@ -20481,7 +20481,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To toggle this option from anywhere, please assign a custom gesture to "speakOnNavigatingByUnit" in the "Braille" section of the [Input Gestures dialog](#InputGestures).</source>
-        <target>Pour activer cette option depuis n’importe où, veuillez attribuer un geste personnalisé à "Active ou désactive la lecture à voix haute lors de la navigation par lignes ou paragraphes en braille" dans la section «Braille» de la [boîte de dialogue Gestes de commande](#InputGestures).</target>
+        <target>Pour activer cette option depuis n’importe où, veuillez attribuer un geste personnalisé à "Active ou désactive la lecture à voix haute lors de la navigation par lignes ou paragraphes en braille" dans la section "Braille" de la [boîte de dialogue Gestes de commande](#InputGestures).</target>
       </segment>
     </unit>
     <unit id="66416aa7-4287-44f2-aa7f-5c1d87710de1">
@@ -20671,7 +20671,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>On-going speech might be a distraction while reading Braille.</source>
-        <target>Le flot de parole  peut être une distraction lors de la lecture du braille.</target>
+        <target>Le flot de parole peut être une distraction lors de la lecture du braille.</target>
       </segment>
     </unit>
     <unit id="d0bb2894-fe79-4547-a38b-267b8a2d7981">
@@ -20751,7 +20751,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Select Braille Display dialog, which can be opened by activating the Change... button in the Braille category of the NVDA settings dialog, allows you to select which Braille display NVDA should use for braille output.</source>
-        <target>Le dialogue Choisir l'Afficheur Braille, qui peut être ouvert en activant le bouton Changer... dans la catégorie Braille du dialogue Paramètres, vous permet de choisir l'afficheur Braille qui sera utilisé par NVDA.</target>
+        <target>Le dialogue Choisir l'Afficheur Braille, qui peut être ouvert en activant le bouton Modifier... dans la catégorie Braille du dialogue Paramètres, vous permet de choisir l'afficheur Braille qui sera utilisé par NVDA.</target>
       </segment>
     </unit>
     <unit id="8a217810-55e7-4599-a1cf-9b02cba92788">
@@ -20760,7 +20760,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Once you have selected your braille display of choice, you can press Ok and NVDA will load the selected display.</source>
-        <target>Quand vous aurez choisi votre afficheur braille, vous pourrez presser le bouton OK et NVDA chargera l'afficheur sélectionné.</target>
+        <target>Quand vous aurez choisi votre afficheur braille, vous pourrez appuyer sur le bouton OK et NVDA chargera l'afficheur sélectionné.</target>
       </segment>
     </unit>
     <unit id="9d1876f9-6e06-4888-86dd-ba466fe3c38d">
@@ -20982,7 +20982,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Please note: If you connect multiple Braille Displays to your machine at the same time which use the same driver (E.g. connecting two Seika displays),</source>
-        <target>Note : Si vous connectez plusieurs Afficheurs Braille utilisant le même pilote en même temps à votre machine  (Ex. connexion de deux afficheurs Seika),</target>
+        <target>Note : Si vous connectez plusieurs afficheurs braille utilisant le même pilote en même temps à votre machine (Ex. connexion de deux afficheurs Seika),</target>
       </segment>
     </unit>
     <unit id="858044ba-9f68-44c4-adae-b17dca4c687d">
@@ -21334,7 +21334,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA on the left and applications in both channels: NVDA will speak in the left channel, while other applications will play sounds in both left and right channels.</source>
-        <target>NVDA à gauche et les applications dans les deux canaux : NVDA parlera dans le canal de gauche, tandis que les autres applications joueront des sons dans les canaux gauche et droit.</target>
+        <target>NVDA à gauche et les applications dans les deux canaux : NVDA parlera dans le canal de gauche, tandis que les autres applications diffuseront leur son dans les canaux gauche et droit.</target>
       </segment>
     </unit>
     <unit id="b8547fd4-f86b-4e86-ba9f-26c2a66b6833">
@@ -21655,7 +21655,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Note that checking and unchecking the "Enable Highlighting" check box wil also change the state of the tree other check boxes accordingly.</source>
-        <target>Notez que cocher ou décocher la case "Activer la Mise en évidence" changera également l'état des trois autres cases à cocher  en conséquence.</target>
+        <target>Notez que cocher ou décocher la case "Activer la Mise en évidence" modifiera également l'état des trois autres cases à cocher en conséquence.</target>
       </segment>
     </unit>
     <unit id="ffcca5e1-fe67-4ed3-9217-396be4ee0404">
@@ -22728,7 +22728,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If this is unchecked, you need to double-tap on the key of the touch keyboard to press the key.</source>
-        <target>Quand elle est décochée, vous devez double-taper sur la touche du clavier tactile pour la presser.</target>
+        <target>Quand elle est décochée, vous devez double-taper sur la touche du clavier tactile pour l'appuyer.</target>
       </segment>
     </unit>
     <unit id="3e08d2c9-926e-46a2-bd40-9c29501117fc">
@@ -22991,7 +22991,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Toast notifications have been introduced in Windows 10 and appear in the notification centre in the system tray, informing about several events (i.e. if an update has been downloaded, a new e-mail arrived in your inbox, etc.).</source>
-        <target>Les notifications d'invitation ont été introduites dans Windows 10 et apparaissent dans le centre de notification  dans la barre d'état système, informant sur divers événements (ex : une mise à jour a été téléchargée, un ouveau courriel est arrivé dans votre boîte de réception, etc.).</target>
+        <target>Les notifications d'invitation ont été introduites dans Windows 10 et apparaissent dans le centre de notification dans la barre d'état système, informant sur divers événements (ex : une mise à jour a été téléchargée, un ouveau courriel est arrivé dans votre boîte de réception, etc.).</target>
       </segment>
     </unit>
     <unit id="4c13200c-f3ee-40a9-a4b1-184e276017bd">
@@ -24877,7 +24877,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>When set to "Update Automatically", add-ons will automatically update in the background.</source>
-        <target>Lorsque l’option «Mettre à jour automatiquement» est sélectionnée, les extensions seront automatiquement mises à jour en arrière-plan.</target>
+        <target>Lorsque l’option "Mettre à jour automatiquement" est sélectionnée, les extensions seront automatiquement mises à jour en arrière-plan.</target>
       </segment>
     </unit>
     <unit id="6b079c41-7718-4724-84ee-ca4bc531bc88">
@@ -25212,7 +25212,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If no mirror is in use (i.e. the NV Access Add-on Store server is being used), "No mirror" is displayed.</source>
-        <target>Si aucun miroir n’est utilisé (c’est-à-dire que le serveur NV Access Add-on Store est utilisé), «Aucun miroir» s’affiche.</target>
+        <target>Si aucun miroir n’est utilisé (c’est-à-dire que le serveur de NV Access Add-on Store est utilisé), "Aucun miroir" s’affiche.</target>
       </segment>
     </unit>
     <unit id="5c1cbc23-5376-40c3-9f92-320c61ce131a">
@@ -25221,7 +25221,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you wish to change the Add-on Store mirror, press the "Change..." button to open the [Set Add-on Store Mirror dialog](#SetURLDialog).</source>
-        <target>Si vous souhaitez modifier le miroir de l’add-on store, appuyez sur le bouton « Modifier... » pour ouvrir la boîte de dialogue [Définir le miroir de l’add-on store](#SetURLDialog).</target>
+        <target>Si vous souhaitez modifier le miroir de l’add-on store, appuyez sur le bouton "Modifier..." pour ouvrir la boîte de dialogue [Définir le miroir de l’add-on store](#SetURLDialog).</target>
       </segment>
     </unit>
     <unit id="2657d7be-4212-4e5b-b97d-a85dfe7476b6">
@@ -25544,7 +25544,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If the server uses a port other than 6837, include it after a colon (eg. `example.com:1234`).</source>
-        <target>Si le serveur utilise un port autre que 6837, incluez-le après deux points (par exemple, « example.com:1234 »).</target>
+        <target>Si le serveur utilise un port autre que 6837, ajoutez-le après deux points (par exemple, "example.com:1234").</target>
       </segment>
     </unit>
     <unit id="1c48db19-a2bd-4c29-810c-6a7b38a6269a">
@@ -25553,7 +25553,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Use existing".</source>
-        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché et que [Serveur](#RemoteAutoconnectServer) est défini sur «Utiliser un existant».</target>
+        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché et que [Serveur](#RemoteAutoconnectServer) est défini sur "Utiliser un serveur existant".</target>
       </segment>
     </unit>
     <unit id="3922ec7e-84f7-4733-b639-2617ff92e68a">
@@ -25582,7 +25582,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Host locally".</source>
-        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché et que [Serveur](#RemoteAutoconnectServer) est défini sur «Héberger localement».</target>
+        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché et que [Serveur](#RemoteAutoconnectServer) est défini sur "Héberger localement".</target>
       </segment>
     </unit>
     <unit id="951b1ca5-229b-4118-b4dd-f6056d1befe8">
@@ -25802,7 +25802,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>When setting the [NVDA update mirror](#UpdateMirror), the title of this dialog will be "Set NVDA Update Mirror".</source>
-        <target>Lors de la configuration du [miroir de mise à jour NVDA](#UpdateMirror), le titre de cette boîte de dialogue sera « Définir le miroir de mise à jour NVDA ».</target>
+        <target>Lors de la configuration du [miroir de mise à jour NVDA](#UpdateMirror), le titre de cette boîte de dialogue sera "Définir le miroir de mise à jour de NVDA".</target>
       </segment>
     </unit>
     <unit id="19a0ca46-0cf7-4f44-a012-76fb71b7bd3b">
@@ -25812,7 +25812,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>When setting the [Add-on Store mirror](#AddonStoreMetadataMirror), the title of this dialog will be "Set Add-on Store Mirror Server".</source>
-        <target>Lors de la configuration du [miroir de l’add-on store](#AddonStoreMetadataMirror), le titre de cette boîte de dialogue sera « Définir le serveur miroir de l’add-on store ».</target>
+        <target>Lors de la configuration du [miroir de l’add-on store](#AddonStoreMetadataMirror), le titre de cette boîte de dialogue sera "Définir le miroir pour l'Add-on Store".</target>
       </segment>
     </unit>
     <unit id="8a9fda8d-8feb-4a2e-9bb2-54857a6b1d3a">
@@ -27894,7 +27894,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>In the dialog that appears, enter the symbol and press the OK button.</source>
-        <target>Dans le dialogue qui apparaît, saisissez le symbole et pressez le bouton OK.</target>
+        <target>Dans le dialogue qui apparaît, saisissez le symbole et appuyez sur le bouton OK.</target>
       </segment>
     </unit>
     <unit id="3005f435-47db-4c56-aad1-70e318eaf011">
@@ -28085,7 +28085,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To add an emulated input gesture, select the Emulated system keyboard keys category and press the Add button.</source>
-        <target>Pour ajouter un geste d'émulation, sélectionnez la catégorie Touches émulées du clavier système et pressez le bouton Ajouter.</target>
+        <target>Pour ajouter un geste d'émulation, sélectionnez la catégorie Touches émulées du clavier système et appuyez sur le bouton Ajouter.</target>
       </segment>
     </unit>
     <unit id="711e9e93-61e2-42ec-ae10-e66956958926">
@@ -28094,7 +28094,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Then, press the key on the keyboard you wish to emulate.</source>
-        <target>Puis, pressez sur le clavier la touche que vous voulez émuler.</target>
+        <target>Puis, sur le clavier, appuyez sur la touche que vous voulez émuler.</target>
       </segment>
     </unit>
     <unit id="25d38424-d891-4a5c-80c0-5d50bd4a3879">
@@ -28237,7 +28237,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Save configuration |`NVDA+control+c` |`NVDA+control+c` |Saves your current configuration so that it is not lost when you exit NVDA</source>
-        <target>Enregistrer la configuration |`NVDA+control+c` |`NVDA+control+c` |Enregistre votre configuration actuelle afin qu’elle ne soit pas perdue lorsque vous quittez NVDA</target>
+        <target>Enregistrer la configuration |`NVDA+contrôle+c` |`NVDA+contrôle+c` |Enregistre votre configuration actuelle afin qu’elle ne soit pas perdue lorsque vous quittez NVDA</target>
       </segment>
     </unit>
     <unit id="c2f0e356-e676-4641-bad3-db94e1e7f07b">
@@ -28248,7 +28248,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Revert configuration |`NVDA+control+r` |`NVDA+control+r` |Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults.</source>
-        <target>Rétablir la configuration |`NVDA+control+r` |`NVDA+control+r` |Un appui réinitialise votre configuration à la dernière sauvegarde. Trois appuis la réinitialise aux paramètres par défaut.</target>
+        <target>Rétablir la configuration |`NVDA+contrôle+r` |`NVDA+contrôle+r` |Un appui réinitialise votre configuration à la dernière sauvegarde. Trois appuis la réinitialise aux paramètres par défaut.</target>
       </segment>
     </unit>
     <unit id="399befd7-919a-441c-8d48-a1800124f0df">
@@ -29022,7 +29022,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Open the NVDA menu and select Tools, then "Remote Access", then "Connect...".</source>
-        <target>Ouvrez le menu NVDA et sélectionnez Outils, puis «Accès à distance», puis «Se connecter...».</target>
+        <target>Ouvrez le menu NVDA et sélectionnez Outils, puis "Accès à distance", puis "Se connecter…".</target>
       </segment>
     </unit>
     <unit id="a85bf4ba-f2a5-4d8d-a16a-3489c727d330">
@@ -29031,7 +29031,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Or from anywhere press `NVDA+alt+r`.</source>
-        <target>Ou, depuis n’importe où, pressez `NVDA+alt+r`.</target>
+        <target>Ou, depuis n’importe où, appuyez sur `NVDA+alt+r`.</target>
       </segment>
     </unit>
     <unit id="26584c3b-625c-4312-8d12-f46fee6648c4">
@@ -29042,7 +29042,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Mode Selection (Controlling or Controlled)</source>
-        <target>Sélection du mode (contrôlant ou contrôlé)</target>
+        <target>Sélection du mode (ordinateur de contrôle ou contrôlé)</target>
       </segment>
     </unit>
     <unit id="41731c56-a34f-4506-bb60-144bfae68ac9">
@@ -29051,7 +29051,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>You'll need to decide which computer will be controlled (the controlled computer) and which will be controlling (the controlling computer).</source>
-        <target>Vous devrez décider quel ordinateur sera contrôlé (l’ordinateur contrôlé) et lequel sera le contrôlant (l’ordinateur contrôlant).</target>
+        <target>Vous devrez décider quel ordinateur sera contrôlé (l’ordinateur contrôlé) et lequel contrôlera l'autre (l’ordinateur de contrôle).</target>
       </segment>
     </unit>
     <unit id="f64f101a-b693-4442-a9cb-64d2c0e5ee00">
@@ -29060,7 +29060,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>the mode combo box allows you to choose whether this computer will be controlled (Another person will interact with your computer) or controlling (you will interact with someone else's computer).</source>
-        <target>la liste déroulante mode vous permet de choisir si cet ordinateur sera contrôlé (une autre personne interagira avec votre ordinateur) ou contrôlant (vous interagirez avec l’ordinateur de quelqu’un d’autre).</target>
+        <target>la liste déroulante mode vous permet de choisir si cet ordinateur sera contrôlé (une autre personne interagira avec votre ordinateur) ou sera l'ordinateur de contrôle (vous interagirez avec l’ordinateur de quelqu’un d’autre).</target>
       </segment>
     </unit>
     <unit id="e1c1a5cb-7290-4da4-aea3-9702dd592d7b">
@@ -29070,7 +29070,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you require another person to help you with your computer, choose "Allow this computer to be controlled".</source>
-        <target>Si vous avez besoin de l’aide d’une autre personne avec votre ordinateur, choisissez «Autoriser le contrôle de cet ordinateur».</target>
+        <target>Si vous avez besoin de l’aide d’une autre personne avec votre ordinateur, choisissez "Autoriser le contrôle de cet ordinateur".</target>
       </segment>
     </unit>
     <unit id="b7f7a308-38b8-4a39-8178-ef41f7dfcf7e">
@@ -29080,7 +29080,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you are going to help someone with their computer, choose "Control another computer".</source>
-        <target>Si vous souhaitez aider quelqu’un avec son ordinateur, choisissez «Contrôler un autre ordinateur».</target>
+        <target>Si vous souhaitez aider quelqu’un avec son ordinateur, choisissez "Contrôler un autre ordinateur".</target>
       </segment>
     </unit>
     <unit id="010cb88b-782e-4e10-b0b4-24515adf6228">
@@ -29110,7 +29110,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For Server, choose "Use existing".</source>
-        <target>Pour le serveur, choisissez «Utiliser un existant».</target>
+        <target>Pour le serveur, choisissez "Utiliser un serveur existant".</target>
       </segment>
     </unit>
     <unit id="5d8fcfa9-7ab8-4b8d-b126-94dedeed10b3">
@@ -29130,7 +29130,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>You may include the port to connect on by appending a colon (":") and the port number to the host address.</source>
-        <target>Vous pouvez inclure le port sur lequel vous souhaitez vous connecter en ajoutant deux points («:») et le numéro de port à l’adresse de l’hôte.</target>
+        <target>Vous pouvez inclure le port sur lequel vous souhaitez vous connecter en ajoutant deux points (":") et le numéro de port à l’adresse de l’hôte.</target>
       </segment>
     </unit>
     <unit id="38d8e6b4-a697-4e93-81e9-ec8f19c3e0d4">
@@ -29198,7 +29198,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For Server, choose "Use existing".</source>
-        <target>Pour le serveur, choisissez «Utiliser un existant».</target>
+        <target>Pour le serveur, choisissez "Utiliser un serveur existant".</target>
       </segment>
     </unit>
     <unit id="f03852ad-57dc-483f-902d-ef5bae198153">
@@ -29208,7 +29208,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For host, provide the host name of a relay server, such as `nvdaremote.com`.</source>
-        <target>Pour l’hôte, indiquez le nom d’hôte d’un serveur relais, tel que «nvdaremote.com».</target>
+        <target>Pour l’hôte, indiquez le nom d’hôte d’un serveur relais, tel que "nvdaremote.com".</target>
       </segment>
     </unit>
     <unit id="c53b8b77-6350-4f5f-87fe-a4c25fb228d0">
@@ -29227,7 +29227,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>You may include the port to connect on by appending a colon (":") and the port number to the host.</source>
-        <target>Vous pouvez inclure le port sur lequel vous connecter en ajoutant deux points («:») et le numéro de port à l’hôte.</target>
+        <target>Vous pouvez inclure le port sur lequel vous connecter en ajoutant deux points (":") et le numéro de port à l’hôte.</target>
       </segment>
     </unit>
     <unit id="4d6dd8e9-fe5a-440e-ad54-60c0faec6a44">
@@ -29246,7 +29246,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For key: come up with a long, hard to guess key, or press the "Generate Key" button to have one automatically generated.</source>
-        <target>Pour la clé : trouvez une clé longue et difficile à deviner, ou appuyez sur le bouton «Générer la clé» pour en générer une automatiquement.</target>
+        <target>Pour la clé : trouvez une clé longue et difficile à deviner, ou appuyez sur le bouton "Générer une clé" pour en générer une automatiquement.</target>
       </segment>
     </unit>
     <unit id="c6562b30-a5a0-42e4-9cca-38e9c7880eb4">
@@ -29315,7 +29315,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For Server, choose "Host locally".</source>
-        <target>Pour le serveur, choisissez «Héberger localement».</target>
+        <target>Pour le serveur, choisissez "Héberger localement".</target>
       </segment>
     </unit>
     <unit id="846fc439-9a66-497d-886e-8bc39821671e">
@@ -29325,7 +29325,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If connecting over the internet, you can press the "Get External IP" button to show your external IP (internet visible) address.</source>
-        <target>Si vous vous connectez via Internet, vous pouvez appuyer sur le bouton «Obtenir l’adresse IP externe» pour afficher votre adresse IP externe (visible sur Internet).</target>
+        <target>Si vous vous connectez via Internet, vous pouvez appuyer sur le bouton "Obtenir l’adresse IP externe" pour afficher votre adresse IP externe (visible sur Internet).</target>
       </segment>
     </unit>
     <unit id="aa2e3179-151a-4738-9b56-e062a5333319">
@@ -29430,7 +29430,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For key: come up with a long, hard to guess key, or press the "Generate Key" button to have one automatically generated.</source>
-        <target>Pour la clé : trouvez une clé longue et difficile à deviner, ou appuyez sur le bouton «Générer la clé» pour en générer une automatiquement.</target>
+        <target>Pour la clé : trouvez une clé longue et difficile à deviner, ou appuyez sur le bouton "Générer une clé" pour en générer une automatiquement.</target>
       </segment>
     </unit>
     <unit id="2cc72874-8ac8-405d-a2db-10b6eb8c491f">
@@ -29519,7 +29519,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If connected as the controlling computer, mute the remote computer's speech output on your local computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Mute remote".</source>
-        <target>Si vous êtes connecté en tant qu’ordinateur de contrôle, coupez le son de la parole l’ordinateur distant sur votre ordinateur local en ouvrant le menu NVDA, puis en sélectionnant Outils, puis « Accès à distance », puis « Couper le son distant ».</target>
+        <target>Si vous êtes connecté en tant qu’ordinateur de contrôle, coupez le son de la parole l’ordinateur distant sur votre ordinateur local en ouvrant le menu NVDA, puis en sélectionnant Outils, puis "Accès à distance", puis "Couper le son distant".</target>
       </segment>
     </unit>
     <unit id="277e28c8-561a-46b5-85d5-752e8abf5766">
@@ -29529,7 +29529,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If connected as the controlling computer, send `control+alt+delete` to the controlled computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Send control+alt+delete".</source>
-        <target>Si vous êtes connecté en tant qu’ordinateur de contrôle, envoyez « control+alt+Suppr » à l’ordinateur contrôlé en ouvrant le menu NVDA, puis en sélectionnant Outils, puis « Accès à distance », puis « Envoyer control+alt+Suppr ».</target>
+        <target>Si vous êtes connecté en tant qu’ordinateur de contrôle, envoyez `contrôle+alt+suppr` à l’ordinateur contrôlé en ouvrant le menu NVDA, puis en sélectionnant Outils, puis "Accès à distance", puis "Envoyer Envoyer Ctrl+Alt+Suppr".</target>
       </segment>
     </unit>
     <unit id="c5ef1a06-f5d5-43bc-b521-628adccd7cb6">
@@ -30146,7 +30146,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The "Sort by column" combo box can be used to sort the list by the available columns for each tab.</source>
-        <target>La zone de liste déroulante «Trier par colonne» peut être utilisée pour trier la liste en fonction des colonnes disponibles pour chaque onglet.</target>
+        <target>La zone de liste déroulante "Trier par colonne" peut être utilisée pour trier la liste en fonction des colonnes disponibles pour chaque onglet.</target>
       </segment>
     </unit>
     <unit id="a00e9891-da57-405e-8a8d-a429cc17e185">
@@ -30404,7 +30404,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To remove an add-on, select the add-on from the list and use the Remove action.</source>
-        <target>Pour supprimer une extension, sélectionnez-la  dans la liste et utilisez l'action Supprimer.</target>
+        <target>Pour supprimer une extension, sélectionnez-la dans la liste et utilisez l'action Supprimer.</target>
       </segment>
     </unit>
     <unit id="6a59e4b1-a204-4d86-b4d8-9d3327244e7d">
@@ -30478,7 +30478,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>You can disable an add-on if the add-on status indicates it is "enabled", or enable it if the add-on is "disabled".</source>
-        <target>Vous pouvez désactiver une extension si son statut indique qu’il est « activé » ou l’activer si l’extension est « désactivé ».</target>
+        <target>Vous pouvez désactiver une extension si son statut indique qu’elle est "activée" ou l’activer si l’extension est "désactivée".</target>
       </segment>
     </unit>
     <unit id="ef663cad-62aa-4910-be3c-bb85f3a5ca15">
@@ -30626,7 +30626,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>From an add-on's actions menu, using the submenu "Update channel", you can modify the channels an add-on will automatically update to.</source>
-        <target>Depuis le menu d’actions d'une extension, en utilisant le sous-menu « Mettre à jour le canal », vous pouvez modifier les canaux vers lesquels une extension sera automatiquement mise à jour.</target>
+        <target>Depuis le menu d’actions d'une extension, en utilisant le sous-menu "Canal de mise à jour", vous pouvez modifier les canaux vers lesquels une extension sera automatiquement mise à jour.</target>
       </segment>
     </unit>
     <unit id="a4138c24-a9cf-4483-b461-465aa34dff3d">
@@ -31362,7 +31362,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA reporting "unknown" or "pane", when navigating in browsers such as Firefox or Edge, mail programs such as Thunderbird, Windows Explorer, the task bar, and other programs.</source>
-        <target>NVDA signale « inconnu » ou « volet » lors de la navigation dans des navigateurs tels que Firefox ou Edge, des programmes de messagerie tels que Thunderbird, Windows Explorer, la barre des tâches et d’autres programmes.</target>
+        <target>NVDA signale "inconnu" ou "volet" lors de la navigation dans des navigateurs tels que Firefox ou Edge, des programmes de messagerie tels que Thunderbird, Windows Explorer, la barre des tâches et d’autres programmes.</target>
       </segment>
     </unit>
     <unit id="42435e85-a7a8-4c9a-8ba8-394f532511e6">
@@ -31382,7 +31382,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Buttons which previously had their names spoken, suddenly being reported only as "button".</source>
-        <target>Les boutons dont le nom était auparavant prononcé sont soudainement signalés uniquement comme « bouton ».</target>
+        <target>Les boutons dont le nom était auparavant prononcé sont soudainement signalés uniquement comme "bouton".</target>
       </segment>
     </unit>
     <unit id="6557f316-806f-44da-8c8e-f12e7583d179">
@@ -31410,7 +31410,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you have UAC (User Access Control) enabled, as most users do, you will need to follow whatever prompts are presented by UAC, to run the tool successfully.</source>
-        <target>Si vous avez activé l’UAC (User Access Control), comme la plupart des utilisateurs, vous devrez suivre les invites présentées par l’UAC pour exécuter l’outil avec succès.</target>
+        <target>Si vous avez l’UAC (User Access Control) activé, comme la plupart des utilisateurs, vous devrez suivre les invites présentées par l’UAC pour exécuter l’outil avec succès.</target>
       </segment>
     </unit>
     <unit id="790f37d0-f3cb-4dcd-8f4b-4a12e9d9944f">
@@ -31802,7 +31802,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To add new Windows OneCore voices, go to "Speech Settings", within Windows system settings.</source>
-        <target>Pour ajouter de nouvelles voix Windows OneCore, rendez-vous à  "Voix", dans les paramètres système de Windows.</target>
+        <target>Pour ajouter de nouvelles voix Windows OneCore, rendez-vous à "Voix", dans les paramètres système de Windows.</target>
       </segment>
     </unit>
     <unit id="0a45bd91-857b-4602-87bb-364596929bb7">
@@ -41332,7 +41332,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Cycle the "braille move system caret when routing review cursor" states |`f1+f3`, `f9+f11`</source>
-        <target>Faire défiler les modes  pour l'option braille "Déplacer le curseur système lors du routage du curseur de revue" |`f1+f3`, `f9+f11`</target>
+        <target>Faire défiler les modes pour l'option braille "Déplacer le curseur système lors du routage du curseur de revue" |`f1+f3`, `f9+f11`</target>
       </segment>
     </unit>
     <unit id="b2fbd831-d066-428b-b0a8-5de07d26d7fc">
@@ -41974,7 +41974,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA can also be started in secure mode with the `-s` [command line option](#CommandLineOptions).</source>
-        <target>NVDA peut également être démarré en mode sécurisé avec  [l'option de ligne de commande](#CommandLineOptions) `-s`.</target>
+        <target>NVDA peut également être démarré en mode sécurisé avec [l'option de ligne de commande](#CommandLineOptions) `-s`.</target>
       </segment>
     </unit>
     <unit id="28c56c6f-fa59-4f7d-b83e-273cc7f0d53b">
@@ -42353,7 +42353,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>`nvda -mc CONFIGPATH` |This will start NVDA with startup sounds and message disabled, and the specified configuration</source>
-        <target>`nvda -mc CONFIGPATH` |Ceci démarrera NVDA avec le son et le message de démarrage  désactivé, et la configuration spécifiée.</target>
+        <target>`nvda -mc CONFIGPATH` |Ceci démarrera NVDA avec le son et le message de démarrage désactivé, et la configuration spécifiée</target>
       </segment>
     </unit>
     <unit id="f32bc7dd-fccc-4369-ab94-ba14b12d2192">
@@ -42664,7 +42664,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Just as you can silently install NVDA by passing the `--install-silent` command line option to NVDA, it can be silently uninstalled by passing the `/S` command to the uninstaller.</source>
-        <target>Tout comme vous pouvez installer NVDA silencieusement en passant l’option de ligne de commande « --install-silent » à NVDA, vous pouvez le désinstaller silencieusement en passant l’argument « /S » au programme de désinstallation.</target>
+        <target>Tout comme vous pouvez installer NVDA silencieusement en passant l’option de ligne de commande `--install-silent` à NVDA, vous pouvez le désinstaller silencieusement en passant l’argument `/S` au programme de désinstallation.</target>
       </segment>
     </unit>
     <unit id="c675632d-0479-418d-a36e-ea9d8058b22b">
@@ -42673,7 +42673,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA's uninstaller is called `uninstall.exe` and resides under the NVDA installation directory, `%ProgramFiles(x86)%\nvda` on 64-bit Windows, or `%ProgramFiles%\nvda` on 32-bit Windows.</source>
-        <target>Le programme de désinstallation de NVDA s’appelle « uninstall.exe » et se trouve sous le répertoire d’installation de NVDA, « %ProgramFiles(x86)%\nvda » sur Windows 64 bits ou « %ProgramFiles%\nvda » sur Windows 32 bits.</target>
+        <target>Le programme de désinstallation de NVDA s’appelle `uninstall.exe` et se trouve sous le répertoire d’installation de NVDA, `%ProgramFiles(x86)%\nvda` sur Windows 64 bits ou `%ProgramFiles%\nvda` sur Windows 32 bits.</target>
       </segment>
     </unit>
     <unit id="8b3a8a3d-3f66-49c6-8793-3ffed70368ff">
