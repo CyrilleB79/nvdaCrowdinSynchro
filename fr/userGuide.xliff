@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr">
   <file id="userGuide.md" original="https://raw.githubusercontent.com/nvaccess/nvda/f75f58e1452be763045278856c83ae0227c0c2d8/user_docs/en/userGuide.md">
     <skeleton>
@@ -17797,9 +17798,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1845</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The read-only text box shows the current mirror URL.</source>
-        <target>The read-only text box shows the current mirror URL.</target>
+        <target>La zone de texte en lecture seule affiche l'URL du miroir actuel.</target>
       </segment>
     </unit>
     <unit id="0295eda0-cd06-4cd4-8f59-32fa3e7440ef">
@@ -17846,7 +17847,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Prevent display from turning off during say all or reading with braille</source>
-        <target>Empêcher l’écran de s’éteindre pendant le mode Dire Tout ou le défilement Braille</target>
+        <target>Empêcher la désactivation de l'écran pendant dire tout ou pendant la lecture en braille</target>
       </segment>
     </unit>
     <unit id="92438bd8-32e4-450d-a072-f6aee58f0eac">
@@ -20462,7 +20463,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Speak when navigating by line or paragraph</source>
-        <target>Parler lors de la navigation par ligne ou par paragraphe</target>
+        <target>Retour vocal lors de la navigation par ligne ou par paragraphe</target>
       </segment>
     </unit>
     <unit id="38f75666-3a10-4d29-860d-cda7f408e8b8">
@@ -20471,7 +20472,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Enabling this option will cause NVDA to speak lines or paragraphs reached using the braille display's navigation controls.</source>
-        <target>L’activation de cette option obligera NVDA à prononcer les lignes ou les paragraphes atteints à l’aide des commandes de navigation de l’afficheur Braille.</target>
+        <target>L’activation de cette option amenera NVDA à annoncer les lignes ou les paragraphes atteints à l’aide des commandes de navigation de l’afficheur Braille.</target>
       </segment>
     </unit>
     <unit id="f0653379-ac73-4e48-918d-af14e99734eb">
@@ -20480,7 +20481,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>To toggle this option from anywhere, please assign a custom gesture to "speakOnNavigatingByUnit" in the "Braille" section of the [Input Gestures dialog](#InputGestures).</source>
-        <target>Pour activer cette option depuis n’importe où, veuillez attribuer un geste personnalisé à «speakOnNavigatingByUnit» dans la section «Braille» de la [boîte de dialogue Gestes de commande](#InputGestures).</target>
+        <target>Pour activer cette option depuis n’importe où, veuillez attribuer un geste personnalisé à "Active ou désactive la lecture à voix haute lors de la navigation par lignes ou paragraphes en braille" dans la section «Braille» de la [boîte de dialogue Gestes de commande](#InputGestures).</target>
       </segment>
     </unit>
     <unit id="66416aa7-4287-44f2-aa7f-5c1d87710de1">
@@ -22027,7 +22028,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This option controls when NVDA announces words you type on the keyboard.</source>
-        <target>Cette option contrôle la manière dont NVDA annonce les mots que vous tapez au.</target>
+        <target>Cette option contrôle la manière dont NVDA annonce les mots que vous tapez au clavier.</target>
       </segment>
     </unit>
     <unit id="0b609715-5487-4b01-adb4-191746108304">
@@ -28247,7 +28248,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Revert configuration |`NVDA+control+r` |`NVDA+control+r` |Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults.</source>
-        <target>Rétablir la configuration |`NVDA+control+r` |`NVDA+control+r` |Appuyer une fois réinitialise votre configuration à la dernière sauvegarde. Appuyer trois fois la réinitialise aux paramètres d’usine.</target>
+        <target>Rétablir la configuration |`NVDA+control+r` |`NVDA+control+r` |Un appui réinitialise votre configuration à la dernière sauvegarde. Trois appuis la réinitialise aux paramètres par défaut.</target>
       </segment>
     </unit>
     <unit id="399befd7-919a-441c-8d48-a1800124f0df">
@@ -31518,7 +31519,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For an even more extensive list of free and commercial synthesizers that you can purchase and download for use with NVDA, please see the [extra voices page](https://github.com/nvaccess/nvda/wiki/ExtraVoices).</source>
-        <target>Pour une liste encore plus complète de synthétiseurs gratuits et commerciaux que vous pouvez acheter et télécharger pour une utilisation avec NVDA, veuillez consulter la [page des voix supplémentaires](https://github.com/nvaccess/nvda/wiki/ExtraVoices).</target>
+        <target>Pour une liste encore plus complète de synthétiseurs gratuits et commerciaux que vous pouvez acheter et télécharger pour une utilisation avec NVDA, veuillez consulter la [page des voix supplémentaires](https://github.com/nvaccess/nvda/wiki/ExtraVoices) (en anglais).</target>
       </segment>
     </unit>
     <unit id="861cd6f6-afa0-4c1f-8a26-fa79e1125024">
@@ -31970,7 +31971,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>HumanWare Brailliant BI/B series</source>
-        <target>Séries HumanWare Brailliant BI/B</target>
+        <target>Série HumanWare Brailliant BI/B</target>
       </segment>
     </unit>
     <unit id="c2d75778-75c6-46a2-bae3-758688c432aa">
@@ -32000,7 +32001,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Optelec ALVA 6 series</source>
-        <target>Séries Optelec ALVA 6</target>
+        <target>Série Optelec ALVA 6</target>
       </segment>
     </unit>
     <unit id="98001a10-d4b2-44c3-a934-d14940173fb6">
@@ -32010,7 +32011,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>HIMS Braille Sense/Braille EDGE/Smart Beetle/Sync Braille Series</source>
-        <target>Série HIMS Braille Sense/Braille EDGE/Smart Beetle/Sync Braille</target>
+        <target>Série Braille Sense/Braille EDGE/Smart Beetle/Sync Braille de HIMS</target>
       </segment>
     </unit>
     <unit id="79ad2448-5062-4bad-8760-ae7d611a6616">
@@ -32762,7 +32763,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Optelec ALVA 6 series/protocol converter</source>
-        <target>Séries Optelec ALVA 6/Convertisseur de Protocole</target>
+        <target>Série Optelec ALVA 6/Convertisseur de Protocole</target>
       </segment>
     </unit>
     <unit id="8e006a25-ab29-4b32-8427-0602834fd026">
@@ -34396,7 +34397,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>HumanWare Brailliant BI/B Series / BrailleNote Touch</source>
-        <target>HumanWare Séries Brailliant BI/B / BrailleNote Touch</target>
+        <target>Série Brailliant BI/B de HumanWare / BrailleNote Touch</target>
       </segment>
     </unit>
     <unit id="0f768ff8-aac0-4a25-8419-08307933cfa9">
@@ -34405,7 +34406,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Brailliant BI and B series of displays from [HumanWare](https://www.humanware.com/), including the BI 14, BI 32, BI 20X, BI 40, BI 40X and B 80, are supported when connected via USB or bluetooth.</source>
-        <target>Les BI 14, BI 32, BI 20X, BI 40, BI 40X et B 80 sont pris en charge lorsqu’ils sont connectés via USB ou Bluetooth.</target>
+        <target>Les terminaux de la série Brailliant BI &amp; B de [HumanWare](https://www.humanware.com/), incluant le BI 14, BI 32, BI 20X, BI 40, BI 40X et B 80 sont supportés quand ils sont connectés via USB ou Bluetooth.</target>
       </segment>
     </unit>
     <unit id="9434d525-52da-43e2-a715-7fa95cbf7eeb">
@@ -36433,7 +36434,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Most devices have an Easy Access Bar (EAB) that allows intuitive and fast operation.</source>
-        <target>La plupart des afficheurs ont une barre d'accès facile (EAB) qui permet des opérations intuitives et rapides.</target>
+        <target>La plupart des afficheurs ont une barre d'accès facile Easy Access Bar (EAB) qui permet des opérations intuitives et rapides.</target>
       </segment>
     </unit>
     <unit id="62e2f006-9a12-494e-a672-5161691d9fb6">
@@ -36469,7 +36470,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Holding one of the upper routing keys and pressing the EAB on c-series devices emulates the second switch state.</source>
-        <target>Garder enfoncée une des routines du haut puis appuyer sur l'EAB sur une Série-C annule le second cran.</target>
+        <target>Garder enfoncée une des routines du haut puis appuyer sur l'EAB sur les appareils de la Série-C permet d'émuler le second cran.</target>
       </segment>
     </unit>
     <unit id="f83400d8-385a-4cc9-be28-076975bf023d">
@@ -36478,7 +36479,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The live series displays have one routing row only and the EAB has one step per direction.</source>
-        <target>Les terminaux des séries Live n'ont qu'une ligne de routines et l'EAB n'a qu'un cran par direction.</target>
+        <target>Les terminaux de la série Live n'ont qu'une ligne de routines et l'EAB n'a qu'un cran par direction.</target>
       </segment>
     </unit>
     <unit id="3b972ded-b176-437f-ad33-fc2db1562c4f">
@@ -36487,7 +36488,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The second step may be emulated by pressing one of the routing keys and pressing the EAB in the corresponding direction.</source>
-        <target>Le second cran peut être reproduit en pressant une des touches de routage et en pressant l'EAB dans la direction correspondante.</target>
+        <target>Le second cran peut être émulé en pressant une des touches de routage et en pressant l'EAB dans la direction correspondante.</target>
       </segment>
     </unit>
     <unit id="d195c5df-c4ee-43dc-ae4d-d1ac8a428c62">
@@ -37861,7 +37862,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For BrailleNote Touch, please refer to the [Brailliant BI Series / BrailleNote Touch](#HumanWareBrailliant) section.</source>
-        <target>Pour BrailleNote Touch, veuillez vous référer à la section [Brailliant BI Series / BrailleNote Touch](#HumanWareBrailliant).</target>
+        <target>Pour le BrailleNote Touch, veuillez vous référer à la section [Brailliant BI Series / BrailleNote Touch](#HumanWareBrailliant).</target>
       </segment>
     </unit>
     <unit id="6d556bc3-5777-4a38-bff1-18bde7cbb8e2">
