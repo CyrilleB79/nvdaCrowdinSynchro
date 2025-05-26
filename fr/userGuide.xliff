@@ -5571,7 +5571,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ## </note>
         <note appliesTo="source">suffix:  {#Introduction}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Introduction</source>
         <target>Introduction</target>
       </segment>
@@ -17967,9 +17967,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1876</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This button activates the [Select Synthesizer](#SelectSynthesizer) dialog, which allows you to select the active speech synthesizer.</source>
-        <target>This button activates the [Select Synthesizer](#SelectSynthesizer) dialog, which allows you to select the active speech synthesizer.</target>
+        <target>Ce bouton ouvre la boîte de dialogue [Sélectionner le synthétiseur](#SelectSynthesizer), qui vous permet de sélectionner le synthétiseur vocal actif.</target>
       </segment>
     </unit>
     <unit id="2dede44c-2edf-4f2c-a6d1-861f5c791cfc">
@@ -18159,7 +18159,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SpeechSettingsVolume}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Volume</source>
         <target>Volume</target>
       </segment>
@@ -18485,9 +18485,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Options |Default (Enabled), Enabled, Disabled</source>
-        <target>Options |Default (Enabled), Enabled, Disabled</target>
+        <target>Options |Défaut (Activé), Activé, Désactivé</target>
       </segment>
     </unit>
     <unit id="2617b3c2-bbfe-4b47-89db-74bbdc395c1e">
@@ -18496,9 +18496,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default |Enabled</source>
-        <target>Default |Enabled</target>
+        <target>Défaut |Activé</target>
       </segment>
     </unit>
     <unit id="50f3a4ca-fb8b-4154-b9ed-44d4aecc86b6">
@@ -19134,7 +19134,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#BrailleSettings}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Braille</source>
         <target>Braille</target>
       </segment>
@@ -19246,9 +19246,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2093</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you select "Automatic", the table will be selected according with NVDA's current language.</source>
-        <target>If you select "Automatic", the table will be selected according with NVDA's current language.</target>
+        <target>Si vous sélectionnez «Automatique», la table sera sélectionnée en fonction de la langue actuelle de NVDA.</target>
       </segment>
     </unit>
     <unit id="f6037f74-d5e6-426e-bdb2-6d0a2e64d0b7">
@@ -19673,9 +19673,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2171</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In this case, Braille will not follow system focus and system caret.</source>
-        <target>In this case, Braille will not follow system focus and system caret.</target>
+        <target>Dans ce cas, le Braille ne suivra pas le focus système et le curseur système.</target>
       </segment>
     </unit>
     <unit id="8227c48e-3d11-412e-80c2-437ff9ccf394">
@@ -20460,27 +20460,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#BrailleSpeakOnNavigating}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Speak when navigating by line or paragraph</source>
-        <target>Speak when navigating by line or paragraph</target>
+        <target>Parler lors de la navigation par ligne ou par paragraphe</target>
       </segment>
     </unit>
     <unit id="38f75666-3a10-4d29-860d-cda7f408e8b8">
       <notes>
         <note appliesTo="source">line: 2298</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enabling this option will cause NVDA to speak lines or paragraphs reached using the braille display's navigation controls.</source>
-        <target>Enabling this option will cause NVDA to speak lines or paragraphs reached using the braille display's navigation controls.</target>
+        <target>L’activation de cette option obligera NVDA à prononcer les lignes ou les paragraphes atteints à l’aide des commandes de navigation de l’afficheur Braille.</target>
       </segment>
     </unit>
     <unit id="f0653379-ac73-4e48-918d-af14e99734eb">
       <notes>
         <note appliesTo="source">line: 2300</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To toggle this option from anywhere, please assign a custom gesture to "speakOnNavigatingByUnit" in the "Braille" section of the [Input Gestures dialog](#InputGestures).</source>
-        <target>To toggle this option from anywhere, please assign a custom gesture to "speakOnNavigatingByUnit" in the "Braille" section of the [Input Gestures dialog](#InputGestures).</target>
+        <target>Pour activer cette option depuis n’importe où, veuillez attribuer un geste personnalisé à «speakOnNavigatingByUnit» dans la section «Braille» de la [boîte de dialogue Gestes de commande](#InputGestures).</target>
       </segment>
     </unit>
     <unit id="66416aa7-4287-44f2-aa7f-5c1d87710de1">
@@ -20907,7 +20907,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SelectBrailleDisplayPort}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Port</source>
         <target>Port</target>
       </segment>
@@ -21008,7 +21008,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#AudioSettings}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Audio</source>
         <target>Audio</target>
       </segment>
@@ -21331,9 +21331,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2458</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA on the left and applications in both channels: NVDA will speak in the left channel, while other applications will play sounds in both left and right channels.</source>
-        <target>NVDA on the left and applications in both channels: NVDA will speak in the left channel, while other applications will play sounds in both left and right channels.</target>
+        <target>NVDA à gauche et les applications dans les deux canaux : NVDA parlera dans le canal de gauche, tandis que les autres applications joueront des sons dans les canaux gauche et droit.</target>
       </segment>
     </unit>
     <unit id="b8547fd4-f86b-4e86-ba9f-26c2a66b6833">
@@ -21556,7 +21556,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#VisionSettings}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Vision</source>
         <target>Vision</target>
       </segment>
@@ -21957,18 +21957,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2564</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option controls when NVDA announces characters you type on the keyboard.</source>
-        <target>This option controls when NVDA announces characters you type on the keyboard.</target>
+        <target>Cette option contrôle la manière dont NVDA annonce les caractères que vous saisissez au clavier.</target>
       </segment>
     </unit>
     <unit id="8e43a953-f8fd-4508-9673-dabd01dc478e">
       <notes>
         <note appliesTo="source">line: 2565</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The available options are:</source>
-        <target>The available options are:</target>
+        <target>Les options possibles sont :</target>
       </segment>
     </unit>
     <unit id="281c0b8c-6b55-4309-b9ec-5ca770fbebfa">
@@ -21976,9 +21976,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2567</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Off: NVDA will not announce typed characters.</source>
-        <target>Off: NVDA will not announce typed characters.</target>
+        <target>Désactivé : NVDA n’annoncera pas les caractères saisis.</target>
       </segment>
     </unit>
     <unit id="aebd7ca5-21cf-46d5-acbe-b742ef581f10">
@@ -21986,9 +21986,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2568</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only in edit controls: NVDA will only announce characters typed in edit controls and other areas where text can be typed.</source>
-        <target>Only in edit controls: NVDA will only announce characters typed in edit controls and other areas where text can be typed.</target>
+        <target>Seulement dans les contrôles d’édition : NVDA annoncera uniquement les caractères saisis dans les contrôles d’édition et autres zones où du texte peut être saisi.</target>
       </segment>
     </unit>
     <unit id="c6a7b248-4d8d-47f4-8367-824786c8ba9a">
@@ -21996,9 +21996,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2569</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Always: NVDA will announce all typed characters.</source>
-        <target>Always: NVDA will announce all typed characters.</target>
+        <target>Toujours : NVDA annoncera tous les caractères saisis.</target>
       </segment>
     </unit>
     <unit id="2f4682f5-35e2-4db5-94a6-c1f76274566e">
@@ -22025,18 +22025,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2577</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option controls when NVDA announces words you type on the keyboard.</source>
-        <target>This option controls when NVDA announces words you type on the keyboard.</target>
+        <target>Cette option contrôle la manière dont NVDA annonce les mots que vous tapez au.</target>
       </segment>
     </unit>
     <unit id="0b609715-5487-4b01-adb4-191746108304">
       <notes>
         <note appliesTo="source">line: 2578</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The available options are:</source>
-        <target>The available options are:</target>
+        <target>Les options possibles sont :</target>
       </segment>
     </unit>
     <unit id="d81856ba-1816-4a29-b98c-cc93028ca7da">
@@ -22044,9 +22044,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2580</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Off: NVDA will not announce typed words.</source>
-        <target>Off: NVDA will not announce typed words.</target>
+        <target>Désactivé : NVDA n’annoncera pas les mots saisis.</target>
       </segment>
     </unit>
     <unit id="ca7e601f-4c49-47f6-8573-e17394dff85d">
@@ -22054,9 +22054,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2581</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only in edit controls: NVDA will only announce words typed in edit controls and other areas where text can be typed.</source>
-        <target>Only in edit controls: NVDA will only announce words typed in edit controls and other areas where text can be typed.</target>
+        <target>Seulement dans les contrôles d’édition : NVDA annoncera uniquement les mots saisis dans les contrôles d’édition et autres zones où du texte peut être saisi.</target>
       </segment>
     </unit>
     <unit id="95a25130-fd56-4610-a203-0473fe0f1cf6">
@@ -22064,9 +22064,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2582</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Always: NVDA will announce all typed words.</source>
-        <target>Always: NVDA will announce all typed words.</target>
+        <target>Toujours : NVDA annoncera tous les mots saisis.</target>
       </segment>
     </unit>
     <unit id="b2d0d1c7-7e99-4043-8e5a-d2be8ef65ac1">
@@ -24111,7 +24111,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2949</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Style</source>
         <target>Style</target>
       </segment>
@@ -24401,7 +24401,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2978</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Articles</source>
         <target>Articles</target>
       </segment>
@@ -24829,7 +24829,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#AutomaticAddonUpdates}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Automatic updates</source>
         <target>Mises à jour automatiques</target>
       </segment>
@@ -24856,36 +24856,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3050</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, notifications will only occur for add-ons with updates available within the same [channel](#AddonStoreFilterChannel) (e.g. stable, beta or dev).</source>
-        <target>By default, notifications will only occur for add-ons with updates available within the same [channel](#AddonStoreFilterChannel) (e.g. stable, beta or dev).</target>
+        <target>Par défaut, les notifications n’apparaîtront que pour les extensions avec des mises à jour disponibles dans le même [canal](#AddonStoreFilterChannel) (par exemple, stable, bêta ou dev).</target>
       </segment>
     </unit>
     <unit id="01cc2947-6b80-4ed3-9783-d701f305d1c3">
       <notes>
         <note appliesTo="source">line: 3051</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can configure add-on update channels [individually for each add-on](#AddonStoreUpdateChannel) or for [all add-ons](#DefaultAddonUpdateChannel).</source>
-        <target>You can configure add-on update channels [individually for each add-on](#AddonStoreUpdateChannel) or for [all add-ons](#DefaultAddonUpdateChannel).</target>
+        <target>Vous pouvez configurer les canaux de mise à jour des extensions [individuellement pour chaque extension](#AddonStoreUpdateChannel) ou pour [toutes les extensions](#DefaultAddonUpdateChannel).</target>
       </segment>
     </unit>
     <unit id="4b4bf7bd-cb56-4385-a4f4-38aebe65ee46">
       <notes>
         <note appliesTo="source">line: 3053</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When set to "Update Automatically", add-ons will automatically update in the background.</source>
-        <target>When set to "Update Automatically", add-ons will automatically update in the background.</target>
+        <target>Lorsque l’option «Mettre à jour automatiquement» est sélectionnée, les extensions seront automatiquement mises à jour en arrière-plan.</target>
       </segment>
     </unit>
     <unit id="6b079c41-7718-4724-84ee-ca4bc531bc88">
       <notes>
         <note appliesTo="source">line: 3054</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You will be prompted to restart NVDA when the updates are finished.</source>
-        <target>You will be prompted to restart NVDA when the updates are finished.</target>
+        <target>Vous serez invité à redémarrer NVDA une fois les mises à jour terminées.</target>
       </segment>
     </unit>
     <unit id="0a49fb26-6e16-4d5b-b8dc-f401a17a5657">
@@ -24969,9 +24969,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3069</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When [Automatic add-on updates](#AutomaticAddonUpdates) are enabled, by default, add-ons only update to the same [channel](#AddonStoreFilterChannel).</source>
-        <target>When [Automatic add-on updates](#AutomaticAddonUpdates) are enabled, by default, add-ons only update to the same [channel](#AddonStoreFilterChannel).</target>
+        <target>Lorsque les [mises à jour automatiques des extensions](#AutomaticAddonUpdates) sont activées, par défaut, les extensions sont mises à jour uniquement vers le même [canal](#AddonStoreFilterChannel).</target>
       </segment>
     </unit>
     <unit id="2fd47649-6beb-4ca7-9fad-3bde5576629f">
@@ -29446,9 +29446,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3776</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that the key acts as both the identifier for the session and the password, so it is very important it is hard to guess.</source>
-        <target>Note that the key acts as both the identifier for the session and the password, so it is very important it is hard to guess.</target>
+        <target>Notez que la clé agit à la fois comme identifiant de session et comme mot de passe, il est donc très important qu’elle soit difficile à deviner.</target>
       </segment>
     </unit>
     <unit id="6be70a23-825b-4949-a94c-5788cb14f373">
@@ -29456,9 +29456,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3777</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Press OK.</source>
-        <target>Press OK.</target>
+        <target>Appuyez sur OK.</target>
       </segment>
     </unit>
     <unit id="67b5c476-ed76-40eb-9652-0f263a8d0a11">
@@ -29466,9 +29466,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3778</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Provide the connection details (such as host and key) to the other person so they can connect.</source>
-        <target>Provide the connection details (such as host and key) to the other person so they can connect.</target>
+        <target>Fournissez les détails de connexion (tels que l’hôte et la clé) à l’autre personne afin qu’elle puisse se connecter.</target>
       </segment>
     </unit>
     <unit id="d11dbdb9-e13b-4316-accc-bff9461aaaf5">
@@ -29516,9 +29516,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3786</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If connected as the controlling computer, mute the remote computer's speech output on your local computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Mute remote".</source>
-        <target>If connected as the controlling computer, mute the remote computer's speech output on your local computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Mute remote".</target>
+        <target>Si vous êtes connecté en tant qu’ordinateur de contrôle, coupez le son de la parole l’ordinateur distant sur votre ordinateur local en ouvrant le menu NVDA, puis en sélectionnant Outils, puis « Accès à distance », puis « Couper le son distant ».</target>
       </segment>
     </unit>
     <unit id="277e28c8-561a-46b5-85d5-752e8abf5766">
@@ -29526,27 +29526,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3787</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If connected as the controlling computer, send `control+alt+delete` to the controlled computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Send control+alt+delete".</source>
-        <target>If connected as the controlling computer, send `control+alt+delete` to the controlled computer by opening the NVDA menu, then selecting Tools, then "Remote Access", then "Send control+alt+delete".</target>
+        <target>Si vous êtes connecté en tant qu’ordinateur de contrôle, envoyez « control+alt+Suppr » à l’ordinateur contrôlé en ouvrant le menu NVDA, puis en sélectionnant Outils, puis « Accès à distance », puis « Envoyer control+alt+Suppr ».</target>
       </segment>
     </unit>
     <unit id="c5ef1a06-f5d5-43bc-b521-628adccd7cb6">
       <notes>
         <note appliesTo="source">line: 3788</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  In order for this to work, the controlled computer must be running an installed copy of NVDA.</source>
-        <target>  In order for this to work, the controlled computer must be running an installed copy of NVDA.</target>
+        <target>  Pour que cela fonctionne, l’ordinateur contrôlé doit exécuter une copie installée de NVDA.</target>
       </segment>
     </unit>
     <unit id="7525d1db-a591-4b34-a85e-37aa74e2e3b6">
       <notes>
         <note appliesTo="source">line: 3789</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Additionally, depending on the settings of the controlled computer, this function may not always work.</source>
-        <target>  Additionally, depending on the settings of the controlled computer, this function may not always work.</target>
+        <target>  De plus, selon les paramètres de l’ordinateur contrôlé, cette fonction peut ne pas toujours fonctionner.</target>
       </segment>
     </unit>
     <unit id="2907e809-9f1b-4de0-8e83-c9f868d89301">

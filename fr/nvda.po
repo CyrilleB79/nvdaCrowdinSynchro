@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-26 05:30+0000\n"
-"PO-Revision-Date: 2025-05-26 08:24\n"
+"PO-Revision-Date: 2025-05-26 09:39\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6021,7 +6021,7 @@ msgstr "Bascule entre le contrôle de l’ordinateur local ou distant"
 #. due to profile activation being suspended.
 #: globalCommands.py:5008
 msgid "Can't change the active profile while an NVDA dialog is open"
-msgstr "Impossible de changer le profil de configuration actif quand un dialogue de NVDA est ouvert"
+msgstr "Impossible de changer de profil de configuration actif quand un dialogue de NVDA est ouvert"
 
 #. Translators: a message when a configuration profile is manually deactivated.
 #. {profile} is replaced with the profile's name.
@@ -12928,7 +12928,7 @@ msgstr "Synthétiseur"
 #. it appears in the context of a braille display group on the braille settings panel.
 #: gui\settingsDialogs.py:1213 gui\settingsDialogs.py:4395
 msgid "C&hange..."
-msgstr "&Changer..."
+msgstr "Modifie&r"
 
 #. Translators: This is the label for the synthesizer selection dialog
 #: gui\settingsDialogs.py:1268
@@ -14215,7 +14215,7 @@ msgstr "Avertissement !"
 #. Translators: This is a label appearing on the Advanced settings panel.
 #: gui\settingsDialogs.py:4299
 msgid "The following settings are for advanced users. Changing them may cause NVDA to function incorrectly. Please only change these if you know what you are doing or have been specifically instructed by NVDA developers."
-msgstr "Les réglages suivants s'adressent aux utilisateurs avancés. Les modifier peut provoquer un fonctionnement incorrect de NVDA. Veuillez ne les changer que si vous savez ce que vous faites ou si les développeurs de NVDA vous l'ont spécifiquement demandé."
+msgstr "Les réglages suivants s'adressent aux utilisateurs avancés. Les modifier peut provoquer un fonctionnement incorrect de NVDA. Veuillez ne les modifier que si vous savez ce que vous faites ou si les développeurs de NVDA vous l'ont spécifiquement demandé."
 
 #. Translators: This is the label for a checkbox in the Advanced settings panel.
 #: gui\settingsDialogs.py:4326
@@ -14365,7 +14365,7 @@ msgstr "Annoncer le caractère lors du routa&ge du curseur dans le texte"
 #. Translators: The label for a setting in braille settings to speak the current line or paragraph when navigating by them with braille.
 #: gui\settingsDialogs.py:4927
 msgid "Speak when navigating by &line or paragraph"
-msgstr "Retour vocal lors de la navigation par &ligne ou par paragraphe"
+msgstr "Retour vocal lors de la navigation par ligne ou par &paragraphe"
 
 #. Translators: The label for a setting in braille settings to enable word wrap
 #. (try to avoid splitting words at the end of the braille display).
