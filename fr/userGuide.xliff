@@ -5551,7 +5551,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA NVDA_VERSION User Guide</source>
-        <target>Guide de l'utilisateur de NVDA NVDA_VERSION</target>
+        <target>Guide de l’utilisateur de NVDA NVDA_VERSION</target>
       </segment>
     </unit>
     <unit id="4cfb7a81-1d0d-49b0-a043-55d47443a545">
@@ -5562,7 +5562,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA NVDA_VERSION Commands Quick Reference</source>
-        <target>NVDA NVDA_VERSION Résumé des commandes</target>
+        <target>Résumé des commandes NVDA NVDA_VERSION</target>
       </segment>
     </unit>
     <unit id="bef0258d-7946-41ad-a11c-196179d241ea">
@@ -25856,9 +25856,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3219</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Leave this blank to use the default NV Access server.</source>
-        <target>Leave this blank to use the default NV Access server.</target>
+        <target>Laissez ce champ vide pour utiliser le serveur NV Access par défaut.</target>
       </segment>
     </unit>
     <unit id="cc6cb82c-2a45-463f-ba63-094caf917760">
@@ -25876,27 +25876,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3223</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Press this button to test the mirror URL you have entered.</source>
-        <target>Press this button to test the mirror URL you have entered.</target>
+        <target>Appuyez sur ce bouton pour tester l’URL miroir que vous avez saisie.</target>
       </segment>
     </unit>
     <unit id="c4cdecb9-2f3e-488a-9dbe-aba87da6fe2b">
       <notes>
         <note appliesTo="source">line: 3224</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You must be connected to the internet for the test to succeed.</source>
-        <target>You must be connected to the internet for the test to succeed.</target>
+        <target>Vous devez être connecté à Internet pour que le test réussisse.</target>
       </segment>
     </unit>
     <unit id="e4d23412-941b-43bc-a8a8-461f3d8250fe">
       <notes>
         <note appliesTo="source">line: 3225</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is recommended that you always test the URL before saving it.</source>
-        <target>It is recommended that you always test the URL before saving it.</target>
+        <target>Il est recommandé de toujours tester l’URL avant de l’enregistrer.</target>
       </segment>
     </unit>
     <unit id="e3d0c2c5-1a59-4caf-9b4f-67e824c90639">
@@ -26601,7 +26601,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#Annotations}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Annotations</source>
         <target>Annotations</target>
       </segment>
@@ -27156,27 +27156,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3420</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, NVDA will remove silence from the start of speech audio, which may improve the responsiveness of some speech synthesizers.</source>
-        <target>When enabled, NVDA will remove silence from the start of speech audio, which may improve the responsiveness of some speech synthesizers.</target>
+        <target>Lorsqu’il est activé, NVDA supprime le silence au début de l’audio vocal, ce qui peut améliorer la réactivité de certains synthétiseurs vocaux.</target>
       </segment>
     </unit>
     <unit id="6dc82e04-38d5-4e56-8922-c8174017cbad">
       <notes>
         <note appliesTo="source">line: 3421</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is enabled by default, and should only affect the silence at the beginning of speech.</source>
-        <target>This option is enabled by default, and should only affect the silence at the beginning of speech.</target>
+        <target>Cette option est activée par défaut et ne devrait affecter que le silence au début du discours.</target>
       </segment>
     </unit>
     <unit id="df3db20e-89e8-438f-9608-977d65dbe68f">
       <notes>
         <note appliesTo="source">line: 3422</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you find that some necessary silence periods are also missing (e.g. pause between two sentences) when using a speech synthesizer add-on, you may turn this feature off entirely to resolve the issue.</source>
-        <target>If you find that some necessary silence periods are also missing (e.g. pause between two sentences) when using a speech synthesizer add-on, you may turn this feature off entirely to resolve the issue.</target>
+        <target>Si vous constatez que certaines périodes de silence nécessaires manquent également (par exemple, une pause entre deux phrases) lors de l’utilisation d’une extension de synthétiseur vocal, vous pouvez désactiver complètement cette fonctionnalité pour résoudre le problème.</target>
       </segment>
     </unit>
     <unit id="c220247b-10ff-495a-ba07-7ca83b57a89a">
@@ -27194,36 +27194,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3426</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option enables Microsoft Speech API version 4 (SAPI 4) voices to output audio via the Windows Audio Session API (WASAPI).</source>
-        <target>This option enables Microsoft Speech API version 4 (SAPI 4) voices to output audio via the Windows Audio Session API (WASAPI).</target>
+        <target>Cette option permet aux voix Microsoft Speech API version 4 (SAPI 4) de produire de l’audio via l’API Windows Audio Session (WASAPI).</target>
       </segment>
     </unit>
     <unit id="73d79f19-633b-4ab0-9975-abd1bd212926">
       <notes>
         <note appliesTo="source">line: 3427</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This can allow SAPI 4 voices to work with more features, such as audio ducking, leading silence trimming, and keeping audio device awake.</source>
-        <target>This can allow SAPI 4 voices to work with more features, such as audio ducking, leading silence trimming, and keeping audio device awake.</target>
+        <target>Cela peut permettre aux voix SAPI 4 de fonctionner avec davantage de fonctionnalités, telles que l’atténuation audio, la réduction du silence principal et le maintien de l’appareil audio en veille.</target>
       </segment>
     </unit>
     <unit id="79c46af5-44a3-49d7-86b7-e737d5440a24">
       <notes>
         <note appliesTo="source">line: 3428</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, some SAPI 4 voices might not work with the current WASAPI implementation.</source>
-        <target>However, some SAPI 4 voices might not work with the current WASAPI implementation.</target>
+        <target>Cependant, certaines voix SAPI 4 peuvent ne pas fonctionner avec l’implémentation WASAPI actuelle.</target>
       </segment>
     </unit>
     <unit id="cddb15b9-7651-4c05-9478-b17653c2c94c">
       <notes>
         <note appliesTo="source">line: 3429</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you find that the SAPI 4 voice you are using stops working, you may disable this option.</source>
-        <target>If you find that the SAPI 4 voice you are using stops working, you may disable this option.</target>
+        <target>Si vous constatez que la voix SAPI 4 que vous utilisez cesse de fonctionner, vous pouvez désactiver cette option.</target>
       </segment>
     </unit>
     <unit id="e21a8ba0-863c-413d-bdb2-fef30cfb7f17">
@@ -27232,9 +27232,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Options |Default (Enabled), Disabled, Enabled</source>
-        <target>Options |Default (Enabled), Disabled, Enabled</target>
+        <target>Options | Par défaut (activé), Désactivé, Activé</target>
       </segment>
     </unit>
     <unit id="38c5b121-abdc-4cab-aea7-297a9bb40e74">
@@ -27243,9 +27243,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default |Enabled</source>
-        <target>Default |Enabled</target>
+        <target>Défaut |Activé</target>
       </segment>
     </unit>
     <unit id="9818ec02-721e-4b97-aa0e-668e024c4ab0">
@@ -28234,9 +28234,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Save configuration |`NVDA+control+c` |`NVDA+control+c` |Saves your current configuration so that it is not lost when you exit NVDA</source>
-        <target>Save configuration |`NVDA+control+c` |`NVDA+control+c` |Saves your current configuration so that it is not lost when you exit NVDA</target>
+        <target>Enregistrer la configuration |`NVDA+control+c` |`NVDA+control+c` |Enregistre votre configuration actuelle afin qu’elle ne soit pas perdue lorsque vous quittez NVDA</target>
       </segment>
     </unit>
     <unit id="c2f0e356-e676-4641-bad3-db94e1e7f07b">
@@ -28245,9 +28245,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Revert configuration |`NVDA+control+r` |`NVDA+control+r` |Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults.</source>
-        <target>Revert configuration |`NVDA+control+r` |`NVDA+control+r` |Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults.</target>
+        <target>Rétablir la configuration |`NVDA+control+r` |`NVDA+control+r` |Appuyer une fois réinitialise votre configuration à la dernière sauvegarde. Appuyer trois fois la réinitialise aux paramètres d’usine.</target>
       </segment>
     </unit>
     <unit id="399befd7-919a-441c-8d48-a1800124f0df">
@@ -30152,18 +30152,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3880</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, you may wish to sort add-ons by publisher, available version, etc.</source>
-        <target>For example, you may wish to sort add-ons by publisher, available version, etc.</target>
+        <target>Par exemple, vous souhaiterez peut-être trier les extensions par éditeur, version disponible, etc.</target>
       </segment>
     </unit>
     <unit id="3c9d510e-9a68-4cc0-84c6-3297414ef299">
       <notes>
         <note appliesTo="source">line: 3881</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-ons can be sortered in ascending or descending order.</source>
-        <target>Add-ons can be sortered in ascending or descending order.</target>
+        <target>Les extensions peuvent être triés par ordre croissant ou décroissant.</target>
       </segment>
     </unit>
     <unit id="10117f60-a5e0-435d-b6a0-273c46a23c9c">
@@ -30282,18 +30282,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3899</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If the download or installation fails you can retry the installation.</source>
-        <target>If the download or installation fails you can retry the installation.</target>
+        <target>Si le téléchargement ou l’installation échoue, vous pouvez réessayer l’installation.</target>
       </segment>
     </unit>
     <unit id="47c4b72a-5a2e-494a-9446-f052dc36d863">
       <notes>
         <note appliesTo="source">line: 3900</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is also possible to cancel the install before exiting the Add-on Store.</source>
-        <target>It is also possible to cancel the install before exiting the Add-on Store.</target>
+        <target>Il est également possible d’annuler l’installation avant de quitter l’Add-on Store.</target>
       </segment>
     </unit>
     <unit id="388e0839-ad45-4801-bc4d-59e6c6baeaae">
@@ -30475,9 +30475,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3929</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can disable an add-on if the add-on status indicates it is "enabled", or enable it if the add-on is "disabled".</source>
-        <target>You can disable an add-on if the add-on status indicates it is "enabled", or enable it if the add-on is "disabled".</target>
+        <target>Vous pouvez désactiver une extension si son statut indique qu’il est « activé » ou l’activer si l’extension est « désactivé ».</target>
       </segment>
     </unit>
     <unit id="ef663cad-62aa-4910-be3c-bb85f3a5ca15">
@@ -30596,7 +30596,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#AddonStoreUpdateChannel}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Changing the automatic update channel</source>
         <target>Changement du canal de mise à jour automatique</target>
       </segment>
@@ -30605,27 +30605,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3947</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can manage the automatic update channels for add-ons from the [installed and updatable add-ons tabs](#AddonStoreFilterStatus).</source>
-        <target>You can manage the automatic update channels for add-ons from the [installed and updatable add-ons tabs](#AddonStoreFilterStatus).</target>
+        <target>Vous pouvez gérer les canaux de mise à jour automatique des extensions à partir des [onglets extensions installées et pouvant être mises à jour](#AddonStoreFilterStatus).</target>
       </segment>
     </unit>
     <unit id="780ce0f9-5857-4cf1-834a-9312d9e6650c">
       <notes>
         <note appliesTo="source">line: 3948</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When [Automatic add-on updates](#AutomaticAddonUpdates) are enabled, add-ons will update to the same [channel](#AddonStoreFilterChannel) they were installed from by [default](#DefaultAddonUpdateChannel).</source>
-        <target>When [Automatic add-on updates](#AutomaticAddonUpdates) are enabled, add-ons will update to the same [channel](#AddonStoreFilterChannel) they were installed from by [default](#DefaultAddonUpdateChannel).</target>
+        <target>Lorsque les [mises à jour automatiques des extensions](#AutomaticAddonUpdates) sont activées, les extensions seront mises à jour vers le même [canal](#AddonStoreFilterChannel) à partir duquel elles ont été installées par [défaut](#DefaultAddonUpdateChannel).</target>
       </segment>
     </unit>
     <unit id="0969abde-bf5b-4f56-a8d4-70d3a1c4699f">
       <notes>
         <note appliesTo="source">line: 3949</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>From an add-on's actions menu, using the submenu "Update channel", you can modify the channels an add-on will automatically update to.</source>
-        <target>From an add-on's actions menu, using the submenu "Update channel", you can modify the channels an add-on will automatically update to.</target>
+        <target>Depuis le menu d’actions d'une extension, en utilisant le sous-menu « Mettre à jour le canal », vous pouvez modifier les canaux vers lesquels une extension sera automatiquement mise à jour.</target>
       </segment>
     </unit>
     <unit id="a4138c24-a9cf-4483-b461-465aa34dff3d">
@@ -31255,7 +31255,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#AddonStoreMenuItem}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Add-on Store</source>
         <target>Add-on Store</target>
       </segment>
@@ -31322,36 +31322,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4061</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sometimes, problems can develop with the Windows Registry, that result in NVDA behaving abnormally.</source>
-        <target>Sometimes, problems can develop with the Windows Registry, that result in NVDA behaving abnormally.</target>
+        <target>Parfois, des problèmes peuvent survenir avec le registre Windows, ce qui entraîne un comportement anormal de NVDA.</target>
       </segment>
     </unit>
     <unit id="2e307b98-1b5e-40a6-8807-734575ef3bfd">
       <notes>
         <note appliesTo="source">line: 4062</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This can be caused by, for example, installing or uninstalling certain programs (such as Adobe Reader or Math Player), as well as Windows updates and other events.</source>
-        <target>This can be caused by, for example, installing or uninstalling certain programs (such as Adobe Reader or Math Player), as well as Windows updates and other events.</target>
+        <target>Cela peut être dû, par exemple, à l’installation ou à la désinstallation de certains programmes (tels qu’Adobe Reader ou Math Player), ainsi qu’aux mises à jour de Windows et à d’autres évènements.</target>
       </segment>
     </unit>
     <unit id="d08d8ff7-e367-4398-b40e-ec73324b638c">
       <notes>
         <note appliesTo="source">line: 4063</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>THE COM Registration Fixing Tool attempts to fix these issues by repairing accessibility entries in the registry.</source>
-        <target>THE COM Registration Fixing Tool attempts to fix these issues by repairing accessibility entries in the registry.</target>
+        <target>L’outil de correction d’enregistrement COM tente de résoudre ces problèmes en réparant les entrées d’accessibilité dans le registre.</target>
       </segment>
     </unit>
     <unit id="bd84720e-3e8e-4bc3-97c3-7a22976b0d64">
       <notes>
         <note appliesTo="source">line: 4065</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The types of problem this tool can fix include:</source>
-        <target>The types of problem this tool can fix include:</target>
+        <target>Les types de problèmes que cet outil peut résoudre incluent :</target>
       </segment>
     </unit>
     <unit id="d61dede5-d2a6-422e-8cfb-bc321eff4d3b">
@@ -31359,9 +31359,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4067</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA reporting "unknown" or "pane", when navigating in browsers such as Firefox or Edge, mail programs such as Thunderbird, Windows Explorer, the task bar, and other programs.</source>
-        <target>NVDA reporting "unknown" or "pane", when navigating in browsers such as Firefox or Edge, mail programs such as Thunderbird, Windows Explorer, the task bar, and other programs.</target>
+        <target>NVDA signale « inconnu » ou « volet » lors de la navigation dans des navigateurs tels que Firefox ou Edge, des programmes de messagerie tels que Thunderbird, Windows Explorer, la barre des tâches et d’autres programmes.</target>
       </segment>
     </unit>
     <unit id="42435e85-a7a8-4c9a-8ba8-394f532511e6">
@@ -31369,9 +31369,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4068</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA failing to switch between focus mode and browse mode when you expect it to.</source>
-        <target>NVDA failing to switch between focus mode and browse mode when you expect it to.</target>
+        <target>NVDA ne parvient pas à basculer entre le mode formulaire et le mode navigation lorsque vous vous y attendez.</target>
       </segment>
     </unit>
     <unit id="801e9750-9243-450f-bfb7-8275a053b4c0">
@@ -31379,9 +31379,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4069</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Buttons which previously had their names spoken, suddenly being reported only as "button".</source>
-        <target>Buttons which previously had their names spoken, suddenly being reported only as "button".</target>
+        <target>Les boutons dont le nom était auparavant prononcé sont soudainement signalés uniquement comme « bouton ».</target>
       </segment>
     </unit>
     <unit id="6557f316-806f-44da-8c8e-f12e7583d179">
@@ -31389,27 +31389,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4070</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA being very slow when navigating in browsers while using browse mode.</source>
-        <target>NVDA being very slow when navigating in browsers while using browse mode.</target>
+        <target>NVDA devient très lent lors de la navigation dans les navigateurs lors de l’utilisation du mode navigation.</target>
       </segment>
     </unit>
     <unit id="d85e0e75-4d01-4a10-bab6-fbdf96911ba4">
       <notes>
         <note appliesTo="source">line: 4072</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Because this tool corrects entries in the Windows registry, it requires administrative access to work, just like when installing a program.</source>
-        <target>Because this tool corrects entries in the Windows registry, it requires administrative access to work, just like when installing a program.</target>
+        <target>Étant donné que cet outil corrige les entrées dans le registre Windows, il nécessite un accès administrateur pour fonctionner, tout comme lors de l’installation d’un programme.</target>
       </segment>
     </unit>
     <unit id="b38f3bfe-f4cc-448f-b7d5-f190327a70cd">
       <notes>
         <note appliesTo="source">line: 4073</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you have UAC (User Access Control) enabled, as most users do, you will need to follow whatever prompts are presented by UAC, to run the tool successfully.</source>
-        <target>If you have UAC (User Access Control) enabled, as most users do, you will need to follow whatever prompts are presented by UAC, to run the tool successfully.</target>
+        <target>Si vous avez activé l’UAC (User Access Control), comme la plupart des utilisateurs, vous devrez suivre les invites présentées par l’UAC pour exécuter l’outil avec succès.</target>
       </segment>
     </unit>
     <unit id="790f37d0-f3cb-4dcd-8f4b-4a12e9d9944f">
@@ -31516,9 +31516,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4094</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For an even more extensive list of free and commercial synthesizers that you can purchase and download for use with NVDA, please see the [extra voices page](https://github.com/nvaccess/nvda/wiki/ExtraVoices).</source>
-        <target>For an even more extensive list of free and commercial synthesizers that you can purchase and download for use with NVDA, please see the [extra voices page](https://github.com/nvaccess/nvda/wiki/ExtraVoices).</target>
+        <target>Pour une liste encore plus complète de synthétiseurs gratuits et commerciaux que vous pouvez acheter et télécharger pour une utilisation avec NVDA, veuillez consulter la [page des voix supplémentaires](https://github.com/nvaccess/nvda/wiki/ExtraVoices).</target>
       </segment>
     </unit>
     <unit id="861cd6f6-afa0-4c1f-8a26-fa79e1125024">
@@ -31527,7 +31527,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#eSpeakNG}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>eSpeak NG</source>
         <target>eSpeak NG</target>
       </segment>
@@ -31714,7 +31714,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4128</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>[Microsoft Speech Platform - Runtime (Version 11), x86](https://www.microsoft.com/download/en/details.aspx?id=27225)</source>
         <target>[Microsoft Speech Platform - Runtime (Version 11), x86](https://www.microsoft.com/download/en/details.aspx?id=27225)</target>
       </segment>
@@ -31724,7 +31724,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4129</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>[Microsoft Speech Platform - Runtime Languages (Version 11)](https://www.microsoft.com/download/en/details.aspx?id=27224)</source>
         <target>[Microsoft Speech Platform - Runtime Languages (Version 11)](https://www.microsoft.com/download/en/details.aspx?id=27224)</target>
       </segment>
@@ -31978,7 +31978,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4166</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>HumanWare BrailleNote</source>
         <target>HumanWare BrailleNote</target>
       </segment>
@@ -31988,7 +31988,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4167</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>SuperBraille</source>
         <target>SuperBraille</target>
       </segment>
@@ -32008,7 +32008,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4169</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>HIMS Braille Sense/Braille EDGE/Smart Beetle/Sync Braille Series</source>
         <target>Série HIMS Braille Sense/Braille EDGE/Smart Beetle/Sync Braille</target>
       </segment>
@@ -33281,7 +33281,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4319</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Braillino</source>
         <target>Braillino</target>
       </segment>
@@ -33291,7 +33291,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4320</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Bookworm</source>
         <target>Bookworm</target>
       </segment>
@@ -33753,7 +33753,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4382</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Baum: SuperVario, PocketVario, VarioUltra, Pronto!, SuperVario2, Vario 340</source>
         <target>Baum: SuperVario, PocketVario, VarioUltra, Pronto!, SuperVario2, Vario 340</target>
       </segment>
@@ -33763,7 +33763,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4383</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>HumanWare: Brailliant, BrailleConnect, Brailliant2</source>
         <target>HumanWare: Brailliant, BrailleConnect, Brailliant2</target>
       </segment>
@@ -33773,7 +33773,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4384</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>APH: Refreshabraille</source>
         <target>APH: Refreshabraille</target>
       </segment>
@@ -33783,7 +33783,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4385</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Orbit: Orbit Reader 20</source>
         <target>Orbit: Orbit Reader 20</target>
       </segment>
@@ -34403,9 +34403,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4477</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Brailliant BI and B series of displays from [HumanWare](https://www.humanware.com/), including the BI 14, BI 32, BI 20X, BI 40, BI 40X and B 80, are supported when connected via USB or bluetooth.</source>
-        <target>The Brailliant BI and B series of displays from [HumanWare](https://www.humanware.com/), including the BI 14, BI 32, BI 20X, BI 40, BI 40X and B 80, are supported when connected via USB or bluetooth.</target>
+        <target>Les BI 14, BI 32, BI 20X, BI 40, BI 40X et B 80 sont pris en charge lorsqu’ils sont connectés via USB ou Bluetooth.</target>
       </segment>
     </unit>
     <unit id="9434d525-52da-43e2-a715-7fa95cbf7eeb">
@@ -34440,7 +34440,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4483</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>APH Mantis Q40</source>
         <target>APH Mantis Q40</target>
       </segment>
@@ -34450,7 +34450,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4484</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>APH Chameleon 20</source>
         <target>APH Chameleon 20</target>
       </segment>
@@ -34460,7 +34460,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4485</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Humanware BrailleOne</source>
         <target>Humanware BrailleOne</target>
       </segment>
@@ -34470,7 +34470,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4486</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NLS eReader</source>
         <target>NLS eReader</target>
       </segment>
@@ -34489,9 +34489,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4489</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Following are the key assignments for the Brailliant BI/B and BrailleNote touch displays with NVDA.</source>
-        <target>Following are the key assignments for the Brailliant BI/B and BrailleNote touch displays with NVDA.</target>
+        <target>Voici les affectations de touches des afficheurs Braille Brailliant BI/B et BrailleNote avec NVDA.</target>
       </segment>
     </unit>
     <unit id="27b0263e-9e91-45ee-8b5b-9cc4ff9679ec">
@@ -34883,7 +34883,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#Hims}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>HIMS Braille Sense/Braille EDGE/Smart Beetle/Sync Braille Series</source>
         <target>HIMS Braille Sense/Braille EDGE/Smart Beetle/Sync Braille Series</target>
       </segment>
@@ -35612,9 +35612,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#Seika}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Seika Braille Displays</source>
-        <target>Seika Braille Displays</target>
+        <target>Afficheurs Braille Seika</target>
       </segment>
     </unit>
     <unit id="15c76973-5512-4ec6-9894-1bc7380770c5">
@@ -35806,7 +35806,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>tab |b1</source>
         <target>tab |b1</target>
       </segment>
@@ -35828,7 +35828,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>alt+tab |b1+b2</source>
         <target>alt+tab |b1+b2</target>
       </segment>
@@ -37859,9 +37859,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4906</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For BrailleNote Touch, please refer to the [Brailliant BI Series / BrailleNote Touch](#HumanWareBrailliant) section.</source>
-        <target>For BrailleNote Touch, please refer to the [Brailliant BI Series / BrailleNote Touch](#HumanWareBrailliant) section.</target>
+        <target>Pour BrailleNote Touch, veuillez vous référer à la section [Brailliant BI Series / BrailleNote Touch](#HumanWareBrailliant).</target>
       </segment>
     </unit>
     <unit id="6d556bc3-5777-4a38-bff1-18bde7cbb8e2">
@@ -38597,7 +38597,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#EcoBraille}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>EcoBraille</source>
         <target>EcoBraille</target>
       </segment>
@@ -38625,7 +38625,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4999</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>EcoBraille 20</source>
         <target>EcoBraille 20</target>
       </segment>
@@ -38635,7 +38635,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 5000</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>EcoBraille 40</source>
         <target>EcoBraille 40</target>
       </segment>
@@ -38645,7 +38645,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 5001</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>EcoBraille 80</source>
         <target>EcoBraille 80</target>
       </segment>
@@ -38655,7 +38655,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 5002</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>EcoBraille Plus</source>
         <target>EcoBraille Plus</target>
       </segment>
@@ -38900,7 +38900,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#SuperBraille}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>SuperBraille</source>
         <target>SuperBraille</target>
       </segment>
@@ -41640,9 +41640,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>leftArrow key |space+dot3, joystick left or dpad left</source>
-        <target>leftArrow key |space+dot3, joystick left or dpad left</target>
+        <target>flèche gauche | espace + point 3, joystick gauche ou pavé directionnel gauche</target>
       </segment>
     </unit>
     <unit id="938b38fa-689b-47ee-af82-d2f783abe3f7">
@@ -41781,81 +41781,81 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 5385</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Dot Pad from Dot Inc is a device that can display refreshable tactile graphics and braille.</source>
-        <target>The Dot Pad from Dot Inc is a device that can display refreshable tactile graphics and braille.</target>
+        <target>Le Dot Pad de Dot Inc est un appareil capable d’afficher des graphiques tactiles actualisables et du braille.</target>
       </segment>
     </unit>
     <unit id="4d400114-f9cf-4da1-b230-c3624bf96e5d">
       <notes>
         <note appliesTo="source">line: 5386</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA can display either a single line of braille on the devices dedicated braille display line, or multiple lines of braille on its tactile graphics area.</source>
-        <target>NVDA can display either a single line of braille on the devices dedicated braille display line, or multiple lines of braille on its tactile graphics area.</target>
+        <target>NVDA peut afficher soit une seule ligne de braille sur la ligne d’affichage braille dédiée des appareils, soit plusieurs lignes de braille sur sa zone graphique tactile.</target>
       </segment>
     </unit>
     <unit id="b9977f13-8322-4ae7-ba5f-1264edb1beb6">
       <notes>
         <note appliesTo="source">line: 5387</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The A300 model has a tactile graphics area of 120 by 80 dots, which can fit 8 lines of 20 cells each.</source>
-        <target>The A300 model has a tactile graphics area of 120 by 80 dots, which can fit 8 lines of 20 cells each.</target>
+        <target>Le modèle A300 dispose d’une zone graphique tactile de 120 par 80 points, pouvant contenir 8 lignes de 20 cellules chacune.</target>
       </segment>
     </unit>
     <unit id="929fb3e0-8466-4669-a510-15f99638e268">
       <notes>
         <note appliesTo="source">line: 5389</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can configure whether NVDA displays braille on the dedicated braille display line or on the tactile graphics area via the Braille Destination option in NVDA's Braille settings for this driver.</source>
-        <target>You can configure whether NVDA displays braille on the dedicated braille display line or on the tactile graphics area via the Braille Destination option in NVDA's Braille settings for this driver.</target>
+        <target>Vous pouvez configurer si NVDA affiche le braille sur la ligne d’affichage braille dédiée ou sur la zone graphique tactile via l’option Destination braille dans les paramètres braille de NVDA pour ce pilote.</target>
       </segment>
     </unit>
     <unit id="85e13159-cf4c-4954-91fe-a790dcc0b42c">
       <notes>
         <note appliesTo="source">line: 5391</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Panning keys are supported, but due to limited buttons on the device, other commands and routing capabilities are currently not available.</source>
-        <target>Panning keys are supported, but due to limited buttons on the device, other commands and routing capabilities are currently not available.</target>
+        <target>Les touches de panoramique sont prises en charge, mais en raison du nombre limité de boutons sur l’appareil, d’autres commandes et capacités de routage ne sont actuellement pas disponibles.</target>
       </segment>
     </unit>
     <unit id="1be86e5b-910e-45f8-8c63-13391f218c2e">
       <notes>
         <note appliesTo="source">line: 5393</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When selecting the Dot Pad driver in NVDA, you must manually select the USB / Bluetooth virtual serial port the Dot Pad is connected to.</source>
-        <target>When selecting the Dot Pad driver in NVDA, you must manually select the USB / Bluetooth virtual serial port the Dot Pad is connected to.</target>
+        <target>Lors de la sélection du pilote Dot Pad dans NVDA, vous devez sélectionner manuellement le port série virtuel USB / Bluetooth auquel le Dot Pad est connecté.</target>
       </segment>
     </unit>
     <unit id="3fc71799-81b7-48de-8ae5-29a4d7a2c92b">
       <notes>
         <note appliesTo="source">line: 5394</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This driver does not support auto detection.</source>
-        <target>This driver does not support auto detection.</target>
+        <target>Ce pilote ne prend pas en charge la détection automatique.</target>
       </segment>
     </unit>
     <unit id="61fc30b0-e187-44ee-8ef0-10096e52680f">
       <notes>
         <note appliesTo="source">line: 5396</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please note that due to hardware limitations, the Dot Pad will not refresh all dots correctly while your hand is on the device.</source>
-        <target>Please note that due to hardware limitations, the Dot Pad will not refresh all dots correctly while your hand is on the device.</target>
+        <target>Veuillez noter qu’en raison de limitations matérielles, le Dot Pad n’actualisera pas correctement tous les points lorsque votre main est sur l’appareil.</target>
       </segment>
     </unit>
     <unit id="7561f3b4-5400-447c-84ea-e78144c615b4">
       <notes>
         <note appliesTo="source">line: 5397</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Make sure to lift your hand entirely off the device when navigating with NVDA, and only start reading again once it has fully updated.</source>
-        <target>Make sure to lift your hand entirely off the device when navigating with NVDA, and only start reading again once it has fully updated.</target>
+        <target>Assurez-vous de retirer complètement votre main de l’appareil lorsque vous naviguez avec NVDA et ne recommencez à lire qu’une fois la mise à jour terminée.</target>
       </segment>
     </unit>
     <unit id="b36e16e2-0cbd-4fc6-85eb-2d20bffe4934">
@@ -42080,9 +42080,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 5431</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Opening external documents from the NVDA menu, such as the user guide file.</source>
-        <target>Opening external documents from the NVDA menu, such as the user guide file.</target>
+        <target>Ouverture de documents externes à partir du menu NVDA, tels que le fichier du guide de l’utilisateur.</target>
       </segment>
     </unit>
     <unit id="66707e65-701c-45c6-b665-372858e71fd9">
@@ -42509,7 +42509,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>`-n LANGUAGE` |`--lang=LANGUAGE` |Override the configured NVDA language. Set to "Windows" for current user default, "en" for English, etc.</source>
         <target>`-n LANGUAGE` |`--lang=LANGUAGE` |Remplacer la langue configurée de NVDA. Définir sur "Windows" pour la langue par défaut de l'utilisateur actuel, "en" pour l'anglais, etc.</target>
       </segment>
@@ -42542,7 +42542,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>`-d` |`--disable-addons` |Add-ons will have no effect</source>
         <target>`-d` |`--disable-addons` |Les extensions n'auront aucun effet</target>
       </segment>
@@ -42641,9 +42641,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>None |`--create-portable-silent` |Creates a portable copy of NVDA (without starting the new copy). Requires `--portable-path` to be specified. This option suppresses warnings when writing to non-empty directories and may overwrite files without warning.</source>
-        <target>None |`--create-portable-silent` |Creates a portable copy of NVDA (without starting the new copy). Requires `--portable-path` to be specified. This option suppresses warnings when writing to non-empty directories and may overwrite files without warning.</target>
+        <target>None |`--create-portable-silent` | Crée une copie portable de NVDA (sans démarrer la nouvelle copie). Nécessite la spécification de `--portable-path`. Cette option supprime les avertissements lors de l’écriture dans des répertoires non vides et peut écraser des fichiers sans avertissement.</target>
       </segment>
     </unit>
     <unit id="fce95a72-ddf4-486a-ba2e-df6635fc9198">
@@ -42661,27 +42661,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 5513</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Just as you can silently install NVDA by passing the `--install-silent` command line option to NVDA, it can be silently uninstalled by passing the `/S` command to the uninstaller.</source>
-        <target>Just as you can silently install NVDA by passing the `--install-silent` command line option to NVDA, it can be silently uninstalled by passing the `/S` command to the uninstaller.</target>
+        <target>Tout comme vous pouvez installer NVDA silencieusement en passant l’option de ligne de commande « --install-silent » à NVDA, vous pouvez le désinstaller silencieusement en passant l’argument « /S » au programme de désinstallation.</target>
       </segment>
     </unit>
     <unit id="c675632d-0479-418d-a36e-ea9d8058b22b">
       <notes>
         <note appliesTo="source">line: 5515</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA's uninstaller is called `uninstall.exe` and resides under the NVDA installation directory, `%ProgramFiles(x86)%\nvda` on 64-bit Windows, or `%ProgramFiles%\nvda` on 32-bit Windows.</source>
-        <target>NVDA's uninstaller is called `uninstall.exe` and resides under the NVDA installation directory, `%ProgramFiles(x86)%\nvda` on 64-bit Windows, or `%ProgramFiles%\nvda` on 32-bit Windows.</target>
+        <target>Le programme de désinstallation de NVDA s’appelle « uninstall.exe » et se trouve sous le répertoire d’installation de NVDA, « %ProgramFiles(x86)%\nvda » sur Windows 64 bits ou « %ProgramFiles%\nvda » sur Windows 32 bits.</target>
       </segment>
     </unit>
     <unit id="8b3a8a3d-3f66-49c6-8793-3ffed70368ff">
       <notes>
         <note appliesTo="source">line: 5517</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following are the command line options for NVDA's uninstaller:</source>
-        <target>The following are the command line options for NVDA's uninstaller:</target>
+        <target>Voici les options de ligne de commande pour le programme de désinstallation de NVDA :</target>
       </segment>
     </unit>
     <unit id="e9d76e04-7ac4-4e50-893e-fe3e656bc9ad">
