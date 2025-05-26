@@ -25182,45 +25182,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3099</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These controls allow you to specify an alternative URL to download Add-on Store data from.</source>
-        <target>These controls allow you to specify an alternative URL to download Add-on Store data from.</target>
+        <target>Ces contrôles vous permettent de spécifier une URL alternative à partir de laquelle télécharger les données de lêaddon store.</target>
       </segment>
     </unit>
     <unit id="e00a9820-461e-48c0-9768-79381ca3e9e1">
       <notes>
         <note appliesTo="source">line: 3100</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This may be of use in locations where access to the NV Access Add-on Store server is slow or unavailable.</source>
-        <target>This may be of use in locations where access to the NV Access Add-on Store server is slow or unavailable.</target>
+        <target>Cela peut être utile dans les endroits où l’accès au serveur NV Access Add-on Store est lent ou indisponible.</target>
       </segment>
     </unit>
     <unit id="6db5bc5d-4352-440c-86f3-5e434a2e1dfd">
       <notes>
         <note appliesTo="source">line: 3102</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The read-only text box shows the current mirror URL.</source>
-        <target>The read-only text box shows the current mirror URL.</target>
+        <target>La zone de texte en lecture seule affiche l’URL du miroir actuel.</target>
       </segment>
     </unit>
     <unit id="c31aa45c-52d3-432d-9da6-63de4ecabbd1">
       <notes>
         <note appliesTo="source">line: 3103</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If no mirror is in use (i.e. the NV Access Add-on Store server is being used), "No mirror" is displayed.</source>
-        <target>If no mirror is in use (i.e. the NV Access Add-on Store server is being used), "No mirror" is displayed.</target>
+        <target>Si aucun miroir n’est utilisé (c’est-à-dire que le serveur NV Access Add-on Store est utilisé), «Aucun miroir» s’affiche.</target>
       </segment>
     </unit>
     <unit id="5c1cbc23-5376-40c3-9f92-320c61ce131a">
       <notes>
         <note appliesTo="source">line: 3105</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you wish to change the Add-on Store mirror, press the "Change..." button to open the [Set Add-on Store Mirror dialog](#SetURLDialog).</source>
-        <target>If you wish to change the Add-on Store mirror, press the "Change..." button to open the [Set Add-on Store Mirror dialog](#SetURLDialog).</target>
+        <target>Si vous souhaitez modifier le miroir de l’add-on store, appuyez sur le bouton « Modifier... » pour ouvrir la boîte de dialogue [Définir le miroir de l’add-on store](#SetURLDialog).</target>
       </segment>
     </unit>
     <unit id="2657d7be-4212-4e5b-b97d-a85dfe7476b6">
@@ -25238,9 +25238,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3109</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This category allows you to configure the behaviour of [Remote Access](#RemoteAccess).</source>
-        <target>This category allows you to configure the behaviour of [Remote Access](#RemoteAccess).</target>
+        <target>Cette catégorie vous permet de configurer le comportement de [l’accès à distance](#RemoteAccess).</target>
       </segment>
     </unit>
     <unit id="e4703b50-8f75-4f41-bd21-2659efb04c3c">
@@ -25258,27 +25258,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3113</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this checkbox to enable or disable NVDA's Remote Access feature.</source>
-        <target>Use this checkbox to enable or disable NVDA's Remote Access feature.</target>
+        <target>Utilisez cette case à cocher pour activer ou désactiver la fonction d’accès à distance de NVDA.</target>
       </segment>
     </unit>
     <unit id="9fada5ff-5a84-4a80-977e-ec584832d240">
       <notes>
         <note appliesTo="source">line: 3115</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When this is unchecked, the Remote Access feature is entirely unavailable.</source>
-        <target>When this is unchecked, the Remote Access feature is entirely unavailable.</target>
+        <target>Lorsque cette option n’est pas cochée, la fonctionnalité d’accès à distance est totalement indisponible.</target>
       </segment>
     </unit>
     <unit id="dda10917-5d77-41cd-8a44-b08932cadedb">
       <notes>
         <note appliesTo="source">line: 3117</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please note that in order to continue a Remote Access session on secure screens such as User Account Control prompts, you must enable this setting, save the changes, and then [copy your settings to NVDA's system configuration directory](#GeneralSettingsCopySettings).</source>
-        <target>Please note that in order to continue a Remote Access session on secure screens such as User Account Control prompts, you must enable this setting, save the changes, and then [copy your settings to NVDA's system configuration directory](#GeneralSettingsCopySettings).</target>
+        <target>Veuillez noter que pour continuer une session d’accès à distance sur des écrans sécurisés tels que les invites de contrôle de compte d’utilisateur, vous devez activer ce paramètre, enregistrer les modifications, puis [copier vos paramètres dans le répertoire de configuration système de NVDA](#GeneralSettingsCopySettings).</target>
       </segment>
     </unit>
     <unit id="75044417-01a7-42a4-b008-a49b11a8d746">
@@ -25303,9 +25303,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3121</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following options are only available if Remote Access is enabled.</source>
-        <target>The following options are only available if Remote Access is enabled.</target>
+        <target>Les options suivantes ne sont disponibles que si l’accès à distance est activé.</target>
       </segment>
     </unit>
     <unit id="f7926c47-0767-4ec0-aff1-fd42b391c4cc">
@@ -25361,27 +25361,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3132</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option allows you to automatically establish a Remote Access session when NVDA starts.</source>
-        <target>This option allows you to automatically establish a Remote Access session when NVDA starts.</target>
+        <target>Cette option vous permet d’établir automatiquement une session d’accès à distance au démarrage de NVDA.</target>
       </segment>
     </unit>
     <unit id="620f9532-0216-4f60-bb66-8c743593e654">
       <notes>
         <note appliesTo="source">line: 3133</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This could be useful, for example, to control your home computer when away from home.</source>
-        <target>This could be useful, for example, to control your home computer when away from home.</target>
+        <target>Cela pourrait être utile, par exemple, pour contrôler votre ordinateur personnel lorsque vous n’êtes pas à la maison.</target>
       </segment>
     </unit>
     <unit id="a10b52e9-c203-4785-becd-4eae781c7d34">
       <notes>
         <note appliesTo="source">line: 3135</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use caution when enabling this option, as it may increase the risk of unauthorized access to your computer.</source>
-        <target>Use caution when enabling this option, as it may increase the risk of unauthorized access to your computer.</target>
+        <target>Soyez prudent lorsque vous activez cette option, car cela peut augmenter le risque d’accès non autorisé à votre ordinateur.</target>
       </segment>
     </unit>
     <unit id="8d685a96-562f-4854-b21c-0cd126cb21d5">
@@ -25408,18 +25408,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3141</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Select the connection mode for automatic connections.</source>
-        <target>Select the connection mode for automatic connections.</target>
+        <target>Sélectionnez le mode de connexion pour les connexions automatiques.</target>
       </segment>
     </unit>
     <unit id="f92b4b86-c3b5-4ce6-b4e4-2bf81ec20d86">
       <notes>
         <note appliesTo="source">line: 3143</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</target>
+        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché.</target>
       </segment>
     </unit>
     <unit id="cd41a94e-2ad8-4085-8167-bba3b861b438">
@@ -25470,18 +25470,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3152</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Select the server type for automatic connections.</source>
-        <target>Select the server type for automatic connections.</target>
+        <target>Sélectionnez le type de serveur pour les connexions automatiques.</target>
       </segment>
     </unit>
     <unit id="f5886c51-a6c9-4ca7-850f-ed42eca20fea">
       <notes>
         <note appliesTo="source">line: 3154</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</target>
+        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché.</target>
       </segment>
     </unit>
     <unit id="35ae2c00-7dad-4f5a-8886-e3d3f723c788">
@@ -25532,27 +25532,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3163</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this field to set the URL of the Remote Access server you would like to use for automatic connections.</source>
-        <target>Use this field to set the URL of the Remote Access server you would like to use for automatic connections.</target>
+        <target>Utilisez ce champ pour définir l’URL du serveur d’accès à distance que vous souhaitez utiliser pour les connexions automatiques.</target>
       </segment>
     </unit>
     <unit id="a2314d0b-fed3-4a5d-a629-782ecb20a197">
       <notes>
         <note appliesTo="source">line: 3164</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If the server uses a port other than 6837, include it after a colon (eg. `example.com:1234`).</source>
-        <target>If the server uses a port other than 6837, include it after a colon (eg. `example.com:1234`).</target>
+        <target>Si le serveur utilise un port autre que 6837, incluez-le après deux points (par exemple, « example.com:1234 »).</target>
       </segment>
     </unit>
     <unit id="1c48db19-a2bd-4c29-810c-6a7b38a6269a">
       <notes>
         <note appliesTo="source">line: 3166</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Use existing".</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Use existing".</target>
+        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché et que [Serveur](#RemoteAutoconnectServer) est défini sur «Utiliser un existant».</target>
       </segment>
     </unit>
     <unit id="3922ec7e-84f7-4733-b639-2617ff92e68a">
@@ -25570,18 +25570,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3170</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this field to set the TCP port you would like to use for automatic connections.</source>
-        <target>Use this field to set the TCP port you would like to use for automatic connections.</target>
+        <target>Utilisez ce champ pour définir le port TCP que vous souhaitez utiliser pour les connexions automatiques.</target>
       </segment>
     </unit>
     <unit id="37ce416a-0855-444d-a6cd-828aaba73600">
       <notes>
         <note appliesTo="source">line: 3172</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Host locally".</source>
-        <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked, and [Server](#RemoteAutoconnectServer) is set to "Host locally".</target>
+        <target>Cette option n’est disponible que lorsque [Se connecter automatiquement après le démarrage de NVDA](#RemoteAutoconnect) est coché et que [Serveur](#RemoteAutoconnectServer) est défini sur «Héberger localement».</target>
       </segment>
     </unit>
     <unit id="951b1ca5-229b-4118-b4dd-f6056d1befe8">
@@ -25599,16 +25599,16 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3176</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use this field to set the key (password) you would like to use for automatic connections.</source>
-        <target>Use this field to set the key (password) you would like to use for automatic connections.</target>
+        <target>Utilisez ce champ pour définir la clé (mot de passe) que vous souhaitez utiliser pour les connexions automatiques.</target>
       </segment>
     </unit>
     <unit id="cc411c22-798f-4e84-8d71-0d917fe47cd4">
       <notes>
         <note appliesTo="source">line: 3178</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</source>
         <target>This option is only available when [Automatically connect after NVDA starts](#RemoteAutoconnect) is checked.</target>
       </segment>
@@ -25628,9 +25628,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3182</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This button allows you to forget the fingerprints of all previously trusted Remote Access servers.</source>
-        <target>This button allows you to forget the fingerprints of all previously trusted Remote Access servers.</target>
+        <target>Ce bouton vous permet d’oublier les empreintes digitales de tous les serveurs d’accès à distance précédemment approuvés.</target>
       </segment>
     </unit>
     <unit id="cb352821-53f2-4c81-8da5-d04a2190e726">
@@ -25646,18 +25646,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3184</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You will be asked to confirm before all trusted fingerprints are deleted.</source>
-        <target>You will be asked to confirm before all trusted fingerprints are deleted.</target>
+        <target>Il vous sera demandé de confirmer avant que toutes les empreintes digitales de confiance ne soient supprimées.</target>
       </segment>
     </unit>
     <unit id="5a6e6ae6-9b3f-40a3-989d-8dd76024335a">
       <notes>
         <note appliesTo="source">line: 3186</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available if there are trusted fingerprints stored in your configuration.</source>
-        <target>This option is only available if there are trusted fingerprints stored in your configuration.</target>
+        <target>Cette option n’est disponible que si des empreintes digitales fiables sont stockées dans votre configuration.</target>
       </segment>
     </unit>
     <unit id="41cbd374-e298-42ab-badc-9dd6efb312c8">
@@ -25780,18 +25780,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3207</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This dialog allows you to specify the URL of a mirror to use when [updating NVDA](#GeneralSettingsCheckForUpdates) or [using the Add-on Store](#AddonsManager).</source>
-        <target>This dialog allows you to specify the URL of a mirror to use when [updating NVDA](#GeneralSettingsCheckForUpdates) or [using the Add-on Store](#AddonsManager).</target>
+        <target>Cette boîte de dialogue vous permet de spécifier l’URL d’un miroir à utiliser lors de la [mise à jour de NVDA](#GeneralSettingsCheckForUpdates) ou [de l’utilisation du magasin de modules complémentaires](#AddonsManager).</target>
       </segment>
     </unit>
     <unit id="e6fbcabf-879b-44a0-aacc-2a0f7878f147">
       <notes>
         <note appliesTo="source">line: 3208</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This may be of use in locations where access to the NV Access servers for these functions is slow or unavailable.</source>
-        <target>This may be of use in locations where access to the NV Access servers for these functions is slow or unavailable.</target>
+        <target>Cela peut être utile dans les endroits où l’accès aux serveurs NV Access pour ces fonctions est lent ou indisponible.</target>
       </segment>
     </unit>
     <unit id="f73dfe76-9328-4ad1-8a98-4aae4490d98f">
@@ -25799,9 +25799,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3210</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When setting the [NVDA update mirror](#UpdateMirror), the title of this dialog will be "Set NVDA Update Mirror".</source>
-        <target>When setting the [NVDA update mirror](#UpdateMirror), the title of this dialog will be "Set NVDA Update Mirror".</target>
+        <target>Lors de la configuration du [miroir de mise à jour NVDA](#UpdateMirror), le titre de cette boîte de dialogue sera « Définir le miroir de mise à jour NVDA ».</target>
       </segment>
     </unit>
     <unit id="19a0ca46-0cf7-4f44-a012-76fb71b7bd3b">
@@ -25809,9 +25809,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3211</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When setting the [Add-on Store mirror](#AddonStoreMetadataMirror), the title of this dialog will be "Set Add-on Store Mirror Server".</source>
-        <target>When setting the [Add-on Store mirror](#AddonStoreMetadataMirror), the title of this dialog will be "Set Add-on Store Mirror Server".</target>
+        <target>Lors de la configuration du [miroir de l’add-on store](#AddonStoreMetadataMirror), le titre de cette boîte de dialogue sera « Définir le serveur miroir de l’add-on store ».</target>
       </segment>
     </unit>
     <unit id="8a9fda8d-8feb-4a2e-9bb2-54857a6b1d3a">
@@ -25829,27 +25829,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3215</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enter the URL (web address) of the mirror you wish to use here.</source>
-        <target>Enter the URL (web address) of the mirror you wish to use here.</target>
+        <target>Saisissez ici l’URL (adresse Web) du miroir que vous souhaitez utiliser.</target>
       </segment>
     </unit>
     <unit id="af23ed2c-1ebe-4e3c-954e-114c91ebc45e">
       <notes>
         <note appliesTo="source">line: 3216</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only HTTP and HTTPS URLs are supported.</source>
-        <target>Only HTTP and HTTPS URLs are supported.</target>
+        <target>Seules les URL HTTP et HTTPS sont prises en charge.</target>
       </segment>
     </unit>
     <unit id="eb8ca7c0-5d29-4578-8d2f-d82a2b5054f3">
       <notes>
         <note appliesTo="source">line: 3217</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For your privacy, NV Access recommends using HTTPS URLs whenever possible.</source>
-        <target>For your privacy, NV Access recommends using HTTPS URLs whenever possible.</target>
+        <target>Pour votre confidentialité, NV Access recommande d’utiliser les URL HTTPS dans la mesure du possible.</target>
       </segment>
     </unit>
     <unit id="1baea992-7155-41e4-9d86-1a2732c418c3">
@@ -30125,27 +30125,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#AddonStoreSortByColumn}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sorting the add-ons list by column</source>
-        <target>Sorting the add-ons list by column</target>
+        <target>Trier la liste des extensions par colonne</target>
       </segment>
     </unit>
     <unit id="1bb2e9ff-fc4d-49f6-aa5f-70a21b94599c">
       <notes>
         <note appliesTo="source">line: 3878</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, the add-ons list is sorted by the add-ons' display name.</source>
-        <target>By default, the add-ons list is sorted by the add-ons' display name.</target>
+        <target>Par défaut, la liste des extensions est triée par nom d’affichage des extensions.</target>
       </segment>
     </unit>
     <unit id="f03b01ec-a7e3-41a1-b1ea-55979bffe91b">
       <notes>
         <note appliesTo="source">line: 3879</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The "Sort by column" combo box can be used to sort the list by the available columns for each tab.</source>
-        <target>The "Sort by column" combo box can be used to sort the list by the available columns for each tab.</target>
+        <target>La zone de liste déroulante «Trier par colonne» peut être utilisée pour trier la liste en fonction des colonnes disponibles pour chaque onglet.</target>
       </segment>
     </unit>
     <unit id="a00e9891-da57-405e-8a8d-a429cc17e185">
