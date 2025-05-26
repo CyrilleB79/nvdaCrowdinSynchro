@@ -5947,7 +5947,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 62</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Besides English, NVDA has been translated into 55 languages including: Afrikaans, Albanian, Amharic, Arabic, Aragonese, Bosnian, Bulgarian, Burmese, Catalan, Chinese (simplified and traditional), Croatian, Czech, Danish, Dutch, Farsi, Finnish, French, Galician, Georgian, German (Germany and Switzerland), Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Japanese, Kannada, Korean, Kyrgyz, Lithuanian, Macedonian, Mongolian, Nepali, Norwegian, Polish, Portuguese (Brazil and Portugal), Punjabi, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish (Colombia and Spain), Swedish, Tamil, Thai, Turkish, Ukrainian and Vietnamese.</source>
         <target>En plus de l'anglais, NVDA a été traduit en 55 langues, y compris : afrikaans, albanais, amharique, arabe, aragonais, bosniaque, bulgare, birman, catalan, chinois (simplifié et traditionnel), croate, tchèque, danois, néerlandais, farsi, finnois, français, galicien, géorgien, allemand (Allemagne et Suisse), grec, hébreu, hindi, hongrois, islandais, irlandais, italien, japonais, kannada, coréen, kirghiz, lituanien, macédonien, mongol, népalais, norvégien, polonais, portugais (Brésil et Portugal), pendjabi, roumain, russe, serbe, slovaque, slovène, espagnol (Colombie et Espagne), suédois, tamoul, thaï, turc, ukrainien et vietnamien.</target>
       </segment>
@@ -6294,7 +6294,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 118</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>https://www.nvaccess.org/download</source>
         <target>https://www.nvaccess.org/download</target>
       </segment>
@@ -6429,7 +6429,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 138</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>You may need to wait a few seconds while a temporary copy of NVDA loads.</source>
         <target>Vous devrez peut-être attendre quelques secondes pendant qu'une copie temporaire de NVDA se charge.</target>
       </segment>
@@ -6448,7 +6448,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 140</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>The NVDA Launcher window appears with a button to open the license agreement.</source>
         <target>La fenêtre de lancement de NVDA apparaît avec un bouton pour ouvrir le contrat de licence.</target>
       </segment>
@@ -6457,7 +6457,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 141</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Press the `downArrow` to read the license agreement.</source>
         <target>Appuyez sur la touche `flèche vers le bas` pour lire le contrat de licence.</target>
       </segment>
@@ -6770,7 +6770,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 181</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>A dialog box appears to confirm that the install of NVDA has been successful.</source>
         <target>Une boîte de dialogue apparaît pour confirmer que l'installation de NVDA a réussi.</target>
       </segment>
@@ -7296,7 +7296,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Speak typed characters |`NVDA+2` |`NVDA+2` |Controls when NVDA announces characters you type. </source>
         <target>Prononcer les caractères tapés | `NVDA+2` | `NVDA+2` | Contrôle la manière dont NVDA annonce les caractères que vous tapez. </target>
       </segment>
@@ -7307,7 +7307,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Speak typed words |`NVDA+3` |`NVDA+3` |Controls when NVDA announces words you type. </source>
         <target>Prononcer les mots tapés | `NVDA+3` | `NVDA+3` | Contrôle la manière dont NVDA annonce les mots que vous tapez. </target>
       </segment>
@@ -8356,7 +8356,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 389</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>We recommend starting with the "Basic Training for NVDA" module.</source>
         <target>Nous recommandons de commencer par le module « Formation de base pour NVDA ».</target>
       </segment>
@@ -8686,7 +8686,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 440</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>This option allows you to choose whether or not NVDA should copy the user configuration from the currently running NVDA into the configuration for the currently logged on user, for the installed copy of NVDA.</source>
         <target>Cette option vous permet de choisir si NVDA doit ou non copier la configuration utilisateur de la version actuellement exécutée de NVDA vers la configuration de l'utilisateur actuellement connecté, pour la version installée de NVDA.</target>
       </segment>
@@ -9349,7 +9349,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 537</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>By default, NVDA is set to use the Desktop layout, though you can switch to the Laptop layout in the Keyboard category of the [NVDA Settings](#NVDASettings) dialog, found under Preferences in the NVDA menu.</source>
         <target>Par défaut, NVDA est configuré pour utiliser la disposition bureau, mais vous pouvez opter pour la disposition ordinateur portable dans la catégorie Clavier de la boîte de dialogue [Paramètres NVDA](#NVDASettings), que vous trouverez sous Préférences dans le menu NVDA.</target>
       </segment>
@@ -11367,9 +11367,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Move to start of selection in review |`NVDA+alt+home` |`NVDA+alt+home` |None |Moves the review cursor to the first character of the selected text</source>
-        <target>Move to start of selection in review |`NVDA+alt+home` |`NVDA+alt+home` |None |Moves the review cursor to the first character of the selected text</target>
+        <target>Aller au début de la sélection dans la révision |`NVDA+alt+début` |`NVDA+alt+début` |Aucun |Déplace le curseur de revue sur le premier caractère du texte sélectionné</target>
       </segment>
     </unit>
     <unit id="277bf234-d0ff-4f3b-88c0-ebca5e179697">
@@ -11378,9 +11378,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Move to end of selection in review |`NVDA+alt+end` |`NVDA+alt+end` |None |Moves the review cursor to the last character of the selected text</source>
-        <target>Move to end of selection in review |`NVDA+alt+end` |`NVDA+alt+end` |None |Moves the review cursor to the last character of the selected text</target>
+        <target>Aller à la fin de la sélection en cours de révision |`NVDA+alt+fin` |`NVDA+alt+fin` |Aucun |Déplace le curseur de revue jusqu’au dernier caractère du texte sélectionné</target>
       </segment>
     </unit>
     <unit id="40d87ed7-b08f-4ea9-9d21-4db08d4f0e24">
@@ -11977,7 +11977,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 949</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Mozilla Firefox</source>
         <target>Mozilla Firefox</target>
       </segment>
@@ -11987,7 +11987,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 950</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Microsoft Internet Explorer</source>
         <target>Microsoft Internet Explorer</target>
       </segment>
@@ -11997,7 +11997,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 951</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Mozilla Thunderbird</source>
         <target>Mozilla Thunderbird</target>
       </segment>
@@ -12017,7 +12017,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 953</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Google Chrome</source>
         <target>Google Chrome</target>
       </segment>
@@ -12027,7 +12027,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 954</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Microsoft Edge</source>
         <target>Microsoft Edge</target>
       </segment>
@@ -12037,7 +12037,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 955</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Adobe Reader</source>
         <target>Adobe Reader</target>
       </segment>
@@ -12047,7 +12047,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 956</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Foxit Reader</source>
         <target>Foxit Reader</target>
       </segment>
@@ -12780,7 +12780,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1062</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Article</source>
         <target>Article</target>
       </segment>
@@ -12790,7 +12790,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1063</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Figure</source>
         <target>Figure</target>
       </segment>
@@ -13828,7 +13828,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ## </note>
         <note appliesTo="source">suffix:  {#Braille}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Braille</source>
         <target>Braille</target>
       </segment>
@@ -13924,7 +13924,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>app |application</source>
         <target>app |application</target>
       </segment>
@@ -13935,7 +13935,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>art |article</source>
         <target>art |article</target>
       </segment>
@@ -14056,7 +14056,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>doc |document</source>
         <target>doc |document</target>
       </segment>
@@ -14111,7 +14111,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>fig |figure</source>
         <target>fig |figure</target>
       </segment>
@@ -14221,7 +14221,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>mnu |menu</source>
         <target>mnu |menu</target>
       </segment>
@@ -14320,7 +14320,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>sect |section</source>
         <target>sect |section</target>
       </segment>
@@ -14386,7 +14386,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>term |terminal</source>
         <target>term |terminal</target>
       </segment>
@@ -15104,7 +15104,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ## </note>
         <note appliesTo="source">suffix:  {#Vision}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Vision</source>
         <target>Vision</target>
       </segment>
@@ -15565,7 +15565,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MicrosoftWord}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Microsoft Word</source>
         <target>Microsoft Word</target>
       </segment>
@@ -15788,7 +15788,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MicrosoftExcel}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Microsoft Excel</source>
         <target>Microsoft Excel</target>
       </segment>
@@ -16279,7 +16279,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MicrosoftPowerPoint}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Microsoft PowerPoint</source>
         <target>Microsoft PowerPoint</target>
       </segment>
@@ -16376,7 +16376,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MirandaIM}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Miranda IM</source>
         <target>Miranda IM</target>
       </segment>
@@ -16409,7 +16409,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#Poedit}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Poedit</source>
         <target>Poedit</target>
       </segment>
@@ -16718,7 +16718,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#Azardi}</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Azardi</source>
         <target>Azardi</target>
       </segment>
@@ -17770,27 +17770,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#UpdateMirror}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Update Mirror</source>
-        <target>Update Mirror</target>
+        <target>Mettre à jour le miroir</target>
       </segment>
     </unit>
     <unit id="327044b7-f8f3-40dd-a31b-e0c24130e164">
       <notes>
         <note appliesTo="source">line: 1842</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These controls allow you to specify an alternative URL to use to check for updates to NVDA.</source>
-        <target>These controls allow you to specify an alternative URL to use to check for updates to NVDA.</target>
+        <target>Ces contrôles vous permettent de spécifier une URL alternative à utiliser pour vérifier les mises à jour de NVDA.</target>
       </segment>
     </unit>
     <unit id="1eb3d0af-f174-4b79-97c9-3d8fd0e81748">
       <notes>
         <note appliesTo="source">line: 1843</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This may be of use in locations where access to the NV Access NVDA update server is slow or unavailable.</source>
-        <target>This may be of use in locations where access to the NV Access NVDA update server is slow or unavailable.</target>
+        <target>Cela peut être utile dans les endroits où l’accès au serveur de mise à jour NV Access NVDA est lent ou indisponible.</target>
       </segment>
     </unit>
     <unit id="facdcb0c-f97b-47e7-9838-1ed71029a871">
@@ -17806,9 +17806,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1846</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If no mirror is in use (i.e. the NV Access update server is being used), "No mirror" is displayed.</source>
-        <target>If no mirror is in use (i.e. the NV Access update server is being used), "No mirror" is displayed.</target>
+        <target>Si aucun miroir n’est utilisé (c’est-à-dire que le serveur de mise à jour NV Access est utilisé), «Aucun miroir» s’affiche.</target>
       </segment>
     </unit>
     <unit id="468ff857-eaf0-49da-9123-cb31c941e3ef">
@@ -24978,27 +24978,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3070</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, an installed beta version will only update to a newer beta version.</source>
-        <target>For example, an installed beta version will only update to a newer beta version.</target>
+        <target>Par exemple, une version bêta installée ne sera mise à jour que vers une version bêta plus récente.</target>
       </segment>
     </unit>
     <unit id="77bb92c7-2c71-4f6f-8b68-5ebe2a34ff0f">
       <notes>
         <note appliesTo="source">line: 3071</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option sets the default update channel for all add-ons.</source>
-        <target>This option sets the default update channel for all add-ons.</target>
+        <target>Cette option définit le canal de mise à jour par défaut pour toutes les extensions.</target>
       </segment>
     </unit>
     <unit id="84b10d60-1fcf-43ed-9090-3bc8700d05f5">
       <notes>
         <note appliesTo="source">line: 3072</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can also change the update channel for a [specific add-on individually from the Add-on Store](#AddonStoreUpdateChannel).</source>
-        <target>You can also change the update channel for a [specific add-on individually from the Add-on Store](#AddonStoreUpdateChannel).</target>
+        <target>Vous pouvez également modifier le canal de mise à jour d’une [extension spécifique individuellement à partir de la boutique d’extensions](#AddonStoreUpdateChannel).</target>
       </segment>
     </unit>
     <unit id="cd20a83a-5ddc-4238-be1d-ce0aa7802205">
@@ -25126,45 +25126,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3091</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting enables automatic updates to add-ons that may not be fully compatible with the current version of NVDA.</source>
-        <target>This setting enables automatic updates to add-ons that may not be fully compatible with the current version of NVDA.</target>
+        <target>Ce paramètre active les mises à jour automatiques des extensions qui peuvent ne pas être entièrement compatibles avec la version actuelle de NVDA.</target>
       </segment>
     </unit>
     <unit id="3a417004-d82a-4cb2-aa2e-af8740bfe4ce">
       <notes>
         <note appliesTo="source">line: 3092</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, this is disabled, meaning automatic updates will only upgrade to add-on versions marked as compatible with the current version of NVDA.</source>
-        <target>By default, this is disabled, meaning automatic updates will only upgrade to add-on versions marked as compatible with the current version of NVDA.</target>
+        <target>Par défaut, cette option est désactivée, ce qui signifie que les mises à jour automatiques ne seront mises à niveau que vers les versions complémentaires marquées comme compatibles avec la version actuelle de NVDA.</target>
       </segment>
     </unit>
     <unit id="bca925ec-287d-400d-958b-0dcecb269433">
       <notes>
         <note appliesTo="source">line: 3093</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Automatic updates will still update an incompatible add-on version to a compatible version when it is released.</source>
-        <target>Automatic updates will still update an incompatible add-on version to a compatible version when it is released.</target>
+        <target>Les mises à jour automatiques mettront toujours à jour une version d’extension incompatible vers une version compatible lors de sa publication.</target>
       </segment>
     </unit>
     <unit id="955b207c-1a8b-40d9-8128-5562ba762e23">
       <notes>
         <note appliesTo="source">line: 3094</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enabling this may be useful for switching over to using add-on breaking releases (the first release of the year).</source>
-        <target>Enabling this may be useful for switching over to using add-on breaking releases (the first release of the year).</target>
+        <target>L’activation de cette option peut être utile pour passer à l’utilisation de versions de rupture d’extension (la première version de l’année).</target>
       </segment>
     </unit>
     <unit id="ad61f6ad-b9fe-4117-a3b6-445c3a07d07b">
       <notes>
         <note appliesTo="source">line: 3095</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is particularly useful for alpha and beta testers, who are testing compatibility of add-ons during the early stages of an add-on breaking release.</source>
-        <target>This is particularly useful for alpha and beta testers, who are testing compatibility of add-ons during the early stages of an add-on breaking release.</target>
+        <target>Ceci est particulièrement utile pour les testeurs alpha et bêta, qui testent la compatibilité des extensions au cours des premières étapes d’une version de rupture d’extension.</target>
       </segment>
     </unit>
     <unit id="ae02468e-ba87-4868-bd19-77304b444ae2">
@@ -28898,27 +28898,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3700</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>With NVDA's built-in remote access feature, you can control another computer running NVDA or allow someone to control your computer.</source>
-        <target>With NVDA's built-in remote access feature, you can control another computer running NVDA or allow someone to control your computer.</target>
+        <target>Grâce à la fonction d’accès à distance intégrée de NVDA, vous pouvez contrôler un autre ordinateur exécutant NVDA ou autoriser quelqu’un à contrôler votre ordinateur.</target>
       </segment>
     </unit>
     <unit id="292f195a-fc6a-4365-b2ff-29879fd8ac81">
       <notes>
         <note appliesTo="source">line: 3701</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This makes it easy to provide or receive assistance, collaborate, or access your own computer remotely.</source>
-        <target>This makes it easy to provide or receive assistance, collaborate, or access your own computer remotely.</target>
+        <target>Cela permet de fournir ou de recevoir facilement de l’aide, de collaborer ou d’accéder à votre propre ordinateur à distance.</target>
       </segment>
     </unit>
     <unit id="419acf1f-0ffb-417b-8e90-3df4bcdf18a2">
       <notes>
         <note appliesTo="source">line: 3703</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote access is disabled by default for your security.</source>
-        <target>Remote access is disabled by default for your security.</target>
+        <target>L’accès à distance est désactivé par défaut pour votre sécurité.</target>
       </segment>
     </unit>
     <unit id="ead81db6-306f-43cc-a1f8-40c7328a9c9d">
@@ -28936,18 +28936,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessGettingStarted}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Getting Started</source>
-        <target>Getting Started</target>
+        <target>Commencer</target>
       </segment>
     </unit>
     <unit id="2f9674a8-2834-44ef-b9db-cda4bb1227d3">
       <notes>
         <note appliesTo="source">line: 3708</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Before you begin, ensure NVDA is installed and running on both computers.</source>
-        <target>Before you begin, ensure NVDA is installed and running on both computers.</target>
+        <target>Avant de commencer, assurez-vous que NVDA est installé et en cours d’exécution sur les deux ordinateurs.</target>
       </segment>
     </unit>
     <unit id="88fcd8b4-add6-4ecf-9f4d-1e223ed9d021">
@@ -29233,9 +29233,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3751</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, `example.com:1234`.</source>
-        <target>For example, `example.com:1234`.</target>
+        <target>Par exemple, `example.com:1234`.</target>
       </segment>
     </unit>
     <unit id="dada18fb-997b-4047-9346-4f9d438e04a6">
@@ -29477,9 +29477,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessUsage}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Using Remote Access</source>
-        <target>Using Remote Access</target>
+        <target>Utiliser l’Accès à distance</target>
       </segment>
     </unit>
     <unit id="47a9ec53-119b-432d-8bbd-c957f7844e6c">
@@ -29555,9 +29555,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RemoteAccessGestures}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access Key Commands Summary</source>
-        <target>Remote Access Key Commands Summary</target>
+        <target>Résumé des commandes clés d’accès à distance</target>
       </segment>
     </unit>
     <unit id="6fbc5a66-5c0d-45e3-8fe9-0b9263cbe0f2">
