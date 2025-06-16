@@ -5413,7 +5413,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2025.1.1</source>
         <target>2025.1.1</target>
       </segment>
@@ -5422,9 +5422,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 6</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a bug.</source>
-        <target>This is a patch release to fix a bug.</target>
+        <target>Ceci est une version corrective pour résoudre un bug.</target>
       </segment>
     </unit>
     <unit id="feb7f126-7d99-448a-9d32-cbe3d61ed392">
@@ -5432,9 +5432,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 8</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Bug fixes</source>
-        <target>Bug fixes</target>
+        <target>Correction de bugs</target>
       </segment>
     </unit>
     <unit id="ced75a49-f1a5-43ed-bc1c-59c868f6f543">
@@ -5442,9 +5442,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 10</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed bug where the Add-on Store would not open when using the Korean language for the NVDA interface. (#18250)</source>
-        <target>Fixed bug where the Add-on Store would not open when using the Korean language for the NVDA interface. (#18250)</target>
+        <target>Correction d'un bug où l'Add-on Store ne s'ouvrait pas lors de l'utilisation de la langue coréenne pour l'interface de NVDA. (#18250)</target>
       </segment>
     </unit>
     <unit id="32e15d92-7643-4305-9881-5527d4571897">
