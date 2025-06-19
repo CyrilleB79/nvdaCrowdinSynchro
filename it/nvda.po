@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 08:15+0000\n"
-"PO-Revision-Date: 2025-06-19 03:12\n"
+"POT-Creation-Date: 2025-06-19 04:44+0000\n"
+"PO-Revision-Date: 2025-06-19 05:13\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -14598,7 +14598,7 @@ msgstr "Voci del &dizionario"
 #. Translators: The label for a column in dictionary entries list used to identify comments for the entry.
 #. Translators: title for Word comment dialog.
 #: gui\speechDict.py:185 NVDAObjects\IAccessible\winword.py:375
-#: NVDAObjects\UIA\wordDocument.py:707
+#: NVDAObjects\UIA\wordDocument.py:715
 msgid "Comment"
 msgstr "Commento"
 
@@ -15642,7 +15642,7 @@ msgid "Reports the text of the comment where the system caret is located.If pres
 msgstr "Legge il testo del commento alla posizione del cursore di sistema. Se premuto due volte mostra le informazioni in modalità navigazione"
 
 #. Translators: a message when there is no comment to report in Microsoft Word
-#: NVDAObjects\IAccessible\winword.py:379 NVDAObjects\UIA\wordDocument.py:711
+#: NVDAObjects\IAccessible\winword.py:379 NVDAObjects\UIA\wordDocument.py:719
 msgid "No comments"
 msgstr "Non contiene commenti"
 
@@ -15875,24 +15875,24 @@ msgid "Comment: {comment} by {author} on {date}"
 msgstr "Commento: {comment} di {author} del {date}"
 
 #. Translators: a message when navigating by sentence is unavailable in MS Word
-#: NVDAObjects\UIA\wordDocument.py:653
+#: NVDAObjects\UIA\wordDocument.py:661
 msgid "Navigating by sentence not supported in this document"
 msgstr "La navigazione per frasi non è supportata in questo documento"
 
 #. Translators: a description for a script that reports the comment at the caret.
-#: NVDAObjects\UIA\wordDocument.py:689
+#: NVDAObjects\UIA\wordDocument.py:697
 msgid "Reports the text of the comment where the system caret is located. If pressed twice, presents the information in a browsable message"
 msgstr "Legge il testo del commento alla posizione del cursore di sistema. Se premuto due volte mostra le informazioni in modalità navigazione"
 
 #. Translators: The message reported in Microsoft Word for document types not supporting setting custom
 #. headers.
-#: NVDAObjects\UIA\wordDocument.py:720
+#: NVDAObjects\UIA\wordDocument.py:728
 msgid "Command not supported in this type of document. The tables have their first row cells automatically set as column headers."
 msgstr "Comando non supportato in questo tipo di documento. Le celle della prima riga delle tabelle sono impostate automaticamente come intestazioni di colonna."
 
 #. Translators: The message reported in Microsoft Word for document types not supporting setting custom
 #. headers.
-#: NVDAObjects\UIA\wordDocument.py:731
+#: NVDAObjects\UIA\wordDocument.py:739
 msgid "Command not supported in this type of document. The tables have their first column cells automatically set as row headers."
 msgstr "Comando non supportato in questo tipo di documento. Le celle della prima colonna delle tabelle sono impostate automaticamente come intestazioni di riga."
 
