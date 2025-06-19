@@ -5420,7 +5420,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2025.1.2</source>
         <target>2025.1.2</target>
       </segment>
@@ -5429,9 +5429,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 6</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a bug.</source>
-        <target>This is a patch release to fix a bug.</target>
+        <target>Questa è una versione correttiva per risolvere un bug.</target>
       </segment>
     </unit>
     <unit id="2948bf90-58ac-4a6a-831e-c2700a4a108c">
@@ -5439,9 +5439,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 8</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Bug fixes</source>
-        <target>Bug fixes</target>
+        <target>Bug corretti</target>
       </segment>
     </unit>
     <unit id="9032ce45-08ec-4d9a-85a8-38a88deebde1">
@@ -5449,9 +5449,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 10</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Certain Microsoft Word versions before version 16.0.18226 will no longer crash on opening. (#18280)</source>
-        <target>Certain Microsoft Word versions before version 16.0.18226 will no longer crash on opening. (#18280)</target>
+        <target>Alcune versioni di Microsoft Word precedenti alla 16.0.18226 non si bloccheranno più all'avvio. (#18280)</target>
       </segment>
     </unit>
     <unit id="44bcdd27-2c10-4085-9dee-76fc5d2677d8">
@@ -5459,7 +5459,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 12</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2025.1.1</source>
         <target>2025.1.1</target>
       </segment>
@@ -5468,9 +5468,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 14</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a bug.</source>
-        <target>This is a patch release to fix a bug.</target>
+        <target>Questa è una versione correttiva per risolvere un bug.</target>
       </segment>
     </unit>
     <unit id="feb7f126-7d99-448a-9d32-cbe3d61ed392">
@@ -5478,9 +5478,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 16</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Bug fixes</source>
-        <target>Bug fixes</target>
+        <target>Bug corretti</target>
       </segment>
     </unit>
     <unit id="ced75a49-f1a5-43ed-bc1c-59c868f6f543">
@@ -5488,9 +5488,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 18</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed bug where the Add-on Store would not open when using the Korean language for the NVDA interface. (#18250)</source>
-        <target>Fixed bug where the Add-on Store would not open when using the Korean language for the NVDA interface. (#18250)</target>
+        <target>Corretto un bug per cui lo Store dei componenti aggiuntivi non si apriva quando si utilizzava la lingua coreana per l'interfaccia di NVDA. (#18250)</target>
       </segment>
     </unit>
     <unit id="32e15d92-7643-4305-9881-5527d4571897">
@@ -5702,9 +5702,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 56</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>New Features</source>
-        <target>New Features</target>
+        <target>Novità</target>
       </segment>
     </unit>
     <unit id="19e3afb5-78fd-454b-a4ca-6fbb663f92c4">
@@ -10563,9 +10563,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 622</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed math attributes being read in Adobe Reader, this resulted in poor or wrong speech and braille. (#17980)</source>
-        <target>Fixed math attributes being read in Adobe Reader, this resulted in poor or wrong speech and braille. (#17980)</target>
+        <target>Corretto il problema della lettura degli attributi matematici in Adobe Reader, che causava una resa in voce e braille errata o di scarsa qualità. (#17980)</target>
       </segment>
     </unit>
     <unit id="9256c01c-6cae-4f8c-b79f-a847b001ae15">
@@ -19224,9 +19224,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 1680</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>`control+alt+home/end` to jump to first/last column.</source>
-        <target>`control+alt+home/end` to jump to first/last column.</target>
+        <target>`control+alt+inizio/fine` per passare alla prima/ultima colonna.</target>
       </segment>
     </unit>
     <unit id="2418a26a-5e98-4898-9412-9f793704f9ac">
