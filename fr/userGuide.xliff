@@ -5893,9 +5893,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 47</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</source>
-        <target>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</target>
+        <target>les variantes AMD64 et ARM64 de Windows sont supportées, y compris les PC Copilot+.</target>
       </segment>
     </unit>
     <unit id="fe98f99a-734e-4cbf-8b83-01cde553520f">
@@ -5954,9 +5954,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 55</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</source>
-        <target>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</target>
+        <target>les variantes AMD64 et ARM64 de Windows sont prises en charge, y compris les PC Copilot+.</target>
       </segment>
     </unit>
     <unit id="40475f3b-9146-4909-8c10-e8e1c5bd89a0">
@@ -7319,9 +7319,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Report language |Not assigned |Not assigned |Reports text language. Pressing twice shows the information in a window</source>
-        <target>Report language |Not assigned |Not assigned |Reports text language. Pressing twice shows the information in a window</target>
+        <target>Langue du rapport |Non attribué |Non attribué |Indique la langue du texte du rapport. Appuyer deux fois affiche les informations dans une fenêtre</target>
       </segment>
     </unit>
     <unit id="85eb7fc3-aea0-4669-b0a9-ecb073bebfc7">
@@ -7564,9 +7564,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Heading level 1, 2, etc. |`1`, `2`, etc. |Move to the next heading at the specified level</source>
-        <target>Heading level 1, 2, etc. |`1`, `2`, etc. |Move to the next heading at the specified level</target>
+        <target>Niveau de titre 1, 2, etc. |`1`, `2`, etc. |Se déplacer au titre suivant du niveau spécifié</target>
       </segment>
     </unit>
     <unit id="fa89304d-255f-4e5b-b042-1cce779b56e0">
@@ -9011,9 +9011,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 479</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The inability to interact with applications running with administrative privileges, unless of course NVDA itself has been run also with these privileges (not recommended). Examples include:</source>
-        <target>The inability to interact with applications running with administrative privileges, unless of course NVDA itself has been run also with these privileges (not recommended). Examples include:</target>
+        <target>L'impossibilité d'interagir avec les applications s'exécutant avec des privilèges d'administrateur, sauf si bien sûr NVDA lui-même a été exécuté également avec ces privilèges (non recommandé). Exemples :</target>
       </segment>
     </unit>
     <unit id="238e90b9-21bd-4251-b63c-13c82e36b046">
@@ -9021,9 +9021,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 480</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Command Prompt and PowerShell running in admin mode</source>
-        <target>Command Prompt and PowerShell running in admin mode</target>
+        <target>Invite de commandes et PowerShell s'exécutant en mode administrateur</target>
       </segment>
     </unit>
     <unit id="576ff76a-f4c6-4ed0-b722-caf2aab44ce8">
@@ -9031,9 +9031,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 481</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Task Manager</source>
-        <target>Task Manager</target>
+        <target>Gestionnaires de tâches</target>
       </segment>
     </unit>
     <unit id="8b090b65-7f9a-4583-8fe5-9c1569a76b39">
@@ -9041,9 +9041,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 482</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Windows 11 Voice Access</source>
-        <target>Windows 11 Voice Access</target>
+        <target>Accès vocal Windows 11</target>
       </segment>
     </unit>
     <unit id="9247705a-e595-4ad8-8289-e13959a42522">
@@ -12596,9 +12596,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1020</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>1 to 9: headings at levels 1 to 9 respectively</source>
-        <target>1 to 9: headings at levels 1 to 9 respectively</target>
+        <target>1 à 9 : titres de niveaux 1 à 9 respectivement</target>
       </segment>
     </unit>
     <unit id="5fd61ba4-4f37-4269-adb8-5995c0a4c467">
@@ -13348,27 +13348,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1139</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, NVDA has a Native Selection Mode which can be turned on in particular Browse Mode documents which can support it.</source>
-        <target>However, NVDA has a Native Selection Mode which can be turned on in particular Browse Mode documents which can support it.</target>
+        <target>Cependant, NVDA dispose d'un mode de sélection natif qui peut être activé dans certains documents en mode navigation qui le prennent en charge.</target>
       </segment>
     </unit>
     <unit id="7657ffc2-f9a7-40ee-a0e8-e888bdc9407d">
       <notes>
         <note appliesTo="source">line: 1140</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Native Selection causes the document's native selection to follow NVDA's Browse Mode selection, which enables details such as formatting, links, and tables to be copied.</source>
-        <target>Native Selection causes the document's native selection to follow NVDA's Browse Mode selection, which enables details such as formatting, links, and tables to be copied.</target>
+        <target>La sélection native fait en sorte que la sélection native du document suive la sélection du mode navigation de NVDA, ce qui permet de copier des détails tels que la mise en forme, les liens et les tableaux.</target>
       </segment>
     </unit>
     <unit id="83202642-35db-40fb-a987-90107d68dcf6">
       <notes>
         <note appliesTo="source">line: 1141</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Currently, Native Selection Mode is supported in:</source>
-        <target>Currently, Native Selection Mode is supported in:</target>
+        <target>Actuellement, le mode de sélection natif est pris en charge dans :</target>
       </segment>
     </unit>
     <unit id="5d42ddfe-2210-4db7-83c7-cfa24e0d6487">
@@ -13376,7 +13376,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1143</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mozilla Firefox</source>
         <target>Mozilla Firefox</target>
       </segment>
@@ -13386,7 +13386,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1144</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mozilla Thunderbird</source>
         <target>Mozilla Thunderbird</target>
       </segment>
@@ -13396,9 +13396,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1145</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Chrome, Edge, and any browser based on Chromium 134 or newer</source>
-        <target>Chrome, Edge, and any browser based on Chromium 134 or newer</target>
+        <target>Chrome, Edge et tout navigateur basé sur Chromium 134 ou plus récent</target>
       </segment>
     </unit>
     <unit id="0c220da6-bf37-40be-b1a7-95859acd96c7">
@@ -18411,36 +18411,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ReportLanguage}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Report language changes</source>
-        <target>Report language changes</target>
+        <target>Annoncer les changements de langue</target>
       </segment>
     </unit>
     <unit id="27a2be3f-0cd8-4720-80b5-045fdd800a6a">
       <notes>
         <note appliesTo="source">line: 1938</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checkbox allows you to toggle whether NVDA should report the detected language of the text being read, when the language changes from the default language.</source>
-        <target>This checkbox allows you to toggle whether NVDA should report the detected language of the text being read, when the language changes from the default language.</target>
+        <target>Cette case à cocher vous permet de définir si NVDA doit annoncer la langue détectée du texte en cours de lecture, lorsque la langue change par rapport à la langue par défaut.</target>
       </segment>
     </unit>
     <unit id="c9eef931-329a-425d-b683-747d7c5aaa43">
       <notes>
         <note appliesTo="source">line: 1939</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The language configured to be used by default won't be reported.</source>
-        <target>The language configured to be used by default won't be reported.</target>
+        <target>La langue configurée pour être utilisée par défaut ne sera pas annoncée.</target>
       </segment>
     </unit>
     <unit id="2e2a5c09-cfd4-4ecf-9c39-123113572c55">
       <notes>
         <note appliesTo="source">line: 1940</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is disabled by default.</source>
-        <target>This option is disabled by default.</target>
+        <target>Cette option est désactivée par défaut.</target>
       </segment>
     </unit>
     <unit id="dca05445-b770-4ce7-84f0-1037238292bd">
@@ -18449,27 +18449,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ReportIfLanguageIsNotSupportedBySynthesizer}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Report when switching to language is not supported by synthesizer</source>
-        <target>Report when switching to language is not supported by synthesizer</target>
+        <target>Annoncer quand le changement vers la langue n'est pas pris en charge par le synthétiseur</target>
       </segment>
     </unit>
     <unit id="9a62c631-a1f0-4d9c-a4e1-83a6a6b46ad7">
       <notes>
         <note appliesTo="source">line: 1944</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This combo box is used to set how NVDA should report if the language of the text being read is not supported by the current synthesizer.</source>
-        <target>This combo box is used to set how NVDA should report if the language of the text being read is not supported by the current synthesizer.</target>
+        <target>Cette liste déroulante est utilisée pour définir comment NVDA doit signaler si la langue du texte en cours de lecture n'est pas prise en charge par le synthétiseur actuel.</target>
       </segment>
     </unit>
     <unit id="ecf0b1e9-0397-4487-81c6-feb248196b60">
       <notes>
         <note appliesTo="source">line: 1945</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If [Automatic Language switching](#SpeechSettingsLanguageSwitching) is disabled, this option won't take effect, and the combo box will be readonly.</source>
-        <target>If [Automatic Language switching](#SpeechSettingsLanguageSwitching) is disabled, this option won't take effect, and the combo box will be readonly.</target>
+        <target>Si le [changement automatique de langue](#SpeechSettingsLanguageSwitching) est désactivé, cette option n'aura aucun effet et la liste déroulante sera en lecture seule.</target>
       </segment>
     </unit>
     <unit id="d469ada0-a542-4cc1-a9ed-35e875f3f2db">
@@ -18478,9 +18478,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Options |Speech, Beep, Off</source>
-        <target>Options |Speech, Beep, Off</target>
+        <target>Options |Parole, Bip, Désactivée</target>
       </segment>
     </unit>
     <unit id="c0a550dd-a9b8-445a-9fbb-dacdfbb2fb0e">
@@ -18489,9 +18489,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default |Speech</source>
-        <target>Default |Speech</target>
+        <target>Par défaut |Parole</target>
       </segment>
     </unit>
     <unit id="d6539579-9a7c-4b8c-9a74-93f60ea36d03">
@@ -23894,18 +23894,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2903</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If it is disabled, interactive elements, such as links and buttons, will be placed on their own lines.</source>
-        <target>If it is disabled, interactive elements, such as links and buttons, will be placed on their own lines.</target>
+        <target>Si désactivé, les éléments interactifs, tels que les liens et les boutons, seront placés sur leurs propres lignes.</target>
       </segment>
     </unit>
     <unit id="882c8f8f-f8a5-4bec-b090-80f7b7646e39">
       <notes>
         <note appliesTo="source">line: 2904</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Non-interactive text following a link or button will still follow on the same line for ease of reading.</source>
-        <target>Non-interactive text following a link or button will still follow on the same line for ease of reading.</target>
+        <target>Le texte non interactif suivant un lien ou un bouton continuera sur la même ligne pour faciliter la lecture.</target>
       </segment>
     </unit>
     <unit id="59a0bc09-8375-4193-a781-c49e77954009">
@@ -31487,9 +31487,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4073</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For more information, please see the [NVDA Developer Guide](https://download.nvaccess.org/documentation/developerGuide.html).</source>
-        <target>For more information, please see the [NVDA Developer Guide](https://download.nvaccess.org/documentation/developerGuide.html).</target>
+        <target>Pour plus d'informations, veuillez consulter le [Guide du développeur NVDA](https://download.nvaccess.org/documentation/developerGuide.html).</target>
       </segment>
     </unit>
     <unit id="fbe34ff0-4e78-4297-9007-77e91341c6ec">
