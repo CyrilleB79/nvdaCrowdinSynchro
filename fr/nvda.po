@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-26 07:09+0000\n"
-"PO-Revision-Date: 2025-06-26 07:13\n"
+"PO-Revision-Date: 2025-06-26 09:14\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -946,28 +946,28 @@ msgstr "Non supporté dans ce document"
 #: browseMode.py:647
 #, python-brace-format
 msgid "Moves to the next heading at level {i}"
-msgstr ""
+msgstr "Se déplace au titre suivant de niveau {i}"
 
 #. Translators: Message presented when the browse mode element is not found.
 #. {i} will be replaced with the level number.
 #: browseMode.py:650
 #, python-brace-format
 msgid "No next heading at level {i}"
-msgstr ""
+msgstr "Aucun titre suivant de niveau {i}"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #. {i} will be replaced with the level number.
 #: browseMode.py:653
 #, python-brace-format
 msgid "Moves to the previous heading at level {i}"
-msgstr ""
+msgstr "Se déplace au titre précédent de niveau {i}"
 
 #. Translators: Message presented when the browse mode element is not found.
 #. {i} will be replaced with the level number.
 #: browseMode.py:656
 #, python-brace-format
 msgid "No previous heading at level {i}"
-msgstr ""
+msgstr "Aucun titre précédent de niveau {i}"
 
 #. Translators: the description for the Elements List command in browse mode.
 #: browseMode.py:671
@@ -3973,7 +3973,7 @@ msgstr "Afficher les paramètres audio de NVDA"
 #. Translators: Input help mode message for go to vision settings command.
 #: globalCommands.py:3372
 msgid "Shows NVDA's vision settings"
-msgstr ""
+msgstr "Affiche les paramètres de vision de NVDA"
 
 #. Translators: Input help mode message for go to keyboard settings command.
 #: globalCommands.py:3381
@@ -4019,17 +4019,17 @@ msgstr "Affiche les paramètres de d’accès à distance"
 #. Translators: Input help mode message for go to Add-on Store settings command.
 #: globalCommands.py:3458
 msgid "Shows NVDA's Add-on Store settings"
-msgstr ""
+msgstr "Affiche les paramètres de l'Addon Store de NVDA"
 
 #. Translators: Input help mode message for go to Windows OCR settings command.
 #: globalCommands.py:3467
 msgid "Shows NVDA's Windows OCR settings"
-msgstr ""
+msgstr "Affiche les paramètres de l'OCR Windows de NVDA"
 
 #. Translators: Input help mode message for go to Advanced settings command.
 #: globalCommands.py:3476
 msgid "Shows NVDA's Advanced settings"
-msgstr ""
+msgstr "Affiche les paramètres avancés de NVDA"
 
 #. Translators: Input help mode message for opening default dictionary dialog.
 #: globalCommands.py:3485
@@ -4223,7 +4223,7 @@ msgstr "Active ou désactive la lecture à voix haute lors de la navigation par 
 #. Translators: The message announced when toggling the speaking on navigating by unit braille setting.
 #: globalCommands.py:3809
 msgid "Speak when navigating by line or paragraph with braille on"
-msgstr ""
+msgstr "Parler lors de la navigation par ligne ou paragraphe avec le braille activé"
 
 #. Translators: The message announced when toggling the speaking on navigating by unit braille setting.
 #: globalCommands.py:3811
@@ -4733,20 +4733,20 @@ msgstr "Faire défiler les modes de séparation du son"
 #: globalCommands.py:4939
 msgctxt "reportLanguage"
 msgid "Reports the language for the text under the caret. If pressed twice, presents the information in browse mode"
-msgstr ""
+msgstr "Annonce la langue du texte sous le curseur. Si pressé deux fois, présente l'information en mode navigation"
 
 #. Translators: Language of the character at caret position when it's not supported by the current synthesizer.
 #: globalCommands.py:4960
 #, python-brace-format
 msgctxt "reportLanguage"
 msgid "{languageDescription} (not supported)"
-msgstr ""
+msgstr "{languageDescription} (non pris en charge)"
 
 #. Translators: title for report caret language dialog.
 #: globalCommands.py:4969
 msgctxt "reportLanguage"
 msgid "Language at caret position"
-msgstr ""
+msgstr "Langue à la position du curseur"
 
 #. Translators: Documentation string for the script that toggles whether the output from the remote computer is muted.
 #: globalCommands.py:4974
@@ -6985,7 +6985,7 @@ msgstr "Assurez-vous d'être connecté à Internet et que l'URL du miroir de mis
 #: updateCheck.py:416
 msgctxt "updateCheck"
 msgid "Unable to establish a connection to the NV Access server."
-msgstr ""
+msgstr "Impossible d'établir une connexion au serveur NV Access."
 
 #. Translators: A message indicating that an error occurred while checking for an update to NVDA.
 #. tip will be replaced with a context sensitive suggestion of next steps.
@@ -7198,7 +7198,7 @@ msgstr "Assurez-vous d'être connecté à Internet et que l'URL du miroir de l'A
 #: addonStore\dataManager.py:223
 msgctxt "addonStore"
 msgid "Unable to establish a connection to the Add-on Store server."
-msgstr ""
+msgstr "Impossible d'établir une connexion au serveur de l'Addon Store."
 
 #. Translators: A message shown when fetching add-on data from the store fails
 #: addonStore\dataManager.py:256
@@ -8635,7 +8635,7 @@ msgstr "Nattiq nBraille"
 #. Translators: Names of braille displays.
 #: brailleDisplayDrivers\nlseReaderZoomax.py:88
 msgid "NLS eReader Zoomax"
-msgstr ""
+msgstr "NLS eReader Zoomax"
 
 #. Translators: Is used to indicate that braille support will be disabled.
 #: brailleDisplayDrivers\noBraille.py:15
@@ -9157,19 +9157,19 @@ msgstr "Espagnol pour le texte grec"
 #. braille settings dialog.
 #: brailleTables\__tables.py:256
 msgid "Hebrew (Biblical) IHBC"
-msgstr ""
+msgstr "Hébreu (biblique) IHBC"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #: brailleTables\__tables.py:259
 msgid "Hebrew (Biblical) full cantillation"
-msgstr ""
+msgstr "Hébreu (biblique) cantillation complète"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #: brailleTables\__tables.py:262
 msgid "Hebrew (Biblical) Slim"
-msgstr ""
+msgstr "Hébreu (biblique) allégé"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -9517,13 +9517,13 @@ msgstr "Roumain"
 #. braille settings dialog.
 #: brailleTables\__tables.py:462
 msgid "Russian 6 dot computer braille"
-msgstr ""
+msgstr "Russe braille informatique 6 points"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #: brailleTables\__tables.py:465
 msgid "Russian 8 dot computer braille"
-msgstr ""
+msgstr "Russe braille informatique 8 points"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -9709,7 +9709,7 @@ msgstr "Thaï intégral"
 #. braille settings dialog.
 #: brailleTables\__tables.py:561
 msgid "Thai grade 2"
-msgstr ""
+msgstr "Thaï abrégé"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -10071,19 +10071,19 @@ msgstr "Pied-de-mouche (¶)"
 #: config\configFlags.py:313
 msgctxt "reportLanguage"
 msgid "Speech"
-msgstr ""
+msgstr "Parole"
 
 #. Translators: A label for an option to report when the language of the text being read is not supported by the current synthesizer.
 #: config\configFlags.py:315
 msgctxt "reportLanguage"
 msgid "Beep"
-msgstr ""
+msgstr "Parole remplacée par des bips"
 
 #. Translators: A label for an option to report when the language of the text being read is not supported by the current synthesizer.
 #: config\configFlags.py:317
 msgctxt "reportLanguage"
 msgid "Off"
-msgstr ""
+msgstr "Désactivée"
 
 #. Translators: Option that allows this computer to be controlled by the remote computer.
 #: config\configFlags.py:339
@@ -12957,14 +12957,14 @@ msgstr "Changement automatique de &dialecte (si supporté par le synthétiseur)"
 #: gui\settingsDialogs.py:1712
 msgctxt "reportLanguage"
 msgid "Report lan&guage changes"
-msgstr ""
+msgstr "Annoncer les changements de lan&gue"
 
 #. Translators: This is a label for a combobox in the Voice settings panel to select
 #. reporting when the language of the text being read is not supported by the current synthesizer.
 #: gui\settingsDialogs.py:1728
 msgctxt "reportLanguage"
 msgid "Report when switching to language is not s&upported by synthesizer"
-msgstr ""
+msgstr "Annoncer lors du passage à une langue non &supportée par le synthétiseur"
 
 #. Translators: This is the label for a combobox in the
 #. voice settings panel (possible choices are none, some, most and all).
@@ -17730,7 +17730,7 @@ msgstr "espace {val:g} pt avant le paragraphe"
 #, python-brace-format
 msgctxt "languageNotSupported"
 msgid "{lang} (not supported)"
-msgstr ""
+msgstr "{lang} (non pris en charge)"
 
 #. Translators: Name of the speech mode which disables speech output.
 #: speech\speech.py:98
