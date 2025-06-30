@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-30 05:54+0000\n"
-"PO-Revision-Date: 2025-06-30 08:18\n"
+"PO-Revision-Date: 2025-06-30 09:16\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -9169,7 +9169,7 @@ msgstr "Ebraico (Biblico) cantillazione completa"
 #. braille settings dialog.
 #: brailleTables\__tables.py:262
 msgid "Hebrew (Biblical) Slim"
-msgstr ""
+msgstr "Ebraico (Biblico) Semplice"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -9517,13 +9517,13 @@ msgstr "Rumeno"
 #. braille settings dialog.
 #: brailleTables\__tables.py:462
 msgid "Russian 6 dot computer braille"
-msgstr ""
+msgstr "Russo Computer Braille 6 punti"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #: brailleTables\__tables.py:465
 msgid "Russian 8 dot computer braille"
-msgstr ""
+msgstr "Russo Computer Braille 8 punti"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -9709,7 +9709,7 @@ msgstr "Tailandese grado 1"
 #. braille settings dialog.
 #: brailleTables\__tables.py:561
 msgid "Thai grade 2"
-msgstr ""
+msgstr "Thai grado 2"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -10071,19 +10071,19 @@ msgstr "Simbolo di inizio paragrafo Pilcrow, (¶)"
 #: config\configFlags.py:313
 msgctxt "reportLanguage"
 msgid "Speech"
-msgstr ""
+msgstr "Parlare"
 
 #. Translators: A label for an option to report when the language of the text being read is not supported by the current synthesizer.
 #: config\configFlags.py:315
 msgctxt "reportLanguage"
 msgid "Beep"
-msgstr ""
+msgstr "Bip"
 
 #. Translators: A label for an option to report when the language of the text being read is not supported by the current synthesizer.
 #: config\configFlags.py:317
 msgctxt "reportLanguage"
 msgid "Off"
-msgstr ""
+msgstr "Spenta"
 
 #. Translators: Option that allows this computer to be controlled by the remote computer.
 #: config\configFlags.py:339
@@ -12956,14 +12956,14 @@ msgstr "cambiamento automatico dialetti (quando supportato)"
 #: gui\settingsDialogs.py:1712
 msgctxt "reportLanguage"
 msgid "Report lan&guage changes"
-msgstr ""
+msgstr "Avvisa in caso di cambiamento lin&gua"
 
 #. Translators: This is a label for a combobox in the Voice settings panel to select
 #. reporting when the language of the text being read is not supported by the current synthesizer.
 #: gui\settingsDialogs.py:1728
 msgctxt "reportLanguage"
 msgid "Report when switching to language is not s&upported by synthesizer"
-msgstr ""
+msgstr "Avvisa quando il passaggio ad una lingua non è supportato dal sintetizzatore"
 
 #. Translators: This is the label for a combobox in the
 #. voice settings panel (possible choices are none, some, most and all).
@@ -17729,7 +17729,7 @@ msgstr "{val:g} pt spazio prima del paragrafo"
 #, python-brace-format
 msgctxt "languageNotSupported"
 msgid "{lang} (not supported)"
-msgstr ""
+msgstr "{lang} (non supportato)"
 
 #. Translators: Name of the speech mode which disables speech output.
 #: speech\speech.py:98
