@@ -7321,7 +7321,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Report language |Not assigned |Not assigned |Reports text language. Pressing twice shows the information in a window</source>
-        <target>Langue du rapport |Non attribué |Non attribué |Indique la langue du texte du rapport. Appuyer deux fois affiche les informations dans une fenêtre</target>
+        <target>Annoncer la langue |Non attribué |Non attribué |Annonce la langue du texte. Un double appui affiche les informations dans une fenêtre</target>
       </segment>
     </unit>
     <unit id="85eb7fc3-aea0-4669-b0a9-ecb073bebfc7">
@@ -32301,7 +32301,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4201</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NLS eReader Zoomax</source>
         <target>NLS eReader Zoomax</target>
       </segment>
@@ -34723,7 +34723,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4514</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NLS eReader HumanWare</source>
         <target>NLS eReader HumanWare</target>
       </segment>
@@ -41759,7 +41759,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#Zoomax}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NLS eReader Zoomax</source>
         <target>NLS eReader Zoomax</target>
       </segment>
@@ -41768,63 +41768,63 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 5379</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The NLS eReader Zoomax device supports USB or bluetooth connections.</source>
-        <target>The NLS eReader Zoomax device supports USB or bluetooth connections.</target>
+        <target>L'afficheur NLS eReader Zoomax prend en charge les connexions USB ou Bluetooth.</target>
       </segment>
     </unit>
     <unit id="149e40fa-2125-40f4-a9a9-8e76179f0598">
       <notes>
         <note appliesTo="source">line: 5380</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Windows 10 and Windows 11 operating systems will automatically detect and install the necessary drivers for this display.</source>
-        <target>The Windows 10 and Windows 11 operating systems will automatically detect and install the necessary drivers for this display.</target>
+        <target>Les systèmes d’exploitation Windows 10 et Windows 11 détecteront et installeront automatiquement les pilotes nécessaires pour cet afficheur.</target>
       </segment>
     </unit>
     <unit id="0481c658-1b1c-4e60-9721-af42e0f1f597">
       <notes>
         <note appliesTo="source">line: 5381</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For computers where the Internet connection is disabled or not available, you can manually [download and install the USB to serial CH340 chip driver](https://www.wch-ic.com/downloads/CH341SER_EXE.html) to support this display over USB.</source>
-        <target>For computers where the Internet connection is disabled or not available, you can manually [download and install the USB to serial CH340 chip driver](https://www.wch-ic.com/downloads/CH341SER_EXE.html) to support this display over USB.</target>
+        <target>Pour les ordinateurs où la connexion Internet est désactivée ou indisponible, vous pouvez [télécharger et installer manuellement le pilote du circuit USB-série CH340](https://www.wch-ic.com/downloads/CH341SER_EXE.html) afin de prendre en charge cet afficheur via USB.</target>
       </segment>
     </unit>
     <unit id="bc966963-e8fc-4429-96ce-251f7107a6b7">
       <notes>
         <note appliesTo="source">line: 5383</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, NVDA can automatically detect and connect to this display via USB or bluetooth.</source>
-        <target>By default, NVDA can automatically detect and connect to this display via USB or bluetooth.</target>
+        <target>Par défaut, NVDA peut détecter et se connecter automatiquement à cet afficheur via USB ou Bluetooth.</target>
       </segment>
     </unit>
     <unit id="37efd470-b802-47e5-8407-48b1b9c16986">
       <notes>
         <note appliesTo="source">line: 5384</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, when configuring the display, you can also explicitly select "USB" or "Bluetooth" ports to restrict the connection type to be used.</source>
-        <target>However, when configuring the display, you can also explicitly select "USB" or "Bluetooth" ports to restrict the connection type to be used.</target>
+        <target>Cependant, lors de la configuration de l’afficheur, vous pouvez aussi sélectionner explicitement les ports « USB » ou « Bluetooth » pour limiter le type de connexion à utiliser.</target>
       </segment>
     </unit>
     <unit id="a92f7c03-f970-4e78-8d54-d496a53350ee">
       <notes>
         <note appliesTo="source">line: 5386</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Following are the key assignments for this display with NVDA.</source>
-        <target>Following are the key assignments for this display with NVDA.</target>
+        <target>Voici les affectations des touches pour cet afficheur avec NVDA.</target>
       </segment>
     </unit>
     <unit id="8d84a6a4-39bd-40c6-af9c-2752e882621b">
       <notes>
         <note appliesTo="source">line: 5387</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please see the display's documentation for descriptions of where these keys can be found.</source>
-        <target>Please see the display's documentation for descriptions of where these keys can be found.</target>
+        <target>Veuillez consulter la documentation de l’afficheur pour la description de l’emplacement de ces touches.</target>
       </segment>
     </unit>
     <unit id="0ca991c7-b577-4517-bdb8-e1865eb16a80">
@@ -41833,9 +41833,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Name |Key</source>
-        <target> Name |Key</target>
+        <target> Nom |Touche</target>
       </segment>
     </unit>
     <unit id="c9ed18c2-bc9f-45c4-812b-9408950d7bff">
@@ -41844,9 +41844,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Scroll braille display back |`d2`</source>
-        <target>Scroll braille display back |`d2`</target>
+        <target>Défilement arrière affichage braille |`d2`</target>
       </segment>
     </unit>
     <unit id="1a1cef41-9b64-4a30-a3db-8cd16126dc99">
@@ -41855,9 +41855,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Scroll braille display forward |`d5`</source>
-        <target>Scroll braille display forward |`d5`</target>
+        <target>Défilement avant affichage braille |`d5`</target>
       </segment>
     </unit>
     <unit id="06bb61d7-1e00-40d3-81a1-fe0f65005a7d">
@@ -41866,9 +41866,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Move braille display to previous line |`d1`</source>
-        <target>Move braille display to previous line |`d1`</target>
+        <target>Amener l'affichage sur la ligne précédente |`d1`</target>
       </segment>
     </unit>
     <unit id="5023c8c7-c42f-4588-88d5-9f08423ffff4">
@@ -41877,9 +41877,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Move braille display to next line |`d3`</source>
-        <target>Move braille display to next line |`d3`</target>
+        <target>Amener l'affichage sur la ligne suivante |`d3`</target>
       </segment>
     </unit>
     <unit id="fe23dbff-7013-4baf-8595-ff0b9bb476fe">
@@ -41888,9 +41888,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Route to braille cell |`routing`</source>
-        <target>Route to braille cell |`routing`</target>
+        <target>Aller à la cellule braille |`routage`</target>
       </segment>
     </unit>
     <unit id="e5443642-4760-484a-8f91-c0e8e58faeff">
@@ -41899,9 +41899,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Up arrow key |`up`</source>
-        <target>Up arrow key |`up`</target>
+        <target>Touche flèche haut |`haut`</target>
       </segment>
     </unit>
     <unit id="3ceee24f-58c0-4881-a882-81ce94799011">
@@ -41910,9 +41910,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Down arrow key |`down`</source>
-        <target>Down arrow key |`down`</target>
+        <target>Touche flèche bas |`bas`</target>
       </segment>
     </unit>
     <unit id="c43f022c-e767-4b08-b2d0-6b18b444a23c">
@@ -41921,9 +41921,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Left arrow key |`left`</source>
-        <target>Left arrow key |`left`</target>
+        <target>Touche flèche gauche |`gauche`</target>
       </segment>
     </unit>
     <unit id="325a81bd-8eae-4a45-ba28-ca678091808c">
@@ -41932,9 +41932,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Right arrow key |`right`</source>
-        <target>Right arrow key |`right`</target>
+        <target>Touche flèche droite |`droite`</target>
       </segment>
     </unit>
     <unit id="664032be-3ad6-4690-b32f-ceea143aec4f">
@@ -41943,9 +41943,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enter key |`select`</source>
-        <target>Enter key |`select`</target>
+        <target>Touche entrée |`select`</target>
       </segment>
     </unit>
     <unit id="0475738b-d227-4c2f-bc1e-1c3cdcc9bb2a">
