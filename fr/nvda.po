@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-30 05:54+0000\n"
-"PO-Revision-Date: 2025-07-01 12:26\n"
+"PO-Revision-Date: 2025-07-01 15:13\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -946,7 +946,7 @@ msgstr "Non supporté dans ce document"
 #: browseMode.py:647
 #, python-brace-format
 msgid "Moves to the next heading at level {i}"
-msgstr "Se déplace au titre suivant de niveau {i}"
+msgstr "Aller au titre suivant de niveau {i}"
 
 #. Translators: Message presented when the browse mode element is not found.
 #. {i} will be replaced with the level number.
@@ -960,7 +960,7 @@ msgstr "Aucun titre suivant de niveau {i}"
 #: browseMode.py:653
 #, python-brace-format
 msgid "Moves to the previous heading at level {i}"
-msgstr "Se déplace au titre précédent de niveau {i}"
+msgstr "Aller au titre précédent de niveau {i}"
 
 #. Translators: Message presented when the browse mode element is not found.
 #. {i} will be replaced with the level number.
@@ -4218,17 +4218,17 @@ msgstr "Désactivation de l'annonce du caractère lors du routage du curseur dan
 #. Translators: Input help mode message for toggle speaking when navigating by lines or paragraphs with braille.
 #: globalCommands.py:3800
 msgid "Toggles on and off speaking when navigating by lines or paragraph with braille"
-msgstr "Active ou désactive la lecture à voix haute lors de la navigation par lignes ou paragraphes en braille"
+msgstr "Active ou désactive le retour vocal lors de la navigation par lignes ou paragraphes en braille"
 
 #. Translators: The message announced when toggling the speaking on navigating by unit braille setting.
 #: globalCommands.py:3809
 msgid "Speak when navigating by line or paragraph with braille on"
-msgstr "Parler lors de la navigation par ligne ou paragraphe avec le braille activé"
+msgstr "Retour vocal lors de la navigation par ligne ou paragraphe en braille activé"
 
 #. Translators: The message announced when toggling the speaking on navigating by unit braille setting.
 #: globalCommands.py:3811
 msgid "Speak when navigating by line or paragraph with braille off"
-msgstr "Navigation vocale par lignes ou paragraphes en braille désactivée"
+msgstr "Retour vocal lors de la navigation par ligne ou paragraphe en braille désactivé"
 
 #. Translators: Input help mode message for cycle braille cursor shape command.
 #: globalCommands.py:3816
@@ -4408,7 +4408,7 @@ msgstr "Effacer la dernière cellule ou le dernier caractère braille entré"
 #. Translators: Input help mode message for a braille command.
 #: globalCommands.py:4179
 msgid "Translates any braille input and presses the enter key"
-msgstr "Convertir toute saisie braille et presser entrer"
+msgstr "Convertir toute saisie braille et appuyer sur entrée"
 
 #. Translators: Input help mode message for a braille command.
 #: globalCommands.py:4188
@@ -4733,7 +4733,7 @@ msgstr "Faire défiler les modes de séparation du son"
 #: globalCommands.py:4939
 msgctxt "reportLanguage"
 msgid "Reports the language for the text under the caret. If pressed twice, presents the information in browse mode"
-msgstr "Annonce la langue du texte sous le curseur. Si pressé deux fois, présente l'information en mode navigation"
+msgstr "Annonce la langue du texte sous le curseur. Un double appui présente l'information en mode navigation"
 
 #. Translators: Language of the character at caret position when it's not supported by the current synthesizer.
 #: globalCommands.py:4960
@@ -10077,7 +10077,7 @@ msgstr "Parole"
 #: config\configFlags.py:315
 msgctxt "reportLanguage"
 msgid "Beep"
-msgstr "Parole remplacée par des bips"
+msgstr "Bip"
 
 #. Translators: A label for an option to report when the language of the text being read is not supported by the current synthesizer.
 #: config\configFlags.py:317
@@ -12964,7 +12964,7 @@ msgstr "Annoncer les changements de lan&gue"
 #: gui\settingsDialogs.py:1728
 msgctxt "reportLanguage"
 msgid "Report when switching to language is not s&upported by synthesizer"
-msgstr "Annoncer lors du passage à une langue non &supportée par le synthétiseur"
+msgstr "Signaler le passage à une langue non pri&se en charge par le synthétiseur"
 
 #. Translators: This is the label for a combobox in the
 #. voice settings panel (possible choices are none, some, most and all).
@@ -13083,7 +13083,7 @@ msgstr "&Interruption de la parole à la frappe d'un caractère"
 #. keyboard settings panel.
 #: gui\settingsDialogs.py:2079
 msgid "Speech i&nterrupt for Enter key"
-msgstr "Interruption de la parole à l'appui de la touche &entrer"
+msgstr "Interruption de la parole à l'appui de la touche &entrée"
 
 #. Translators: This is the label for a checkbox in the
 #. keyboard settings panel.
