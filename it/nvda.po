@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-30 05:54+0000\n"
-"PO-Revision-Date: 2025-07-02 01:03\n"
+"POT-Creation-Date: 2025-07-02 02:19+0000\n"
+"PO-Revision-Date: 2025-07-02 03:14\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -15684,27 +15684,27 @@ msgstr[0] "{} suggerimento"
 msgstr[1] "{} suggerimenti"
 
 #. Translators: the description of a script
-#: NVDAObjects\UIA\excel.py:195
+#: NVDAObjects\UIA\excel.py:196
 msgctxt "excel-UIA"
 msgid "Shows a browseable message Listing information about a cell's appearance such as outline and fill colors, rotation and size"
 msgstr "Mostra un insieme di messaggi che elencano le informazioni inerenti l'aspetto di una cella, come i colori del contorno e di riempimento, la rotazione e le dimensioni"
 
 #. Translators: The width of the cell in points
-#: NVDAObjects\UIA\excel.py:205
+#: NVDAObjects\UIA\excel.py:206
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "Cell width: {0.x:.1f} pt"
 msgstr "Larghezza cella: {0.x:.1f} pt"
 
 #. Translators: The height of the cell in points
-#: NVDAObjects\UIA\excel.py:212
+#: NVDAObjects\UIA\excel.py:213
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "Cell height: {0.y:.1f} pt"
 msgstr "Altezza cella: {0.y:.1f} pt"
 
 #. Translators: The rotation in degrees of an Excel cell
-#: NVDAObjects\UIA\excel.py:221
+#: NVDAObjects\UIA\excel.py:222
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "Rotation: {0} degree"
@@ -15713,116 +15713,116 @@ msgstr[0] "Rotazione: {0} grado"
 msgstr[1] "Rotazione: {0} gradi"
 
 #. Translators: The outline (border) colors of an Excel cell.
-#: NVDAObjects\UIA\excel.py:231
+#: NVDAObjects\UIA\excel.py:232
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "Outline color: top={0.name}, bottom={1.name}, left={2.name}, right={3.name}"
 msgstr "Colore contorno: in alto={0.name}, in basso={1.name}, sinistra={2.name}, destra={3.name}"
 
 #. Translators: The outline (border) thickness values of an Excel cell.
-#: NVDAObjects\UIA\excel.py:239
+#: NVDAObjects\UIA\excel.py:240
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "Outline thickness: top={0}, bottom={1}, left={2}, right={3}"
 msgstr "Spessore contorno: in alto={0}, in basso={1}, sinistra={2}, destra={3}"
 
 #. Translators: The fill color of an Excel cell
-#: NVDAObjects\UIA\excel.py:247
+#: NVDAObjects\UIA\excel.py:248
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "Fill color: {0.name}"
 msgstr "Colore di riempimento: {0.name}"
 
 #. Translators: The fill type (pattern, gradient etc) of an Excel Cell
-#: NVDAObjects\UIA\excel.py:255
+#: NVDAObjects\UIA\excel.py:256
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "Fill type: {0}"
 msgstr "Tipo di riempimento: {0}"
 
 #. Translators: the number format of an Excel cell
-#: NVDAObjects\UIA\excel.py:263
+#: NVDAObjects\UIA\excel.py:264
 #, python-brace-format
 msgid "Number format: {0}"
 msgstr "Formato numeri: {0}"
 
 #. Translators: If an excel cell has data validation set
-#: NVDAObjects\UIA\excel.py:270
+#: NVDAObjects\UIA\excel.py:271
 msgid "Has data validation"
 msgstr "con convalida dei dati"
 
 #. Translators: the data validation prompt (input message) for an Excel cell
-#: NVDAObjects\UIA\excel.py:277
+#: NVDAObjects\UIA\excel.py:278
 #, python-brace-format
 msgid "Data validation prompt: {0}"
 msgstr "Richiesta di convalida dei dati: {0}"
 
 #. Translators: If an excel cell has conditional formatting
-#: NVDAObjects\UIA\excel.py:284
+#: NVDAObjects\UIA\excel.py:285
 msgid "Has conditional formatting"
 msgstr "con formattazione condizionale"
 
 #. Translators: If an excel cell has visible gridlines
-#: NVDAObjects\UIA\excel.py:288
+#: NVDAObjects\UIA\excel.py:289
 msgid "Gridlines are visible"
 msgstr "Le linee della griglia sono visibili"
 
 #. Translators: Title for a browsable message that describes the appearance of a cell in Excel
-#: NVDAObjects\UIA\excel.py:296
+#: NVDAObjects\UIA\excel.py:297
 msgctxt "excel-UIA"
 msgid "Cell Appearance"
 msgstr "Aspetto delle celle"
 
 #. Translators:  an error message on a cell in Microsoft Excel.
-#: NVDAObjects\UIA\excel.py:326
+#: NVDAObjects\UIA\excel.py:327
 #, python-brace-format
 msgid "Error: {errorText}"
 msgstr "Errore: {errorText}"
 
 #. Translators: a mesage when another author is editing a cell in a shared Excel spreadsheet.
-#: NVDAObjects\UIA\excel.py:333
+#: NVDAObjects\UIA\excel.py:334
 #, python-brace-format
 msgid "{author} is editing"
 msgstr "{author} sta modificando"
 
 #. Translators: Excel, report selected range of cell coordinates
-#: NVDAObjects\UIA\excel.py:464
+#: NVDAObjects\UIA\excel.py:465
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "{firstAddress} {firstValue} through {lastAddress} {lastValue}"
 msgstr "{firstAddress} {firstValue} fino a {lastAddress} {lastValue}"
 
 #. Translators: Excel, report merged range of cell coordinates
-#: NVDAObjects\UIA\excel.py:496
+#: NVDAObjects\UIA\excel.py:497
 #, python-brace-format
 msgctxt "excel-UIA"
 msgid "{firstAddress} through {lastAddress}"
 msgstr "{firstAddress} fino a {lastAddress}"
 
 #. Translators: the description  for a script for Excel
-#: NVDAObjects\UIA\excel.py:506
+#: NVDAObjects\UIA\excel.py:507
 msgid "Reports the note or comment thread on the current cell"
 msgstr "Annuncia la nota o il thread di commenti sulla cella corrente"
 
 #. Translators: a note on a cell in Microsoft excel.
-#: NVDAObjects\UIA\excel.py:516
+#: NVDAObjects\UIA\excel.py:517
 #, python-brace-format
 msgid "{name}: {desc}"
 msgstr "{name}: {desc}"
 
 #. Translators: message when a cell in Excel contains no note
-#: NVDAObjects\UIA\excel.py:520
+#: NVDAObjects\UIA\excel.py:521
 msgid "No note on this cell"
 msgstr "Nessuna nota su questa cella"
 
 #. Translators: a comment on a cell in Microsoft excel.
-#: NVDAObjects\UIA\excel.py:530
+#: NVDAObjects\UIA\excel.py:531
 #, python-brace-format
 msgid "Comment thread: {comment}  by {author}"
 msgstr "Thread di commenti: {comment}  di {author}"
 
 #. Translators: a comment on a cell in Microsoft excel.
-#: NVDAObjects\UIA\excel.py:537
+#: NVDAObjects\UIA\excel.py:538
 #, python-brace-format
 msgid "Comment thread: {comment}  by {author} with {numReplies} reply"
 msgid_plural "Comment thread: {comment}  by {author} with {numReplies} replies"
@@ -15830,12 +15830,12 @@ msgstr[0] "Discussione commento: {comment}  di {author} con {numReplies} rispost
 msgstr[1] "Discussione commento: {comment}  di {author} con {numReplies} risposte"
 
 #. Translators: A message in Excel when there is no comment thread
-#: NVDAObjects\UIA\excel.py:544
+#: NVDAObjects\UIA\excel.py:545
 msgid "No comment thread on this cell"
 msgstr "Nessun thread di commento su questa cella"
 
 #. Translators: announced when moving outside of a table in an Excel spreadsheet.
-#: NVDAObjects\UIA\excel.py:596
+#: NVDAObjects\UIA\excel.py:603
 msgid "Out of table"
 msgstr "Fuori tabella"
 
