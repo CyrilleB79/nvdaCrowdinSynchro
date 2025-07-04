@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-03 04:02+0000\n"
-"PO-Revision-Date: 2025-07-03 23:12\n"
+"POT-Creation-Date: 2025-07-04 02:25+0000\n"
+"PO-Revision-Date: 2025-07-04 03:13\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -15673,12 +15673,12 @@ msgstr "{val:.2f} pc"
 msgid "{val:.2f} cm"
 msgstr "{val:.2f} cm"
 
-#: NVDAObjects\UIA\__init__.py:2287
+#: NVDAObjects\UIA\__init__.py:2290
 msgid "invoke"
 msgstr "invoquer"
 
 #. Translators: message from to note the number of suggestions
-#: NVDAObjects\UIA\__init__.py:2718
+#: NVDAObjects\UIA\__init__.py:2721
 msgid "{} suggestion"
 msgid_plural "{} suggestions"
 msgstr[0] "{} suggestion"
