@@ -8322,9 +8322,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 375</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NV Access, makers of NVDA, are active on [Mastodon](https://fosstodon.org/@NVAccess), [Twitter/X](https://x.com/nvaccess) and [Facebook](https://www.facebook.com/NVAccess).</source>
-        <target>NV Access, makers of NVDA, are active on [Mastodon](https://fosstodon.org/@NVAccess), [Twitter/X](https://x.com/nvaccess) and [Facebook](https://www.facebook.com/NVAccess).</target>
+        <target>NV Access, développeur de NVDA, est actif sur [Mastodon](https://fosstodon.org/@NVAccess), [Twitter/X](https://x.com/nvaccess) et [Facebook](https://www.facebook.com/NVAccess).</target>
       </segment>
     </unit>
     <unit id="46936321-9783-4806-9518-1464a2679946">
@@ -8340,9 +8340,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 377</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>There is a main [NV Access owned email list](https://groups.google.com/a/nvaccess.org/g/nvda-users) and a page full of [other community groups](https://github.com/nvaccess/nvda/wiki/Connect).</source>
-        <target>There is a main [NV Access owned email list](https://groups.google.com/a/nvaccess.org/g/nvda-users) and a page full of [other community groups](https://github.com/nvaccess/nvda/wiki/Connect).</target>
+        <target>Ile existe une [liste de diffusion principale gérée par NV Access](https://groups.google.com/a/nvaccess.org/g/nvda-users) ainsi qu’une page référençant [d’autres groupes communautaire](https://github.com/nvaccess/nvda/wiki/Connect).</target>
       </segment>
     </unit>
     <unit id="02bcb343-6948-4d57-b460-babaadd25165">
@@ -22541,7 +22541,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For the example command, a too short timeout will cause two presses to report the current character twice, rather than the phonetic description.</source>
-        <target>Pour la commande citée en example, avec un délai d'expiration trop court, deux appuis annonceront deux fois le caractère courant, au lieu de la description phonétique.</target>
+        <target>Pour la commande citée en exemple, avec un délai d'expiration trop court, deux appuis annonceront deux fois le caractère courant, au lieu de la description phonétique.</target>
       </segment>
     </unit>
     <unit id="5bf160f9-c7da-4306-9e90-69897a450636">
@@ -25786,7 +25786,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If the server uses a port other than 6837, include it after a colon (eg. `example.com:1234`).</source>
-        <target>Si le serveur utilise un port autre que 6837, ajoutez-le après deux points (par exemple, "example.com:1234").</target>
+        <target>Si le serveur utilise un port autre que 6837, ajoutez-le après deux points (par exemple, "exemple.com:1234").</target>
       </segment>
     </unit>
     <unit id="1c48db19-a2bd-4c29-810c-6a7b38a6269a">
@@ -29381,7 +29381,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For example, `example.com:1234`.</source>
-        <target>Par exemple, `example.com:1234`.</target>
+        <target>Par exemple, `exemple.com:1234`.</target>
       </segment>
     </unit>
     <unit id="c0c4cd99-9bc9-46e6-8fb9-1b39fcfc2acc">
@@ -29478,7 +29478,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>For example, `example.com:1234`.</source>
-        <target>Par exemple, `example.com:1234`.</target>
+        <target>Par exemple, `exemple.com:1234`.</target>
       </segment>
     </unit>
     <unit id="dada18fb-997b-4047-9346-4f9d438e04a6">
