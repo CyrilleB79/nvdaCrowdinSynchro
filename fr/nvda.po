@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-07 04:27+0000\n"
-"PO-Revision-Date: 2025-07-07 08:19\n"
+"PO-Revision-Date: 2025-07-07 10:15\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -4739,7 +4739,7 @@ msgstr "Annonce la langue du texte sous le curseur. Un double appui présente l'
 #: globalCommands.py:4952
 msgctxt "reportLanguage"
 msgid "Unknown language"
-msgstr ""
+msgstr "Langue inconnue"
 
 #. Translators: Language of the character at caret position when it's not supported by the current synthesizer.
 #: globalCommands.py:4963
