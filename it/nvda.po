@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-04 02:25+0000\n"
-"PO-Revision-Date: 2025-07-07 03:20\n"
+"POT-Creation-Date: 2025-07-07 03:47+0000\n"
+"PO-Revision-Date: 2025-07-07 04:28\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -8633,7 +8633,7 @@ msgid "Nattiq nBraille"
 msgstr "Nattiq nBraille"
 
 #. Translators: Names of braille displays.
-#: brailleDisplayDrivers\nlseReaderZoomax.py:88
+#: brailleDisplayDrivers\nlseReaderZoomax.py:91
 msgid "NLS eReader Zoomax"
 msgstr "NLS eReader Zoomax"
 
