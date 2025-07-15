@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-15 08:07+0000\n"
-"PO-Revision-Date: 2025-07-15 11:12\n"
+"PO-Revision-Date: 2025-07-15 13:31\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -4739,7 +4739,7 @@ msgstr "Annuncia la lingua del testo su cui si trova il cursore. Se premuto due 
 #: globalCommands.py:4952
 msgctxt "reportLanguage"
 msgid "Unknown language"
-msgstr ""
+msgstr "Lingua sconosciuta"
 
 #. Translators: Language of the character at caret position when it's not supported by the current synthesizer.
 #: globalCommands.py:4963
@@ -6776,7 +6776,7 @@ msgstr "Inflessione"
 #. "WASAPI" is an acronym for an audio output framework, and should be translated as-is.
 #: synthDriverHandler.py:231
 msgid "Use modern audio output system (WASAPI)"
-msgstr ""
+msgstr "Usa sistema audio moderno (WASAPI)"
 
 #: touchHandler.py:30
 msgid "text mode"
@@ -7261,7 +7261,7 @@ msgstr "Errore durante il download del componente aggiuntivo"
 #, python-brace-format
 msgctxt "addonStore"
 msgid "The website where you are downloading the add-on from has a certificate that is not trusted. Do you want to trust the root certificate for {url}? This will allow you to download add-ons from this website in the future. Only do this if you trust the website. The certificate's SHA256 fingerprint is: {fingerprint}. "
-msgstr ""
+msgstr "Il sito web da cui stai scaricando il componente aggiuntivo utilizza un certificato che non è considerato attendibile. Vuoi considerare attendibile il certificato root per {url}? Questo ti permetterà di scaricare componenti aggiuntivi da questo sito anche in futuro. Fallo solo se ti fidi del sito web. L'impronta SHA256 del certificato è: {fingerprint} "
 
 #. Translators: A message to the user if an add-on download fails
 #: addonStore\network.py:291 addonStore\network.py:322
@@ -12977,7 +12977,7 @@ msgstr "cambiamento automatico dialetti (quando supportato)"
 #: gui\settingsDialogs.py:1721
 msgctxt "reportLanguage"
 msgid "Report lan&guage changes while reading"
-msgstr ""
+msgstr "Avvisa se cambia la lin&gua durante la lettura"
 
 #. Translators: This is a label for a combobox in the Voice settings panel to select
 #. reporting when the language of the text being read is not supported by the current synthesizer.
