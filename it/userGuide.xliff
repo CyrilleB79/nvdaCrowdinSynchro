@@ -5911,9 +5911,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 47</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</source>
-        <target>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</target>
+        <target>sono supportate entrambe le varianti AMD64 e ARM64 di Windows, inclusi i Copilot+ PC.</target>
       </segment>
     </unit>
     <unit id="fe98f99a-734e-4cbf-8b83-01cde553520f">
@@ -5972,9 +5972,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 55</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</source>
-        <target>both AMD64 and ARM64 variants of Windows are supported, including Copilot+ PCs.</target>
+        <target>sono supportate entrambe le varianti AMD64 e ARM64 di Windows, inclusi i Copilot+ PC.</target>
       </segment>
     </unit>
     <unit id="40475f3b-9146-4909-8c10-e8e1c5bd89a0">
@@ -7337,9 +7337,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Report language |Not assigned |Not assigned |Reports text language. Pressing twice shows the information in a window</source>
-        <target>Report language |Not assigned |Not assigned |Reports text language. Pressing twice shows the information in a window</target>
+        <target>Annuncia lingua |Non assegnato |Non assegnato |Annuncia la lingua del testo. Premendo due volte mostra le informazioni in una finestra</target>
       </segment>
     </unit>
     <unit id="85eb7fc3-aea0-4669-b0a9-ecb073bebfc7">
@@ -7582,9 +7582,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Heading level 1, 2, etc. |`1`, `2`, etc. |Move to the next heading at the specified level</source>
-        <target>Heading level 1, 2, etc. |`1`, `2`, etc. |Move to the next heading at the specified level</target>
+        <target>Intestazione di livello 1, 2, ecc. |`1`, `2`, etc. |Passa all'intestazione successiva al livello specificato</target>
       </segment>
     </unit>
     <unit id="fa89304d-255f-4e5b-b042-1cce779b56e0">
@@ -8340,9 +8340,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 375</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NV Access, makers of NVDA, are active on [Mastodon](https://fosstodon.org/@NVAccess), [Twitter/X](https://x.com/nvaccess) and [Facebook](https://www.facebook.com/NVAccess).</source>
-        <target>NV Access, makers of NVDA, are active on [Mastodon](https://fosstodon.org/@NVAccess), [Twitter/X](https://x.com/nvaccess) and [Facebook](https://www.facebook.com/NVAccess).</target>
+        <target>La NV Access, pproduttrice di NVDA, è attiva su [Mastodon](https://fosstodon.org/@NVAccess), [Twitter/X](https://x.com/nvaccess) e [Facebook](https://www.facebook.com/NVAccess).</target>
       </segment>
     </unit>
     <unit id="46936321-9783-4806-9518-1464a2679946">
@@ -8358,9 +8358,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 377</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>There is a main [NV Access owned email list](https://groups.google.com/a/nvaccess.org/g/nvda-users) and a page full of [other community groups](https://github.com/nvaccess/nvda/wiki/Connect).</source>
-        <target>There is a main [NV Access owned email list](https://groups.google.com/a/nvaccess.org/g/nvda-users) and a page full of [other community groups](https://github.com/nvaccess/nvda/wiki/Connect).</target>
+        <target>Esiste una [Lista di discussione principale gestita da Nv Access](https://groups.google.com/a/nvaccess.org/g/nvda-users) e una pagina ricca di [altri gruppi locali](https://github.com/nvaccess/nvda/wiki/Connect).</target>
       </segment>
     </unit>
     <unit id="02bcb343-6948-4d57-b460-babaadd25165">
