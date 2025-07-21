@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-21 04:31+0000\n"
-"PO-Revision-Date: 2025-07-21 07:21\n"
+"PO-Revision-Date: 2025-07-21 09:21\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -7150,14 +7150,15 @@ msgstr "&Terminé"
 #. on a computer which is being remotely controlled via NVDA Remote Access
 #: updateCheck.py:1022 gui\installerGui.py:456
 msgid "Updating NVDA when connected to NVDA Remote Access as the controlled computer is not recommended. "
-msgstr ""
+msgstr "Il est déconseillé de mettre à jour NVDA lorsque l’ordinateur contrôlé est connecté via l'accès à distance NVDA "
 
 #. Translators: Message shown to users when attempting to update NVDA from an installed copy
 #. on a computer which is being remotely controlled via NVDA Remote Access.
 #: updateCheck.py:1027
 msgid "The currently active connection may not be continued during or after the update. Even if the connection is continued, you will be unable to respond to User Account Control (UAC) prompts from the controlling computer. You should only proceed if you have physical access to the controlled computer.\n\n"
 "Are you sure you want to continue?"
-msgstr ""
+msgstr "La connexion actuellement active pourrait ne pas être maintenue pendant ou après la mise à jour. Même si la connexion est maintenue, il vous sera impossible de répondre aux demandes de Contrôle de Compte Utilisateur (UAC) depuis l’ordinateur de contrôle. Vous ne devriez continuer que si vous avez un accès physique à l’ordinateur contrôlé.\n\n"
+"Êtes-vous sûr de vouloir continuer?"
 
 #. Translators: The title of a dialog.
 #. Translators: The title of a warning dialog.
@@ -12572,14 +12573,15 @@ msgstr "Répertoire existant"
 #. on a computer which is being remotely controlled via NVDA Remote Access
 #: gui\installerGui.py:462
 msgid "Installing NVDA when connected to NVDA Remote Access as the controlled computer is not recommended. "
-msgstr ""
+msgstr "Il est déconseillé d’installer NVDA lorsque l’ordinateur contrôlé est connecté via l'accès à distance NVDA "
 
 #. Translators: Message shown to users when attempting to install or update NVDA from the launcher
 #. on a computer which is being remotely controlled via NVDA Remote Access
 #: gui\installerGui.py:468
 msgid "You will be unable to respond to User Account Control (UAC) prompts from the controlling computer. You should only proceed if you have physical access to the controlled computer.\n\n"
 "Are you sure you want to continue?"
-msgstr ""
+msgstr "Il vous sera impossible de répondre aux demandes de Contrôle de Compte Utilisateur (UAC) depuis l’ordinateur de contrôle. Vous ne devriez continuer que si vous avez un accès physique à l’ordinateur contrôlé.\n\n"
+"Êtes-vous sûr de vouloir continuer?"
 
 #. Translators: The title of the Create Portable NVDA dialog.
 #: gui\installerGui.py:506
