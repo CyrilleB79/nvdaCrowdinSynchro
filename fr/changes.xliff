@@ -5524,144 +5524,144 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 6</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This release includes improvements in Windows 11, browse mode, and Microsoft Word.</source>
-        <target>This release includes improvements in Windows 11, browse mode, and Microsoft Word.</target>
+        <target>Cette version inclut des améliorations pour Windows 11, le mode navigation et Microsoft Word.</target>
       </segment>
     </unit>
     <unit id="2a308ac5-5f0a-4c1e-8c23-53afdc84e34e">
       <notes>
         <note appliesTo="source">line: 8</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In browse mode, quick navigation keys for headings 7 through 9 have been added.</source>
-        <target>In browse mode, quick navigation keys for headings 7 through 9 have been added.</target>
+        <target>En mode navigation, des touches de navigation rapide ont été ajoutées pour les titres de niveau 7 à 9.</target>
       </segment>
     </unit>
     <unit id="5e686bd8-3ca6-484b-8ea7-611c9c29ee28">
       <notes>
         <note appliesTo="source">line: 9</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Elements List and Find dialogs no longer cause application profiles to be deactivated.</source>
-        <target>The Elements List and Find dialogs no longer cause application profiles to be deactivated.</target>
+        <target>Les boîtes de dialogue Liste d'éléments et Rechercher ne provoquent plus la désactivation des profils d’application.</target>
       </segment>
     </unit>
     <unit id="ef9e6f1f-c57b-46b0-85ee-1e5fae216d29">
       <notes>
         <note appliesTo="source">line: 10</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Microsoft Edge, notifications like "loading complete" no longer stop say all.</source>
-        <target>In Microsoft Edge, notifications like "loading complete" no longer stop say all.</target>
+        <target>Dans Microsoft Edge, les notifications telles que « chargement terminé » n’interrompent plus dire tout.</target>
       </segment>
     </unit>
     <unit id="a4a20527-5e76-4cda-8a76-6982ce7f5254">
       <notes>
         <note appliesTo="source">line: 12</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Microsoft Word, when using the shortcuts to switch to page view or outline view, the new view is now reported.</source>
-        <target>In Microsoft Word, when using the shortcuts to switch to page view or outline view, the new view is now reported.</target>
+        <target>Dans Microsoft Word, lors de l’utilisation des raccourcis pour passer en mode Page ou Plan, le nouvel affichage est désormais annoncé.</target>
       </segment>
     </unit>
     <unit id="143c1d01-c1de-4946-9607-4f4c8af4c3b9">
       <notes>
         <note appliesTo="source">line: 13</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When UIA is enabled, redundant table end markers are no longer brailled when the cursor is in a table cell.</source>
-        <target>When UIA is enabled, redundant table end markers are no longer brailled when the cursor is in a table cell.</target>
+        <target>Lorsque UIA est activé, les marqueurs de fin de tableau redondants ne sont plus affichés en braille lorsque le curseur se trouve dans une cellule de tableau.</target>
       </segment>
     </unit>
     <unit id="d6db06f7-4b2e-4450-a815-858cacaeccf4">
       <notes>
         <note appliesTo="source">line: 15</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On Windows 11, NVDA will no longer announce emoji panel items twice while browsing them.</source>
-        <target>On Windows 11, NVDA will no longer announce emoji panel items twice while browsing them.</target>
+        <target>Sous Windows 11, NVDA n’annonce plus deux fois les éléments du panneau des emojis lors de leur exploration.</target>
       </segment>
     </unit>
     <unit id="b3dc7d8e-5d20-4b05-8f3e-9d71a7d8c113">
       <notes>
         <note appliesTo="source">line: 16</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Performance and reliability in the Start Menu on Windows 11 24H2 has been improved.</source>
-        <target>Performance and reliability in the Start Menu on Windows 11 24H2 has been improved.</target>
+        <target>Les performances et la fiabilité du menu Démarrer sous Windows 11 24H2 ont été améliorées.</target>
       </segment>
     </unit>
     <unit id="26fdd219-5b92-436b-8206-a7621acb7004">
       <notes>
         <note appliesTo="source">line: 17</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On Windows 11 24H2 and newer, window state will be announced when resizing windows with `Windows+arrow` keys.</source>
-        <target>On Windows 11 24H2 and newer, window state will be announced when resizing windows with `Windows+arrow` keys.</target>
+        <target>Sous Windows 11 24H2 et versions ultérieures, l’état de la fenêtre est annoncé lors du redimensionnement avec les touches `Windows+flèche`.</target>
       </segment>
     </unit>
     <unit id="63a9b533-bc32-4110-9ed5-db29c23a7b6a">
       <notes>
         <note appliesTo="source">line: 18</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Support has also been added for Windows 11 Voice Access.</source>
-        <target>Support has also been added for Windows 11 Voice Access.</target>
+        <target>La prise en charge de  laccès vocal de Windows 11  a également été ajouté.</target>
       </segment>
     </unit>
     <unit id="64028b60-b984-4329-9a44-434710b47933">
       <notes>
         <note appliesTo="source">line: 20</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Options have been added to report the language of the text being read, and report when the language is not supported by the current synthesizer.</source>
-        <target>Options have been added to report the language of the text being read, and report when the language is not supported by the current synthesizer.</target>
+        <target>Des options ont été ajoutées pour annoncer la langue du texte lu, ainsi que pour signaler lorsque la langue n’est pas prise en charge par le synthétiseur actuel.</target>
       </segment>
     </unit>
     <unit id="1aee3e3d-479d-4061-ab52-67a8a08ada75">
       <notes>
         <note appliesTo="source">line: 22</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Support for the NLS eReader Zoomax braille display has been added.</source>
-        <target>Support for the NLS eReader Zoomax braille display has been added.</target>
+        <target>La prise en charge de la plage braille NLS eReader Zoomax a été ajoutée.</target>
       </segment>
     </unit>
     <unit id="3765445c-c19a-44d0-be3e-e76a4afbc7db">
       <notes>
         <note appliesTo="source">line: 23</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Support for cursor routing with the point and click action on the Humanware Monarch has been added.</source>
-        <target>Support for cursor routing with the point and click action on the Humanware Monarch has been added.</target>
+        <target>La prise en charge du routage du curseur via l’action point-and-click sur le Humanware Monarch a été ajoutée.</target>
       </segment>
     </unit>
     <unit id="917320f4-1f28-45e1-886a-6ec79f2fbf62">
       <notes>
         <note appliesTo="source">line: 25</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>LibLouis has been updated, adding new Biblical Hebrew, Russian 6 dot computer braille and Thai Grade 2 braille tables.</source>
-        <target>LibLouis has been updated, adding new Biblical Hebrew, Russian 6 dot computer braille and Thai Grade 2 braille tables.</target>
+        <target>LibLouis a été mis à jour, avec l’ajout de nouvelles tables  braille : Hébreu biblique, Russe informatique 6 points et Thaï abrégé.</target>
       </segment>
     </unit>
     <unit id="999c51f6-2fbc-4da7-8a52-ba56e1caa4f0">
       <notes>
         <note appliesTo="source">line: 26</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>eSpeak NG has been updated, adding support for Aromanian, Crimean Tatar, Mongolian, and Pashto.</source>
-        <target>eSpeak NG has been updated, adding support for Aromanian, Crimean Tatar, Mongolian, and Pashto.</target>
+        <target>eSpeak NG a été mis à jour, avec l’ajout de la prise en charge de l’aroumain, du tatar de Crimée, du mongol et du pachto.</target>
       </segment>
     </unit>
     <unit id="6143bf8c-88f7-4e3c-a0d0-fdf3f3c6802a">
       <notes>
         <note appliesTo="source">line: 28</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>There have also been a number of other fixes and improvements, including to mouse and touch interaction, Windows 11 Notepad, and Google Chrome.</source>
-        <target>There have also been a number of other fixes and improvements, including to mouse and touch interaction, Windows 11 Notepad, and Google Chrome.</target>
+        <target>Un certain nombre d’autres corrections et améliorations ont également été apportées, notamment concernant l’interaction à la souris et  tactile, le Bloc-notes de Windows 11 et Google Chrome.</target>
       </segment>
     </unit>
     <unit id="55d30bab-021d-40d2-bba9-54988a117d6f">
