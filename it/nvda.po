@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-14 06:56+0000\n"
-"PO-Revision-Date: 2025-08-14 07:15\n"
+"POT-Creation-Date: 2025-08-14 07:48+0000\n"
+"PO-Revision-Date: 2025-08-14 08:18\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -2175,8 +2175,8 @@ msgstr "Alcune operazioni sugli add-on non sono andate a buon fine. Vedere i fil
 #: gui\installerGui.py:658 gui\logViewer.py:112 gui\logViewer.py:143
 #: gui\message.py:161 gui\settingsDialogs.py:1077 gui\settingsDialogs.py:5483
 #: gui\settingsDialogs.py:5843 gui\startupDialogs.py:128
-#: _remoteClient\dialogs.py:66 _remoteClient\dialogs.py:305
-#: _remoteClient\dialogs.py:423
+#: _remoteClient\dialogs.py:67 _remoteClient\dialogs.py:306
+#: _remoteClient\dialogs.py:430
 msgid "Error"
 msgstr "Errore"
 
@@ -7181,7 +7181,7 @@ msgstr "La connessione potrebbe non essere stabile durante e dopo l'aggiornament
 #: updateCheck.py:1018 gui\_SetURLDialog.py:113 gui\configProfiles.py:500
 #: gui\installerGui.py:348 gui\installerGui.py:473 gui\settingsDialogs.py:1039
 #: gui\settingsDialogs.py:1979 visionEnhancementProviders\screenCurtain.py:152
-#: _remoteClient\dialogs.py:290
+#: _remoteClient\dialogs.py:291
 msgid "Warning"
 msgstr "Avviso"
 
@@ -11578,7 +11578,7 @@ msgstr "Connessione avvenuta con successo all'URL fornito."
 #. Translators: The message title displayed when copying configuration to system settings was successful.
 #. Translators: Title of success dialog
 #: gui\_SetURLDialog.py:177 gui\installerGui.py:141 gui\installerGui.py:669
-#: gui\settingsDialogs.py:1083 _remoteClient\dialogs.py:279
+#: gui\settingsDialogs.py:1083 _remoteClient\dialogs.py:280
 msgid "Success"
 msgstr "Operazione riuscita"
 
@@ -13833,7 +13833,7 @@ msgstr "Connessione automatica"
 #. Translators: Label for a control in Remote Access settings,
 #. allowing the user to select whether their computer is controlling or controlled.
 #. Translators: Label of the control allowing users to set whether they are the controlling or controlled computer in the Remote Access connection dialog.
-#: gui\settingsDialogs.py:3439 _remoteClient\dialogs.py:324
+#: gui\settingsDialogs.py:3439 _remoteClient\dialogs.py:325
 msgctxt "remote"
 msgid "&Mode:"
 msgstr "&Modalità:"
@@ -13841,7 +13841,7 @@ msgstr "&Modalità:"
 #. Translators: Label for a control in Remote Access settings,
 #. allowing users to choose whether they want to use an existing server, or host their own.
 #. Translators: Label of the control allowing users to select whether to use a pre-existing Remote Access server, or to run their own.
-#: gui\settingsDialogs.py:3448 _remoteClient\dialogs.py:334
+#: gui\settingsDialogs.py:3448 _remoteClient\dialogs.py:335
 msgctxt "remote"
 msgid "&Server:"
 msgstr "&Server:"
@@ -13849,7 +13849,7 @@ msgstr "&Server:"
 #. Translators: Label for the host field in Remote Access settings.
 #. This is where users should enter the URL of the Remote Access server they want to use if they are not hosting their own.
 #. Translators: The label of an edit field in connect dialog to enter name or address of the remote computer.
-#: gui\settingsDialogs.py:3458 _remoteClient\dialogs.py:45
+#: gui\settingsDialogs.py:3458 _remoteClient\dialogs.py:46
 msgid "&Host:"
 msgstr "&Host:"
 
@@ -13858,14 +13858,14 @@ msgstr "&Host:"
 #. if the user has chosen to host their own.
 #. Translators: The label for a setting in braille settings to choose the connection port (if the selected braille display supports port selection).
 #: gui\settingsDialogs.py:3467 gui\settingsDialogs.py:4537
-#: _remoteClient\dialogs.py:206
+#: _remoteClient\dialogs.py:207
 msgid "&Port:"
 msgstr "&Porta:"
 
 #. Translators: Label for a control in Remote Access settings,
 #. Where users set the key for their connection.
 #. Translators: Label of the edit field to enter key (password) to secure the Remote Access connection.
-#: gui\settingsDialogs.py:3488 _remoteClient\dialogs.py:50
+#: gui\settingsDialogs.py:3488 _remoteClient\dialogs.py:51
 msgid "&Key:"
 msgstr "&Chiave d'accesso:"
 
@@ -18753,106 +18753,106 @@ msgid "Clipboard received"
 msgstr "Appunti ricevuti"
 
 #. Translators: The button used to generate a random key/password.
-#: _remoteClient\dialogs.py:54 _remoteClient\dialogs.py:216
+#: _remoteClient\dialogs.py:55 _remoteClient\dialogs.py:217
 msgid "&Generate Key"
 msgstr "&Genera chiave d'accesso"
 
 #. Translators: A message box displayed when the host field is empty and the user tries to generate a key.
-#: _remoteClient\dialogs.py:64
+#: _remoteClient\dialogs.py:65
 msgid "Host must be set."
 msgstr "Occorre impostare HOST."
 
 #. Translators: Title of a dialog shown to users when asking a Remote Access server to generate a key
-#: _remoteClient\dialogs.py:78
+#: _remoteClient\dialogs.py:79
 msgctxt "remote"
 msgid "Generating key"
 msgstr "Generazione chiave d'accesso"
 
 #. Translators: Message on a dialog shown to users when asking a Remote Access server to generate a key
-#: _remoteClient\dialogs.py:80
+#: _remoteClient\dialogs.py:81
 msgctxt "remote"
 msgid "Generating key..."
 msgstr "Generazione chiave d'accesso in corso..."
 
 #. Translators: Message shown to users when requesting that a Remote Access server generate a key fails.
 #. {host} will be replaced with the address of the Remote Access server.
-#: _remoteClient\dialogs.py:124
+#: _remoteClient\dialogs.py:125
 #, python-brace-format
 msgctxt "remote"
 msgid "Unable to connect to {host}. Check that you have internet access, and that there are no mistakes in the host field."
 msgstr "Impossibile connettersi a {host}. Verifica di essere connesso a Internet e che non ci siano errori nel campo host."
 
 #. Translators: Title of a dialog.
-#: _remoteClient\dialogs.py:127
+#: _remoteClient\dialogs.py:128
 msgctxt "remote"
 msgid "Host connection failed"
 msgstr "Connessione all'host non riuscita."
 
 #. Translators: Label of the field displaying the external IP address if using direct (client to server) connection.
-#: _remoteClient\dialogs.py:191
+#: _remoteClient\dialogs.py:192
 msgid "&External IP:"
 msgstr "IP &esterno:"
 
 #. Translators: Used in server mode to obtain the external IP address for the server (controlled computer) for direct connection.
-#: _remoteClient\dialogs.py:196
+#: _remoteClient\dialogs.py:197
 msgid "Get External &IP"
 msgstr "Ottieni &Ip esterno "
 
 #. Translators: Label of the edit field to enter key (password) to secure the Remote Access connection.
-#: _remoteClient\dialogs.py:214
+#: _remoteClient\dialogs.py:215
 msgctxt "remote"
 msgid "&Key"
 msgstr "Chiave (&K)"
 
 #. Translators: Title of a dialog shown to users while attempting to detect their external IP address
-#: _remoteClient\dialogs.py:235
+#: _remoteClient\dialogs.py:236
 msgctxt "remote"
 msgid "Getting external IP"
 msgstr "Recupero dell’IP esterno"
 
 #. Translators: Message on a dialog shown to users while attempting to detect their external IP address
-#: _remoteClient\dialogs.py:237
+#: _remoteClient\dialogs.py:238
 msgctxt "remote"
 msgid "Getting external IP..."
 msgstr "Recupero dell’IP esterno in corso..."
 
 #. Translators: Message shown when successfully getting external IP and the specified port is open
-#: _remoteClient\dialogs.py:277
+#: _remoteClient\dialogs.py:278
 #, python-brace-format
 msgid "Successfully retrieved IP address. Port {port} is open."
 msgstr "Indirizzo IP recuperato. La porta {port} è aperta."
 
 #. Translators: Message shown when IP was retrieved but the specified port is not forwarded
 #. {port} will be replaced with the actual port number
-#: _remoteClient\dialogs.py:288
+#: _remoteClient\dialogs.py:289
 #, python-brace-format
 msgid "Retrieved external IP, but port {port} is most likely not currently forwarded."
 msgstr "IP esterno rilevato, ma la porta {port} non sembra essere inoltrata correttamente."
 
 #. Translators: Error message when unable to get IP address from portcheck server
-#: _remoteClient\dialogs.py:303
+#: _remoteClient\dialogs.py:304
 msgid "Unable to contact portcheck server, please manually retrieve your IP address"
 msgstr "Impossibile contattare il server per il controllo delle porte, Si prega di recuperare manualmente l'indirizzo IP"
 
 #. Translators: Message displayed when the host or key field is empty and the user tries to connect.
-#: _remoteClient\dialogs.py:407
+#: _remoteClient\dialogs.py:414
 msgid "Both host and key must be set."
 msgstr "Occorre impostare Host e chiave d'accesso."
 
 #. Translators: Message displayed when the port or key field is empty and the user tries to connect.
-#: _remoteClient\dialogs.py:415
+#: _remoteClient\dialogs.py:422
 msgid "Both port and key must be set."
 msgstr "Occorre impostare porta e chiave d'accesso."
 
 #. Translators: Title of the dialog presented when attempting to connect to a server with an untrusted certificate.
-#: _remoteClient\dialogs.py:473
+#: _remoteClient\dialogs.py:480
 msgctxt "remote"
 msgid "Security Warning"
 msgstr "Avviso di sicurezza"
 
 #. Translators: Message presented when attempting to connect to a server with an untrusted certificate.
 #. {fingerprint} will be replaced with the SHA256 fingerprint of the server certificate.
-#: _remoteClient\dialogs.py:478
+#: _remoteClient\dialogs.py:485
 #, python-brace-format
 msgctxt "remote"
 msgid "The certificate of this server could not be verified. Using the wrong fingerprint may allow a third party to access the Remote Access session.\n\n"
@@ -18865,12 +18865,12 @@ msgstr "Il certificato di questo server non può essere verificato. Usare un'imp
 "Vuoi comunque continuare la connessione?"
 
 #. Translators: A button to connect and remember the server with unauthorized certificate.
-#: _remoteClient\dialogs.py:493
+#: _remoteClient\dialogs.py:500
 msgid "Connect and do not ask again for this server"
 msgstr "Connettiti e non chiedere più per questo server"
 
 #. Translators: A button to connect and ask again for the server with unauthorized certificate.
-#: _remoteClient\dialogs.py:495
+#: _remoteClient\dialogs.py:502
 msgid "Connect"
 msgstr "Connetti"
 
