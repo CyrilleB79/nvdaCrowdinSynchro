@@ -5645,7 +5645,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Braille improves with smarter word wrap, stable table selection across language changes, and optional USB auto-detection for Dot Pad.</source>
-        <target>Il braille migliora con una gestione più intelligente dell'andata a capo, una selezione stabile delle tabelle tra cambi di lingua e il rilevamento automatico USB opzionale per Dot Pad.</target>
+        <target>Il braille migliora con una gestione più intelligente nell'andare a capo, una selezione stabile delle tabelle tra cambi di lingua e il rilevamento automatico USB opzionale per Dot Pad.</target>
       </segment>
     </unit>
     <unit id="a0a7c131-272b-4515-be6f-5ca4d2e2cf49">
@@ -5742,7 +5742,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>A new setting has been added to automatically mute Remote Access when controlling the local computer. (#18630)</source>
-        <target>È stata aggiunta una nuova impostazione per disattivare automaticamente l'audio di Remote Access quando si controlla il computer locale. (#18630)</target>
+        <target>È stata aggiunta una nuova impostazione per disattivare automaticamente l'audio dell'accesso remoto quando si controlla il computer locale. (#18630)</target>
       </segment>
     </unit>
     <unit id="1157502d-1fd6-4578-a255-824425dc89d9">
@@ -5752,7 +5752,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Changes</source>
-        <target>Modifiche</target>
+        <target>Cambiamenti</target>
       </segment>
     </unit>
     <unit id="8544ecbf-c7dc-4d16-a240-c3b69429f33a">
@@ -5820,7 +5820,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>When braille word wrap is enabled, all braille cells will be used if the next character is a space. (#18016, @nvdaes)</source>
-        <target>Quando l'andata a capo in braille è abilitata, tutte le celle braille verranno utilizzate se il carattere successivo è uno spazio. (#18016, @nvdaes)</target>
+        <target>Quando è attivata la funzione di a capo automatico in braille, verranno utilizzate tutte le celle se il carattere successivo è uno spazio. (#18016, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="3a6270d0-168e-466e-8bae-03a963f39538">
@@ -5869,7 +5869,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>When the selection covers more than one cell in Microsoft Excel, pressing `tab` or `enter` to move the active cell now reports the new active cell rather than the whole selection. (#6959, @CyrilleB79)</source>
-        <target>Quando la selezione copre più di una cella in Microsoft Excel, premendo `tab` o `invio` per spostare la cella attiva viene ora riportata la nuova cella attiva anziché l'intera selezione. (#6959, @CyrilleB79)</target>
+        <target>Quando la selezione copre più di una cella in Microsoft Excel, alla pressione di `tab` o `invio` per spostare la cella attiva, viene ora riportata la nuova cella attiva anziché l'intera selezione. (#6959, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="59771368-a222-46f2-8d5f-87aacd2816f5">
@@ -6019,7 +6019,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>A portable copy launched immediately after creation now correctly use its own configuration instead of another one. (#18442, @CyrilleB79)</source>
-        <target>Una copia portatile avviata immediatamente dopo la creazione ora utilizza correttamente la propria configurazione invece di un’altra. (#18442, @CyrilleB79)</target>
+        <target>Una copia portable avviata immediatamente dopo la creazione ora utilizza correttamente la propria configurazione invece di un’altra. (#18442, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="e82a6d24-4e16-4955-bdcc-2aadfec1d726">

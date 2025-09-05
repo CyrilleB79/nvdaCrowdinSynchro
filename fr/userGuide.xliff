@@ -43385,9 +43385,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>NVDA's uninstaller is called `uninstall.exe` and resides under the NVDA installation directory, `%ProgramFiles(x86)%\nvda` on 64-bit Windows, or `%ProgramFiles%\nvda` on 32-bit Windows.</source>
-        <target>Le programme de désinstallation de NVDA s’appelle `uninstall.exe` et se trouve dans le répertoire d’installation de NVDA, `%ProgramFiles(x86)%
-vda` sur Windows 64 bits, ou `%ProgramFiles%
-vda` sur Windows 32 bits.</target>
+        <target>Le programme de désinstallation de NVDA se nomme `uninstall.exe` et se trouve dans le répertoire d’installation de NVDA, `%ProgramFiles(x86)%\nvda` sur Windows 64 bits, ou `%ProgramFiles%\nvda` sur Windows 32 bits.</target>
       </segment>
     </unit>
     <unit id="1e697e5d-f8ea-437e-97b2-95a272e0c8e9">
