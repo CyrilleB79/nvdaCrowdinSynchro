@@ -6037,9 +6037,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 63</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</source>
-        <target>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</target>
+        <target>Veuillez consulter [le guide du développeur](https://download.nvaccess.org/documentation/developerGuide.html#API) pour obtenir des informations sur le processus de dépréciation et de suppression de l'API de NVDA.</target>
       </segment>
     </unit>
     <unit id="0be60212-747b-4345-866d-db9fde1970d0">
@@ -6047,9 +6047,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 65</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Component updates:</source>
-        <target>Component updates:</target>
+        <target>Mises à jour de composants :</target>
       </segment>
     </unit>
     <unit id="c663a34e-24c3-4290-8eb0-2f61f641c5a7">
@@ -6057,9 +6057,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 66</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated Pyright to 1.1.403. (#18424)</source>
-        <target>Updated Pyright to 1.1.403. (#18424)</target>
+        <target>Mise à jour de Pyright à la 1.1.403. (#18424)</target>
       </segment>
     </unit>
     <unit id="eef694bd-f41e-4de0-93ae-c4063e8372ae">
@@ -6067,9 +6067,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 67</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated Ruff to 0.12.7. (#18424, #18609)</source>
-        <target>Updated Ruff to 0.12.7. (#18424, #18609)</target>
+        <target>Mise à jour de Ruff à la 0.12.7. (#18424, #18609)</target>
       </segment>
     </unit>
     <unit id="559076e8-4e6b-415a-a48c-140e5b9a6b7f">
@@ -6077,9 +6077,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 68</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated comtypes to 1.4.11. (#18611)</source>
-        <target>Updated comtypes to 1.4.11. (#18611)</target>
+        <target>Mise à jour de comtypes à la 1.4.11. (#18611)</target>
       </segment>
     </unit>
     <unit id="f766a91c-ba4d-40bc-b9dc-3a4f3b2426c2">
@@ -6087,9 +6087,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 69</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated py2exe to 0.14.0.0. (#18611)</source>
-        <target>Updated py2exe to 0.14.0.0. (#18611)</target>
+        <target>Mise à jour de py2exe à la 0.14.0.0. (#18611)</target>
       </segment>
     </unit>
     <unit id="2816e878-498a-4c9d-80e8-199a4ad07d54">
@@ -6097,9 +6097,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 70</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated markdown to 3.8.2. (#18638)</source>
-        <target>Updated markdown to 3.8.2. (#18638)</target>
+        <target>Mise à jour de markdown à la 3.8.2. (#18638)</target>
       </segment>
     </unit>
     <unit id="d105886f-2e74-4712-a317-2a43fd1fd60b">
@@ -6107,9 +6107,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 71</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>detours to `9764cebcb1a75940e68fa83d6730ffaf0f669401`. (#18447, @LeonarddeR)</source>
-        <target>detours to `9764cebcb1a75940e68fa83d6730ffaf0f669401`. (#18447, @LeonarddeR)</target>
+        <target>Mise à jour de detours à la `9764cebcb1a75940e68fa83d6730ffaf0f669401`. (#18447, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="81bf02b2-48fc-4b1f-9c88-f5d28d15110d">
@@ -6117,9 +6117,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 72</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For `IAccessible` objects, the `flowsFrom` and `flowsTo` properties will now raise a `NotImplementedError` for MSAA (non-IA2) objects. (#18416, @LeonarddeR)</source>
-        <target>For `IAccessible` objects, the `flowsFrom` and `flowsTo` properties will now raise a `NotImplementedError` for MSAA (non-IA2) objects. (#18416, @LeonarddeR)</target>
+        <target>Pour les objets `IAccessible` , les propriétés `flowsFrom` et `flowsTo` lèveront maintenant une `NotImplementedError` pour les objets MSAA (non IA2). (#18416, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="5220ddaf-59ce-456b-9b8b-f66200103cd6">
@@ -6127,9 +6127,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 73</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `nvda_dmp` utility has been removed. (#18480, @codeofdusk)</source>
-        <target>The `nvda_dmp` utility has been removed. (#18480, @codeofdusk)</target>
+        <target>L'utilitaire `nvda_dmp` a été supprimé. (#18480, @codeofdusk)</target>
       </segment>
     </unit>
     <unit id="f61e9244-0d56-46b9-ab2a-b0fedd95be66">
@@ -6137,9 +6137,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 74</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`comInterfaces_sconscript` has been updated to make the generated files in `comInterfaces` work better with IDEs. (#17608, @gexgd0419)</source>
-        <target>`comInterfaces_sconscript` has been updated to make the generated files in `comInterfaces` work better with IDEs. (#17608, @gexgd0419)</target>
+        <target>`comInterfaces_sconscript` a été mis à jour pour que les fichiers générés dans `comInterfaces` fonctionnent mieux avec les IDE. (#17608, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="b60467e9-5440-4043-90f5-790987742f63">
@@ -6147,9 +6147,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 75</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now configures `wx.lib.agw.persist.PersistenceManager` on GUI initialisation. (#18601)</source>
-        <target>NVDA now configures `wx.lib.agw.persist.PersistenceManager` on GUI initialisation. (#18601)</target>
+        <target>NVDA configure désormais `wx.lib.agw.persist.PersistenceManager` à l'initialisation de l'interface graphique. (#18601)</target>
       </segment>
     </unit>
     <unit id="5cbceb29-4c2d-4866-9394-f7d823750eab">
@@ -6157,9 +6157,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 77</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Deprecations</source>
-        <target>Deprecations</target>
+        <target>Dépréciations</target>
       </segment>
     </unit>
     <unit id="f83a49f5-ac38-4ac4-8f54-725d1572d60e">
@@ -6167,9 +6167,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 79</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols in `synthDrivers.sapi5` are deprecated with no replacement: (#18300, @gexgd0419)</source>
-        <target>The following symbols in `synthDrivers.sapi5` are deprecated with no replacement: (#18300, @gexgd0419)</target>
+        <target>Les symboles suivants de `synthDrivers.sapi5` sont obsolètes sans remplacement : (#18300, @gexgd0419)</target>
       </segment>
     </unit>
     <unit id="5c310bc4-28cc-41c5-ac06-a04d360ad922">
@@ -6177,7 +6177,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 80</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`LP_c_ubyte`</source>
         <target>`LP_c_ubyte`</target>
       </segment>
@@ -6187,7 +6187,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 81</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`LP_c_ulong`</source>
         <target>`LP_c_ulong`</target>
       </segment>
@@ -6197,7 +6197,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 82</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`LP__ULARGE_INTEGER`</source>
         <target>`LP__ULARGE_INTEGER`</target>
       </segment>
@@ -6207,7 +6207,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 83</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`SynthDriver.isSpeaking`</source>
         <target>`SynthDriver.isSpeaking`</target>
       </segment>
@@ -6217,9 +6217,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 84</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`easeOfAccess.RegistryKey` and `config.RegistryKey` is deprecated, use `config.registry.RegistryKey` instead. (#18608)</source>
-        <target>`easeOfAccess.RegistryKey` and `config.RegistryKey` is deprecated, use `config.registry.RegistryKey` instead. (#18608)</target>
+        <target>`easeOfAccess.RegistryKey` and `config.RegistryKey` sont obsolètes, veuillez utiliser `config.registry.RegistryKey` à la place. (#18608)</target>
       </segment>
     </unit>
     <unit id="bb747d9e-5d1e-48d2-84f5-89c96d755a00">
@@ -6227,18 +6227,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 85</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Importing `DEFAULT_EXTENSIONS` from `md2html` is deprecated.</source>
-        <target>Importing `DEFAULT_EXTENSIONS` from `md2html` is deprecated.</target>
+        <target>L'import de `DEFAULT_EXTENSIONS` depuis `md2html` est obsolète.</target>
       </segment>
     </unit>
     <unit id="ffdab4b2-5995-42fb-9165-ca254496befd">
       <notes>
         <note appliesTo="source">line: 86</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Importing from `md2html` is discouraged. (#18638)</source>
-        <target>Importing from `md2html` is discouraged. (#18638)</target>
+        <target>L'import depuis `md2html` est déconseillé. (#18638)</target>
       </segment>
     </unit>
     <unit id="58b2f98c-6705-4ac1-b96c-34020c02e46f">
@@ -9641,7 +9641,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The `braille.filter_displaySize` extension point is deprecated.</source>
-        <target>Le point d'extension `braille.filter_displaySize` est déprécié.</target>
+        <target>Le point d'extension `braille.filter_displaySize` est obsolète.</target>
       </segment>
     </unit>
     <unit id="3331d68a-b53f-4855-af14-406fc9ff590e">
@@ -9660,7 +9660,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The `gui.message.messageBox` and `gui.runScriptModalDialog` functions, and `gui.nvdaControls.MessageDialog` class are deprecated.</source>
-        <target>Les fonctions `gui.message.messageBox` et `gui.runScriptModalDialog`, ainsi que la classe `gui.nvdaControls.MessageDialog` sont dépréciées.</target>
+        <target>Les fonctions `gui.message.messageBox` et `gui.runScriptModalDialog`, ainsi que la classe `gui.nvdaControls.MessageDialog` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="150482de-fa4d-4f59-be58-5f6597fcd6fb">
@@ -9679,7 +9679,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The following symbols are deprecated (#17486, @CyrilleB79):</source>
-        <target>Les symboles suivants sont dépréciés (#17486, @CyrilleB79):</target>
+        <target>Les symboles suivants sont obsolètes (#17486, @CyrilleB79) :</target>
       </segment>
     </unit>
     <unit id="d2ef79a6-f33f-48d8-a5e9-8cbd85d2267d">
@@ -20661,7 +20661,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The deprecated aliases will remain until further notice.</source>
-        <target>Les alias dépréciés resteront disponibles jusqu'à nouvel ordre.</target>
+        <target>Les alias obsolètes resteront disponibles jusqu'à nouvel ordre.</target>
       </segment>
     </unit>
     <unit id="355200e4-6eea-46bb-bd16-fc47cf6ff2ca">
@@ -24561,7 +24561,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>`controlTypes` has been split up into various submodules, symbols marked for deprecation must be replaced before 2022.1. (#12510)</source>
-        <target>`controlTypes` a été séparé en plusieurs sous-modules, les symboles marqués comme dépréciés devront être remplacés avant 2022.1. (#12510)</target>
+        <target>`controlTypes` a été séparé en plusieurs sous-modules, les symboles marqués comme obsolètes devront être remplacés avant 2022.1. (#12510)</target>
       </segment>
     </unit>
     <unit id="c8abb515-d9c6-4b03-bcfd-d84ddd4ef7f1">
@@ -24611,7 +24611,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Deprecated: `winVersion.WIN10_RELEASE_NAME_TO_BUILDS` will be removed in 2022.1, there is no direct replacement. (#12544)</source>
-        <target>Déprécié : `winVersion.WIN10_RELEASE_NAME_TO_BUILDS` sera supprimé dans 2022.1, sans remplaçant direct. (#12544)</target>
+        <target>Obsolète : `winVersion.WIN10_RELEASE_NAME_TO_BUILDS` sera supprimé dans 2022.1, sans remplaçant direct. (#12544)</target>
       </segment>
     </unit>
     <unit id="cb0a6d33-c1a4-4430-95b5-dc5f9311a682">
@@ -27787,7 +27787,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>execElevated and hasUiAccess have moved from config module to systemUtils module. Usage via config module is deprecated. (#10493)</source>
-        <target>execElevated et hasUiAccess ont été déplacés du module config au module systemUtils. L'usage via le module config est déprécié. (#10493)</target>
+        <target>execElevated et hasUiAccess ont été déplacés du module config au module systemUtils. L'usage via le module config est obsolète. (#10493)</target>
       </segment>
     </unit>
     <unit id="f2af6f7e-236f-4c33-9a8a-d355b78fc221">
@@ -28175,7 +28175,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>getSpeechForSpelling is deprecated (though still available) use getSpellingSpeech instead.</source>
-        <target>getSpeechForSpelling est maintenant déprécié, utilisez getSpellingSpeech à la place.</target>
+        <target>getSpeechForSpelling est maintenant obsolète, bien qu'encore disponible, utilisez getSpellingSpeech à la place.</target>
       </segment>
     </unit>
     <unit id="bf263e4c-92ca-4f43-9b5f-05c46b01644f">
@@ -28224,7 +28224,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Module level 'REASON_*' constants are deprecated.</source>
-        <target>Les constantes de niveau de module 'REASON_*' sont dépréciées.</target>
+        <target>Les constantes de niveau de module 'REASON_*' sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="8fd47718-6441-4de5-b2f6-055f77812f00">
@@ -41999,7 +41999,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Inclusion of the bisect module in binary builds is deprecated and may be removed in a future release. (#3368)</source>
-        <target>L'inclusion du module bisect dans les binaires est maintenant dépréciée et pourrait être supprimée dans une future version. (#3368)</target>
+        <target>L'inclusion du module bisect dans les binaires est maintenant obsolète et pourrait être supprimée dans une future version. (#3368)</target>
       </segment>
     </unit>
     <unit id="af9d0a74-a35b-487f-a087-67ddcc9b794a">
