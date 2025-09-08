@@ -5673,7 +5673,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Localisation data for emojis has been added for Belarusian and Bosnian.</source>
-        <target>Les données de localisation des émojis ont été ajoutées pour le biélorusse et le bosniaque.Localisation data for emojis has been added for Belarusian and Bosnian.</target>
+        <target>Les données de localisation des émojis ont été ajoutées pour le biélorusse et le bosniaque.</target>
       </segment>
     </unit>
     <unit id="71e49710-916a-463a-9f10-4ccc2e25da81">
@@ -5870,7 +5870,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>When the selection covers more than one cell in Microsoft Excel, pressing `tab` or `enter` to move the active cell now reports the new active cell rather than the whole selection. (#6959, @CyrilleB79)</source>
-        <target>Quand la sélection couvre plus d’une cellule dans Microsoft Excel, un appui sur `tab' ou ` entrée` pour déplacer la cellule active annonce désormais la cellule nouvellement active plutôt que toute la sélection. (#6959, @CyrilleB79)</target>
+        <target>Quand la sélection couvre plus d’une cellule dans Microsoft Excel, un appui sur `tab` ou ` entrée` pour déplacer la cellule active annonce désormais la cellule nouvellement active plutôt que toute la sélection. (#6959, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="59771368-a222-46f2-8d5f-87aacd2816f5">
@@ -9149,7 +9149,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>`NVDAObjects.IAccessible.ia2TextMozilla.FakeEmbeddingTextInfo` has been removed. (#16768, @jcsteh)</source>
-        <target>`NVDAObjects`NVDAObjects.IAccessible.ia2TextMozilla.FakeEmbeddingTextInfo` a été supprimé. (#16768, @jcsteh)</target>
+        <target>`NVDAObjects.IAccessible.ia2TextMozilla.FakeEmbeddingTextInfo` a été supprimé. (#16768, @jcsteh)</target>
       </segment>
     </unit>
     <unit id="872ac159-1321-4bfd-b26e-08ebe213aa1f">
