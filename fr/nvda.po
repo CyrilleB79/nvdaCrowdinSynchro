@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-08 06:42+0000\n"
-"PO-Revision-Date: 2025-09-09 09:13\n"
+"PO-Revision-Date: 2025-09-09 12:26\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -4019,7 +4019,7 @@ msgstr "Afficher les paramètres de mise en forme des documents de NVDA"
 #: globalCommands.py:3444
 msgctxt "remote"
 msgid "Shows the Remote Access settings"
-msgstr "Affiche les paramètres de d’accès à distance"
+msgstr "Affiche les paramètres d’accès à distance"
 
 #. Translators: Input help mode message for go to Add-on Store settings command.
 #: globalCommands.py:3453
