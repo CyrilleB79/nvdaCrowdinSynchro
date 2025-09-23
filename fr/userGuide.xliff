@@ -25019,7 +25019,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Exactly how they are displayed can be configured in [NVDA's braille settings](#BrailleFormattingDisplay).</source>
-        <target>La manière exacte dont ils sont affichés peut être configurée dans [Paramètres braille de NVDA] (#BrailleFormattingDisplay).</target>
+        <target>La manière exacte dont ils sont affichés peut être configurée dans [Paramètres braille de NVDA](#BrailleFormattingDisplay).</target>
       </segment>
     </unit>
     <unit id="0f8e5732-f6a9-4c12-ae33-7cd93c9b8da7">
@@ -25966,7 +25966,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>You can still manually mute or unmute Remote Access when controlling the local computer [via the Remote Access menu](#RemoteAccessUsage), or by assigning a custom gesture using the [Input Gestures dialog](#InputGestures).</source>
-        <target>Vous pouvez toujours activer ou désactiver manuellement le son de l’Accès à distance lors du contrôle de l’ordinateur local [via le menu Accès à distance]](#RemoteAccessUsage), ou en attribuant un geste de commande personnalisé à l’aide de la fenêtre [Gestes de commandes](#InputGestures).</target>
+        <target>Vous pouvez toujours activer ou désactiver manuellement le son de l’Accès à distance lors du contrôle de l’ordinateur local [via le menu Accès à distance](#RemoteAccessUsage), ou en attribuant un geste de commande personnalisé à l’aide de la fenêtre [Gestes de commandes](#InputGestures).</target>
       </segment>
     </unit>
     <unit id="4b142507-9401-4d1f-b8da-cb443c3cb501">
