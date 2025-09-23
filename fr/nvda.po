@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-23 03:56+0000\n"
-"PO-Revision-Date: 2025-09-23 09:13\n"
+"PO-Revision-Date: 2025-09-23 12:24\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -485,7 +485,7 @@ msgstr "mmp"
 #. Translators: Displayed in braille when an object supports multiple selected items.
 #: braille.py:287
 msgid "msel"
-msgstr ""
+msgstr "selm"
 
 #. Translators: Displayed in braille when an object is not selected.
 #: braille.py:291
@@ -669,7 +669,7 @@ msgstr "lnv"
 #. Translators: Displayed in braille for a multi select list.
 #: braille.py:727
 msgid "mslst"
-msgstr ""
+msgstr "lstsm"
 
 #. Translators: Brailled to indicate the position of an item in a group of items (such as a list).
 #. {number} is replaced with the number of the item in the group.
@@ -2787,14 +2787,14 @@ msgstr "annonce du style activée"
 #. Translators: Input help mode message for toggle report spelling errors command.
 #: globalCommands.py:792
 msgid "Cycles through options for how to report spelling errors"
-msgstr ""
+msgstr "Faire défiler les options pour savoir comment sont signalées les erreurs d'orthographe"
 
 #. Translators: Reported when the user cycles through the choices to report spelling errors.
 #. {mode} will be replaced with the mode; e.g. Off, Speech, Sound.
 #: globalCommands.py:802
 #, python-brace-format
 msgid "Report spelling errors {mode}"
-msgstr ""
+msgstr "Signaler les erreurs {mode}"
 
 #. Translators: Input help mode message for toggle report pages command.
 #: globalCommands.py:807
@@ -2836,7 +2836,7 @@ msgstr "Faire défiler les paramètres de retrait des lignes"
 #: globalCommands.py:851
 #, python-brace-format
 msgid "Report line indentation {mode}"
-msgstr "Annonce du retrait des lignes {mode}"
+msgstr "Signaler le retrait des lignes {mode}"
 
 #. Translators: Input help mode message for toggle ignore blank lines for line indentation reporting command.
 #: globalCommands.py:855
@@ -8763,7 +8763,7 @@ msgstr "Bélarusse Braille littéraire"
 #. braille settings dialog.
 #: brailleTables\__tables.py:50
 msgid "Belarusian literary braille (detailed)"
-msgstr "Biélorusse Braille littéraire (détaillé)"
+msgstr "Bélarusse Braille littéraire (détaillé)"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -8979,13 +8979,13 @@ msgstr "Anglais Nord Américain code Braille informatique"
 #. braille settings dialog.
 #: brailleTables\__tables.py:163
 msgid "Unified English Braille Code grade 1"
-msgstr "Braille anglais unifié intégral"
+msgstr "Anglais unifié Code braille intégral"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
 #: brailleTables\__tables.py:166
 msgid "Unified English Braille Code grade 2"
-msgstr "Braille anglais unifié abrégé"
+msgstr "Anglais unifié Code braille abrégé"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -9231,7 +9231,7 @@ msgstr "Japonais (Kantenji) braille littéraire"
 #. braille settings dialog.
 #: brailleTables\__tables.py:327
 msgid "Japanese (Rokuten Kanji) Braille"
-msgstr ""
+msgstr "Japonais (Rokuten Kanji) braille"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -9982,40 +9982,40 @@ msgstr "Parole"
 #: config\configFlags.py:173
 msgctxt "line indentation setting"
 msgid "Tones"
-msgstr "Des sons"
+msgstr "Sons"
 
 #. Translators: A choice in a combo box in the document formatting dialog to report indentation with both
 #. Speech and tones.
 #: config\configFlags.py:178
 msgctxt "line indentation setting"
 msgid "Both Speech and Tones"
-msgstr "La Parole et des Sons"
+msgstr "Parole et sons"
 
 #. Translators: A value reported by the cycle script defining how spelling errors are reported.
 #: config\configFlags.py:201
 msgctxt "reportSpellingErrorsSetting"
 msgid "Off"
-msgstr ""
+msgstr "Désactivé"
 
 #. Translators: A value reported by the cycle script defining how spelling errors are reported, also used
 #. as choice in a checklist box in the document formatting dialog to report spelling errors with speech.
 #: config\configFlags.py:204
 msgctxt "reportSpellingErrorsSetting"
 msgid "Speech"
-msgstr ""
+msgstr "Parole"
 
 #. Translators: A value reported by the cycle script defining how spelling errors are reported, also used
 #. as choice in a checklist box in the document formatting dialog to report spelling errors with a sound.
 #: config\configFlags.py:207
 msgctxt "reportSpellingErrorsSetting"
 msgid "Sound"
-msgstr ""
+msgstr "Son"
 
 #. Translators: A value reported by the cycle script defining how spelling errors are reported.
 #: config\configFlags.py:211
 msgctxt "reportSpellingErrorsSetting"
 msgid "Speech and sound"
-msgstr ""
+msgstr "Parole et son"
 
 #. Translators: This is the label for a combobox in the
 #. document formatting settings panel.
@@ -11470,7 +11470,7 @@ msgstr "même page"
 #. For example, a list box that allows selecting multiple items.
 #: controlTypes\state.py:216
 msgid "multi-select"
-msgstr ""
+msgstr "sélection multiple"
 
 #. Translators: This is presented when a selectable object (e.g. a list item) is not selected.
 #: controlTypes\state.py:222
@@ -11622,12 +11622,12 @@ msgstr "L'écran de paramètres que vous essayez d'ouvrir n'est pas disponible s
 #. from the about dialog
 #: gui\__init__.py:404
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Copié dans le presse-papiers"
 
 #. Translators: The label for a button to copy the NVDA version number from the about dialog.
 #: gui\__init__.py:410
 msgid "&Copy version number"
-msgstr ""
+msgstr "&Copier le numéro de version"
 
 #. Translators: The title of the dialog to show about info for NVDA.
 #: gui\__init__.py:415 gui\__init__.py:864
@@ -13342,7 +13342,7 @@ msgstr "Deviner le r&ang de l'objet quand l'information n'est pas disponible"
 #. object presentation settings panel.
 #: gui\settingsDialogs.py:2484
 msgid "Report when lists support &multiple selection"
-msgstr ""
+msgstr "Annonce lorsque les listes prennent en charge la sélection &multiple"
 
 #. Translators: This is the label for a checkbox in the
 #. object presentation settings panel.
