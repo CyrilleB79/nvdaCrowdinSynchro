@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-03 02:38+0000\n"
-"PO-Revision-Date: 2025-10-03 06:18\n"
+"PO-Revision-Date: 2025-10-03 08:15\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -645,14 +645,14 @@ msgstr "⡃"
 #: braille.py:461
 msgctxt "braille formatting symbol"
 msgid "⠑"
-msgstr ""
+msgstr "⠑"
 
 #. Translators: Brailled at the end of invalid spelling text.
 #. This is the English letter "e" plus dot 7 in braille.
 #: braille.py:464
 msgctxt "braille formatting symbol"
 msgid "⡑"
-msgstr ""
+msgstr "⡑"
 
 #. Translators: Braille when there are further details/annotations that can be fetched manually.
 #: braille.py:677 speech\speech.py:2103
@@ -2819,17 +2819,17 @@ msgstr "Signaler les erreurs {mode}"
 #. Translators: Input help mode message for command to toggle report spelling errors in braille.
 #: globalCommands.py:815
 msgid "Toggles reporting spelling errors in braille"
-msgstr ""
+msgstr "Activer ou désactiver l'affichage des fautes d'orthographe en braille"
 
 #. Translators: Message presented when turning on reporting spelling errors in braille.
 #: globalCommands.py:825
 msgid "Report spelling errors in braille on"
-msgstr ""
+msgstr "Affichage des fautes d'orthographe en braille activé"
 
 #. Translators: Message presented when turning off reporting spelling errors in braille.
 #: globalCommands.py:828
 msgid "Report spelling errors in braille off"
-msgstr ""
+msgstr "Affichage des fautes d'orthographe en braille désactivé"
 
 #. Translators: Input help mode message for toggle report pages command.
 #: globalCommands.py:832
@@ -10074,7 +10074,7 @@ msgstr "Parole et son"
 #: config\configFlags.py:215
 msgctxt "reportSpellingErrorsSetting"
 msgid "Braille"
-msgstr ""
+msgstr "Braille"
 
 #. Translators: This is the label for a combobox in the
 #. document formatting settings panel.
@@ -15085,7 +15085,7 @@ msgstr "Date de publication :"
 #: gui\addonStoreGui\controls\details.py:370
 msgctxt "addonStore"
 msgid "VirusTotal scan results:"
-msgstr ""
+msgstr "Résultats de l’analyse par VirusTotal :"
 
 #. Translators: Summary of VirusTotal scan results for the selected add-on.
 #. {malicious} is the number of vendors that detected the add-on as malicious,
@@ -15095,13 +15095,13 @@ msgstr ""
 #, python-brace-format
 msgctxt "addonStore"
 msgid "{malicious} out of {total} malware scanners detected this add-on as potentially malicious."
-msgstr ""
+msgstr "{malicious} analyseurs de logiciels malveillants sur {total} ont détecté que cette extension pouvait être malveillante."
 
 #. Translators: Label for an extra detail field for the selected add-on. In the add-on store dialog.
 #: gui\addonStoreGui\controls\details.py:385
 msgctxt "addonStore"
 msgid "VirusTotal scan URL:"
-msgstr ""
+msgstr "URL de l’analyse par VirusTotal :"
 
 #. Translators: A button in the addon installation warning / blocked dialog which shows
 #. more information about the addon
@@ -15613,20 +15613,20 @@ msgstr "A&vis de la communauté"
 #: gui\addonStoreGui\viewModels\store.py:266
 msgctxt "addonStore"
 msgid "VirusTotal scan results"
-msgstr ""
+msgstr "Résultats de l’analyse par VirusTotal"
 
 #. Translators: Label for an action that shows changelog for the selected addon
 #: gui\addonStoreGui\viewModels\store.py:274
 msgctxt "addonStore"
 msgid "&What's new"
-msgstr ""
+msgstr "&Quoi de neuf"
 
 #. Translators: Title for a message showing changes for the current add-on version.
 #: gui\addonStoreGui\viewModels\store.py:282
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Changes for {curVersion}"
-msgstr ""
+msgstr "Modifications de la {curVersion}"
 
 #. Translators: The message displayed when the add-on cannot be enabled.
 #. {addon} is replaced with the add-on name.
@@ -15660,7 +15660,7 @@ msgstr ""
 #: gui\_localCaptioner\messageDialogs.py:57
 msgctxt "imageDesc"
 msgid "Download failed"
-msgstr ""
+msgstr "Échec du téléchargement"
 
 #. Translators: label of dialog when fail to download image captioning
 #: gui\_localCaptioner\messageDialogs.py:61
@@ -15678,7 +15678,7 @@ msgstr ""
 #: gui\_localCaptioner\messageDialogs.py:88
 msgctxt "imageDesc"
 msgid "Confirm download"
-msgstr ""
+msgstr "Confirmer le téléchargement"
 
 #. Translators: label of dialog when downloading image captioning
 #: gui\_localCaptioner\messageDialogs.py:92
@@ -18827,19 +18827,19 @@ msgstr ""
 #: _localCaptioner\imageDescriber.py:118
 msgctxt "imageDesc"
 msgid "image description is not enabled"
-msgstr ""
+msgstr "La description d'image n'est pas activée"
 
 #. Translators: Message when starting image recognition
 #: _localCaptioner\imageDescriber.py:127
 msgctxt "imageDesc"
 msgid "getting image description..."
-msgstr ""
+msgstr "description de l'image en cours..."
 
 #. Translators: error message when fail to load model
 #: _localCaptioner\imageDescriber.py:160
 msgctxt "imageDesc"
 msgid "failed to load image captioner"
-msgstr ""
+msgstr "failed to load image captioner"
 
 #. Translators: Message when successfully load the model
 #: _localCaptioner\imageDescriber.py:165
