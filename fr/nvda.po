@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-03 02:38+0000\n"
-"PO-Revision-Date: 2025-10-03 08:15\n"
+"PO-Revision-Date: 2025-10-03 09:12\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2440,7 +2440,7 @@ msgstr "Accès à distance"
 #: globalCommands.py:131
 msgctxt "imageDesc"
 msgid "Image Descriptions"
-msgstr ""
+msgstr "Image Descriptions"
 
 #. Translators: Reported when there are no settings to configure in synth settings ring
 #. (example: when there is no setting for language).
@@ -3987,7 +3987,7 @@ msgstr "Affiche les paramètres d’accès à distance"
 #: globalCommands.py:3478
 msgctxt "imageDesc"
 msgid "Shows the AI image descriptions settings"
-msgstr ""
+msgstr "Afficher les paramètres de description d'image par IA"
 
 #. Translators: Input help mode message for go to Add-on Store settings command.
 #: globalCommands.py:3487
@@ -4797,13 +4797,13 @@ msgstr "Envoie contrôle+alt+suppr à l'ordinateur contrôlé."
 #: globalCommands.py:5103
 msgctxt "imageDesc"
 msgid "Get an AI generated image description"
-msgstr ""
+msgstr "Obtenir une description de l'image générée par IA"
 
 #. Translators: Description for the toggle image captioning script
 #: globalCommands.py:5112
 msgctxt "imageDesc"
 msgid "Toggle image captioning"
-msgstr ""
+msgstr "Active ou désactive le modèle de description d'image"
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
@@ -13958,13 +13958,13 @@ msgstr "Erreur d'Accès à distance"
 #: gui\settingsDialogs.py:3671
 msgctxt "imageDesc"
 msgid "AI Image Descriptions"
-msgstr ""
+msgstr "Description d'image par IA"
 
 #. Translators: A configuration in settings dialog.
 #: gui\settingsDialogs.py:3684
 msgctxt "imageDesc"
 msgid "Enable image captioner"
-msgstr ""
+msgstr "Activer le modèle description d'image"
 
 #. Translators: This is the label for the touch interaction settings panel.
 #: gui\settingsDialogs.py:3705
@@ -15648,13 +15648,13 @@ msgstr "Impossible de désactiver l'extension : {addon}."
 #: gui\_localCaptioner\messageDialogs.py:32
 msgctxt "imageDesc"
 msgid "Download successful"
-msgstr ""
+msgstr "Succès du téléchargement"
 
 #. Translators: label of dialog when downloading image captioning
 #: gui\_localCaptioner\messageDialogs.py:36
 msgctxt "imageDesc"
 msgid "Image captioning installed successfully."
-msgstr ""
+msgstr "Modèle de description d'image installé avec succès."
 
 #. Translators: title of dialog when fail to download
 #: gui\_localCaptioner\messageDialogs.py:57
@@ -15666,13 +15666,13 @@ msgstr "Échec du téléchargement"
 #: gui\_localCaptioner\messageDialogs.py:61
 msgctxt "imageDesc"
 msgid "Image captioning download failed. Would you like to retry?"
-msgstr ""
+msgstr "Le téléchargement du modèle de description d'image a échoué. Voulez-vous réessayer ?"
 
 #. Translators: message when image captioning is still downloading
 #: gui\_localCaptioner\messageDialogs.py:77
 msgctxt "imageDesc"
 msgid "image captioning is still downloading, please wait..."
-msgstr ""
+msgstr "Le modèle de description d'image est toujours en cours de téléchargement, veuillez patienter ..."
 
 #. Translators: title of dialog when downloading Image captioning
 #: gui\_localCaptioner\messageDialogs.py:88
@@ -15684,7 +15684,7 @@ msgstr "Confirmer le téléchargement"
 #: gui\_localCaptioner\messageDialogs.py:92
 msgctxt "imageDesc"
 msgid "Image captioning not installed. Would you like to install (235 MB)?"
-msgstr ""
+msgstr "Le modèle de description d'image n'est pas installé. Voulez-vous l'installer (235 Mo) ?"
 
 #. Translators: Describes a command.
 #: mathPres\__init__.py:132
@@ -18821,7 +18821,7 @@ msgstr "Bureau Sécurisé"
 #: _localCaptioner\imageDescriber.py:78
 msgctxt "imageDesc"
 msgid "Failed to generate description"
-msgstr ""
+msgstr "La génération de la description a échoué"
 
 #. Translators: Message when image description is not enabled
 #: _localCaptioner\imageDescriber.py:118
@@ -18845,13 +18845,13 @@ msgstr "failed to load image captioner"
 #: _localCaptioner\imageDescriber.py:165
 msgctxt "imageDesc"
 msgid "image captioning on"
-msgstr ""
+msgstr "Modèle de description d'image activé"
 
 #. Translators: Message when image captioning terminates
 #: _localCaptioner\imageDescriber.py:184
 msgctxt "imageDesc"
 msgid "image captioning off"
-msgstr ""
+msgstr "Modèle de description d'image désactivé"
 
 #. Translators: Presented when attempting to mute or unmute Remote Access when connected as the controlled computer.
 #. Translators: Presented when attempting to send control+alt+delete when connected as the controlled computer.
