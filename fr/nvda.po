@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-13 08:38+0000\n"
-"PO-Revision-Date: 2025-10-14 05:12\n"
+"POT-Creation-Date: 2025-10-14 06:24+0000\n"
+"PO-Revision-Date: 2025-10-14 07:13\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -94,568 +94,568 @@ msgstr "Atténuation permanente"
 
 #. Translators: Displayed in braille for an object which is a
 #. window.
-#: braille.py:88
+#: braille.py:89
 msgid "wnd"
 msgstr "fen"
 
 #. Translators: Displayed in braille for an object which is a
 #. dialog.
-#: braille.py:91
+#: braille.py:92
 msgid "dlg"
 msgstr "dlg"
 
 #. Translators: Displayed in braille for an object which is a
 #. check box.
-#: braille.py:94
+#: braille.py:95
 msgid "chk"
 msgstr "càc"
 
 #. Translators: Displayed in braille for an object which is a
 #. radio button.
-#: braille.py:97
+#: braille.py:98
 msgid "rbtn"
 msgstr "btnr"
 
 #. Translators: Displayed in braille for an object which is an
 #. editable text field.
-#: braille.py:100
+#: braille.py:101
 msgid "edt"
 msgstr "éd"
 
 #. Translators: Displayed in braille for an object which is a
 #. button.
-#: braille.py:103
+#: braille.py:104
 msgid "btn"
 msgstr "btn"
 
 #. Translators: Displayed in braille for an object which is a
 #. menu bar.
-#: braille.py:106
+#: braille.py:107
 msgid "mnubar"
 msgstr "bmnu"
 
 #. Translators: Displayed in braille for an object which is a
 #. menu item.
-#: braille.py:109
+#: braille.py:110
 msgid "mnuitem"
 msgstr "élmnu"
 
 #. Translators: Displayed in braille for an object which is a
 #. menu.
-#: braille.py:112 braille.py:211
+#: braille.py:113 braille.py:212
 msgid "mnu"
 msgstr "mnu"
 
 #. Translators: Displayed in braille for an object which is a
 #. combo box.
-#: braille.py:115
+#: braille.py:116
 msgid "cbo"
 msgstr "lstd"
 
 #. Translators: Displayed in braille for an object which is a
 #. list.
-#: braille.py:118
+#: braille.py:119
 msgid "lst"
 msgstr "lst"
 
 #. Translators: Displayed in braille for an object which is a
 #. graphic.
-#: braille.py:121
+#: braille.py:122
 msgid "gra"
 msgstr "gra"
 
 #. Translators: Displayed in braille for toast notifications and for an object which is a
 #. help balloon.
-#: braille.py:124
+#: braille.py:125
 msgid "hlp"
 msgstr "aid"
 
 #. Translators: Displayed in braille for an object which is a
 #. tool tip.
-#: braille.py:127
+#: braille.py:128
 msgid "tltip"
 msgstr "sug"
 
 #. Translators: Displayed in braille for an object which is a
 #. link.
-#: braille.py:130
+#: braille.py:131
 msgid "lnk"
 msgstr "ln"
 
 #. Translators: Displayed in braille for an object which is a
 #. tree view.
-#: braille.py:133
+#: braille.py:134
 msgid "tv"
 msgstr "arb"
 
 #. Translators: Displayed in braille for an object which is a
 #. tree view item.
-#: braille.py:136
+#: braille.py:137
 msgid "tvitem"
 msgstr "élarb"
 
 #. Translators: Displayed in braille for an object which is a
 #. tab control.
-#: braille.py:139
+#: braille.py:140
 msgid "tabctl"
 msgstr "ong"
 
 #. Translators: Displayed in braille for an object which is a
 #. progress bar.
-#: braille.py:142
+#: braille.py:143
 msgid "prgbar"
 msgstr "bpr"
 
 #. Translators: Displayed in braille for an object which is an
 #. indeterminate progress bar, aka busy indicator.
-#: braille.py:145
+#: braille.py:146
 msgid "bsyind"
 msgstr "indocp"
 
 #. Translators: Displayed in braille for an object which is a
 #. scroll bar.
-#: braille.py:148
+#: braille.py:149
 msgid "scrlbar"
 msgstr "bdéf"
 
 #. Translators: Displayed in braille for an object which is a
 #. status bar.
-#: braille.py:151
+#: braille.py:152
 msgid "stbar"
 msgstr "bét"
 
 #. Translators: Displayed in braille for an object which is a
 #. table.
-#: braille.py:154
+#: braille.py:155
 msgid "tbl"
 msgstr "tb"
 
 #. Translators: Displayed in braille for an object which is a
 #. tool bar.
-#: braille.py:157
+#: braille.py:158
 msgid "tlbar"
 msgstr "bo"
 
 #. Translators: Displayed in braille for an object which is a
 #. drop down button.
-#: braille.py:160
+#: braille.py:161
 msgid "drbtn"
 msgstr "btnd"
 
 #. Translators: Displayed in braille for an object which is a
 #. block quote.
-#: braille.py:166
+#: braille.py:167
 msgid "bqt"
 msgstr "ctn"
 
 #. Translators: Displayed in braille for an object which is a
 #. document.
-#: braille.py:169
+#: braille.py:170
 msgid "doc"
 msgstr "doc"
 
 #. Translators: Displayed in braille for an object which is a
 #. application.
-#: braille.py:172
+#: braille.py:173
 msgid "app"
 msgstr "app"
 
 #. Translators: Displayed in braille for an object which is a
 #. grouping.
-#: braille.py:175
+#: braille.py:176
 msgid "grp"
 msgstr "grp"
 
 #. Translators: Displayed in braille for an object which is a
 #. caption.
-#: braille.py:178
+#: braille.py:179
 msgid "cap"
 msgstr "lég"
 
 #. Translators: Displayed in braille for an object which is a
 #. embedded object.
-#: braille.py:181
+#: braille.py:182
 msgid "embedded"
 msgstr "oemb"
 
 #. Translators: Displayed in braille for an object which is a
 #. end note.
-#: braille.py:184
+#: braille.py:185
 msgid "enote"
 msgstr "notef"
 
 #. Translators: Displayed in braille for an object which is a
 #. foot note.
-#: braille.py:187
+#: braille.py:188
 msgid "fnote"
 msgstr "noteb"
 
 #. Translators: Displayed in braille for an object which is a
 #. terminal.
-#: braille.py:190
+#: braille.py:191
 msgid "term"
 msgstr "term"
 
 #. Translators: Displayed in braille for an object which is a
 #. section.
-#: braille.py:193
+#: braille.py:194
 msgid "sect"
 msgstr "sect"
 
 #. Translators: Displayed in braille for an object which is a
 #. toggle button.
-#: braille.py:196
+#: braille.py:197
 msgid "tgbtn"
 msgstr "bsc"
 
 #. Translators: Displayed in braille for an object which is a
 #. split button.
-#: braille.py:199
+#: braille.py:200
 msgid "splbtn"
 msgstr "btnp"
 
 #. Translators: Displayed in braille for an object which is a
 #. menu button.
-#: braille.py:202
+#: braille.py:203
 msgid "mnubtn"
 msgstr "btnmnu"
 
 #. Translators: Displayed in braille for an object which is a
 #. spin button.
-#: braille.py:205
+#: braille.py:206
 msgid "spnbtn"
 msgstr "btnrot"
 
 #. Translators: Displayed in braille for an object which is a
 #. tree view button.
-#: braille.py:208
+#: braille.py:209
 msgid "tvbtn"
 msgstr "btnarb"
 
 #. Translators: Displayed in braille for an object which is a
 #. panel.
-#: braille.py:214
+#: braille.py:215
 msgid "pnl"
 msgstr "pn"
 
 #. Translators: Displayed in braille for an object which is a
 #. password edit.
-#: braille.py:217
+#: braille.py:218
 msgid "pwdedt"
 msgstr "édmdp"
 
 #. Translators: Displayed in braille for an object which is deleted.
-#: braille.py:219
+#: braille.py:220
 msgid "del"
 msgstr "effacé"
 
 #. Translators: Displayed in braille for an object which is inserted.
-#: braille.py:221
+#: braille.py:222
 msgid "ins"
 msgstr "ins"
 
 #. Translators: Displayed in braille for a landmark.
-#: braille.py:223
+#: braille.py:224
 msgid "lmk"
 msgstr "rgn"
 
 #. Translators: Displayed in braille for an object which is an article.
-#: braille.py:225
+#: braille.py:226
 msgid "art"
 msgstr "art"
 
 #. Translators: Displayed in braille for an object which is a region.
-#: braille.py:227
+#: braille.py:228
 msgid "rgn"
 msgstr "rgn"
 
 #. Translators: Displayed in braille for an object which is a figure.
-#: braille.py:229
+#: braille.py:230
 msgid "fig"
 msgstr "fig"
 
 #. Translators: Displayed in braille for an object which represents marked (highlighted) content
-#: braille.py:231
+#: braille.py:232
 msgid "hlght"
 msgstr "mrq"
 
 #. Translators: Displayed in braille when an object is a comment.
 #. Translators: Displayed in braille when there is a comment for a spreadsheet cell or piece of text in a document.
 #. Translators: Brailled when text contains a generic comment.
-#: braille.py:233 braille.py:282 braille.py:1222
+#: braille.py:234 braille.py:283 braille.py:1223
 msgid "cmnt"
 msgstr "cmnt"
 
 #. Translators: Displayed in braille when an object is a suggestion.
-#: braille.py:235
+#: braille.py:236
 msgid "sggstn"
 msgstr "sggstn"
 
 #. Translators: Displayed in braille when an object is a definition.
 #. Translators: Identifies a definition.
-#: braille.py:237 controlTypes\role.py:532
+#: braille.py:238 controlTypes\role.py:532
 msgid "definition"
 msgstr "définition"
 
 #. Translators: Displayed in braille when an object is a switch control
-#: braille.py:239
+#: braille.py:240
 msgid "swtch"
 msgstr "bscl"
 
 #. Translators: Displayed in braille when an object is selected.
-#: braille.py:244
+#: braille.py:245
 msgid "sel"
 msgstr "sél"
 
 #. Translators: Displayed in braille when an object (e.g. an editable text field) is read-only.
-#: braille.py:254
+#: braille.py:255
 msgid "ro"
 msgstr "ls"
 
 #. Translators: Displayed in braille when an object (e.g. a tree view item) is expanded.
-#: braille.py:256
+#: braille.py:257
 msgid "-"
 msgstr "-"
 
 #. Translators: Displayed in braille when an object (e.g. a tree view item) is collapsed.
-#: braille.py:258
+#: braille.py:259
 msgid "+"
 msgstr "+"
 
 #. Translators: Displayed in braille when an object has a popup (usually a sub-menu).
-#: braille.py:260
+#: braille.py:261
 msgid "submnu"
 msgstr "smnu"
 
 #. Translators: Displayed in braille when a protected control or a document is encountered.
-#: braille.py:262
+#: braille.py:263
 msgid "***"
 msgstr "***"
 
 #. Translators: Displayed in braille when a required form field is encountered.
-#: braille.py:264
+#: braille.py:265
 msgid "req"
 msgstr "oblg"
 
 #. Translators: Displayed in braille when an invalid entry has been made.
-#: braille.py:266
+#: braille.py:267
 msgid "invalid"
 msgstr "invl"
 
 #. Translators: Displayed in braille when an object supports autocompletion.
-#: braille.py:268
+#: braille.py:269
 msgid "..."
 msgstr "..."
 
 #. Translators: Displayed in braille when an edit field allows typing multiple lines of text such as comment fields on websites.
-#: braille.py:270
+#: braille.py:271
 msgid "mln"
 msgstr "mléd"
 
 #. Translators: Displayed in braille when an object is clickable.
-#: braille.py:272
+#: braille.py:273
 msgid "clk"
 msgstr "clq"
 
 #. Translators: Displayed in braille when an object is sorted ascending.
-#: braille.py:274
+#: braille.py:275
 msgid "sorted asc"
 msgstr "tcro"
 
 #. Translators: Displayed in braille when an object is sorted descending.
-#: braille.py:276
+#: braille.py:277
 msgid "sorted desc"
 msgstr "tdéc"
 
 #. Translators: Displayed in braille when an object (usually a graphic) has a long description.
-#: braille.py:278
+#: braille.py:279
 msgid "ldesc"
 msgstr "ldesc"
 
 #. Translators: Displayed in braille when there is a formula on a spreadsheet cell.
-#: braille.py:280
+#: braille.py:281
 msgid "frml"
 msgstr "frml"
 
 #. Translators: Displayed in braille when a link destination points to the same page
-#: braille.py:286
+#: braille.py:287
 msgid "smp"
 msgstr "mmp"
 
 #. Translators: Displayed in braille when an object supports multiple selected items.
-#: braille.py:288
+#: braille.py:289
 msgid "msel"
 msgstr "selm"
 
 #. Translators: Displayed in braille when an object is not selected.
-#: braille.py:292
+#: braille.py:293
 msgid "nsel"
 msgstr "nsél"
 
 #. Translators: Displayed in braille for the banner landmark, normally found on web pages.
-#: braille.py:303
+#: braille.py:304
 msgctxt "braille landmark abbreviation"
 msgid "bnnr"
 msgstr "bnr"
 
 #. Translators: Displayed in braille for the complementary landmark, normally found on web pages.
-#: braille.py:305
+#: braille.py:306
 msgctxt "braille landmark abbreviation"
 msgid "cmpl"
 msgstr "cmp"
 
 #. Translators: Displayed in braille for the contentinfo landmark, normally found on web pages.
-#: braille.py:307
+#: braille.py:308
 msgctxt "braille landmark abbreviation"
 msgid "cinf"
 msgstr "cinf"
 
 #. Translators: Displayed in braille for the main landmark, normally found on web pages.
-#: braille.py:309
+#: braille.py:310
 msgctxt "braille landmark abbreviation"
 msgid "main"
 msgstr "prc"
 
 #. Translators: Displayed in braille for the navigation landmark, normally found on web pages.
-#: braille.py:311
+#: braille.py:312
 msgctxt "braille landmark abbreviation"
 msgid "navi"
 msgstr "nav"
 
 #. Translators: Displayed in braille for the search landmark, normally found on web pages.
-#: braille.py:313
+#: braille.py:314
 msgctxt "braille landmark abbreviation"
 msgid "srch"
 msgstr "rch"
 
 #. Translators: Displayed in braille for the form landmark, normally found on web pages.
-#: braille.py:315
+#: braille.py:316
 msgctxt "braille landmark abbreviation"
 msgid "form"
 msgstr "form"
 
 #. Translators: The description of a braille cursor shape.
-#: braille.py:321
+#: braille.py:322
 msgid "Dots 7 and 8"
 msgstr "Points 7 et 8"
 
 #. Translators: The description of a braille cursor shape.
-#: braille.py:323
+#: braille.py:324
 msgid "Dot 8"
 msgstr "Point 8"
 
 #. Translators: The description of a braille cursor shape.
-#: braille.py:325
+#: braille.py:326
 msgid "All dots"
 msgstr "Tous les points"
 
 #. Translators: The label for a braille focus context presentation setting that
 #. only shows as much as possible focus context information when the context has changed.
-#: braille.py:368
+#: braille.py:369
 msgid "Fill display for context changes"
 msgstr "Seulement lors d'un changement de contexte"
 
 #. Translators: The label for a braille focus context presentation setting that
 #. shows as much as possible focus context information if the focus object doesn't fill up the whole display.
 #. This was the pre NVDA 2017.3 default.
-#: braille.py:372
+#: braille.py:373
 msgid "Always fill display"
 msgstr "Toujours"
 
 #. Translators: The label for a braille focus context presentation setting that
 #. always shows the object with focus at the very left of the braille display
 #. (i.e. you will have to scroll back for focus context information).
-#: braille.py:376
+#: braille.py:377
 msgid "Only when scrolling back"
 msgstr "Seulement lors d'un défilement arrière"
 
 #. Translators: String representing automatic port selection for braille displays.
-#: braille.py:386
+#: braille.py:387
 msgid "Automatic"
 msgstr "Automatique"
 
 #. Translators: String representing the USB port selection for braille displays.
-#: braille.py:398
+#: braille.py:399
 msgid "USB"
 msgstr "USB"
 
 #. Translators: String representing the Bluetooth port selection for braille displays.
-#: braille.py:402
+#: braille.py:403
 msgid "Bluetooth"
 msgstr "Bluetooth"
 
 #. Translators: Brailled at the start of bold text.
 #. This is the English letter "b" in braille.
-#: braille.py:429
+#: braille.py:430
 msgctxt "braille formatting symbol"
 msgid "⠃"
 msgstr "⠛"
 
 #. Translators: Brailled at the end of bold text.
 #. This is the English letter "b" plus dot 7 in braille.
-#: braille.py:432
+#: braille.py:433
 msgctxt "braille formatting symbol"
 msgid "⡃"
 msgstr "⡛"
 
 #. Translators: Brailled at the start of italic text.
 #. This is the English letter "i" in braille.
-#: braille.py:437
+#: braille.py:438
 msgctxt "braille formatting symbol"
 msgid "⠊"
 msgstr "⠊"
 
 #. Translators: Brailled at the end of italic text.
 #. This is the English letter "i" plus dot 7 in braille.
-#: braille.py:440
+#: braille.py:441
 msgctxt "braille formatting symbol"
 msgid "⡊"
 msgstr "⡊"
 
 #. Translators: Brailled at the start of underlined text.
 #. This is the English letter "u" in braille.
-#: braille.py:445
+#: braille.py:446
 msgctxt "braille formatting symbol"
 msgid "⠥"
 msgstr "⠎"
 
 #. Translators: Brailled at the end of underlined text.
 #. This is the English letter "u" plus dot 7 in braille.
-#: braille.py:448
+#: braille.py:449
 msgctxt "braille formatting symbol"
 msgid "⡥"
 msgstr "⡎"
 
 #. Translators: Brailled at the start of strikethrough text.
 #. This is the English letter "s" in braille.
-#: braille.py:453
+#: braille.py:454
 msgctxt "braille formatting symbol"
 msgid "⠎"
 msgstr "⠃"
 
 #. Translators: Brailled at the end of strikethrough text.
 #. This is the English letter "s" plus dot 7 in braille.
-#: braille.py:456
+#: braille.py:457
 msgctxt "braille formatting symbol"
 msgid "⡎"
 msgstr "⡃"
 
 #. Translators: Brailled at the start of invalid spelling text.
 #. This is the English letter "e" in braille.
-#: braille.py:461
+#: braille.py:462
 msgctxt "braille formatting symbol"
 msgid "⠑"
 msgstr "⠑"
 
 #. Translators: Brailled at the end of invalid spelling text.
 #. This is the English letter "e" plus dot 7 in braille.
-#: braille.py:464
+#: braille.py:465
 msgctxt "braille formatting symbol"
 msgid "⡑"
 msgstr "⡑"
 
 #. Translators: Braille when there are further details/annotations that can be fetched manually.
-#: braille.py:677 speech\speech.py:2103
+#: braille.py:678 speech\speech.py:2103
 msgid "details"
 msgstr "détails"
 
@@ -663,25 +663,25 @@ msgstr "détails"
 #. %s specifies the type of details (e.g. "has comment suggestion")
 #. Translators: Speaks when there are further details/annotations that can be fetched manually.
 #. %s specifies the type of details (e.g. "comment, suggestion, details")
-#: braille.py:687 speech\speech.py:2108
+#: braille.py:688 speech\speech.py:2108
 #, python-format
 msgid "has %s"
 msgstr "contient des %s"
 
 #. Translators: Displayed in braille for a heading with a level.
 #. %s is replaced with the level.
-#: braille.py:727 braille.py:1200
+#: braille.py:728 braille.py:1201
 #, python-format
 msgid "h%s"
 msgstr "t%s"
 
 #. Translators: Displayed in braille for a link which has been visited.
-#: braille.py:733
+#: braille.py:734
 msgid "vlnk"
 msgstr "lnv"
 
 #. Translators: Displayed in braille for a multi select list.
-#: braille.py:746
+#: braille.py:747
 msgid "mslst"
 msgstr "lstsm"
 
@@ -691,65 +691,65 @@ msgstr "lstsm"
 #. Translators: Spoken to indicate the position of an item in a group of items (such as a list).
 #. {number} is replaced with the number of the item in the group.
 #. {total} is replaced with the total number of items in the group.
-#: braille.py:793 speech\speech.py:2125
+#: braille.py:794 speech\speech.py:2125
 #, python-brace-format
 msgid "{number} of {total}"
 msgstr "{number} sur {total}"
 
 #. Translators: Displayed in braille when an object (e.g. a tree view item) has a hierarchical level.
 #. %s is replaced with the level.
-#: braille.py:797
+#: braille.py:798
 #, python-format
 msgid "lv %s"
 msgstr "nv %s"
 
 #. Translators: Displayed in braille for the table cell row numbers when a cell spans multiple rows.
 #. Occurences of %s are replaced with the corresponding row numbers.
-#: braille.py:803
+#: braille.py:804
 #, python-brace-format
 msgid "r{rowNumber}-{rowSpan}"
 msgstr "l{rowNumber}-{rowSpan}"
 
 #. Translators: Displayed in braille for a table cell row number.
 #. %s is replaced with the row number.
-#: braille.py:810
+#: braille.py:811
 #, python-brace-format
 msgid "r{rowNumber}"
 msgstr "l{rowNumber}"
 
 #. Translators: Displayed in braille for the table cell column numbers when a cell spans multiple columns.
 #. Occurences of %s are replaced with the corresponding column numbers.
-#: braille.py:820
+#: braille.py:821
 #, python-brace-format
 msgid "c{columnNumber}-{columnSpan}"
 msgstr "c{columnNumber}-{columnSpan}"
 
 #. Translators: Displayed in braille for a table cell column number.
 #. %s is replaced with the column number.
-#: braille.py:827
+#: braille.py:828
 #, python-brace-format
 msgid "c{columnNumber}"
 msgstr "c{columnNumber}"
 
 #. Translators: Displayed in braille at the end of a control field such as a list or table.
 #. %s is replaced with the control's role.
-#: braille.py:1044
+#: braille.py:1045
 #, python-format
 msgid "%s end"
 msgstr "fin de %s"
 
 #. Translators: Brailled when text contains a draft comment.
-#: braille.py:1216
+#: braille.py:1217
 msgid "drft cmnt"
 msgstr "cmt brln"
 
 #. Translators: Brailled when text contains a resolved comment.
-#: braille.py:1219
+#: braille.py:1220
 msgid "rslvd cmnt"
 msgstr "cmt rsl"
 
 #. Translators: brailled when text contains a bookmark
-#: braille.py:1230
+#: braille.py:1231
 msgid "bkmk"
 msgstr "sgn"
 
@@ -761,40 +761,40 @@ msgstr "sgn"
 #. consider overwriting this (e.g. for Ge'ez ፨).
 #. You can also use Unicode Braille such as ⠘⠏.
 #. Ensure this is consistent with other strings with the context "paragraphMarker".
-#: braille.py:1257
+#: braille.py:1258
 msgctxt "paragraphMarker"
 msgid "¶"
 msgstr "¶"
 
 #. Translators: Label for a setting in braille settings dialog.
-#: braille.py:3702
+#: braille.py:3740
 msgid "Dot firm&ness"
 msgstr "F&ermeté des points"
 
 #. Translators: Label for a setting in braille settings dialog.
-#: braille.py:3715
+#: braille.py:3753
 msgid "Braille inp&ut"
 msgstr "Saisie &Braille"
 
 #. Translators: Label for a setting in braille settings dialog.
-#: braille.py:3725
+#: braille.py:3763
 msgid "&HID keyboard input simulation"
 msgstr "Simulation de clavier &HID"
 
 #. Translators: Displayed when the source driver of a braille display gesture is unknown.
-#: braille.py:3889
+#: braille.py:3927
 msgid "Unknown braille display"
 msgstr "Afficheur braille inconnu"
 
 #. Translators: Name of a Bluetooth serial communications port.
-#: braille.py:3930
+#: braille.py:3968
 #, python-brace-format
 msgid "Bluetooth Serial: {port} ({deviceName})"
 msgstr "Port série Bluetooth : {port} ({deviceName})"
 
 #. Translators: Name of a serial communications port.
 #. Translators: Name of a serial communications port
-#: braille.py:3939 brailleDisplayDrivers\ecoBraille.py:399
+#: braille.py:3977 brailleDisplayDrivers\ecoBraille.py:399
 #: brailleDisplayDrivers\papenmeier_serial.py:81
 #, python-brace-format
 msgid "Serial: {portName}"
@@ -2051,21 +2051,21 @@ msgid "brown-yellow"
 msgstr "brun-jaune"
 
 #. Translators: Shown when one or more add-ons failed to update.
-#: core.py:85
+#: core.py:86
 msgid "The following add-on failed to update: {}."
 msgid_plural "The following add-ons failed to update: {}."
 msgstr[0] "L'installation de l'extension suivante a échoué : {}."
 msgstr[1] "L'installation des extensions suivantes a échoué : {}."
 
 #. Translators: Shown when one or more add-ons failed to be uninstalled.
-#: core.py:94
+#: core.py:95
 msgid "The following add-on failed to uninstall: {}."
 msgid_plural "The following add-ons failed to uninstall: {}."
 msgstr[0] "La désinstallation de l'extension suivante a échoué : {}."
 msgstr[1] "La désinstallation des extensions suivantes a échoué : {}."
 
 #. Translators: Shown when one or more add-ons failed to be installed.
-#: core.py:103
+#: core.py:104
 msgid "The following add-on failed to be installed: {}."
 msgid_plural "The following add-ons failed to be installed: {}."
 msgstr[0] "La mise à jour de l'extension suivante a échoué : {}."
@@ -2073,7 +2073,7 @@ msgstr[1] "La mise à jour des extensions suivantes a échoué : {}."
 
 #. Translators: Shown when one or more actions on add-ons failed.
 #. {failureMsg} will be replaced with the specific error message.
-#: core.py:117
+#: core.py:118
 #, python-brace-format
 msgid "Some operations on add-ons failed. See the log file for more details.\n"
 "{failureMsg}"
@@ -2107,8 +2107,8 @@ msgstr "Certaines opérations sur les extensions ont échouées. Consulter le fi
 #. Translators: A title of a message box displayed when the host field is empty and the user tries to generate a key.
 #. Translators: Title of error dialog
 #. Translators: Title of a dialog
-#: core.py:120 documentationUtils.py:74 updateCheck.py:438 updateCheck.py:753
-#: updateCheck.py:925 gui\__init__.py:238 gui\__init__.py:246
+#: core.py:121 documentationUtils.py:74 updateCheck.py:421 updateCheck.py:736
+#: updateCheck.py:908 gui\__init__.py:238 gui\__init__.py:246
 #: gui\__init__.py:263 gui\addonGui.py:145 gui\addonGui.py:265
 #: gui\addonGui.py:280 gui\configProfiles.py:182 gui\configProfiles.py:219
 #: gui\configProfiles.py:272 gui\configProfiles.py:284
@@ -2125,46 +2125,46 @@ msgid "Error"
 msgstr "Erreur"
 
 #. Translators: Shown when NVDA has been started with unknown command line parameters.
-#: core.py:148
+#: core.py:149
 #, python-brace-format
 msgid "The following command line parameters are unknown to NVDA: {params}"
 msgstr "Les paramètres de ligne de commande suivants sont inconnus de NVDA : {params}"
 
 #. Translators: Title of the dialog letting user know
 #. that command line parameters they provided are unknown.
-#: core.py:153
+#: core.py:154
 msgid "Unknown command line parameters"
 msgstr "Paramètres de ligne de commande inconnus"
 
 #. Translators: A message informing the user that there are errors in the configuration file.
-#: core.py:162
+#: core.py:163
 msgid "Your configuration file contains errors. Your configuration has been reset to factory defaults.\n"
 "More details about the errors can be found in the log file."
 msgstr "Votre fichier de configuration contient des erreurs. Votre configuration a été réinitialisée aux valeurs par défaut.\n"
 "Vous trouverez plus de détails sur les erreurs dans le fichier log."
 
 #. Translators: The title of the dialog to tell users that there are errors in the configuration file.
-#: core.py:167
+#: core.py:168
 msgid "Configuration File Error"
 msgstr "Erreur dans le Fichier de Configuration"
 
-#: core.py:185
+#: core.py:186
 msgid "Your gesture map file contains errors.\n"
 "More details about the errors can be found in the log file."
 msgstr "Votre fichier de gestes contient des erreurs.\n"
 "Vous trouverez plus de détails dans le fichier log."
 
-#: core.py:188
+#: core.py:189
 msgid "gesture map File Error"
 msgstr "Erreur dans le fichier de définition de gestes"
 
 #. Translators: This is spoken when NVDA is starting.
-#: core.py:796
+#: core.py:802
 msgid "Loading NVDA. Please wait..."
 msgstr "Chargement de NVDA. Veuillez patienter..."
 
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts.
-#: core.py:942
+#: core.py:948
 msgid "NVDA started"
 msgstr "NVDA démarré"
 
@@ -4757,9 +4757,9 @@ msgstr "Se déconnecte de la session d’accès à distance actuelle"
 #. Translators: Message shown when trying to copy the link to connect to the remote computer while not connected.
 #. Translators: Message shown when attempting to send control+alt+delete when no session is connected.
 #. Translators: A message indicating that the remote client is not connected.
-#: globalCommands.py:5042 _remoteClient\client.py:133
-#: _remoteClient\client.py:160 _remoteClient\client.py:182
-#: _remoteClient\client.py:198 _remoteClient\client.py:560
+#: globalCommands.py:5042 _remoteClient\client.py:135
+#: _remoteClient\client.py:162 _remoteClient\client.py:184
+#: _remoteClient\client.py:200 _remoteClient\client.py:566
 msgctxt "remote"
 msgid "Not connected"
 msgstr "Non connecté"
@@ -4794,33 +4794,33 @@ msgid "Sends control+alt+delete to the controlled computer."
 msgstr "Envoie contrôle+alt+suppr à l'ordinateur contrôlé."
 
 #. Translators: Description for the image caption script
-#: globalCommands.py:5103
+#: globalCommands.py:5105
 msgctxt "imageDesc"
-msgid "Get an AI generated image description"
-msgstr "Obtenir une description de l'image générée par IA"
+msgid "Get an AI-generated image description of the navigator object."
+msgstr ""
 
 #. Translators: Description for the toggle image captioning script
-#: globalCommands.py:5112
+#: globalCommands.py:5118
 msgctxt "imageDesc"
-msgid "Toggle image captioning"
-msgstr "Active ou désactive le modèle de description d'image"
+msgid "Load or unload the image captioner"
+msgstr ""
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
-#: globalCommands.py:5151
+#: globalCommands.py:5159
 msgid "Can't change the active profile while an NVDA dialog is open"
 msgstr "Impossible de changer de profil de configuration actif quand un dialogue de NVDA est ouvert"
 
 #. Translators: a message when a configuration profile is manually deactivated.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5156
+#: globalCommands.py:5164
 #, python-brace-format
 msgid "{profile} profile deactivated"
 msgstr "Profil de configuration {profile} désactivé"
 
 #. Translators: a message when a configuration profile is manually activated.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5161
+#: globalCommands.py:5169
 #, python-brace-format
 msgid "{profile} profile activated"
 msgstr "Profil de configuration {profile} activé"
@@ -4828,7 +4828,7 @@ msgstr "Profil de configuration {profile} activé"
 #. Translators: The description shown in input help for a script that
 #. activates or deactivates a config profile.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5177
+#: globalCommands.py:5185
 #, python-brace-format
 msgid "Activates or deactivates the {profile} configuration profile"
 msgstr "Activer ou désactiver le profil de configuration {profile}"
@@ -6792,8 +6792,8 @@ msgstr "double {action}"
 #. Translators: a touch screen action performed 3 times
 #: touchHandler.py:163
 #, python-brace-format
-msgid "tripple {action}"
-msgstr "triple {action}"
+msgid "triple {action}"
+msgstr ""
 
 #. Translators: a touch screen action performed 4 times
 #: touchHandler.py:165
@@ -6965,18 +6965,18 @@ msgid "Copied: {text}"
 msgstr "Copié: {text}"
 
 #. Translators: The title of the dialog displayed while manually checking for an NVDA update.
-#: updateCheck.py:406
+#: updateCheck.py:389
 msgid "Checking for Update"
 msgstr "Recherche d'une mise à Jour"
 
 #. Translators: The progress message displayed while manually checking for an NVDA update.
-#: updateCheck.py:408
+#: updateCheck.py:391
 msgid "Checking for update"
 msgstr "Recherche d'une mise à jour"
 
 #. Translators: A suggestion of what to do when checking for NVDA updates fails and an update mirror is being used.
 #. {url} will be replaced with the mirror URL.
-#: updateCheck.py:417
+#: updateCheck.py:400
 #, python-brace-format
 msgctxt "updateCheck"
 msgid "Make sure you are connected to the internet, and the NVDA update mirror URL is valid.\n"
@@ -6985,14 +6985,14 @@ msgstr "Assurez-vous d'être connecté à Internet et que l'URL du miroir de mis
 "URL du miroir : {url}"
 
 #. Translators: Presented when fetching add-on data from the store fails and the default metadata URL is being used.
-#: updateCheck.py:424
+#: updateCheck.py:407
 msgctxt "updateCheck"
 msgid "Unable to establish a connection to the NV Access server."
 msgstr "Impossible d'établir une connexion au serveur NV Access."
 
 #. Translators: A message indicating that an error occurred while checking for an update to NVDA.
 #. tip will be replaced with a context sensitive suggestion of next steps.
-#: updateCheck.py:430
+#: updateCheck.py:413
 #, python-brace-format
 msgctxt "updateCheck"
 msgid "Error checking for update.\n"
@@ -7002,106 +7002,106 @@ msgstr "Erreur durang la vérification des mises à jour.\n"
 
 #. Translators: The title of the dialog informing the user about an NVDA update.
 #. Translators: The title of the dialog asking the user to apply an NVDA update.
-#: updateCheck.py:501 updateCheck.py:641
+#: updateCheck.py:484 updateCheck.py:624
 msgid "NVDA Update"
 msgstr "Mise à jour de NVDA"
 
 #. Translators: A message indicating that no update to NVDA is available.
-#: updateCheck.py:517
+#: updateCheck.py:500
 msgid "No update available."
 msgstr "Aucune mise à jour disponible."
 
 #. Translators: A message indicating that an update to NVDA has been downloaded and is ready to be
 #. applied.
-#: updateCheck.py:522
+#: updateCheck.py:505
 #, python-brace-format
 msgid "Update to NVDA version {version} has been downloaded and is ready to be applied."
 msgstr "La mise à jour vers la version {version} de NVDA a été téléchargée et est prête à être appliquée."
 
 #. Translators: The label of a button to review add-ons prior to NVDA update.
 #. Translators: The label of a button to launch the add-on compatibility review dialog.
-#: updateCheck.py:547 updateCheck.py:669 gui\installerGui.py:286
+#: updateCheck.py:530 updateCheck.py:652 gui\installerGui.py:286
 msgid "&Review add-ons..."
 msgstr "&Passer en revue les extensions..."
 
 #. Translators: The label of a button to apply a pending NVDA update.
 #. {version} will be replaced with the version; e.g. 2011.3.
-#: updateCheck.py:553
+#: updateCheck.py:536
 #, python-brace-format
 msgid "&Update to NVDA {version}"
 msgstr "&Mettre à jour vers NVDA {version}"
 
 #. Translators: The label of a button to re-download a pending NVDA update.
-#: updateCheck.py:563
+#: updateCheck.py:546
 msgid "Re-&download update"
 msgstr "Re-&télécharger la mise à jour"
 
 #. Translators: A message indicating that an updated version of NVDA is available.
 #. {version} will be replaced with the version; e.g. 2011.3.
-#: updateCheck.py:568
+#: updateCheck.py:551
 #, python-brace-format
 msgid "NVDA version {version} is available."
 msgstr "NVDA version {version} est disponible."
 
 #. Translators: The label of a button to download an NVDA update.
-#: updateCheck.py:572
+#: updateCheck.py:555
 msgid "&Download update"
 msgstr "&Télécharger la mise à jour"
 
 #. Translators: The label of a button to remind the user later about performing some action.
-#: updateCheck.py:577 gui\startupDialogs.py:310
+#: updateCheck.py:560 gui\startupDialogs.py:310
 msgid "Remind me &later"
 msgstr "&Me le rappeler plus tard"
 
 #. Translators: The label of a button to close a dialog.
 #. Translators: The close button on an NVDA dialog. This button will dismiss the dialog.
-#: updateCheck.py:586 gui\addonGui.py:378
+#: updateCheck.py:569 gui\addonGui.py:378
 msgid "&Close"
 msgstr "&Fermer"
 
 #. Translators: A message indicating that an update to NVDA is ready to be applied.
-#: updateCheck.py:645
+#: updateCheck.py:628
 #, python-brace-format
 msgid "Update to NVDA version {version} is ready to be applied.\n"
 msgstr "La mise à jour vers la version {version} de NVDA est prête à être appliquée.\n"
 
 #. Translators: The label of a button to update NVDA.
-#: updateCheck.py:672
+#: updateCheck.py:655
 msgid "&Update now"
 msgstr "&Mettre à jour maintenant"
 
 #. Translators: The label of a button to postpone an NVDA update.
-#: updateCheck.py:685
+#: updateCheck.py:668
 msgid "&Postpone update"
 msgstr "&Reporter la mise à jour"
 
 #. Translators: The message when a downloaded update file could not be preserved.
-#: updateCheck.py:751
+#: updateCheck.py:734
 msgid "Unable to postpone update."
 msgstr "Impossible de reporter la mise à jour."
 
 #. Translators: The title of the dialog displayed while downloading an NVDA update.
-#: updateCheck.py:810
+#: updateCheck.py:793
 msgid "Downloading Update"
 msgstr "Téléchargement de la mise à jour"
 
 #. Translators: The progress message indicating that a connection is being established.
-#: updateCheck.py:812
+#: updateCheck.py:795
 msgid "Connecting"
 msgstr "Connexion en cours"
 
 #. Translators: The progress message indicating that a download is in progress.
-#: updateCheck.py:905
+#: updateCheck.py:888
 msgid "Downloading"
 msgstr "Téléchargement en cours"
 
 #. Translators: A message indicating that an error occurred while downloading an update to NVDA.
-#: updateCheck.py:924
+#: updateCheck.py:907
 msgid "Error downloading update."
 msgstr "Erreur durant le Téléchargement de la mise à jour."
 
 #. Translators: The message requesting donations from users.
-#: updateCheck.py:947
+#: updateCheck.py:930
 msgid "We need your help in order to continue to improve NVDA.\n"
 "This project relies primarily on donations and grants. By donating, you are helping to fund full time development.\n"
 "If even $10 is donated for every download, we will be able to cover all of the ongoing costs of the project.\n"
@@ -7114,38 +7114,38 @@ msgstr "Nous avons besoin de votre aide pour continuer à améliorer NVDA.\n"
 "Merci pour votre soutien."
 
 #. Translators: The title of the dialog requesting donations from users.
-#: updateCheck.py:956
+#: updateCheck.py:939
 msgid "Please Donate"
 msgstr "Faites un don s'il vous plaît"
 
 #. Translators: The label of the button to donate
 #. in the "Please Donate" dialog.
 #. Translators: The label for the menu item to open donate page.
-#: updateCheck.py:965 gui\__init__.py:721
+#: updateCheck.py:948 gui\__init__.py:721
 msgid "&Donate"
 msgstr "&Faire un don"
 
 #. Translators: The label of the button to decline donation
 #. in the "Please Donate" dialog.
-#: updateCheck.py:970
+#: updateCheck.py:953
 msgid "&Not now"
 msgstr "&Pas maintenant"
 
 #. Translators: The label of a button to indicate that the user is finished donating
 #. in the "Please Donate" dialog.
-#: updateCheck.py:986
+#: updateCheck.py:969
 msgid "&Done"
 msgstr "&Terminé"
 
 #. Translators: Message shown to users when attempting to update NVDA
 #. on a computer which is being remotely controlled via NVDA Remote Access
-#: updateCheck.py:1015 gui\installerGui.py:452
+#: updateCheck.py:998 gui\installerGui.py:452
 msgid "Updating NVDA when connected to NVDA Remote Access as the controlled computer is not recommended. "
 msgstr "Il est déconseillé de mettre à jour NVDA lorsque l’ordinateur contrôlé est connecté via l'accès à distance NVDA "
 
 #. Translators: Message shown to users when attempting to update NVDA from an installed copy
 #. on a computer which is being remotely controlled via NVDA Remote Access.
-#: updateCheck.py:1020
+#: updateCheck.py:1003
 msgid "The currently active connection may not be continued during or after the update. Even if the connection is continued, you will be unable to respond to User Account Control (UAC) prompts from the controlling computer. You should only proceed if you have physical access to the controlled computer.\n\n"
 "Are you sure you want to continue?"
 msgstr "La connexion actuellement active pourrait ne pas être maintenue pendant ou après la mise à jour. Même si la connexion est maintenue, il vous sera impossible de répondre aux demandes de Contrôle de Compte Utilisateur (UAC) depuis l’ordinateur de contrôle. Vous ne devriez continuer que si vous avez un accès physique à l’ordinateur contrôlé.\n\n"
@@ -7158,7 +7158,7 @@ msgstr "La connexion actuellement active pourrait ne pas être maintenue pendant
 #. copy settings for use in secure screens.
 #. Translators: Title of the warning message.
 #. Translators: Title of warning dialog
-#: updateCheck.py:1026 gui\_SetURLDialog.py:113 gui\configProfiles.py:500
+#: updateCheck.py:1009 gui\_SetURLDialog.py:113 gui\configProfiles.py:500
 #: gui\installerGui.py:344 gui\installerGui.py:469 gui\settingsDialogs.py:1040
 #: gui\settingsDialogs.py:1980 visionEnhancementProviders\screenCurtain.py:99
 #: _remoteClient\dialogs.py:291
@@ -7210,14 +7210,14 @@ msgstr "Impossible d'installer l'extension pour NVDA depuis {path}.\n"
 "NVDA doit être en cours d'exécution pour pouvoir installer une extension."
 
 #. Translators: A title of the dialog shown when fetching add-on data from the store fails
-#: addonStore\dataManager.py:212
+#: addonStore\dataManager.py:213
 msgctxt "addonStore"
 msgid "Add-on data update failure"
 msgstr "Échec de mise à jour des données des extensions"
 
 #. Translators: A suggestion of what to do when fetching add-on data from the store fails and a metadata mirror is being used.
 #. {url} will be replaced with the mirror URL.
-#: addonStore\dataManager.py:217
+#: addonStore\dataManager.py:218
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Make sure you are connected to the internet, and the Add-on Store mirror URL is valid.\n"
@@ -7226,19 +7226,19 @@ msgstr "Assurez-vous d'être connecté à Internet et que l'URL du miroir de l'A
 "URL du miroir : {url}"
 
 #. Translators: Presented when fetching add-on data from the store fails and the default metadata URL is being used.
-#: addonStore\dataManager.py:223
+#: addonStore\dataManager.py:224
 msgctxt "addonStore"
 msgid "Unable to establish a connection to the Add-on Store server."
 msgstr "Impossible d'établir une connexion au serveur de l'Addon Store."
 
 #. Translators: A message shown when fetching add-on data from the store fails
-#: addonStore\dataManager.py:256
+#: addonStore\dataManager.py:257
 msgctxt "addonStore"
 msgid "Unable to fetch latest add-on data for compatible add-ons."
 msgstr "Impossible de récupérer les dernières données d'extensions pour les extensions compatibles."
 
 #. Translators: A message shown when fetching add-on data from the store fails
-#: addonStore\dataManager.py:292
+#: addonStore\dataManager.py:293
 msgctxt "addonStore"
 msgid "Unable to fetch latest add-on data for incompatible add-ons."
 msgstr "Impossible de récupérer les dernières données d'extensions pour les extensions incompatibles."
@@ -7268,27 +7268,36 @@ msgid "Failed to install add-on from %s"
 msgstr "Échec de l'installation de l'extension depuis %s"
 
 #. Translators: A title for a dialog notifying a user of an add-on download failure.
-#: addonStore\network.py:243
+#: addonStore\network.py:251
 msgctxt "addonStore"
 msgid "Add-on download failure"
 msgstr "Échec du téléchargement de l'extension"
 
+#. Translators: A message to the user if an add-on download fails.
+#. url is replaced with the base URL of the add-on download e.g. (github.com).
+#. fingerprint is replaced with the SHA256 fingerprint of the certificate.
+#: addonStore\network.py:271
+#, python-brace-format
+msgctxt "addonStore"
+msgid "The website where you are downloading the add-on from has a certificate that is not trusted. Do you want to trust the root certificate for {url}? This will allow you to download add-ons from this website in the future. Only do this if you trust the website. The certificate's SHA256 fingerprint is: {fingerprint}. "
+msgstr ""
+
 #. Translators: A message to the user if an add-on download fails
-#: addonStore\network.py:266
+#: addonStore\network.py:291 addonStore\network.py:322
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Unable to download add-on: {name}"
 msgstr "Impossible de télécharger l'extension : {name}"
 
 #. Translators: A message to the user if an add-on download fails
-#: addonStore\network.py:276
+#: addonStore\network.py:332
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Unable to save add-on as a file: {name}"
 msgstr "Impossible d'enregistrer l'extension en tant que fichier : {name}"
 
 #. Translators: A message to the user if an add-on download is not safe
-#: addonStore\network.py:288
+#: addonStore\network.py:344
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Add-on download not safe: checksum failed for {name}"
@@ -12091,43 +12100,48 @@ msgid "Incompatible reason"
 msgstr "Raison d'incompatibilité"
 
 #. Translators: Reported when an action cannot be performed because NVDA is in a secure screen
-#: gui\blockAction.py:53
+#: gui\blockAction.py:65
 msgid "Action unavailable in secure context"
 msgstr "Action indisponible dans un contexte sécurisé"
 
 #. Translators: Reported when an action cannot be performed because NVDA has been installed
 #. from the Windows Store.
-#: gui\blockAction.py:59
+#: gui\blockAction.py:71
 msgid "Action unavailable in NVDA Windows Store version"
 msgstr "Action non disponible dans la version Windows Store de NVDA"
 
 #. Translators: Reported when an action cannot be performed because NVDA is waiting
 #. for a response from a modal dialog
-#: gui\blockAction.py:65
+#: gui\blockAction.py:77
 msgid "Action unavailable while a dialog requires a response"
 msgstr "Action indisponible lorsqu'une boîte de dialogue nécessite une réponse"
 
 #. Translators: Reported when an action cannot be performed because Windows is locked.
-#: gui\blockAction.py:71
+#: gui\blockAction.py:83
 msgid "Action unavailable while Windows is locked"
 msgstr "Action indisponible lorsque Windows est verrouillé"
 
 #. Translators: Reported when an action cannot be performed because NVDA is running the launcher temporary
 #. version
-#: gui\blockAction.py:77
+#: gui\blockAction.py:89
 msgid "Action unavailable in a temporary version of NVDA"
 msgstr "Action non disponible dans une version temporaire de NVDA"
 
 #. Translators: Reported when trying to toggle an unsupported setting in speech output mode.
-#: gui\blockAction.py:82
+#: gui\blockAction.py:94
 msgid "Action unavailable while the braille mode is set to speech output"
 msgstr "Action indisponible lorsque le mode braille est réglé sur l'affichage de la parole"
 
 #. Translators: Reported when an action cannot be performed because Remote Access functionality is disabled.
-#: gui\blockAction.py:87
+#: gui\blockAction.py:99
 msgctxt "remote"
 msgid "Action unavailable when Remote Access is disabled"
 msgstr "Action indisponible lorsque l’accès à distance est désactivé"
+
+#. Translators: Reported when an action cannot be performed because screen curtain is enabled.
+#: gui\blockAction.py:104
+msgid "Action unavailable while screen curtain is enabled"
+msgstr ""
 
 #. Translators: The title of the Configuration Profiles dialog.
 #: gui\configProfiles.py:36
@@ -12573,7 +12587,7 @@ msgstr "Copier la configuration &portable dans le compte de l'utilisateur en cou
 
 #. Translators: The label of a button to continue with the operation.
 #. Translators: The label for the Continue button in an NVDA dialog.
-#: gui\installerGui.py:291 gui\installerGui.py:547 gui\nvdaControls.py:385
+#: gui\installerGui.py:291 gui\installerGui.py:547 gui\nvdaControls.py:383
 msgid "&Continue"
 msgstr "&Continuer"
 
@@ -12755,7 +12769,7 @@ msgstr "Le journal n'est pas disponible"
 
 #. Translators: A cancel button on a message dialog.
 #. Translators: The label for the Cancel button in an NVDA dialog.
-#: gui\message.py:332 gui\nvdaControls.py:391
+#: gui\message.py:332 gui\nvdaControls.py:389
 msgid "Cancel"
 msgstr "Annuler"
 
@@ -12784,7 +12798,7 @@ msgstr "&Ne pas enregistrer"
 #. e.g. "Default (Yes)".
 #. The placeholder {default} is replaced with the label of the option which describes current default behavior
 #. in NVDA.
-#: gui\nvdaControls.py:607
+#: gui\nvdaControls.py:567
 #, python-brace-format
 msgid "Default ({default})"
 msgstr "Défaut ({default})"
@@ -15645,46 +15659,64 @@ msgid "Could not disable the add-on: {addon}."
 msgstr "Impossible de désactiver l'extension : {addon}."
 
 #. Translators: title of dialog when download successfully
-#: gui\_localCaptioner\messageDialogs.py:32
+#: gui\_localCaptioner\messageDialogs.py:51
 msgctxt "imageDesc"
 msgid "Download successful"
 msgstr "Succès du téléchargement"
 
 #. Translators: label of dialog when downloading image captioning
-#: gui\_localCaptioner\messageDialogs.py:36
+#: gui\_localCaptioner\messageDialogs.py:55
 msgctxt "imageDesc"
 msgid "Image captioning installed successfully."
 msgstr "Modèle de description d'image installé avec succès."
 
 #. Translators: title of dialog when fail to download
-#: gui\_localCaptioner\messageDialogs.py:57
+#: gui\_localCaptioner\messageDialogs.py:78
 msgctxt "imageDesc"
 msgid "Download failed"
 msgstr "Échec du téléchargement"
 
 #. Translators: label of dialog when fail to download image captioning
-#: gui\_localCaptioner\messageDialogs.py:61
+#: gui\_localCaptioner\messageDialogs.py:82
 msgctxt "imageDesc"
 msgid "Image captioning download failed. Would you like to retry?"
 msgstr "Le téléchargement du modèle de description d'image a échoué. Voulez-vous réessayer ?"
 
 #. Translators: message when image captioning is still downloading
-#: gui\_localCaptioner\messageDialogs.py:77
+#: gui\_localCaptioner\messageDialogs.py:96
 msgctxt "imageDesc"
 msgid "image captioning is still downloading, please wait..."
 msgstr "Le modèle de description d'image est toujours en cours de téléchargement, veuillez patienter ..."
 
 #. Translators: title of dialog when downloading Image captioning
-#: gui\_localCaptioner\messageDialogs.py:88
+#: gui\_localCaptioner\messageDialogs.py:109
 msgctxt "imageDesc"
 msgid "Confirm download"
 msgstr "Confirmer le téléchargement"
 
 #. Translators: label of dialog when downloading image captioning
-#: gui\_localCaptioner\messageDialogs.py:92
+#: gui\_localCaptioner\messageDialogs.py:113
 msgctxt "imageDesc"
 msgid "Image captioning not installed. Would you like to install (235 MB)?"
 msgstr "Le modèle de description d'image n'est pas installé. Voulez-vous l'installer (235 Mo) ?"
+
+#. Translators: The title of the dialog displayed while downloading image descriptioner.
+#: gui\_localCaptioner\messageDialogs.py:123
+msgctxt "imageDesc"
+msgid "Downloading Image Descriptioner"
+msgstr ""
+
+#. Translators: The progress message indicating that a connection is being established.
+#: gui\_localCaptioner\messageDialogs.py:125
+msgctxt "imageDesc"
+msgid "Connecting"
+msgstr ""
+
+#. Translators: The progress message indicating that a download is in progress.
+#: gui\_localCaptioner\messageDialogs.py:149
+msgctxt "imageDesc"
+msgid "downloading"
+msgstr ""
 
 #. Translators: Describes a command.
 #: mathPres\__init__.py:132
@@ -18787,9 +18819,14 @@ msgstr "Branché"
 msgid "Unplugged"
 msgstr "Débranché"
 
+#. Translators: Reported when battery time is less than 1 minute.
+#: winAPI\_powerTracking.py:228
+msgid "Less than 1 minute remaining"
+msgstr ""
+
 #. Translators: This is the hour string part of the estimated remaining runtime of the laptop battery.
 #. E.g. if the full string is "1 hour and 34 minutes remaining", this string is "1 hour".
-#: winAPI\_powerTracking.py:224
+#: winAPI\_powerTracking.py:239
 #, python-brace-format
 msgid "{hours:d} hour"
 msgid_plural "{hours:d} hours"
@@ -18798,7 +18835,7 @@ msgstr[1] "{hours:d} heures"
 
 #. Translators: This is the minute string part of the estimated remaining runtime of the laptop battery.
 #. E.g. if the full string is "1 hour and 34 minutes remaining", this string is "34 minutes".
-#: winAPI\_powerTracking.py:232
+#: winAPI\_powerTracking.py:249
 #, python-brace-format
 msgid "{minutes:d} minute"
 msgid_plural "{minutes:d} minutes"
@@ -18807,10 +18844,24 @@ msgstr[1] "{minutes:d} minutes"
 
 #. Translators: This is the main string for the estimated remaining runtime of the laptop battery.
 #. E.g. hourText is replaced by "1 hour" and minuteText by "34 minutes".
-#: winAPI\_powerTracking.py:239
+#: winAPI\_powerTracking.py:259
 #, python-brace-format
 msgid "{hourText} and {minuteText} remaining"
 msgstr "Temps restant {hourText} et {minuteText}"
+
+#. Translators: Reported when only hours remaining for battery life.
+#. E.g. "2 hours remaining"
+#: winAPI\_powerTracking.py:265
+#, python-brace-format
+msgid "{hourText} remaining"
+msgstr ""
+
+#. Translators: Reported when only minutes remaining for battery life.
+#. E.g. "30 minutes remaining"
+#: winAPI\_powerTracking.py:271
+#, python-brace-format
+msgid "{minuteText} remaining"
+msgstr ""
 
 #. Translators: Message to indicate User Account Control (UAC) or other secure desktop screen is active.
 #: winAPI\secureDesktop.py:53
@@ -18836,19 +18887,19 @@ msgid "getting image description..."
 msgstr "description de l'image en cours..."
 
 #. Translators: error message when fail to load model
-#: _localCaptioner\imageDescriber.py:160
+#: _localCaptioner\imageDescriber.py:161
 msgctxt "imageDesc"
 msgid "failed to load image captioner"
 msgstr "failed to load image captioner"
 
 #. Translators: Message when successfully load the model
-#: _localCaptioner\imageDescriber.py:165
+#: _localCaptioner\imageDescriber.py:166
 msgctxt "imageDesc"
 msgid "image captioning on"
 msgstr "Modèle de description d'image activé"
 
 #. Translators: Message when image captioning terminates
-#: _localCaptioner\imageDescriber.py:184
+#: _localCaptioner\imageDescriber.py:185
 msgctxt "imageDesc"
 msgid "image captioning off"
 msgstr "Modèle de description d'image désactivé"
@@ -18856,118 +18907,118 @@ msgstr "Modèle de description d'image désactivé"
 #. Translators: Presented when attempting to mute or unmute Remote Access when connected as the controlled computer.
 #. Translators: Presented when attempting to send control+alt+delete when connected as the controlled computer.
 #. Translators: Presented when attempting to switch to controling a remote computer when connected as the controlled computer.
-#: _remoteClient\client.py:137 _remoteClient\client.py:201
-#: _remoteClient\client.py:564
+#: _remoteClient\client.py:139 _remoteClient\client.py:203
+#: _remoteClient\client.py:570
 msgctxt "remote"
 msgid "Not the controlling computer"
 msgstr "Action impossible depuis l'ordinateur connecté"
 
 #. Translators: Displayed when muting speech and sounds from the remote computer
-#: _remoteClient\client.py:141
+#: _remoteClient\client.py:143
 msgid "Muted remote"
 msgstr "Parole distante coupée"
 
 #. Translators: Displayed when unmuting speech and sounds from the remote computer
-#: _remoteClient\client.py:143
+#: _remoteClient\client.py:145
 msgid "Unmuted remote"
 msgstr "Parole distante rétablie"
 
 #. Translators: Reported when performing a Remote Access action, but there are no other computers in the channel.
-#: _remoteClient\client.py:164
+#: _remoteClient\client.py:166
 msgctxt "remote"
 msgid "No one else is connected"
 msgstr "Personne n'est connecté"
 
 #. Translators: Message shown when clipboard content cannot be sent to the remote computer.
-#: _remoteClient\client.py:172
+#: _remoteClient\client.py:174
 msgctxt "remote"
 msgid "Unable to send clipboard"
 msgstr "Impossible d’envoyer le presse-papiers"
 
 #. Translators: A message indicating that a link has been copied to the clipboard.
-#: _remoteClient\client.py:187
+#: _remoteClient\client.py:189
 msgid "Copied link"
 msgstr "Lien copié"
 
 #. Translators: Title of the Remote Access disconnection confirmation dialog.
-#: _remoteClient\client.py:238
+#: _remoteClient\client.py:240
 msgctxt "remote"
 msgid "Confirm Disconnection"
 msgstr "Confirmer la déconnexion"
 
 #. Translators: Message shown when disconnecting from the remote computer.
-#: _remoteClient\client.py:242
+#: _remoteClient\client.py:244
 msgctxt "remote"
 msgid "Are you sure you want to disconnect from the Remote Access session?"
 msgstr "Êtes-vous sûr de vouloir vous déconnecter de la session d'accès à distance ?"
 
 #. Translators: Title of the connection error dialog.
-#: _remoteClient\client.py:302
+#: _remoteClient\client.py:304
 msgid "Error Connecting"
 msgstr "Erreur de connexion"
 
 #. Translators: Message shown when unable to connect to the remote computer.
-#: _remoteClient\client.py:304
+#: _remoteClient\client.py:306
 msgid "Unable to connect to the remote computer"
 msgstr "Impossible de se connecter à l'ordinateur distant"
 
 #. Translators: Message shown when trying to connect while already connected.
-#: _remoteClient\client.py:327 _remoteClient\client.py:668
+#: _remoteClient\client.py:329 _remoteClient\client.py:675
 msgctxt "remote"
 msgid "A Remote Access session is already in progress. Disconnect before starting a new session."
 msgstr "Une session d’accès à distance est déjà en cours. Déconnectez-vous avant de démarrer une nouvelle session."
 
 #. Translators: Title of the connection error dialog.
-#: _remoteClient\client.py:330 _remoteClient\client.py:671
+#: _remoteClient\client.py:332 _remoteClient\client.py:678
 msgctxt "remote"
 msgid "Already Connected"
 msgstr "Déjà connecté"
 
 #. Translators: Title of the Remote Access connection dialog.
-#: _remoteClient\client.py:341
+#: _remoteClient\client.py:343
 msgctxt "remote"
 msgid "Connect to Another Computer"
 msgstr "Se connecter à un autre ordinateur"
 
 #. Translators: Presented when connected to the remote computer.
-#: _remoteClient\client.py:388
+#: _remoteClient\client.py:390
 msgid "Connected"
 msgstr "Connecté"
 
 #. Translators: Presented when attempting to switch to controling a remote computer when there are no controllable computers in the channel.
-#: _remoteClient\client.py:568
+#: _remoteClient\client.py:574
 msgctxt "remote"
 msgid "No controlled computers are connected"
 msgstr "Aucun ordinateur contrôlé n'est connecté"
 
 #. Translators: Presented when keyboard control is back to the controlling computer.
-#: _remoteClient\client.py:582
+#: _remoteClient\client.py:588
 msgctxt "remote"
 msgid "Controlling local computer"
 msgstr "Contrôle de l'ordinateur local"
 
 #. Translators: Presented when sending keyboard keys from the controlling computer to the controlled computer.
-#: _remoteClient\client.py:596
+#: _remoteClient\client.py:603
 msgctxt "remote"
 msgid "Controlling remote computer"
 msgstr "Contrôle de l'ordinateur distant"
 
 #. Translators: Ask the user if they want to control the remote computer.
-#: _remoteClient\client.py:686
+#: _remoteClient\client.py:693
 #, python-brace-format
 msgctxt "remote"
 msgid "Do you wish to control the computer on server {server} with key {key}?"
 msgstr "Souhaitez-vous contrôler l’ordinateur sur le serveur {server} avec la clé {key}?"
 
 #. Translators: Ask the user if they want to allow the remote computer to control this computer.
-#: _remoteClient\client.py:692
+#: _remoteClient\client.py:699
 #, python-brace-format
 msgctxt "remote"
 msgid "Do you wish to allow this computer to be controlled on server {server} with key {key}?"
 msgstr "Souhaitez-vous autoriser le contrôle de cet ordinateur sur le serveur {server} avec la clé {key}?"
 
 #. Translators: Title of the connection request dialog.
-#: _remoteClient\client.py:698
+#: _remoteClient\client.py:705
 msgctxt "remote"
 msgid "Remote Access Connection Request"
 msgstr "Demande de connexion pour un accès à distance"
@@ -19117,7 +19168,7 @@ msgid "Connect"
 msgstr "Se connecter"
 
 #. Translators: Message displayed when a remote computer tries to send control+alt+delete but UI Access is disabled.
-#: _remoteClient\localMachine.py:290
+#: _remoteClient\localMachine.py:351
 msgctxt "remote"
 msgid "Unable to trigger control+alt+delete"
 msgstr "Impossible de déclencher un contrôle+alt+suppr"
