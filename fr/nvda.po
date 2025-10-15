@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-14 08:53+0000\n"
-"PO-Revision-Date: 2025-10-15 21:11\n"
+"PO-Revision-Date: 2025-10-15 22:10\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -4797,13 +4797,13 @@ msgstr "Envoie contrôle+alt+suppr à l'ordinateur contrôlé."
 #: globalCommands.py:5105
 msgctxt "imageDesc"
 msgid "Get an AI-generated image description of the navigator object."
-msgstr ""
+msgstr "Obtenir une description d’image générée par IA de l’objet navigateur."
 
 #. Translators: Description for the toggle image captioning script
 #: globalCommands.py:5118
 msgctxt "imageDesc"
 msgid "Load or unload the image captioner"
-msgstr ""
+msgstr "Charger ou décharger le descripteur d'image"
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
@@ -6793,7 +6793,7 @@ msgstr "double {action}"
 #: touchHandler.py:163
 #, python-brace-format
 msgid "triple {action}"
-msgstr ""
+msgstr "triple {action}"
 
 #. Translators: a touch screen action performed 4 times
 #: touchHandler.py:165
@@ -7280,7 +7280,7 @@ msgstr "Échec du téléchargement de l'extension"
 #, python-brace-format
 msgctxt "addonStore"
 msgid "The website where you are downloading the add-on from has a certificate that is not trusted. Do you want to trust the root certificate for {url}? This will allow you to download add-ons from this website in the future. Only do this if you trust the website. The certificate's SHA256 fingerprint is: {fingerprint}. "
-msgstr ""
+msgstr "Le site Web à partir duquel vous téléchargez l'extension possède un certificat qui n'est pas fiable. Voulez-vous faire confiance au certificat racine pour {url} ? Cela vous permettra de télécharger des extensions à partir de ce site Web à l'avenir. Ne faites cela que si vous faites confiance au site Web. L'empreinte SHA256 du certificat est : {fingerprint}."
 
 #. Translators: A message to the user if an add-on download fails
 #: addonStore\network.py:291 addonStore\network.py:322
@@ -12141,7 +12141,7 @@ msgstr "Action indisponible lorsque l’accès à distance est désactivé"
 #. Translators: Reported when an action cannot be performed because screen curtain is enabled.
 #: gui\blockAction.py:104
 msgid "Action unavailable while screen curtain is enabled"
-msgstr ""
+msgstr "Action indisponible lorsque le rideau d'écran est activé"
 
 #. Translators: The title of the Configuration Profiles dialog.
 #: gui\configProfiles.py:36
@@ -13978,7 +13978,7 @@ msgstr "Description d'image par IA"
 #: gui\settingsDialogs.py:3684
 msgctxt "imageDesc"
 msgid "Enable image captioner"
-msgstr "Activer le modèle description d'image"
+msgstr "Activer le modèle de description d'image"
 
 #. Translators: This is the label for the touch interaction settings panel.
 #: gui\settingsDialogs.py:3705
@@ -15704,19 +15704,19 @@ msgstr "Le modèle de description d'image n'est pas installé. Voulez-vous l'ins
 #: gui\_localCaptioner\messageDialogs.py:123
 msgctxt "imageDesc"
 msgid "Downloading Image Descriptioner"
-msgstr ""
+msgstr "Téléchargement du descripteur d'images en cours"
 
 #. Translators: The progress message indicating that a connection is being established.
 #: gui\_localCaptioner\messageDialogs.py:125
 msgctxt "imageDesc"
 msgid "Connecting"
-msgstr ""
+msgstr "Connexion en cours"
 
 #. Translators: The progress message indicating that a download is in progress.
 #: gui\_localCaptioner\messageDialogs.py:149
 msgctxt "imageDesc"
 msgid "downloading"
-msgstr ""
+msgstr "téléchargement en cours"
 
 #. Translators: Describes a command.
 #: mathPres\__init__.py:132
@@ -18822,7 +18822,7 @@ msgstr "Débranché"
 #. Translators: Reported when battery time is less than 1 minute.
 #: winAPI\_powerTracking.py:228
 msgid "Less than 1 minute remaining"
-msgstr ""
+msgstr "Temps restant moins d'une minute"
 
 #. Translators: This is the hour string part of the estimated remaining runtime of the laptop battery.
 #. E.g. if the full string is "1 hour and 34 minutes remaining", this string is "1 hour".
@@ -18854,14 +18854,14 @@ msgstr "Temps restant {hourText} et {minuteText}"
 #: winAPI\_powerTracking.py:265
 #, python-brace-format
 msgid "{hourText} remaining"
-msgstr ""
+msgstr "Temps restant {hourText}"
 
 #. Translators: Reported when only minutes remaining for battery life.
 #. E.g. "30 minutes remaining"
 #: winAPI\_powerTracking.py:271
 #, python-brace-format
 msgid "{minuteText} remaining"
-msgstr ""
+msgstr "Temps restant {minuteText}"
 
 #. Translators: Message to indicate User Account Control (UAC) or other secure desktop screen is active.
 #: winAPI\secureDesktop.py:53
