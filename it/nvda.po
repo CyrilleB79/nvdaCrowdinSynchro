@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-24 03:15+0000\n"
-"PO-Revision-Date: 2025-11-02 23:11\n"
+"POT-Creation-Date: 2025-11-03 01:58+0000\n"
+"PO-Revision-Date: 2025-11-03 03:11\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -382,7 +382,7 @@ msgstr "hlght"
 #. Translators: Displayed in braille when an object is a comment.
 #. Translators: Displayed in braille when there is a comment for a spreadsheet cell or piece of text in a document.
 #. Translators: Brailled when text contains a generic comment.
-#: braille.py:234 braille.py:283 braille.py:1223
+#: braille.py:234 braille.py:283 braille.py:1234
 msgid "cmnt"
 msgstr "cmnt"
 
@@ -670,18 +670,18 @@ msgstr "ci sono %s"
 
 #. Translators: Displayed in braille for a heading with a level.
 #. %s is replaced with the level.
-#: braille.py:728 braille.py:1201
+#: braille.py:729 braille.py:1212
 #, python-format
 msgid "h%s"
 msgstr "h%s"
 
 #. Translators: Displayed in braille for a link which has been visited.
-#: braille.py:734
+#: braille.py:735
 msgid "vlnk"
 msgstr "vlnk"
 
 #. Translators: Displayed in braille for a multi select list.
-#: braille.py:747
+#: braille.py:748
 msgid "mslst"
 msgstr ""
 
@@ -691,65 +691,65 @@ msgstr ""
 #. Translators: Spoken to indicate the position of an item in a group of items (such as a list).
 #. {number} is replaced with the number of the item in the group.
 #. {total} is replaced with the total number of items in the group.
-#: braille.py:794 speech\speech.py:2125
+#: braille.py:801 speech\speech.py:2125
 #, python-brace-format
 msgid "{number} of {total}"
 msgstr "{number} di {total}"
 
 #. Translators: Displayed in braille when an object (e.g. a tree view item) has a hierarchical level.
 #. %s is replaced with the level.
-#: braille.py:798
+#: braille.py:806
 #, python-format
 msgid "lv %s"
 msgstr "lv %s"
 
 #. Translators: Displayed in braille for the table cell row numbers when a cell spans multiple rows.
 #. Occurences of %s are replaced with the corresponding row numbers.
-#: braille.py:804
+#: braille.py:813
 #, python-brace-format
 msgid "r{rowNumber}-{rowSpan}"
 msgstr "r{rowNumber}-{rowSpan}"
 
 #. Translators: Displayed in braille for a table cell row number.
 #. %s is replaced with the row number.
-#: braille.py:811
+#: braille.py:820
 #, python-brace-format
 msgid "r{rowNumber}"
 msgstr "r{rowNumber}"
 
 #. Translators: Displayed in braille for the table cell column numbers when a cell spans multiple columns.
 #. Occurences of %s are replaced with the corresponding column numbers.
-#: braille.py:821
+#: braille.py:830
 #, python-brace-format
 msgid "c{columnNumber}-{columnSpan}"
 msgstr "c{columnNumber}-{columnSpan}"
 
 #. Translators: Displayed in braille for a table cell column number.
 #. %s is replaced with the column number.
-#: braille.py:828
+#: braille.py:837
 #, python-brace-format
 msgid "c{columnNumber}"
 msgstr "c{columnNumber}"
 
 #. Translators: Displayed in braille at the end of a control field such as a list or table.
 #. %s is replaced with the control's role.
-#: braille.py:1045
+#: braille.py:1054
 #, python-format
 msgid "%s end"
 msgstr "%s fine"
 
 #. Translators: Brailled when text contains a draft comment.
-#: braille.py:1217
+#: braille.py:1228
 msgid "drft cmnt"
 msgstr "drft cmntcmnt"
 
 #. Translators: Brailled when text contains a resolved comment.
-#: braille.py:1220
+#: braille.py:1231
 msgid "rslvd cmnt"
 msgstr "rslvd cmnt"
 
 #. Translators: brailled when text contains a bookmark
-#: braille.py:1231
+#: braille.py:1242
 msgid "bkmk"
 msgstr "bkmk"
 
@@ -761,40 +761,40 @@ msgstr "bkmk"
 #. consider overwriting this (e.g. for Ge'ez ፨).
 #. You can also use Unicode Braille such as ⠘⠏.
 #. Ensure this is consistent with other strings with the context "paragraphMarker".
-#: braille.py:1258
+#: braille.py:1269
 msgctxt "paragraphMarker"
 msgid "¶"
 msgstr "¶"
 
 #. Translators: Label for a setting in braille settings dialog.
-#: braille.py:3740
+#: braille.py:3751
 msgid "Dot firm&ness"
 msgstr "Resiste&nza del punto"
 
 #. Translators: Label for a setting in braille settings dialog.
-#: braille.py:3753
+#: braille.py:3764
 msgid "Braille inp&ut"
 msgstr "Immissione braille (&p)"
 
 #. Translators: Label for a setting in braille settings dialog.
-#: braille.py:3763
+#: braille.py:3774
 msgid "&HID keyboard input simulation"
 msgstr "Simulazione tastiera &HID"
 
 #. Translators: Displayed when the source driver of a braille display gesture is unknown.
-#: braille.py:3927
+#: braille.py:3938
 msgid "Unknown braille display"
 msgstr "Display braille sconosciuto"
 
 #. Translators: Name of a Bluetooth serial communications port.
-#: braille.py:3968
+#: braille.py:3979
 #, python-brace-format
 msgid "Bluetooth Serial: {port} ({deviceName})"
 msgstr "Seriale Bluetooth: {port} ({deviceName})"
 
 #. Translators: Name of a serial communications port.
 #. Translators: Name of a serial communications port
-#: braille.py:3977 brailleDisplayDrivers\ecoBraille.py:399
+#: braille.py:3988 brailleDisplayDrivers\ecoBraille.py:399
 #: brailleDisplayDrivers\papenmeier_serial.py:81
 #, python-brace-format
 msgid "Serial: {portName}"
@@ -1747,58 +1747,58 @@ msgid "Native app selection mode disabled"
 msgstr "Modalità selezione app nativa disabilitata"
 
 #. Translators: The level at which the given symbol will be spoken.
-#: characterProcessing.py:171
+#: characterProcessing.py:172
 msgctxt "symbolLevel"
 msgid "none"
 msgstr "Nessuno"
 
 #. Translators: The level at which the given symbol will be spoken.
-#: characterProcessing.py:173
+#: characterProcessing.py:174
 msgctxt "symbolLevel"
 msgid "some"
 msgstr "Qualcosa"
 
 #. Translators: The level at which the given symbol will be spoken.
-#: characterProcessing.py:175
+#: characterProcessing.py:176
 msgctxt "symbolLevel"
 msgid "most"
 msgstr "Molta"
 
 #. Translators: The level at which the given symbol will be spoken.
-#: characterProcessing.py:177
+#: characterProcessing.py:178
 msgctxt "symbolLevel"
 msgid "all"
 msgstr "Tutta"
 
 #. Translators: The level at which the given symbol will be spoken.
-#: characterProcessing.py:179
+#: characterProcessing.py:180
 msgctxt "symbolLevel"
 msgid "character"
 msgstr "Carattere"
 
 #. Translators: An option for when a symbol itself will be sent to the synthesizer.
 #. See the "Punctuation/symbol pronunciation" section of the User Guide for details.
-#: characterProcessing.py:191
+#: characterProcessing.py:192
 msgctxt "symbolPreserve"
 msgid "never"
 msgstr "mai"
 
 #. Translators: An option for when a symbol itself will be sent to the synthesizer.
 #. See the "Punctuation/symbol pronunciation" section of the User Guide for details.
-#: characterProcessing.py:194
+#: characterProcessing.py:195
 msgctxt "symbolPreserve"
 msgid "always"
 msgstr "sempre"
 
 #. Translators: An option for when a symbol itself will be sent to the synthesizer.
 #. See the "Punctuation/symbol pronunciation" section of the User Guide for details.
-#: characterProcessing.py:197
+#: characterProcessing.py:198
 msgctxt "symbolPreserve"
 msgid "only below symbol's level"
 msgstr "Solo al di sotto livello simboli"
 
 #. Translators: The name of a symbols dictionary with data from the unicode CLDR.
-#: characterProcessing.py:897
+#: characterProcessing.py:901
 msgid "Unicode Consortium data (including emoji)"
 msgstr "Dati del consorzio Unicode (comprese le emoji)"
 
@@ -2051,21 +2051,21 @@ msgid "brown-yellow"
 msgstr "marrone-giallo"
 
 #. Translators: Shown when one or more add-ons failed to update.
-#: core.py:86
+#: core.py:85
 msgid "The following add-on failed to update: {}."
 msgid_plural "The following add-ons failed to update: {}."
 msgstr[0] "Impossibile aggiornare il seguente componente aggiuntivo: {}."
 msgstr[1] "Impossibile aggiornare i seguenti componenti aggiuntivi: {}."
 
 #. Translators: Shown when one or more add-ons failed to be uninstalled.
-#: core.py:95
+#: core.py:94
 msgid "The following add-on failed to uninstall: {}."
 msgid_plural "The following add-ons failed to uninstall: {}."
 msgstr[0] "Impossibile disinstallare il seguente componente aggiuntivo: {}."
 msgstr[1] "Impossibile disinstallare i seguenti componenti aggiuntivi: {}."
 
 #. Translators: Shown when one or more add-ons failed to be installed.
-#: core.py:104
+#: core.py:103
 msgid "The following add-on failed to be installed: {}."
 msgid_plural "The following add-ons failed to be installed: {}."
 msgstr[0] "Impossibile installare il seguente componente aggiuntivo: {}."
@@ -2073,7 +2073,7 @@ msgstr[1] "Impossibile installare i seguenti componenti aggiuntivi: {}."
 
 #. Translators: Shown when one or more actions on add-ons failed.
 #. {failureMsg} will be replaced with the specific error message.
-#: core.py:118
+#: core.py:117
 #, python-brace-format
 msgid "Some operations on add-ons failed. See the log file for more details.\n"
 "{failureMsg}"
@@ -2107,8 +2107,8 @@ msgstr "Alcune operazioni sugli add-on non sono andate a buon fine. Vedere i fil
 #. Translators: A title of a message box displayed when the host field is empty and the user tries to generate a key.
 #. Translators: Title of error dialog
 #. Translators: Title of a dialog
-#: core.py:121 documentationUtils.py:74 updateCheck.py:421 updateCheck.py:736
-#: updateCheck.py:908 gui\__init__.py:238 gui\__init__.py:246
+#: core.py:120 documentationUtils.py:74 updateCheck.py:438 updateCheck.py:753
+#: updateCheck.py:925 gui\__init__.py:238 gui\__init__.py:246
 #: gui\__init__.py:263 gui\addonGui.py:145 gui\addonGui.py:265
 #: gui\addonGui.py:280 gui\configProfiles.py:182 gui\configProfiles.py:219
 #: gui\configProfiles.py:272 gui\configProfiles.py:284
@@ -2125,46 +2125,46 @@ msgid "Error"
 msgstr "Errore"
 
 #. Translators: Shown when NVDA has been started with unknown command line parameters.
-#: core.py:149
+#: core.py:148
 #, python-brace-format
 msgid "The following command line parameters are unknown to NVDA: {params}"
 msgstr "NVDA non riconosce i seguenti parametri a riga di comando: {params}"
 
 #. Translators: Title of the dialog letting user know
 #. that command line parameters they provided are unknown.
-#: core.py:154
+#: core.py:153
 msgid "Unknown command line parameters"
 msgstr "Parametri della riga di comando sconosciuti"
 
 #. Translators: A message informing the user that there are errors in the configuration file.
-#: core.py:163
+#: core.py:162
 msgid "Your configuration file contains errors. Your configuration has been reset to factory defaults.\n"
 "More details about the errors can be found in the log file."
 msgstr "Il file di configurazione contiene errori. La configurazione è stata ripristinata ai valori di fabbrica.\n"
 " Ulteriori informazioni possono essere individuate nel file di log."
 
 #. Translators: The title of the dialog to tell users that there are errors in the configuration file.
-#: core.py:168
+#: core.py:167
 msgid "Configuration File Error"
 msgstr "Errore nel file di configurazione"
 
-#: core.py:186
+#: core.py:185
 msgid "Your gesture map file contains errors.\n"
 "More details about the errors can be found in the log file."
 msgstr "La mappatura del tuo file dei gesti contiene errrori.\n"
 "Ulteriori informazioni nel file di log."
 
-#: core.py:189
+#: core.py:188
 msgid "gesture map File Error"
 msgstr "Errore nella mappatura del file dei gesti"
 
 #. Translators: This is spoken when NVDA is starting.
-#: core.py:802
+#: core.py:796
 msgid "Loading NVDA. Please wait..."
 msgstr "Caricamento di NVDA in corso, attendere prego"
 
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts.
-#: core.py:948
+#: core.py:942
 msgid "NVDA started"
 msgstr "NVDA attivato"
 
@@ -6965,18 +6965,18 @@ msgid "Copied: {text}"
 msgstr "Copiato: {text}"
 
 #. Translators: The title of the dialog displayed while manually checking for an NVDA update.
-#: updateCheck.py:389
+#: updateCheck.py:406
 msgid "Checking for Update"
 msgstr "Controllo presenza aggiornamenti"
 
 #. Translators: The progress message displayed while manually checking for an NVDA update.
-#: updateCheck.py:391
+#: updateCheck.py:408
 msgid "Checking for update"
 msgstr "Controllo presenza aggiornamenti"
 
 #. Translators: A suggestion of what to do when checking for NVDA updates fails and an update mirror is being used.
 #. {url} will be replaced with the mirror URL.
-#: updateCheck.py:400
+#: updateCheck.py:417
 #, python-brace-format
 msgctxt "updateCheck"
 msgid "Make sure you are connected to the internet, and the NVDA update mirror URL is valid.\n"
@@ -6985,14 +6985,14 @@ msgstr "Assicurati di essere connesso a internet, e che l'indirizzo del mirror d
 "Mirror URL: {url}"
 
 #. Translators: Presented when fetching add-on data from the store fails and the default metadata URL is being used.
-#: updateCheck.py:407
+#: updateCheck.py:424
 msgctxt "updateCheck"
 msgid "Unable to establish a connection to the NV Access server."
 msgstr "Impossibile stabilire una connessione al server NV Access."
 
 #. Translators: A message indicating that an error occurred while checking for an update to NVDA.
 #. tip will be replaced with a context sensitive suggestion of next steps.
-#: updateCheck.py:413
+#: updateCheck.py:430
 #, python-brace-format
 msgctxt "updateCheck"
 msgid "Error checking for update.\n"
@@ -7002,106 +7002,106 @@ msgstr "Errore nel controllare gli aggiornamenti.\n"
 
 #. Translators: The title of the dialog informing the user about an NVDA update.
 #. Translators: The title of the dialog asking the user to apply an NVDA update.
-#: updateCheck.py:484 updateCheck.py:624
+#: updateCheck.py:501 updateCheck.py:641
 msgid "NVDA Update"
 msgstr "Aggiornamenti NVDA"
 
 #. Translators: A message indicating that no update to NVDA is available.
-#: updateCheck.py:500
+#: updateCheck.py:517
 msgid "No update available."
 msgstr "Nessun aggiornamento disponibile."
 
 #. Translators: A message indicating that an update to NVDA has been downloaded and is ready to be
 #. applied.
-#: updateCheck.py:505
+#: updateCheck.py:522
 #, python-brace-format
 msgid "Update to NVDA version {version} has been downloaded and is ready to be applied."
 msgstr "L'aggiornamento alla versione {version} di NVDA è stato scaricato ed è pronto per essere applicato."
 
 #. Translators: The label of a button to review add-ons prior to NVDA update.
 #. Translators: The label of a button to launch the add-on compatibility review dialog.
-#: updateCheck.py:530 updateCheck.py:652 gui\installerGui.py:286
+#: updateCheck.py:547 updateCheck.py:669 gui\installerGui.py:286
 msgid "&Review add-ons..."
 msgstr "Cont&rolla componenti aggiuntivi..."
 
 #. Translators: The label of a button to apply a pending NVDA update.
 #. {version} will be replaced with the version; e.g. 2011.3.
-#: updateCheck.py:536
+#: updateCheck.py:553
 #, python-brace-format
 msgid "&Update to NVDA {version}"
 msgstr "&Aggiorna a NVDA {version}"
 
 #. Translators: The label of a button to re-download a pending NVDA update.
-#: updateCheck.py:546
+#: updateCheck.py:563
 msgid "Re-&download update"
 msgstr "Riscarica aggiornamento (&d)"
 
 #. Translators: A message indicating that an updated version of NVDA is available.
 #. {version} will be replaced with the version; e.g. 2011.3.
-#: updateCheck.py:551
+#: updateCheck.py:568
 #, python-brace-format
 msgid "NVDA version {version} is available."
 msgstr "E' disponibile la versione {version} di NVDA."
 
 #. Translators: The label of a button to download an NVDA update.
-#: updateCheck.py:555
+#: updateCheck.py:572
 msgid "&Download update"
 msgstr "&Scarica Aggiornamento"
 
 #. Translators: The label of a button to remind the user later about performing some action.
-#: updateCheck.py:560 gui\startupDialogs.py:310
+#: updateCheck.py:577 gui\startupDialogs.py:310
 msgid "Remind me &later"
 msgstr "Ricordame&lo più tardi"
 
 #. Translators: The label of a button to close a dialog.
 #. Translators: The close button on an NVDA dialog. This button will dismiss the dialog.
-#: updateCheck.py:569 gui\addonGui.py:378
+#: updateCheck.py:586 gui\addonGui.py:378
 msgid "&Close"
 msgstr "&Chiudi"
 
 #. Translators: A message indicating that an update to NVDA is ready to be applied.
-#: updateCheck.py:628
+#: updateCheck.py:645
 #, python-brace-format
 msgid "Update to NVDA version {version} is ready to be applied.\n"
 msgstr "L'aggiornamento alla versione {version} di NVDA è pronto per essere applicato.\n"
 
 #. Translators: The label of a button to update NVDA.
-#: updateCheck.py:655
+#: updateCheck.py:672
 msgid "&Update now"
 msgstr "&Aggiorna ora"
 
 #. Translators: The label of a button to postpone an NVDA update.
-#: updateCheck.py:668
+#: updateCheck.py:685
 msgid "&Postpone update"
 msgstr "&Posponi aggiornamento"
 
 #. Translators: The message when a downloaded update file could not be preserved.
-#: updateCheck.py:734
+#: updateCheck.py:751
 msgid "Unable to postpone update."
 msgstr "Impossibile posporre l'aggiornamento."
 
 #. Translators: The title of the dialog displayed while downloading an NVDA update.
-#: updateCheck.py:793
+#: updateCheck.py:810
 msgid "Downloading Update"
 msgstr "Scaricamento aggiornamento"
 
 #. Translators: The progress message indicating that a connection is being established.
-#: updateCheck.py:795
+#: updateCheck.py:812
 msgid "Connecting"
 msgstr "In connessione"
 
 #. Translators: The progress message indicating that a download is in progress.
-#: updateCheck.py:888
+#: updateCheck.py:905
 msgid "Downloading"
 msgstr "Scaricamento in corso"
 
 #. Translators: A message indicating that an error occurred while downloading an update to NVDA.
-#: updateCheck.py:907
+#: updateCheck.py:924
 msgid "Error downloading update."
 msgstr "Errore nel download dell'aggiornamento"
 
 #. Translators: The message requesting donations from users.
-#: updateCheck.py:930
+#: updateCheck.py:947
 msgid "We need your help in order to continue to improve NVDA.\n"
 "This project relies primarily on donations and grants. By donating, you are helping to fund full time development.\n"
 "If even $10 is donated for every download, we will be able to cover all of the ongoing costs of the project.\n"
@@ -7114,38 +7114,38 @@ msgstr "Abbiamo bisogno del tuo aiuto per continuare lo sviluppo di NVDA.\n"
 "Grazie per l'aiuto che vorrai offrire."
 
 #. Translators: The title of the dialog requesting donations from users.
-#: updateCheck.py:939
+#: updateCheck.py:956
 msgid "Please Donate"
 msgstr "Per favore Fai una donazione"
 
 #. Translators: The label of the button to donate
 #. in the "Please Donate" dialog.
 #. Translators: The label for the menu item to open donate page.
-#: updateCheck.py:948 gui\__init__.py:721
+#: updateCheck.py:965 gui\__init__.py:721
 msgid "&Donate"
 msgstr "Fai una &donazione"
 
 #. Translators: The label of the button to decline donation
 #. in the "Please Donate" dialog.
-#: updateCheck.py:953
+#: updateCheck.py:970
 msgid "&Not now"
 msgstr "&Non adesso"
 
 #. Translators: The label of a button to indicate that the user is finished donating
 #. in the "Please Donate" dialog.
-#: updateCheck.py:969
+#: updateCheck.py:986
 msgid "&Done"
 msgstr "&Fatto"
 
 #. Translators: Message shown to users when attempting to update NVDA
 #. on a computer which is being remotely controlled via NVDA Remote Access
-#: updateCheck.py:998 gui\installerGui.py:452
+#: updateCheck.py:1015 gui\installerGui.py:452
 msgid "Updating NVDA when connected to NVDA Remote Access as the controlled computer is not recommended. "
 msgstr "Non è consigliabile aggiornare NVDA quando connesso come computer controllato tramite l'accesso remoto."
 
 #. Translators: Message shown to users when attempting to update NVDA from an installed copy
 #. on a computer which is being remotely controlled via NVDA Remote Access.
-#: updateCheck.py:1003
+#: updateCheck.py:1020
 msgid "The currently active connection may not be continued during or after the update. Even if the connection is continued, you will be unable to respond to User Account Control (UAC) prompts from the controlling computer. You should only proceed if you have physical access to the controlled computer.\n\n"
 "Are you sure you want to continue?"
 msgstr "La connessione potrebbe non essere stabile durante e dopo l'aggiornamento. Anche se dovesse restare attiva, non è possibile rispondere alle richieste del Controllo dell'Account Utente (UAC) dal computer remoto. Procedere solo se si dispone dell'accesso fisico al computer controllato.\n"
@@ -7158,7 +7158,7 @@ msgstr "La connessione potrebbe non essere stabile durante e dopo l'aggiornament
 #. copy settings for use in secure screens.
 #. Translators: Title of the warning message.
 #. Translators: Title of warning dialog
-#: updateCheck.py:1009 gui\_SetURLDialog.py:113 gui\configProfiles.py:500
+#: updateCheck.py:1026 gui\_SetURLDialog.py:113 gui\configProfiles.py:500
 #: gui\installerGui.py:344 gui\installerGui.py:469 gui\settingsDialogs.py:1040
 #: gui\settingsDialogs.py:1980 visionEnhancementProviders\screenCurtain.py:99
 #: _remoteClient\dialogs.py:291
@@ -7185,20 +7185,14 @@ msgid "{longName} ({name})\n"
 "Version: {version} ({version_detailed})\n"
 "URL: {url}\n"
 "{copyright}\n\n"
-"{name} is covered by the GNU General Public License (Version 2). You are free to share or change this software in any way you like as long as it is accompanied by the license and you make all source code available to anyone who wants it. This applies to both original and modified copies of this software, plus any derivative works.\n"
+"{name} is covered by the GNU General Public License (Version 2 or later).\n"
+"You are free to share or change this software in any way you like as long as it is accompanied by the license and you make all source code available to anyone who wants it.\n"
+"This applies to both original and modified copies of this software, plus any derivative works.\n"
 "For further details, you can view the license from the Help menu.\n"
-"It can also be viewed online at: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\n\n"
+"It can also be viewed online at: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html and https://www.gnu.org/licenses/gpl-3.0.en.html\n\n"
 "{name} is developed by NV Access, a non-profit organisation committed to helping and promoting free and open source solutions for blind and vision impaired people.\n"
 "If you find NVDA useful and want it to continue to improve, please consider donating to NV Access. You can do this by selecting Donate from the NVDA menu."
-msgstr "{longName} ({name})\n"
-"Version: {version} ({version_detailed})\n"
-"URL: {url}\n"
-"{copyright}\n\n"
-"{name} è coperto dalla licenza GNU General Public License (Versione 2). Sei libero di condividere e modificare questo programma nel modo che desideri a patto che venga sempre accompagnato dalla licenza e che i sorgenti siano sempre disponibili a chiunque ne faccia richiesta. Questo si applica sia alle copie originali che modificate di questo software, e ad ogni lavoro che ne derivi.\n"
-"Per maggiori informazioni, si può visualizzare la licenza dal menu aiuto.\n"
-"Inoltre è disponibile anche online all'indirizzo: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html\n\n"
-"{name} è sviluppato da NV Access, un'organizzazione senza fini di lucro che si prefigge di aiutare e promuovere soluzioni gratuite e libere per persone non vedenti.\n"
-"Se ritieni che NVDA sia un software utile e desideri che lo sviluppo continui, considera di effettuare una donazione a NV Access. Puoi farlo selezionando Fai una donazione dal menu di NVDA."
+msgstr ""
 
 #. Translators: the message that is shown when the user tries to install an add-on
 #. from windows explorer and NVDA is not running.
@@ -7210,14 +7204,14 @@ msgstr "Impossibile installare il componente aggiuntivo per NVDA dal percorso {p
 "NVDA deve essere in esecuzione per poter installare componenti aggiuntivi."
 
 #. Translators: A title of the dialog shown when fetching add-on data from the store fails
-#: addonStore\dataManager.py:213
+#: addonStore\dataManager.py:212
 msgctxt "addonStore"
 msgid "Add-on data update failure"
 msgstr "Errore nell'aggiornamento dei dati dell'add-on"
 
 #. Translators: A suggestion of what to do when fetching add-on data from the store fails and a metadata mirror is being used.
 #. {url} will be replaced with the mirror URL.
-#: addonStore\dataManager.py:218
+#: addonStore\dataManager.py:217
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Make sure you are connected to the internet, and the Add-on Store mirror URL is valid.\n"
@@ -7226,19 +7220,19 @@ msgstr "Assicurati di essere connesso a internet , e che l'indirizzo del mirror 
 "Mirror URL: {url}"
 
 #. Translators: Presented when fetching add-on data from the store fails and the default metadata URL is being used.
-#: addonStore\dataManager.py:224
+#: addonStore\dataManager.py:223
 msgctxt "addonStore"
 msgid "Unable to establish a connection to the Add-on Store server."
 msgstr "Impossibile stabilire una connessione al server add-on store."
 
 #. Translators: A message shown when fetching add-on data from the store fails
-#: addonStore\dataManager.py:257
+#: addonStore\dataManager.py:256
 msgctxt "addonStore"
 msgid "Unable to fetch latest add-on data for compatible add-ons."
 msgstr "Impossibile recuperare i dati più recenti degli add-on compatibili"
 
 #. Translators: A message shown when fetching add-on data from the store fails
-#: addonStore\dataManager.py:293
+#: addonStore\dataManager.py:292
 msgctxt "addonStore"
 msgid "Unable to fetch latest add-on data for incompatible add-ons."
 msgstr "Impossibile recuperare i dati più recenti dei componenti aggiuntivi in presenza di add-on non compatibili."
@@ -7268,36 +7262,27 @@ msgid "Failed to install add-on from %s"
 msgstr "Impossibile installare l'add-on da %s"
 
 #. Translators: A title for a dialog notifying a user of an add-on download failure.
-#: addonStore\network.py:251
+#: addonStore\network.py:243
 msgctxt "addonStore"
 msgid "Add-on download failure"
 msgstr "Errore durante il download del componente aggiuntivo"
 
-#. Translators: A message to the user if an add-on download fails.
-#. url is replaced with the base URL of the add-on download e.g. (github.com).
-#. fingerprint is replaced with the SHA256 fingerprint of the certificate.
-#: addonStore\network.py:271
-#, python-brace-format
-msgctxt "addonStore"
-msgid "The website where you are downloading the add-on from has a certificate that is not trusted. Do you want to trust the root certificate for {url}? This will allow you to download add-ons from this website in the future. Only do this if you trust the website. The certificate's SHA256 fingerprint is: {fingerprint}. "
-msgstr ""
-
 #. Translators: A message to the user if an add-on download fails
-#: addonStore\network.py:291 addonStore\network.py:322
+#: addonStore\network.py:266
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Unable to download add-on: {name}"
 msgstr "Impossibile scaricare il componente aggiuntivo: {name}"
 
 #. Translators: A message to the user if an add-on download fails
-#: addonStore\network.py:332
+#: addonStore\network.py:276
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Unable to save add-on as a file: {name}"
 msgstr "Impossibile salvare il componente aggiuntivo come file: {name}"
 
 #. Translators: A message to the user if an add-on download is not safe
-#: addonStore\network.py:344
+#: addonStore\network.py:288
 #, python-brace-format
 msgctxt "addonStore"
 msgid "Add-on download not safe: checksum failed for {name}"
@@ -8683,7 +8668,7 @@ msgid "No braille"
 msgstr "Nessun display braille"
 
 #. Translators: Names of braille displays.
-#: brailleDisplayDrivers\papenmeier.py:140
+#: brailleDisplayDrivers\papenmeier.py:141
 msgid "Papenmeier BRAILLEX newer models"
 msgstr "Papenmeier Braillex nuovi modelli"
 
@@ -15095,7 +15080,7 @@ msgid "Publication date:"
 msgstr "Data pubblicazione:"
 
 #. Translators: Label for an extra detail field for the selected add-on. In the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:370
+#: gui\addonStoreGui\controls\details.py:371
 msgctxt "addonStore"
 msgid "VirusTotal scan results:"
 msgstr ""
@@ -15104,14 +15089,16 @@ msgstr ""
 #. {malicious} is the number of vendors that detected the add-on as malicious,
 #. {total} is the total number of vendors that scanned the add-on.
 #. In the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:377
+#: gui\addonStoreGui\controls\details.py:378
 #, python-brace-format
 msgctxt "addonStore"
-msgid "{malicious} out of {total} malware scanners detected this add-on as potentially malicious."
-msgstr ""
+msgid "{malicious} malware scanner detected this add-on as potentially malicious (out of {total})."
+msgid_plural "{malicious} malware scanners detected this add-on as potentially malicious (out of {total})."
+msgstr[0] ""
+msgstr[1] ""
 
 #. Translators: Label for an extra detail field for the selected add-on. In the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:385
+#: gui\addonStoreGui\controls\details.py:388
 msgctxt "addonStore"
 msgid "VirusTotal scan URL:"
 msgstr ""
@@ -19167,7 +19154,7 @@ msgid "Connect"
 msgstr "Connetti"
 
 #. Translators: Message displayed when a remote computer tries to send control+alt+delete but UI Access is disabled.
-#: _remoteClient\localMachine.py:351
+#: _remoteClient\localMachine.py:358
 msgctxt "remote"
 msgid "Unable to trigger control+alt+delete"
 msgstr "Impossibile inviare control+alt+canc"
