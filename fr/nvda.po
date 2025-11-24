@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-21 03:53+0000\n"
-"PO-Revision-Date: 2025-11-24 21:12\n"
+"PO-Revision-Date: 2025-11-24 22:11\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3940,7 +3940,7 @@ msgstr "Afficher les paramètres audio de NVDA"
 #. Translators: Input help mode message for go to privacy and security settings command.
 #: globalCommands.py:3391
 msgid "Shows NVDA's privacy and security settings"
-msgstr ""
+msgstr "Afficher les paramètres de confidentialité et de sécurité de NVDA"
 
 #. Translators: Input help mode message for go to vision settings command.
 #: globalCommands.py:3400
@@ -13759,7 +13759,7 @@ msgstr "Deviner le r&ang de l'objet quand l'information n'est pas disponible"
 #. object presentation settings panel.
 #: gui\settingsDialogs.py:2495
 msgid "Report when objects support &multiple selection"
-msgstr ""
+msgstr "Annoncer lorsque les objets prennent en charge la sélection multiple"
 
 #. Translators: This is the label for a checkbox in the
 #. object presentation settings panel.
@@ -14071,7 +14071,7 @@ msgstr "Informations sur le document"
 #. document formatting settings panel.
 #: gui\settingsDialogs.py:3190
 msgid "Commen&ts"
-msgstr ""
+msgstr "Commen&taires"
 
 #. Translators: This is the label for a checkbox in the
 #. document formatting settings panel.
@@ -14498,7 +14498,7 @@ msgstr "&Actualiser périodiquement le contenu reconnu"
 #. Translators: The label for a setting in OCR settings to automatically say all on result.
 #: gui\settingsDialogs.py:4159
 msgid "Automatically say all on result"
-msgstr ""
+msgstr "Dire tout automatique sur le résultat"
 
 #. Translators: This is the label for a group of advanced options in the
 #. Advanced settings panel
@@ -15073,7 +15073,7 @@ msgstr "Impossible de configurer l'interface utilisateur pour le service d'amél
 #. Translators: The title of the privacy and security category in NVDA's settings.
 #: gui\settingsDialogs.py:5982
 msgid "Privacy and Security"
-msgstr ""
+msgstr "Confidentialité et sécurité"
 
 #. Translators: Name for a feature that disables output to the screen,
 #. making it black.
@@ -16232,13 +16232,13 @@ msgstr "téléchargement en cours"
 #: gui\_localCaptioner\messageDialogs.py:180
 msgctxt "imageDesc"
 msgid "Enable AI image descriptions"
-msgstr ""
+msgstr "Activer la description d'images par IA"
 
 #. Translators: label of dialog when enable image desc
 #: gui\_localCaptioner\messageDialogs.py:184
 msgctxt "imageDesc"
 msgid "AI image description is not enabled, would you like to enable it right now?"
-msgstr ""
+msgstr "La description d'image par IA n'est pas activée. Voulez-vous l'activer maintenant ?"
 
 #. Translators: Describes a command.
 #: mathPres\__init__.py:132
@@ -18799,13 +18799,13 @@ msgstr "espace {val:g} pt avant le paragraphe"
 #: screenCurtain\_screenCurtain.py:28
 msgctxt "screenCurtain"
 msgid "Always &show a warning when enabling Screen Curtain"
-msgstr ""
+msgstr "Toujours &afficher un avertissement à l'activation du Rideau d'Écran"
 
 #. Translators: Warning message when trying to enable the screen curtain when OCR is active.
 #: screenCurtain\_screenCurtain.py:33
 msgctxt "screenCurtain"
 msgid "Cannot enable screen curtain while performing content recognition"
-msgstr ""
+msgstr "Impossible d'activer le rideau d'écran lors de la reconnaissance de contenu"
 
 #. Translators: A warning shown when activating the screen curtain.
 #. the translation of "Screen Curtain" should match the "translated name"
