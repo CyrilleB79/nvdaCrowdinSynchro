@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-27 00:16+0000\n"
-"PO-Revision-Date: 2025-11-27 09:15\n"
+"PO-Revision-Date: 2025-11-27 10:14\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -485,7 +485,7 @@ msgstr "smp"
 #. Translators: Displayed in braille when an object supports multiple selected items.
 #: braille.py:289
 msgid "msel"
-msgstr ""
+msgstr "msel"
 
 #. Translators: Displayed in braille when an object is not selected.
 #: braille.py:293
@@ -645,14 +645,14 @@ msgstr "⡎"
 #: braille.py:462
 msgctxt "braille formatting symbol"
 msgid "⠑"
-msgstr ""
+msgstr "⠑"
 
 #. Translators: Brailled at the end of invalid spelling text.
 #. This is the English letter "e" plus dot 7 in braille.
 #: braille.py:465
 msgctxt "braille formatting symbol"
 msgid "⡑"
-msgstr ""
+msgstr "⡑"
 
 #. Translators: Braille when there are further details/annotations that can be fetched manually.
 #: braille.py:678 speech\speech.py:2103
@@ -683,7 +683,7 @@ msgstr "vlnk"
 #. Translators: Displayed in braille for a multi select list.
 #: braille.py:748
 msgid "mslst"
-msgstr ""
+msgstr "mslst"
 
 #. Translators: Brailled to indicate the position of an item in a group of items (such as a list).
 #. {number} is replaced with the number of the item in the group.
@@ -2440,7 +2440,7 @@ msgstr "Accesso Remoto"
 #: globalCommands.py:130
 msgctxt "imageDesc"
 msgid "Image Descriptions"
-msgstr ""
+msgstr "Descrizioni immagine"
 
 #. Translators: Reported when there are no settings to configure in synth settings ring
 #. (example: when there is no setting for language).
@@ -2807,7 +2807,7 @@ msgstr "Leggi stile attivato"
 #. Translators: Input help mode message for toggle report spelling errors command.
 #: globalCommands.py:795
 msgid "Cycles through options for how to report spelling errors"
-msgstr ""
+msgstr "Passa tra le opzioni di annuncio degli errori di ortografia"
 
 #. Translators: Reported when the user cycles through the choices to report spelling errors.
 #. {mode} will be replaced with the mode; e.g. Off, Speech, Sound, Speech and sound.
