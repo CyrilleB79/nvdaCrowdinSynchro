@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-09 05:23+0000\n"
-"PO-Revision-Date: 2025-12-10 06:22\n"
+"POT-Creation-Date: 2025-12-10 06:22+0000\n"
+"PO-Revision-Date: 2025-12-10 07:17\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -2152,7 +2152,7 @@ msgstr "Alcune operazioni sugli add-on non sono andate a buon fine. Vedere i fil
 #: gui\installerGui.py:120 gui\installerGui.py:567 gui\installerGui.py:582
 #: gui\installerGui.py:654 gui\logViewer.py:112 gui\logViewer.py:143
 #: gui\message.py:160 gui\settingsDialogs.py:1048 gui\settingsDialogs.py:5897
-#: gui\settingsDialogs.py:6420 gui\startupDialogs.py:127
+#: gui\settingsDialogs.py:6428 gui\startupDialogs.py:127
 #: _remoteClient\dialogs.py:67 _remoteClient\dialogs.py:306
 #: _remoteClient\dialogs.py:430
 msgid "Error"
@@ -4736,66 +4736,61 @@ msgstr "Tenda schermo attiva"
 msgid "Temporary Screen curtain, enabled until next restart"
 msgstr "Tenda schermo attivata temporaneamente fino al prossimo riavvio"
 
-#. Translators: Reported when the screen curtain could not be enabled.
-#: globalCommands.py:4915
-msgid "Could not enable screen curtain"
-msgstr "Impossibile abilitare la tenda schermo"
-
 #. Translators: Describes a command.
-#: globalCommands.py:4954
+#: globalCommands.py:4953
 msgid "Cycles through paragraph navigation styles"
 msgstr "Commuta le impostazioni inerenti gli stili di navigazione tra i paragrafi"
 
 #. Translators: Describes a command.
-#: globalCommands.py:4968
+#: globalCommands.py:4967
 msgid "Cycles through sound split modes"
 msgstr "Passa tra le opzioni bilanciamento audio"
 
 #. Translators: Input help mode message for report language for caret command.
-#: globalCommands.py:4980
+#: globalCommands.py:4979
 msgctxt "reportLanguage"
 msgid "Reports the language for the text under the caret. If pressed twice, presents the information in browse mode"
 msgstr "Annuncia la lingua del testo su cui si trova il cursore. Se premuto due volte, presenta le informazioni in modalità navigazione"
 
 #. Translators: Reported when the language of the text at caret is not defined.
-#: globalCommands.py:4995
+#: globalCommands.py:4994
 msgctxt "reportLanguage"
 msgid "Unknown language"
 msgstr "Lingua sconosciuta"
 
 #. Translators: Language of the character at caret position when it's not supported by the current synthesizer.
-#: globalCommands.py:5006
+#: globalCommands.py:5005
 #, python-brace-format
 msgctxt "reportLanguage"
 msgid "{languageDescription} (not supported)"
 msgstr "{languageDescription} (non supportato)"
 
 #. Translators: title for report caret language dialog.
-#: globalCommands.py:5015
+#: globalCommands.py:5014
 msgctxt "reportLanguage"
 msgid "Language at caret position"
 msgstr "Lingua alla posizione del cursore"
 
 #. Translators: Documentation string for the script that toggles whether the output from the remote computer is muted.
-#: globalCommands.py:5020
+#: globalCommands.py:5019
 msgctxt "remote"
 msgid "Mutes or unmutes the speech coming from the remote computer"
 msgstr "Attiva o disattiva la sintesi vocale proveniente dal computer remoto"
 
 #. Translators: Documentation string for the script that sends the contents of the clipboard to the remote computer.
-#: globalCommands.py:5030
+#: globalCommands.py:5029
 msgctxt "remote"
 msgid "Sends the contents of the clipboard to the remote computer"
 msgstr "Invia il contenuto degli appunti al computer remoto"
 
 #. Translators: Documentation string for the script that copies a link to the Remote Access session to the clipboard.
-#: globalCommands.py:5038
+#: globalCommands.py:5037
 msgctxt "remote"
 msgid "Copies a link to the current Remote Access session to the clipboard"
 msgstr "Copia negli appunti un link alla sessione remota corrente"
 
 #. Translators: Documentation string for the script that disconnects a Remote Access session.
-#: globalCommands.py:5048
+#: globalCommands.py:5047
 msgctxt "remote"
 msgid "Disconnects from the current Remote Access session"
 msgstr "Disconnette dalla sessione remota corrente"
@@ -4806,7 +4801,7 @@ msgstr "Disconnette dalla sessione remota corrente"
 #. Translators: Message shown when trying to copy the link to connect to the remote computer while not connected.
 #. Translators: Message shown when attempting to send control+alt+delete when no session is connected.
 #. Translators: A message indicating that the remote client is not connected.
-#: globalCommands.py:5054 _remoteClient\client.py:135
+#: globalCommands.py:5053 _remoteClient\client.py:135
 #: _remoteClient\client.py:162 _remoteClient\client.py:184
 #: _remoteClient\client.py:200 _remoteClient\client.py:566
 msgctxt "remote"
@@ -4814,62 +4809,62 @@ msgid "Not connected"
 msgstr "Non connesso"
 
 #. Translators: Documentation string for the script that starts a new Remote Access session.
-#: globalCommands.py:5060
+#: globalCommands.py:5059
 msgctxt "remote"
 msgid "Connects to a remote computer"
 msgstr "Si collega a un computer remoto"
 
 #. Translators: A message indicating that the remote client is already connected.
-#: globalCommands.py:5071
+#: globalCommands.py:5070
 msgid "Already connected"
 msgstr "Già connesso"
 
 #. Translators: Describes the script that creates a new Remote Access session, or disconnects it if one already exists.
-#: globalCommands.py:5077
+#: globalCommands.py:5076
 msgctxt "remote"
 msgid "Toggles whether Remote Access is connected"
 msgstr "Attiva o disattiva connessione remota"
 
 #. Translators: Documentation string for the script that toggles the control between guest and host computers.
-#: globalCommands.py:5092
+#: globalCommands.py:5091
 msgctxt "remote"
 msgid "Switches whether the keyboard controls the local or remote computer"
 msgstr "Stabilisce se la tastiera controlla il computer locale o remoto"
 
 #. Translators: Documentation string for the script that sends alt+ctrl+del to the remote computer
-#: globalCommands.py:5105
+#: globalCommands.py:5104
 msgctxt "remote"
 msgid "Sends control+alt+delete to the controlled computer."
 msgstr "Invia Control+Alt+Canc al computer controllato."
 
 #. Translators: Description for the image caption script
-#: globalCommands.py:5117
+#: globalCommands.py:5116
 msgctxt "imageDesc"
 msgid "Get an AI-generated image description of the navigator object."
 msgstr "Ottieni una descrizione dell'immagine generata dall'IA del navigatore ad oggetti. "
 
 #. Translators: Description for the toggle image captioning script
-#: globalCommands.py:5130
+#: globalCommands.py:5129
 msgctxt "imageDesc"
 msgid "Load or unload the image captioner"
 msgstr "Attiva o disattiva il generatore di didascalie."
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
-#: globalCommands.py:5170
+#: globalCommands.py:5169
 msgid "Can't change the active profile while an NVDA dialog is open"
 msgstr "Non è possibile modificare il profilo attivo mentre è aperta una finestra di dialogo di NVDA"
 
 #. Translators: a message when a configuration profile is manually deactivated.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5175
+#: globalCommands.py:5174
 #, python-brace-format
 msgid "{profile} profile deactivated"
 msgstr "Profilo {profile} disattivato"
 
 #. Translators: a message when a configuration profile is manually activated.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5180
+#: globalCommands.py:5179
 #, python-brace-format
 msgid "{profile} profile activated"
 msgstr "Profilo {profile} attivato"
@@ -4877,7 +4872,7 @@ msgstr "Profilo {profile} attivato"
 #. Translators: The description shown in input help for a script that
 #. activates or deactivates a config profile.
 #. {profile} is replaced with the profile's name.
-#: globalCommands.py:5196
+#: globalCommands.py:5195
 #, python-brace-format
 msgid "Activates or deactivates the {profile} configuration profile"
 msgstr "Attiva o disattiva la configurazione del profilo {profile}"
@@ -7558,7 +7553,7 @@ msgstr "La connessione potrebbe non essere stabile durante e dopo l'aggiornament
 #. Translators: Title of warning dialog
 #: updateCheck.py:1026 gui\_SetURLDialog.py:113 gui\configProfiles.py:500
 #: gui\installerGui.py:344 gui\installerGui.py:469 gui\settingsDialogs.py:1010
-#: gui\settingsDialogs.py:1945 screenCurtain\_screenCurtain.py:56
+#: gui\settingsDialogs.py:1945 screenCurtain\_screenCurtain.py:70
 #: _remoteClient\dialogs.py:291
 msgid "Warning"
 msgstr "Avviso"
@@ -12429,7 +12424,7 @@ msgstr "Inform&azioni sul componente aggiuntivo..."
 #. Translators: A button in the screen curtain warning dialog which allows the user to
 #. agree to enabling the curtain.
 #: gui\addonGui.py:73 gui\message.py:328 gui\startupDialogs.py:302
-#: screenCurtain\_screenCurtain.py:95
+#: screenCurtain\_screenCurtain.py:109
 msgid "&Yes"
 msgstr "&Sì"
 
@@ -12440,7 +12435,7 @@ msgstr "&Sì"
 #. Translators: A button in the screen curtain warning dialog which allows the user to
 #. disagree to enabling the curtain.
 #: gui\addonGui.py:83 gui\message.py:330 gui\startupDialogs.py:306
-#: screenCurtain\_screenCurtain.py:104
+#: screenCurtain\_screenCurtain.py:118
 msgid "&No"
 msgstr "&No"
 
@@ -12879,7 +12874,7 @@ msgstr "&Filtra per:"
 #. Translators: The label of a button to add a gesture in the Input Gestures dialog.
 #. Translators: The label for a button in the Symbol Pronunciation dialog to add a new symbol.
 #. Translators: The label for a button in speech dictionaries dialog to add new entries.
-#: gui\inputGestures.py:615 gui\settingsDialogs.py:6308 gui\speechDict.py:215
+#: gui\inputGestures.py:615 gui\settingsDialogs.py:6316 gui\speechDict.py:215
 msgid "&Add"
 msgstr "&Aggiungi"
 
@@ -15152,96 +15147,96 @@ msgid "Allow NV Access to gather NVDA usage statistics"
 msgstr "Consenti a NV Access di raccogliere statistiche sull'utilizzo di NVDA"
 
 #. Translators: This is the label for the NVDA settings dialog.
-#: gui\settingsDialogs.py:6096
+#: gui\settingsDialogs.py:6104
 msgid "NVDA Settings"
 msgstr "Impostazioni NVDA"
 
 #. Translators: The profile name for normal configuration
-#: gui\settingsDialogs.py:6148
+#: gui\settingsDialogs.py:6156
 msgid "normal configuration"
 msgstr "Configurazione normale"
 
 #. Translators: This is the label for the add symbol dialog.
-#: gui\settingsDialogs.py:6183
+#: gui\settingsDialogs.py:6191
 msgid "Add Symbol"
 msgstr "Aggiungi Simbolo"
 
 #. Translators: This is the label for the edit field in the add symbol dialog.
-#: gui\settingsDialogs.py:6188
+#: gui\settingsDialogs.py:6196
 msgid "&Symbol:"
 msgstr "&Simbolo:"
 
 #. Translators: This is the label for the symbol pronunciation dialog.
 #. %s is replaced by the language for which symbol pronunciation is being edited.
-#: gui\settingsDialogs.py:6218
+#: gui\settingsDialogs.py:6226
 #, python-format
 msgid "Symbol Pronunciation (%s)"
 msgstr "Pronuncia simbolo %s"
 
 #. Translators: The label of a text field to search for symbols in the speech symbols dialog.
-#: gui\settingsDialogs.py:6232
+#: gui\settingsDialogs.py:6240
 msgctxt "speechSymbols"
 msgid "&Filter by:"
 msgstr "&Filtra per:"
 
 #. Translators: The label for symbols list in symbol pronunciation dialog.
-#: gui\settingsDialogs.py:6241
+#: gui\settingsDialogs.py:6249
 msgid "&Symbols"
 msgstr "&Simboli"
 
 #. Translators: The label for a column in symbols list used to identify a symbol.
-#: gui\settingsDialogs.py:6251
+#: gui\settingsDialogs.py:6259
 msgid "Symbol"
 msgstr "Simbolo"
 
 #. Translators: The label for a column in symbols list used to identify a replacement.
 #. Translators: The label for a column in dictionary entries list and in a list of symbols
 #. from symbol pronunciation dialog used to identify replacement for a pattern or a symbol
-#: gui\settingsDialogs.py:6253 gui\speechDict.py:191
+#: gui\settingsDialogs.py:6261 gui\speechDict.py:191
 msgid "Replacement"
 msgstr "Voce in sostituzione"
 
 #. Translators: The label for a column in symbols list used to identify a symbol's speech level (either none, some, most, all or character).
-#: gui\settingsDialogs.py:6255
+#: gui\settingsDialogs.py:6263
 msgid "Level"
 msgstr "Livello"
 
 #. Translators: The label for a column in symbols list which specifies when the actual symbol will be sent to the synthesizer (preserved).
 #. See the "Punctuation/Symbol Pronunciation" section of the User Guide for details.
-#: gui\settingsDialogs.py:6258
+#: gui\settingsDialogs.py:6266
 msgid "Preserve"
 msgstr "conserva"
 
 #. Translators: The label for the group of controls in symbol pronunciation dialog to change the pronunciation of a symbol.
-#: gui\settingsDialogs.py:6262
+#: gui\settingsDialogs.py:6270
 msgid "Change selected symbol"
 msgstr "Cambia simbolo selezionato"
 
 #. Translators: The label for the edit field in symbol pronunciation dialog to change the replacement text of a symbol.
 #. Translators: This is a label for an edit field in add dictionary entry dialog
 #. and in punctuation/symbol pronunciation dialog.
-#: gui\settingsDialogs.py:6280 gui\speechDict.py:55
+#: gui\settingsDialogs.py:6288 gui\speechDict.py:55
 msgid "&Replacement"
 msgstr "Voce in &sostituzione"
 
 #. Translators: The label for the combo box in symbol pronunciation dialog to change the speech level of a symbol.
-#: gui\settingsDialogs.py:6289
+#: gui\settingsDialogs.py:6297
 msgid "&Level"
 msgstr "&Livello"
 
 #. Translators: The label for the combo box in symbol pronunciation dialog to change when a symbol is sent to the synthesizer.
-#: gui\settingsDialogs.py:6296
+#: gui\settingsDialogs.py:6304
 msgid "&Send actual symbol to synthesizer"
 msgstr "Invia il &simbolo corrente al sintetizzatore"
 
 #. Translators: The label for a button in the Symbol Pronunciation dialog to remove a symbol.
-#: gui\settingsDialogs.py:6311
+#: gui\settingsDialogs.py:6319
 msgid "Re&move"
 msgstr "Ri&muovi"
 
 #. Translators: An error reported in the Symbol Pronunciation dialog
 #. when adding a symbol that is already present.
-#: gui\settingsDialogs.py:6418
+#: gui\settingsDialogs.py:6426
 #, python-format
 msgid "Symbol \"%s\" is already present."
 msgstr "Simbolo \"%s\" già presente."
@@ -18901,20 +18896,32 @@ msgstr "{val:g} pt spazio prima del paragrafo"
 
 #. Translators: Description for a Screen Curtain setting that shows a warning when enabling
 #. the screen curtain.
-#: screenCurtain\_screenCurtain.py:28
+#: screenCurtain\_screenCurtain.py:30
 msgctxt "screenCurtain"
 msgid "Always &show a warning when enabling Screen Curtain"
 msgstr "Mo&stra sempre un avviso quando si attiva la tenda schermo"
 
 #. Translators: Warning message when trying to enable the screen curtain when OCR is active.
-#: screenCurtain\_screenCurtain.py:33
+#: screenCurtain\_screenCurtain.py:35
 msgctxt "screenCurtain"
 msgid "Cannot enable screen curtain while performing content recognition"
 msgstr "Non è possibile attivare la tenda schermo durante il riconoscimento dei contenuti"
 
+#. Translators: Reported when the screen curtain could not be enabled.
+#: screenCurtain\_screenCurtain.py:39
+msgid "Could not enable screen curtain"
+msgstr "Impossibile abilitare la tenda schermo"
+
+#. Translators: Explanation shown when screen curtain is enabled in the user's configuration,
+#. but it failed to activate at NVDA startup
+#: screenCurtain\_screenCurtain.py:45
+msgctxt "screenCurtain"
+msgid "There was a problem enabling Screen Curtain. The contents of your screen are still visible. You may attempt to enable Screen Curtain manually."
+msgstr ""
+
 #. Translators: A warning shown when activating the screen curtain.
 #. the translation of "Screen Curtain" should match the "translated name"
-#: screenCurtain\_screenCurtain.py:60
+#: screenCurtain\_screenCurtain.py:74
 msgid "Enabling Screen Curtain will make the screen of your computer completely black. Ensure you will be able to navigate without any use of your screen before continuing. \n\n"
 "Do you wish to continue?"
 msgstr "Con l'attivazione della tenda schermo Lo schermo del tuo computer diventerà completamente nero. Devi essere in grado di navigare e usare il pc senza l'aiuto del monitor!  \n\n"
