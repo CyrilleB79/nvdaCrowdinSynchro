@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-14 05:30+0000\n"
-"PO-Revision-Date: 2026-01-14 20:13\n"
+"PO-Revision-Date: 2026-01-14 22:15\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2835,7 +2835,7 @@ msgstr "annonce du style activée"
 #. Translators: Input help mode message for toggle report spelling errors command.
 #: globalCommands.py:791
 msgid "Cycles through options for how to report spelling or grammar errors"
-msgstr ""
+msgstr "Faire défiler les choix possibles pour signaler les erreurs d'orthographe ou de grammaire."
 
 #. Translators: Reported when the user cycles through the choices to report spelling or grammar errors.
 #. {mode} will be replaced with the mode; e.g. Off, Speech, Sound, Speech and sound.
@@ -13895,13 +13895,13 @@ msgstr "Parole"
 #: gui\settingsDialogs.py:2756
 msgctxt "math"
 msgid "Impairment:"
-msgstr ""
+msgstr "Handicap :"
 
 #. Translators: MathCAT language option
 #: gui\settingsDialogs.py:2768
 msgctxt "math"
 msgid "Language:"
-msgstr ""
+msgstr "Langue :"
 
 #. Translators: MathCAT decimal separator option.
 #: gui\settingsDialogs.py:2780
@@ -13913,13 +13913,13 @@ msgstr "Séparateur décimal pour les nombres :"
 #: gui\settingsDialogs.py:2795
 msgctxt "math"
 msgid "Speech style:"
-msgstr ""
+msgstr "Style de parole :"
 
 #. Translators: MathCAT's verbosity setting
 #: gui\settingsDialogs.py:2811
 msgctxt "math"
 msgid "Speech verbosity:"
-msgstr ""
+msgstr "Verbosité de la parole :"
 
 #. Translators: MathCAT's relative speed setting
 #: gui\settingsDialogs.py:2823
@@ -13937,19 +13937,19 @@ msgstr "Facteur de pause"
 #: gui\settingsDialogs.py:2845
 msgctxt "math"
 msgid "Beep at the beginning and end of math"
-msgstr ""
+msgstr "Bip au début et à la fin de l'annonce du contenu mathématique"
 
 #. Translators: label for combobox to specify how verbose/terse the speech should be
 #: gui\settingsDialogs.py:2851
 msgctxt "math"
 msgid "Chemical formulae:"
-msgstr ""
+msgstr "Formules chimiques :"
 
 #. Translators: label for combobox to specify whether the expression is spoken or described (an overview)
 #: gui\settingsDialogs.py:2863
 msgctxt "math"
 msgid "When entering an equation:"
-msgstr ""
+msgstr "À l'entrée dans une équation :"
 
 #. Translators: "Speak" the expression after moving to it
 #: gui\settingsDialogs.py:2866
@@ -13961,7 +13961,7 @@ msgstr "Parole"
 #: gui\settingsDialogs.py:2868
 msgctxt "math"
 msgid "Describe overview"
-msgstr ""
+msgstr "Décrire un aperçu"
 
 #. Translators: Text for the navigation group.
 #: gui\settingsDialogs.py:2882
@@ -13973,7 +13973,7 @@ msgstr "Navigation"
 #: gui\settingsDialogs.py:2889
 msgctxt "math"
 msgid "Default navigation mode:"
-msgstr ""
+msgstr "Mode de navigation par défaut :"
 
 #. Translators: label for check box that determines whether MathCAT
 #. reverts to the user-selected "default navigation mode" when
@@ -13982,26 +13982,26 @@ msgstr ""
 #: gui\settingsDialogs.py:2904
 msgctxt "math"
 msgid "Reset to the default navigation mode for each new equation"
-msgstr ""
+msgstr "Réinitialisation au mode de navigation par défaut pour chaque nouvelle équation"
 
 #. Translators: label for checkbox that controls whether arrow keys move out of fractions, etc.,
 #. or whether you have to manually back out of the fraction, etc.
 #: gui\settingsDialogs.py:2911
 msgctxt "math"
 msgid "Automatically zoom out of two-dimensional notation"
-msgstr ""
+msgstr "Zoom arrière automatique sur les notations 2D"
 
 #. Translators: label for combobox down to specify whether you want a terse or verbose reading of navigation commands
 #: gui\settingsDialogs.py:2917
 msgctxt "math"
 msgid "Navigation verbosity:"
-msgstr ""
+msgstr "Verbosité lors de la navigation :"
 
 #. Translators: label for combobox to specify how math will be copied to the clipboard
 #: gui\settingsDialogs.py:2935
 msgctxt "math"
 msgid "Copy math as:"
-msgstr ""
+msgstr "Copiez le contenu mathématique comme :"
 
 #. Translators: Text for the braille group.
 #: gui\settingsDialogs.py:2947
@@ -14013,7 +14013,7 @@ msgstr "Braille"
 #: gui\settingsDialogs.py:2953
 msgctxt "math"
 msgid "Output code:"
-msgstr ""
+msgstr "Code d'affichage :"
 
 #. Translators: An option in Math settings to select a braille code automatically,
 #. according to NVDA's language.
@@ -14027,7 +14027,7 @@ msgstr "Automatique ({name})"
 #: gui\settingsDialogs.py:2977
 msgctxt "math"
 msgid "Highlight navigation focus with dots 7 and 8"
-msgstr ""
+msgstr "Mettre en évidence le focus de navigation avec les points 7 et 8"
 
 #. Translators: This is the label for the document formatting panel.
 #. Translators: This is the label for a group of advanced options in the
@@ -14784,7 +14784,7 @@ msgstr "Supprimer le silence au début du flux audio de la parole"
 #. Advanced settings panel.
 #: gui\settingsDialogs.py:4465
 msgid "Use WASAPI for SAPI 4 audio output:"
-msgstr ""
+msgstr "Utilisez WASAPI pour la sortie audio SAPI 4 :"
 
 #. Translators: This is the label for a group of advanced options in the
 #. Advanced settings panel
