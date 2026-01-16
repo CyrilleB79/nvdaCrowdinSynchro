@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-14 05:30+0000\n"
-"PO-Revision-Date: 2026-01-15 23:14\n"
+"POT-Creation-Date: 2026-01-16 02:48+0000\n"
+"PO-Revision-Date: 2026-01-16 03:23\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -16285,8 +16285,8 @@ msgstr "Erreur lors de l'affichage en braille du contenu mathématique."
 #. "Auto" == "Automatic" -- other items in menu are "English (en)", etc., so this matches that style
 #: mathPres\MathCAT\localization.py:280
 msgctxt "math"
-msgid "Use Voice's Language (Auto)"
-msgstr "Utiliser la langue de la voix (Auto)"
+msgid "Automatic (Use Voice's Language)"
+msgstr ""
 
 #. Translators: Learning disabilities includes dyslexia and ADHD
 #. category of impairment that MathCAT supports: people with learning disabilities
@@ -16310,8 +16310,8 @@ msgstr "Basse vision"
 #. Translators: options for decimal separator -- "Auto" = automatically pick the choice based on the language
 #: mathPres\MathCAT\preferences.py:48
 msgctxt "math"
-msgid "Auto"
-msgstr "Automatique"
+msgid "Automatic"
+msgstr ""
 
 #. Translators: options for decimal separator -- "Custom" = user sets it
 #. Currently there is no UI for how it is done yet, but eventually there will be a dialog that pops up to set it
