@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-19 00:23+0000\n"
-"PO-Revision-Date: 2026-01-19 01:12\n"
+"POT-Creation-Date: 2026-01-19 03:27+0000\n"
+"PO-Revision-Date: 2026-01-19 03:43\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5345,14 +5345,14 @@ msgid "keyboard, all layouts"
 msgstr "clavier, toutes les dispositions"
 
 #. Translators: the label for the Windows default NVDA interface language.
-#: languageHandler.py:151
+#: languageHandler.py:157
 msgid "User default"
 msgstr "Utilisateur par défaut"
 
 #. Translators: The pattern defining how languages are displayed and sorted in in the general
 #. setting panel language list. Use "{desc}, {lc}" (most languages) to display first full language
 #. name and then ISO; use "{lc}, {desc}" to display first ISO language code and then full language name.
-#: languageHandler.py:282
+#: languageHandler.py:288
 #, python-brace-format
 msgid "{desc}, {lc}"
 msgstr "{desc}, {lc}"
