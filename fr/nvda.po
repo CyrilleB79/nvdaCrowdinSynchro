@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-19 03:27+0000\n"
-"PO-Revision-Date: 2026-01-21 03:26\n"
+"POT-Creation-Date: 2026-01-21 05:57+0000\n"
+"PO-Revision-Date: 2026-01-21 06:24\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -4789,9 +4789,9 @@ msgstr "Se déconnecte de la session d’accès à distance actuelle"
 #. Translators: Message shown when trying to copy the link to connect to the remote computer while not connected.
 #. Translators: Message shown when attempting to send control+alt+delete when no session is connected.
 #. Translators: A message indicating that the remote client is not connected.
-#: globalCommands.py:5039 _remoteClient\client.py:135
-#: _remoteClient\client.py:162 _remoteClient\client.py:184
-#: _remoteClient\client.py:200 _remoteClient\client.py:566
+#: globalCommands.py:5039 _remoteClient\client.py:136
+#: _remoteClient\client.py:163 _remoteClient\client.py:185
+#: _remoteClient\client.py:201 _remoteClient\client.py:596
 msgctxt "remote"
 msgid "Not connected"
 msgstr "Non connecté"
@@ -19622,118 +19622,130 @@ msgstr "Bureau Sécurisé"
 #. Translators: Presented when attempting to mute or unmute Remote Access when connected as the controlled computer.
 #. Translators: Presented when attempting to send control+alt+delete when connected as the controlled computer.
 #. Translators: Presented when attempting to switch to controling a remote computer when connected as the controlled computer.
-#: _remoteClient\client.py:139 _remoteClient\client.py:203
-#: _remoteClient\client.py:570
+#: _remoteClient\client.py:140 _remoteClient\client.py:204
+#: _remoteClient\client.py:600
 msgctxt "remote"
 msgid "Not the controlling computer"
 msgstr "Action impossible depuis l'ordinateur connecté"
 
 #. Translators: Displayed when muting speech and sounds from the remote computer
-#: _remoteClient\client.py:143
+#: _remoteClient\client.py:144
 msgid "Muted remote"
 msgstr "Parole distante coupée"
 
 #. Translators: Displayed when unmuting speech and sounds from the remote computer
-#: _remoteClient\client.py:145
+#: _remoteClient\client.py:146
 msgid "Unmuted remote"
 msgstr "Parole distante rétablie"
 
 #. Translators: Reported when performing a Remote Access action, but there are no other computers in the channel.
-#: _remoteClient\client.py:166
+#: _remoteClient\client.py:167
 msgctxt "remote"
 msgid "No one else is connected"
 msgstr "Personne n'est connecté"
 
 #. Translators: Message shown when clipboard content cannot be sent to the remote computer.
-#: _remoteClient\client.py:174
+#: _remoteClient\client.py:175
 msgctxt "remote"
 msgid "Unable to send clipboard"
 msgstr "Impossible d’envoyer le presse-papiers"
 
 #. Translators: A message indicating that a link has been copied to the clipboard.
-#: _remoteClient\client.py:189
+#: _remoteClient\client.py:190
 msgid "Copied link"
 msgstr "Lien copié"
 
 #. Translators: Title of the Remote Access disconnection confirmation dialog.
-#: _remoteClient\client.py:240
+#: _remoteClient\client.py:245
 msgctxt "remote"
 msgid "Confirm Disconnection"
 msgstr "Confirmer la déconnexion"
 
 #. Translators: Message shown when disconnecting from the remote computer.
-#: _remoteClient\client.py:244
+#: _remoteClient\client.py:249
 msgctxt "remote"
 msgid "Are you sure you want to disconnect from the Remote Access session?"
 msgstr "Êtes-vous sûr de vouloir vous déconnecter de la session d'accès à distance ?"
 
 #. Translators: Title of the connection error dialog.
-#: _remoteClient\client.py:304
+#: _remoteClient\client.py:318
 msgid "Error Connecting"
 msgstr "Erreur de connexion"
 
 #. Translators: Message shown when unable to connect to the remote computer.
-#: _remoteClient\client.py:306
+#: _remoteClient\client.py:320
 msgid "Unable to connect to the remote computer"
 msgstr "Impossible de se connecter à l'ordinateur distant"
 
+#. Translators: Title of the connection error dialog.
+#: _remoteClient\client.py:333
+msgctxt "remote"
+msgid "Error Connecting"
+msgstr ""
+
+#. Translators: Message shown when unable to connect to the remote computer.
+#: _remoteClient\client.py:335
+msgctxt "remote"
+msgid "Unable to connect to the remote computer"
+msgstr ""
+
 #. Translators: Message shown when trying to connect while already connected.
-#: _remoteClient\client.py:329 _remoteClient\client.py:675
+#: _remoteClient\client.py:358 _remoteClient\client.py:705
 msgctxt "remote"
 msgid "A Remote Access session is already in progress. Disconnect before starting a new session."
 msgstr "Une session d’accès à distance est déjà en cours. Déconnectez-vous avant de démarrer une nouvelle session."
 
 #. Translators: Title of the connection error dialog.
-#: _remoteClient\client.py:332 _remoteClient\client.py:678
+#: _remoteClient\client.py:361 _remoteClient\client.py:708
 msgctxt "remote"
 msgid "Already Connected"
 msgstr "Déjà connecté"
 
 #. Translators: Title of the Remote Access connection dialog.
-#: _remoteClient\client.py:343
+#: _remoteClient\client.py:372
 msgctxt "remote"
 msgid "Connect to Another Computer"
 msgstr "Se connecter à un autre ordinateur"
 
 #. Translators: Presented when connected to the remote computer.
-#: _remoteClient\client.py:390
+#: _remoteClient\client.py:419
 msgid "Connected"
 msgstr "Connecté"
 
 #. Translators: Presented when attempting to switch to controling a remote computer when there are no controllable computers in the channel.
-#: _remoteClient\client.py:574
+#: _remoteClient\client.py:604
 msgctxt "remote"
 msgid "No controlled computers are connected"
 msgstr "Aucun ordinateur contrôlé n'est connecté"
 
 #. Translators: Presented when keyboard control is back to the controlling computer.
-#: _remoteClient\client.py:588
+#: _remoteClient\client.py:618
 msgctxt "remote"
 msgid "Controlling local computer"
 msgstr "Contrôle de l'ordinateur local"
 
 #. Translators: Presented when sending keyboard keys from the controlling computer to the controlled computer.
-#: _remoteClient\client.py:603
+#: _remoteClient\client.py:633
 msgctxt "remote"
 msgid "Controlling remote computer"
 msgstr "Contrôle de l'ordinateur distant"
 
 #. Translators: Ask the user if they want to control the remote computer.
-#: _remoteClient\client.py:693
+#: _remoteClient\client.py:723
 #, python-brace-format
 msgctxt "remote"
 msgid "Do you wish to control the computer on server {server} with key {key}?"
 msgstr "Souhaitez-vous contrôler l’ordinateur sur le serveur {server} avec la clé {key}?"
 
 #. Translators: Ask the user if they want to allow the remote computer to control this computer.
-#: _remoteClient\client.py:699
+#: _remoteClient\client.py:729
 #, python-brace-format
 msgctxt "remote"
 msgid "Do you wish to allow this computer to be controlled on server {server} with key {key}?"
 msgstr "Souhaitez-vous autoriser le contrôle de cet ordinateur sur le serveur {server} avec la clé {key}?"
 
 #. Translators: Title of the connection request dialog.
-#: _remoteClient\client.py:705
+#: _remoteClient\client.py:735
 msgctxt "remote"
 msgid "Remote Access Connection Request"
 msgstr "Demande de connexion pour un accès à distance"
