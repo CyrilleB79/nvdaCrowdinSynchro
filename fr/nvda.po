@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-22 07:29+0000\n"
-"PO-Revision-Date: 2026-01-22 11:17\n"
+"PO-Revision-Date: 2026-01-22 13:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -15938,7 +15938,7 @@ msgstr "Erreur lors de l'affichage en braille du contenu mathématique."
 #: mathPres\MathCAT\localization.py:280
 msgctxt "math"
 msgid "Automatic (Use Voice's Language)"
-msgstr ""
+msgstr "Automatique (utiliser la langue de la voix)"
 
 #. Translators: Learning disabilities includes dyslexia and ADHD
 #. category of impairment that MathCAT supports: people with learning disabilities
@@ -15963,7 +15963,7 @@ msgstr "Basse vision"
 #: mathPres\MathCAT\preferences.py:48
 msgctxt "math"
 msgid "Automatic"
-msgstr ""
+msgstr "Automatique"
 
 #. Translators: options for decimal separator -- "Custom" = user sets it
 #. Currently there is no UI for how it is done yet, but eventually there will be a dialog that pops up to set it
@@ -19333,13 +19333,13 @@ msgstr "Impossible de se connecter à l'ordinateur distant"
 #: _remoteClient\client.py:333
 msgctxt "remote"
 msgid "Error Connecting"
-msgstr ""
+msgstr "Erreur de connexion"
 
 #. Translators: Message shown when unable to connect to the remote computer.
 #: _remoteClient\client.py:335
 msgctxt "remote"
 msgid "Unable to connect to the remote computer"
-msgstr ""
+msgstr "Impossible de se connecter à l'ordinateur distant"
 
 #. Translators: Message shown when trying to connect while already connected.
 #: _remoteClient\client.py:358 _remoteClient\client.py:705
