@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-22 00:28+0000\n"
-"PO-Revision-Date: 2026-01-22 06:23\n"
+"POT-Creation-Date: 2026-01-22 07:29+0000\n"
+"PO-Revision-Date: 2026-01-22 08:21\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -5360,380 +5360,32 @@ msgstr "{desc}, {lc}"
 #. Translators: The name of a language supported by NVDA.
 #: localesData.py:16
 msgctxt "languageName"
-msgid "Afar"
-msgstr "Afar"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:18
-msgctxt "languageName"
-msgid "Abkhazian"
-msgstr "Abcaso"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:20
-msgctxt "languageName"
-msgid "Akan"
-msgstr "Akan"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:22
-msgctxt "languageName"
 msgid "Aragonese"
 msgstr "Aragonese"
 
 #. Translators: The name of a language supported by NVDA.
-#: localesData.py:24
-msgctxt "languageName"
-msgid "Avaric"
-msgstr "Avaro"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:26
-msgctxt "languageName"
-msgid "Aymara"
-msgstr "Aymara"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:28
-msgctxt "languageName"
-msgid "Bihari"
-msgstr "Bihari"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:30
-msgctxt "languageName"
-msgid "Bislama"
-msgstr "Bislama"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:32
-msgctxt "languageName"
-msgid "Bambara"
-msgstr "Bambara"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:34
-msgctxt "languageName"
-msgid "Chechen"
-msgstr "Cecena"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:36
-msgctxt "languageName"
-msgid "Chamorro"
-msgstr "Chamorro"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:38
+#: localesData.py:18
 msgctxt "languageName"
 msgid "Central Kurdish"
 msgstr "Kurdo centrale"
 
 #. Translators: The name of a language supported by NVDA.
-#: localesData.py:40
-msgctxt "languageName"
-msgid "Cree"
-msgstr "Cree"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:42
-msgctxt "languageName"
-msgid "Church Slavic"
-msgstr "Slavo ecclesiastico"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:44
-msgctxt "languageName"
-msgid "Chuvash"
-msgstr "Chuvash"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:46
-msgctxt "languageName"
-msgid "Ewe"
-msgstr "Ewe"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:48
-msgctxt "languageName"
-msgid "Esperanto"
-msgstr "Esperanto"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:50
-msgctxt "languageName"
-msgid "Fijian"
-msgstr "Figiano"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:52
-msgctxt "languageName"
-msgid "Manx"
-msgstr "Manx"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:54
-msgctxt "languageName"
-msgid "Hiri Motu"
-msgstr "Hiri Motu"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:56
-msgctxt "languageName"
-msgid "Haitian"
-msgstr "Haitiano"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:58
-msgctxt "languageName"
-msgid "Herero"
-msgstr "Herero"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:60
-msgctxt "languageName"
-msgid "Interlingua"
-msgstr "Interlingua"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:62
-msgctxt "languageName"
-msgid "Inupiaq"
-msgstr "Inupiaq"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:64
-msgctxt "languageName"
-msgid "Ido"
-msgstr "Ido"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:66
-msgctxt "languageName"
-msgid "Javanese"
-msgstr "Giavanese"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:68
-msgctxt "languageName"
-msgid "Kongo"
-msgstr "Kongo"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:70
-msgctxt "languageName"
-msgid "Kikuyu"
-msgstr "Kikuyu"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:72
-msgctxt "languageName"
-msgid "Kuanyama"
-msgstr "Kuanyama"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:74
+#: localesData.py:20
 msgctxt "languageName"
 msgid "Northern Kurdish"
 msgstr "Kurdo nord"
 
 #. Translators: The name of a language supported by NVDA.
-#: localesData.py:76
-msgctxt "languageName"
-msgid "Kashmiri"
-msgstr "Kashmir"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:78
-msgctxt "languageName"
-msgid "Komi"
-msgstr "Komi"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:80
-msgctxt "languageName"
-msgid "Cornish"
-msgstr "Cornish"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:82
-msgctxt "languageName"
-msgid "Ganda"
-msgstr "Ganda"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:84
-msgctxt "languageName"
-msgid "Limburgan"
-msgstr "Limburgo"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:86
-msgctxt "languageName"
-msgid "Lingala"
-msgstr "Lingala"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:88
-msgctxt "languageName"
-msgid "Malagasy"
-msgstr "Malgascio"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:90
-msgctxt "languageName"
-msgid "Marshallese"
-msgstr "Marshallese"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:92
-msgctxt "languageName"
-msgid "Moldovan"
-msgstr "Moldavo"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:94
+#: localesData.py:22
 msgctxt "languageName"
 msgid "Burmese"
 msgstr "Burmese"
 
 #. Translators: The name of a language supported by NVDA.
-#: localesData.py:96
-msgctxt "languageName"
-msgid "Nauru"
-msgstr "Nauru"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:98
-msgctxt "languageName"
-msgid "Ndonga"
-msgstr "Ndonga"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:100
-msgctxt "languageName"
-msgid "South Ndebele"
-msgstr "Ndebele Meridionale"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:102
-msgctxt "languageName"
-msgid "Navajo"
-msgstr "Navajo"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:104
-msgctxt "languageName"
-msgid "Nyanja"
-msgstr "Nyanja"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:106
-msgctxt "languageName"
-msgid "Ojibwa"
-msgstr "Ojibwa"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:108
-msgctxt "languageName"
-msgid "Ossetian"
-msgstr "Osseziano"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:110
-msgctxt "languageName"
-msgid "Pali"
-msgstr "Pali"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:112
-msgctxt "languageName"
-msgid "Sardinian"
-msgstr "Sardo"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:114
-msgctxt "languageName"
-msgid "Sango"
-msgstr "Sango"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:116
-msgctxt "languageName"
-msgid "Serbo-Croatian"
-msgstr "Serbocroato"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:118
-msgctxt "languageName"
-msgid "Samoan"
-msgstr "Samoano"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:120
-msgctxt "languageName"
-msgid "Shona"
-msgstr "Shona"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:122
+#: localesData.py:24
 msgctxt "languageName"
 msgid "Somali"
 msgstr "Somalo"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:124
-msgctxt "languageName"
-msgid "Swati"
-msgstr "Swati"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:126
-msgctxt "languageName"
-msgid "Sundanese"
-msgstr "Sundanese"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:128
-msgctxt "languageName"
-msgid "Tagalog"
-msgstr "Tagalog"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:130
-msgctxt "languageName"
-msgid "Tonga (Tonga Islands)"
-msgstr "Tonga (Isole Tonga)"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:132
-msgctxt "languageName"
-msgid "Twi"
-msgstr "Twi"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:134
-msgctxt "languageName"
-msgid "Tahitian"
-msgstr "Tahitiano"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:136
-msgctxt "languageName"
-msgid "Volapük"
-msgstr "Volapük"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:138
-msgctxt "languageName"
-msgid "Walloon"
-msgstr "Vallone"
-
-#. Translators: The name of a language supported by NVDA.
-#: localesData.py:140
-msgctxt "languageName"
-msgid "Zhuang"
-msgstr "Zhuang"
 
 #. Translators: Reported when mouse cursor shape changes (example output: edit cursor).
 #: mouseHandler.py:274
