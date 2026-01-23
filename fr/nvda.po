@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-23 06:44+0000\n"
-"PO-Revision-Date: 2026-01-23 12:24\n"
+"PO-Revision-Date: 2026-01-23 13:37\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2835,7 +2835,7 @@ msgstr "annonce du style activée"
 #. Translators: Input help mode message for toggle report spelling errors command.
 #: globalCommands.py:791
 msgid "Cycles through options for how to report spelling or grammar errors"
-msgstr "Faire défiler les choix possibles pour signaler les erreurs d'orthographe ou de grammaire."
+msgstr "Faire défiler les choix possibles pour signaler les erreurs d'orthographe ou de grammaire"
 
 #. Translators: Reported when the user cycles through the choices to report spelling or grammar errors.
 #. {mode} will be replaced with the mode; e.g. Off, Speech, Sound, Speech and sound.
@@ -13766,7 +13766,7 @@ msgstr "Modifications de l'&éditeur"
 #. document formatting settings panel.
 #: gui\settingsDialogs.py:3169
 msgid "Spelling or grammar e&rrors"
-msgstr "Fautes d'orthographe ou de grammaire"
+msgstr "&Fautes d'orthographe ou de grammaire"
 
 #. Translators: This is the label for a group of document formatting options in the
 #. document formatting settings panel
