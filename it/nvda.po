@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-26 21:56+0000\n"
-"PO-Revision-Date: 2026-01-27 03:41\n"
+"POT-Creation-Date: 2026-01-27 05:58+0000\n"
+"PO-Revision-Date: 2026-01-27 06:24\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -15589,7 +15589,7 @@ msgstr ""
 #: gui\addonStoreGui\controls\messageDialogs.py:791
 #, python-brace-format
 msgctxt "addonStore"
-msgid "You have selected to copy 1 add-on to NVDA's system-wide configuration. Using this add-on during sign-in and on secure screens is a serious security risk."
+msgid "You have selected to copy {num} add-on to NVDA's system-wide configuration. Using this add-on during sign-in and on secure screens is a serious security risk."
 msgid_plural "You have selected to copy {num} add-ons to NVDA's system-wide configuration. Using these add-ons during sign-in and on secure screens is a serious security risk."
 msgstr[0] ""
 msgstr[1] ""
@@ -19062,6 +19062,16 @@ msgstr "Nessuno"
 #: synthDrivers\oneCore.py:182
 msgid "Windows OneCore voices"
 msgstr "Voci Windows OneCore"
+
+#. Translators: Description for a speech synthesizer.
+#: synthDrivers\sapi4_32.py:18
+msgid "Microsoft Speech API version 4"
+msgstr ""
+
+#. Translators: Description for a speech synthesizer.
+#: synthDrivers\sapi5_32.py:15
+msgid "Microsoft Speech API version 5 (32 bit)"
+msgstr ""
 
 #. Translators: Description for a speech synthesizer.
 #: synthDrivers\silence.py:16
