@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-05 04:41+0000\n"
-"PO-Revision-Date: 2026-02-06 04:07\n"
+"POT-Creation-Date: 2026-02-06 06:22+0000\n"
+"PO-Revision-Date: 2026-02-06 06:42\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -19066,6 +19066,11 @@ msgstr "Voci Windows OneCore"
 #. Translators: Description for a speech synthesizer.
 #: synthDrivers\sapi4_32.py:18
 msgid "Microsoft Speech API version 4"
+msgstr ""
+
+#. Translators: Description for a speech synthesizer.
+#: synthDrivers\sapi5.py:558 _synthDrivers32\_sapi5.py:558
+msgid "Microsoft Speech API version 5 (64 bit)"
 msgstr ""
 
 #. Translators: Description for a speech synthesizer.
