@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-10 03:14+0000\n"
-"PO-Revision-Date: 2026-02-13 04:12\n"
+"POT-Creation-Date: 2026-02-13 05:10+0000\n"
+"PO-Revision-Date: 2026-02-13 05:53\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -6695,97 +6695,97 @@ msgid "&Show Speech Viewer on Startup"
 msgstr "&Montrer la Visionneuse de Parole au démarrage"
 
 #. Translators: Label for a setting in voice settings dialog.
-#: synthDriverHandler.py:127
+#: synthDriverHandler.py:122
 msgid "&Language"
 msgstr "&Langue"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:130
+#: synthDriverHandler.py:125
 msgctxt "synth setting"
 msgid "Language"
 msgstr "Langue"
 
 #. Translators: Label for a setting in voice settings dialog.
-#: synthDriverHandler.py:139
+#: synthDriverHandler.py:134
 msgid "&Voice"
 msgstr "&Voix"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:142
+#: synthDriverHandler.py:137
 msgctxt "synth setting"
 msgid "Voice"
 msgstr "Voix"
 
 #. Translators: Label for a setting in voice settings dialog.
-#: synthDriverHandler.py:151
+#: synthDriverHandler.py:146
 msgid "V&ariant"
 msgstr "V&ariante"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:154
+#: synthDriverHandler.py:149
 msgctxt "synth setting"
 msgid "Variant"
 msgstr "Variante"
 
 #. Translators: Label for a setting in voice settings dialog.
-#: synthDriverHandler.py:163
+#: synthDriverHandler.py:158
 msgid "&Rate"
 msgstr "&Débit"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:167
+#: synthDriverHandler.py:162
 msgctxt "synth setting"
 msgid "Rate"
 msgstr "Débit"
 
 #. Translators: This is the name of the rate boost voice toggle
 #. which further increases the speaking rate when enabled.
-#: synthDriverHandler.py:177
+#: synthDriverHandler.py:172
 msgid "Rate boos&t"
 msgstr "Débi&t accéléré"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:179
+#: synthDriverHandler.py:174
 msgctxt "synth setting"
 msgid "Rate boost"
 msgstr "Débit accéléré"
 
 #. Translators: Label for a setting in voice settings dialog.
-#: synthDriverHandler.py:189
+#: synthDriverHandler.py:184
 msgid "V&olume"
 msgstr "V&olume"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:194
+#: synthDriverHandler.py:189
 msgctxt "synth setting"
 msgid "Volume"
 msgstr "Volume"
 
 #. Translators: Label for a setting in voice settings dialog.
-#: synthDriverHandler.py:203
+#: synthDriverHandler.py:198
 msgid "&Pitch"
 msgstr "&Hauteur"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:207
+#: synthDriverHandler.py:202
 msgctxt "synth setting"
 msgid "Pitch"
 msgstr "Hauteur"
 
 #. Translators: Label for a setting in voice settings dialog.
-#: synthDriverHandler.py:216
+#: synthDriverHandler.py:211
 msgid "&Inflection"
 msgstr "&Inflexion"
 
 #. Translators: Label for a setting in synth settings ring.
-#: synthDriverHandler.py:220
+#: synthDriverHandler.py:215
 msgctxt "synth setting"
 msgid "Inflection"
 msgstr "Inflexion"
 
 #. Translators: Label for a setting in voice settings dialog.
 #. "WASAPI" is an acronym for an audio output framework, and should be translated as-is.
-#: synthDriverHandler.py:230
+#: synthDriverHandler.py:225
 msgid "Use modern audio output system (WASAPI)"
 msgstr "Utilisez le système de sortie audio moderne (WASAPI)"
 
