@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-17 01:37+0000\n"
-"PO-Revision-Date: 2026-02-17 04:11\n"
+"POT-Creation-Date: 2026-02-17 05:38+0000\n"
+"PO-Revision-Date: 2026-02-17 05:52\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -19202,13 +19202,13 @@ msgstr "Dispositivo di output predefinito"
 
 #. Translators: This is the message for a warning shown if NVDA cannot determine if
 #. Windows is locked.
-#: utils\security.py:368
+#: utils\security.py:371
 msgid "NVDA is unable to determine if Windows is locked. While this instance of NVDA is running, your desktop will not be secure when Windows is locked. Restarting Windows may address this. If this error is ongoing then disabling the Windows lock screen is recommended."
 msgstr "NVDA non è in grado di determinare se Windows risulti bloccato. Durante l'esecuzione di questa istanza di NVDA, il desktop non sarà protetto quando Windows è bloccato. Il riavvio di Windows potrebbe risolvere questo problema. Se questo errore persiste, si consiglia di disabilitare la schermata di blocco di Windows."
 
 #. Translators: This is the title for a warning dialog, shown if NVDA cannot determine if
 #. Windows is locked.
-#: utils\security.py:383
+#: utils\security.py:386
 msgid "Lock screen not secure while using NVDA"
 msgstr "Schermata di blocco non protetta durante l'utilizzo di NVDA"
 

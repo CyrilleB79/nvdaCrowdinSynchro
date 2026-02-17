@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-17 01:37+0000\n"
-"PO-Revision-Date: 2026-02-17 04:11\n"
+"POT-Creation-Date: 2026-02-17 05:38+0000\n"
+"PO-Revision-Date: 2026-02-17 05:52\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -19203,13 +19203,13 @@ msgstr "Périphérique de sortie par défaut"
 
 #. Translators: This is the message for a warning shown if NVDA cannot determine if
 #. Windows is locked.
-#: utils\security.py:368
+#: utils\security.py:371
 msgid "NVDA is unable to determine if Windows is locked. While this instance of NVDA is running, your desktop will not be secure when Windows is locked. Restarting Windows may address this. If this error is ongoing then disabling the Windows lock screen is recommended."
 msgstr "NVDA est incapable de déterminer si Windows est verrouillé. Pendant que cette instance de NVDA est en cours d'exécution, votre bureau ne sera pas sécurisé lorsque Windows sera verrouillé. Le redémarrage de Windows peut résoudre ce problème. Si cette erreur persiste, il est recommandé de désactiver l'écran de verrouillage Windows."
 
 #. Translators: This is the title for a warning dialog, shown if NVDA cannot determine if
 #. Windows is locked.
-#: utils\security.py:383
+#: utils\security.py:386
 msgid "Lock screen not secure while using NVDA"
 msgstr "L'écran de verrouillage n'est pas sécurisé lors de l'utilisation de NVDA"
 
