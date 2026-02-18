@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-18 07:05+0000\n"
-"PO-Revision-Date: 2026-02-18 15:34\n"
+"PO-Revision-Date: 2026-02-18 16:54\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -12585,7 +12585,7 @@ msgstr "Veuillez appuyer sur OK pour lancer la copie installée."
 #. and the installer is about to close without starting the installed copy.
 #: gui\installerGui.py:144
 msgid "Please press OK to close the installer."
-msgstr ""
+msgstr "Veuillez appuyer sur OK pour fermer le programme d'installation."
 
 #. Translators: The title of the Install NVDA dialog.
 #: gui\installerGui.py:208
@@ -15543,20 +15543,21 @@ msgstr "Des extensions ont été mises à jour, redémarrez NVDA pour activer le
 #: gui\addonStoreGui\controls\messageDialogs.py:668
 msgctxt "addonStore"
 msgid "Copy Add-ons to System-wide Configuration"
-msgstr ""
+msgstr "Copier les extensions dans la configuration système"
 
 #. Translators: Explanatory text in the dialog which allows users to select which add-ons to copy to NVDA's system config.
 #: gui\addonStoreGui\controls\messageDialogs.py:681
 msgctxt "addonStore"
 msgid "One or more add-ons are currently enabled in your NVDA configuration. If run on secure screens, they will have unrestricted, higher-than-administrator level access to your entire system. You are strongly encouraged to copy only add-ons that you absolutely require in order to use NVDA during sign-in and on secure screens.\n\n"
 "Check only the add-ons you wish to copy to the system-wide configuration."
-msgstr ""
+msgstr "Une ou plusieurs extensions sont actuellement activées dans votre configuration NVDA. Si elles sont exécutés sur des écrans sécurisés, elles auront un accès illimité, de niveau supérieur à celui de l'administrateur, à l'ensemble de votre système. Vous êtes fortement encouragé à ne copier que les extensions dont vous avez absolument besoin pour utiliser NVDA lors de la connexion et sur les écrans sécurisés.\n\n"
+"Cochez uniquement les extensions que vous souhaitez copier dans la configuration système."
 
 #. Translators: The label of the list which allows users to select which add-ons to copy to the system profile
 #: gui\addonStoreGui\controls\messageDialogs.py:693
 msgctxt "addonStore"
 msgid "Add-ons"
-msgstr ""
+msgstr "Extensions"
 
 #. Translators: The label for a column in the copy add-ons dialog that displays the name of the add-on
 #. Translators: The name of the column that contains names of addons.
@@ -15578,19 +15579,19 @@ msgstr "Auteur"
 #: gui\addonStoreGui\controls\messageDialogs.py:703
 msgctxt "addonStore"
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #. Translators: The label for a button in the copy add-ons dialog which will initiate the copy process
 #: gui\addonStoreGui\controls\messageDialogs.py:718
 msgctxt "addonStore"
 msgid "&Continue"
-msgstr ""
+msgstr "&Continuer"
 
 #. Translators: The label for a button in the copy add-ons dialog which will abandon the copy process
 #: gui\addonStoreGui\controls\messageDialogs.py:721
 msgctxt "addonStore"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #. Translators: A message to warn the user when attempting to copy add-ons for use on secure screens
 #: gui\addonStoreGui\controls\messageDialogs.py:791
@@ -15598,21 +15599,21 @@ msgstr ""
 msgctxt "addonStore"
 msgid "You have selected to copy {num} add-on to NVDA's system-wide configuration. Using this add-on during sign-in and on secure screens is a serious security risk."
 msgid_plural "You have selected to copy {num} add-ons to NVDA's system-wide configuration. Using these add-ons during sign-in and on secure screens is a serious security risk."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Vous avez choisi de copier {num} extension dans la configuration système de NVDA. L'utilisation de cette extension lors de la connexion et sur des écrans sécurisés constitue un risque de sécurité sérieux."
+msgstr[1] "Vous avez choisi de copier {num} extensions dans la configuration système de NVDA. L'utilisation de ces extensions lors de la connexion et sur des écrans sécurisés constitue un risque de sécurité sérieux."
 
 #. Translators: A prompt asking the user to confirm whether to perform an action.
 #: gui\addonStoreGui\controls\messageDialogs.py:801
 msgctxt "addonStore"
 msgid "Are you sure you want to continue?"
-msgstr ""
+msgstr "Êtes-vous sûr de vouloir continuer ?"
 
 #. Translators: The title of the warning dialog displayed when trying to
 #. copy add-ons for use on secure screens.
 #: gui\addonStoreGui\controls\messageDialogs.py:805
 msgctxt "addonStore"
 msgid "Warning"
-msgstr ""
+msgstr "Avertissement"
 
 #. Translators: The title of the addonStore dialog where the user can find and download add-ons
 #: gui\addonStoreGui\controls\storeDialog.py:38
@@ -19073,17 +19074,17 @@ msgstr "Voix Windows OneCore"
 #. Translators: Description for a speech synthesizer.
 #: synthDrivers\sapi4_32.py:18
 msgid "Microsoft Speech API version 4"
-msgstr ""
+msgstr "Microsoft Speech API version 4"
 
 #. Translators: Description for a speech synthesizer.
 #: synthDrivers\sapi5.py:558 _synthDrivers32\_sapi5.py:558
 msgid "Microsoft Speech API version 5 (64 bit)"
-msgstr ""
+msgstr "Microsoft Speech API version 5 (64 bits)"
 
 #. Translators: Description for a speech synthesizer.
 #: synthDrivers\sapi5_32.py:15
 msgid "Microsoft Speech API version 5 (32 bit)"
-msgstr ""
+msgstr "Microsoft Speech API version 5 (32 bits)"
 
 #. Translators: Description for a speech synthesizer.
 #: synthDrivers\silence.py:16
