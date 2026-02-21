@@ -7075,18 +7075,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 135</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes for Developers</source>
-        <target>Changes for Developers</target>
+        <target>Changements pour les développeurs</target>
       </segment>
     </unit>
     <unit id="45e63999-8cda-490f-baf2-3095f90a5b5e">
       <notes>
         <note appliesTo="source">line: 137</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</source>
-        <target>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</target>
+        <target>Veuillez vous référer au [guide du développeur](https://download.nvaccess.org/documentation/developerGuide.html#API) pour plus d'informations sur le processus de dépréciation et de suppression de l'API de NVDA.</target>
       </segment>
     </unit>
     <unit id="9ff85b5a-15bc-4aea-b9eb-bb96cc9c80f5">
@@ -7094,18 +7094,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 139</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note: this is an Add-on API compatibility breaking release.</source>
-        <target>Note: this is an Add-on API compatibility breaking release.</target>
+        <target>Note : Cette version rompt la compatibilité avec les extensions existantes.</target>
       </segment>
     </unit>
     <unit id="0ecba401-0581-4fcd-8378-7aa0af51751d">
       <notes>
         <note appliesTo="source">line: 140</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-ons will need to be re-tested and have their manifest updated.</source>
-        <target>Add-ons will need to be re-tested and have their manifest updated.</target>
+        <target>Les extensions devront être testées à nouveau et leur manifeste mis à jour.</target>
       </segment>
     </unit>
     <unit id="4b166566-0d39-4bb5-93ce-fb811061abb3">
@@ -7113,9 +7113,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 141</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-on authors are now able to provide a changelog for an add-on version via the `changelog` manifest key. (#14041, @josephsl)</source>
-        <target>Add-on authors are now able to provide a changelog for an add-on version via the `changelog` manifest key. (#14041, @josephsl)</target>
+        <target>Les auteurs d'extensions peuvent désormais fournir un journal des modifications pour une version d'extension via la clé `changelog` du manifest. (#14041, @josephsl)</target>
       </segment>
     </unit>
     <unit id="f84853f6-a8cb-4bd5-b9a8-a503a6247da5">
@@ -7123,9 +7123,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 142</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The changelog should document changes between previous and latest add-on versions, and can be formatted in markdown.</source>
-        <target>The changelog should document changes between previous and latest add-on versions, and can be formatted in markdown.</target>
+        <target>Le journal des modifications doit documenter les modifications entre la dernière version de l'extension et la précédente et peut être formaté en markdown.</target>
       </segment>
     </unit>
     <unit id="af8754f6-f5bd-4d6f-8ba8-318b11ff8e0f">
@@ -7133,9 +7133,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 143</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated components:</source>
-        <target>Updated components:</target>
+        <target>Composants mis à jour :</target>
       </segment>
     </unit>
     <unit id="25f097ca-f0c0-477a-b74b-d063a76f9509">
