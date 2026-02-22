@@ -7143,9 +7143,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 144</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>LicenseCheck to 2025.1 (#18728, @bramd)</source>
-        <target>LicenseCheck to 2025.1 (#18728, @bramd)</target>
+        <target>LicenseCheck à la version 2025.1 (#18728, @bramd)</target>
       </segment>
     </unit>
     <unit id="36b650a9-2f42-41c7-adae-80e0bb43eba9">
@@ -7153,9 +7153,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 145</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sphinx to 8.1.3 (#18475)</source>
-        <target>Sphinx to 8.1.3 (#18475)</target>
+        <target>Sphinx à la version 8.1.3 (#18475)</target>
       </segment>
     </unit>
     <unit id="6c3a8238-183c-45ea-9f85-cef3c6dce9f8">
@@ -7163,9 +7163,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 146</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Pyright to 1.1.407 (#17749, #19162)</source>
-        <target>Pyright to 1.1.407 (#17749, #19162)</target>
+        <target>Pyright à la version 1.1.407 (#17749, #19162)</target>
       </segment>
     </unit>
     <unit id="0f0db7ed-0e22-4d8d-9c27-05a643ce87f2">
@@ -7173,9 +7173,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 147</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>enabled the Node.js-backed server (`pyright[nodejs]`) for faster and more reliable analysis.</source>
-        <target>enabled the Node.js-backed server (`pyright[nodejs]`) for faster and more reliable analysis.</target>
+        <target>activation du serveur Node.js-backed (`pyright[nodejs]`) pour une analyse plus rapide et plus fiable.</target>
       </segment>
     </unit>
     <unit id="a0e74358-bb0a-4ce8-8de6-0ee21547bfbc">
@@ -7183,9 +7183,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 148</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>wxPython to 4.2.4 (#19080, #19196)</source>
-        <target>wxPython to 4.2.4 (#19080, #19196)</target>
+        <target>wxPython à la version 4.2.4 (#19080, #19196)</target>
       </segment>
     </unit>
     <unit id="dab60bc4-cb7c-46fd-bdc8-15711b271123">
@@ -7193,9 +7193,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 149</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>uv to 0.9.11 (#19162)</source>
-        <target>uv to 0.9.11 (#19162)</target>
+        <target>uv à la version 0.9.11 (#19162)</target>
       </segment>
     </unit>
     <unit id="2a0f61d0-ac2a-42fc-a81c-44b1aa5c5149">
@@ -7203,9 +7203,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 150</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Ruff to 0.14.5 (#19162)</source>
-        <target>Ruff to 0.14.5 (#19162)</target>
+        <target>Ruff à la version 0.14.5 (#19162)</target>
       </segment>
     </unit>
     <unit id="fdfb9ed2-6191-4f61-a5ba-99b242212759">
@@ -7213,9 +7213,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 151</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>comtypes to 1.4.13 (#19196)</source>
-        <target>comtypes to 1.4.13 (#19196)</target>
+        <target>comtypes à la version 1.4.13 (#19196)</target>
       </segment>
     </unit>
     <unit id="9ca7b1df-8fd2-47ab-abce-61f132b2f6bb">
@@ -7223,9 +7223,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 152</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>cryptography to 46.0.5 (#19196, #19601)</source>
-        <target>cryptography to 46.0.5 (#19196, #19601)</target>
+        <target>cryptography à la version 46.0.5 (#19196, #19601)</target>
       </segment>
     </unit>
     <unit id="526f0619-b2a1-40e2-9d06-1eb5be925f37">
@@ -7233,9 +7233,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 153</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Configobj to commit `9c8a0a80` (#19196)</source>
-        <target>Configobj to commit `9c8a0a80` (#19196)</target>
+        <target>Configobj au commit `9c8a0a80` (#19196)</target>
       </segment>
     </unit>
     <unit id="ca57035c-6851-4069-821d-e069b1683736">
@@ -7243,9 +7243,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 154</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Requests to 2.32.5 (#19196)</source>
-        <target>Requests to 2.32.5 (#19196)</target>
+        <target>Requests à la version 2.32.5 (#19196)</target>
       </segment>
     </unit>
     <unit id="6c976733-9e50-4836-969f-02763c01c6f0">
@@ -7253,9 +7253,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 155</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>url-normalize to 2.2.1 (#19196)</source>
-        <target>url-normalize to 2.2.1 (#19196)</target>
+        <target>url-normalize à la version 2.2.1 (#19196)</target>
       </segment>
     </unit>
     <unit id="9a5b0b8f-8b9e-4b40-bb90-7e313b1448a8">
@@ -7263,9 +7263,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 156</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Pycaw to 20251023 (#19196)</source>
-        <target>Pycaw to 20251023 (#19196)</target>
+        <target>Pycaw à la version 20251023 (#19196)</target>
       </segment>
     </unit>
     <unit id="b4449dc2-90b3-4600-8661-2c90fc3a234f">
@@ -7273,9 +7273,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 157</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>nh3 to 0.3.2 (#19196)</source>
-        <target>nh3 to 0.3.2 (#19196)</target>
+        <target>nh3 à la version 0.3.2 (#19196)</target>
       </segment>
     </unit>
     <unit id="8d5d7339-e7db-4235-b5e7-708c351820fd">
@@ -7283,9 +7283,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 158</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Crowdin Python client to 1.24.1 (#19196)</source>
-        <target>Crowdin Python client to 1.24.1 (#19196)</target>
+        <target>Crowdin Python client à la version 1.24.1 (#19196)</target>
       </segment>
     </unit>
     <unit id="8affc734-0e9d-447e-8b29-dde6d081333e">
@@ -7293,9 +7293,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 159</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Python-Markdown to 3.10 (#19196)</source>
-        <target>Python-Markdown to 3.10 (#19196)</target>
+        <target>Python-Markdown à la version 3.10 (#19196)</target>
       </segment>
     </unit>
     <unit id="024791c3-9a0e-471d-a351-330e373e696e">
@@ -7303,9 +7303,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 160</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>lxml to 6.0.2 (#19196)</source>
-        <target>lxml to 6.0.2 (#19196)</target>
+        <target>lxml à la version 6.0.2 (#19196)</target>
       </segment>
     </unit>
     <unit id="9d4525d9-54e6-43b0-b374-c690af3cfa86">
@@ -7313,9 +7313,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 161</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>PyMdown Extensions to 10.17.1 (#19196)</source>
-        <target>PyMdown Extensions to 10.17.1 (#19196)</target>
+        <target>PyMdown Extensions à la version 10.17.1 (#19196)</target>
       </segment>
     </unit>
     <unit id="61d66d37-d036-41ad-a180-6d8a0441797e">
@@ -7323,9 +7323,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 162</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Setuptools to 80.10.2 (#19196, #19524)</source>
-        <target>Setuptools to 80.10.2 (#19196, #19524)</target>
+        <target>Setuptools à la version 80.10.2 (#19196, #19524)</target>
       </segment>
     </unit>
     <unit id="3a35a12d-9508-4d10-8fd3-146c3b914bc7">
@@ -7333,9 +7333,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 163</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Robot Framework to 7.3.2 (#19196)</source>
-        <target>Robot Framework to 7.3.2 (#19196)</target>
+        <target>Robot Framework à la version 7.3.2 (#19196)</target>
       </segment>
     </unit>
     <unit id="57bde028-695d-4a60-8937-7c388d0c8ae1">
@@ -7343,9 +7343,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 164</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>IAccessible2 to commit `c9ae003` (#19196)</source>
-        <target>IAccessible2 to commit `c9ae003` (#19196)</target>
+        <target>IAccessible2 au commit `c9ae003` (#19196)</target>
       </segment>
     </unit>
     <unit id="b1e0d209-de39-40a8-8c38-0228435d2018">
@@ -7353,9 +7353,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 165</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sonic to commit `d2cdb40` (#19196)</source>
-        <target>Sonic to commit `d2cdb40` (#19196)</target>
+        <target>Sonic au commit `d2cdb40` (#19196)</target>
       </segment>
     </unit>
     <unit id="862b757e-1c08-46ca-92db-7a2c4273dc4a">
@@ -7363,9 +7363,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 166</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>WAI-ARIA Authoring Practices Guide to commit `84b921a0` (#19196)</source>
-        <target>WAI-ARIA Authoring Practices Guide to commit `84b921a0` (#19196)</target>
+        <target>WAI-ARIA Authoring Practices Guide au commit `84b921a0` (#19196)</target>
       </segment>
     </unit>
     <unit id="eb414355-b155-4c45-8b52-330f348b962f">
@@ -7373,9 +7373,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 167</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Windows Implementation Libraries (WIL) to commit `7cf4193` (#19196)</source>
-        <target>Windows Implementation Libraries (WIL) to commit `7cf4193` (#19196)</target>
+        <target>Windows Implementation Libraries (WIL) au commit `7cf4193` (#19196)</target>
       </segment>
     </unit>
     <unit id="e6dee454-5375-4074-b6a6-acafc7180a45">
@@ -7383,9 +7383,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 168</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>SCons to 4.10.1 (#19016, #19226, @LeonarddeR)</source>
-        <target>SCons to 4.10.1 (#19016, #19226, @LeonarddeR)</target>
+        <target>SCons à la version 4.10.1 (#19016, #19226, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="f2dccdfb-7b22-4ff3-b701-1682d6bc8987">
@@ -7393,9 +7393,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 169</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This introduces support to build NVDA with Visual Studio 2026.</source>
-        <target>This introduces support to build NVDA with Visual Studio 2026.</target>
+        <target>Cela introduit la prise en charge de la compilation de NVDA avec Visual Studio 2026.</target>
       </segment>
     </unit>
     <unit id="4cc5af57-2de4-46d4-b0b6-6f38d129dc40">
@@ -7403,18 +7403,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 170</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>X64 NVDAHelper libraries are now also built for the [ARM64EC architecture](https://learn.microsoft.com/en-us/windows/arm/arm64ec).</source>
-        <target>X64 NVDAHelper libraries are now also built for the [ARM64EC architecture](https://learn.microsoft.com/en-us/windows/arm/arm64ec).</target>
+        <target>Les bibliothèques NVDAHelper X64 sont désormais également compilées pour l'[architecture ARM64EC](https://learn.microsoft.com/en-us/windows/arm/arm64ec).</target>
       </segment>
     </unit>
     <unit id="904de121-1c69-4d07-aa3b-b073f557bb42">
       <notes>
         <note appliesTo="source">line: 171</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On ARM64 machines with Windows 11, these ARM64EC libraries are loaded instead of their X64 equivalents. (#18570, @leonarddeR)</source>
-        <target>On ARM64 machines with Windows 11, these ARM64EC libraries are loaded instead of their X64 equivalents. (#18570, @leonarddeR)</target>
+        <target>Sur les machines ARM64 avec Windows 11, ces bibliothèques ARM64EC sont chargées à la place de leurs équivalents X64. (#18570, @leonarddeR)</target>
       </segment>
     </unit>
     <unit id="49e31139-dd2f-4051-9aa1-e30d631e1cab">
@@ -7422,9 +7422,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 172</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA is now licensed under "GPL-2 or later".</source>
-        <target>NVDA is now licensed under "GPL-2 or later".</target>
+        <target>NVDA est désormais sous licence "GPL-2 ou version ultérieure".</target>
       </segment>
     </unit>
     <unit id="9fc7dfff-26a3-4284-a343-36e4a3da2685">
@@ -7432,9 +7432,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 173</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In `braille.py`, the `FormattingMarker` class has a new `shouldBeUsed` method, to determine if the formatting marker key should be reported (#7608, @nvdaes)</source>
-        <target>In `braille.py`, the `FormattingMarker` class has a new `shouldBeUsed` method, to determine if the formatting marker key should be reported (#7608, @nvdaes)</target>
+        <target>Dans `braille.py`, la classe `FormattingMarker` a une nouvelle méthode `shouldBeUsed`, pour déterminer si le marqueur de formatage doit être utilisé (#7608, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="069cdb91-4410-4ce5-afdb-ed98d6f7f361">
@@ -7442,9 +7442,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 174</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added `api.fakeNVDAObjectClasses` set and `api.isFakeNVDAObject` function to identify fake NVDAObject instances. (#19168, @hwf1324)</source>
-        <target>Added `api.fakeNVDAObjectClasses` set and `api.isFakeNVDAObject` function to identify fake NVDAObject instances. (#19168, @hwf1324)</target>
+        <target>Ajout du set `api.fakeNVDAObjectClasses` et de la fonction `api.isFakeNVDAObject` pour identifier les instances de fake NVDAObject. (#19168, @hwf1324)</target>
       </segment>
     </unit>
     <unit id="3c59f618-069f-409e-b71c-b4ddb1bcef46">
@@ -7452,9 +7452,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 175</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA no longer includes the Microsoft Universal C Runtime. (#19508)</source>
-        <target>NVDA no longer includes the Microsoft Universal C Runtime. (#19508)</target>
+        <target>NVDA n'inclue plus Microsoft Universal C Runtime. (#19508)</target>
       </segment>
     </unit>
     <unit id="a63fa820-a767-43fb-ac1f-2f3074f8a92b">
@@ -7462,9 +7462,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 176</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`synthDriverHandler.setSynth` and `synthDriverHandler.findAndSetNextSynth` now attempt to find fallback synthesizers starting from the start of `defaultSynthPriorityList`, rather than starting immediately after `name` or `currentSynthName`, respectively. (#19603)</source>
-        <target>`synthDriverHandler.setSynth` and `synthDriverHandler.findAndSetNextSynth` now attempt to find fallback synthesizers starting from the start of `defaultSynthPriorityList`, rather than starting immediately after `name` or `currentSynthName`, respectively. (#19603)</target>
+        <target>`synthDriverHandler.setSynth` et `synthDriverHandler.findAndSetNextSynth` tentent désormais de trouver des synthétiseurs de secours en commençant au début de `defaultSynthPriorityList`, plutôt qu'en commençant immédiatement après `name` ou `currentSynthName`, respectivement. (#19603)</target>
       </segment>
     </unit>
     <unit id="19b2e894-8a17-4654-9593-e09e32c41559">
@@ -7472,9 +7472,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 177</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.installerGui.doInstall` parameter `startOnLogon` default value is now `False`. (#19631)</source>
-        <target>`gui.installerGui.doInstall` parameter `startOnLogon` default value is now `False`. (#19631)</target>
+        <target>La valeur par défaut du paramètre `startOnLogon` de `gui.installerGui.doInstall` est désormais `False`. (#19631)</target>
       </segment>
     </unit>
     <unit id="f2dd3ab4-38da-4b0e-8f40-eb396461c7b3">
@@ -7482,27 +7482,27 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 179</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>API Breaking Changes</source>
-        <target>API Breaking Changes</target>
+        <target>Changements avec rupture de l'API</target>
       </segment>
     </unit>
     <unit id="7323a887-abec-495e-a2f3-c2f9e85028b1">
       <notes>
         <note appliesTo="source">line: 181</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These are breaking API changes.</source>
-        <target>These are breaking API changes.</target>
+        <target>Ces changements modifient l'API des extensions.</target>
       </segment>
     </unit>
     <unit id="ee56e16b-1d34-4d91-bb7c-b0efe45e65db">
       <notes>
         <note appliesTo="source">line: 182</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please open a GitHub issue if your add-on has an issue with updating to the new API.</source>
-        <target>Please open a GitHub issue if your add-on has an issue with updating to the new API.</target>
+        <target>Veuillez ouvrir un problème GitHub si votre extension a un problème avec la mise à jour vers la nouvelle API.</target>
       </segment>
     </unit>
     <unit id="4edda3aa-10a8-4de3-b78b-39c718a4cb65">
@@ -7510,9 +7510,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 184</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA is now built with Python 3.13, 64-bit. (#18591)</source>
-        <target>NVDA is now built with Python 3.13, 64-bit. (#18591)</target>
+        <target>NVDA est désormais compilé avec Python 3.13, 64 bits. (#18591)</target>
       </segment>
     </unit>
     <unit id="b5739562-1de4-4085-ac7c-05e20074d59a">
@@ -7520,18 +7520,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 185</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>typing_extensions have been removed.</source>
-        <target>typing_extensions have been removed.</target>
+        <target>typing_extensions ont été supprimés.</target>
       </segment>
     </unit>
     <unit id="d5385032-ee74-4f5c-868d-7270428b153b">
       <notes>
         <note appliesTo="source">line: 186</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These should be supported natively in Python 3.13. (#18689)</source>
-        <target>These should be supported natively in Python 3.13. (#18689)</target>
+        <target>Celles-ci devraient être pris en charge nativement dans Python 3.13. (#18689)</target>
       </segment>
     </unit>
     <unit id="cb2daea9-8f95-4d53-99c5-ff46f9433c2c">
@@ -7539,9 +7539,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 187</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`copyrightYears` and `url` have been moved from `versionInfo` to `buildVersion`. (#18682)</source>
-        <target>`copyrightYears` and `url` have been moved from `versionInfo` to `buildVersion`. (#18682)</target>
+        <target>`copyrightYears` et `url` ont été déplacés de `versionInfo` vers `buildVersion`. (#18682)</target>
       </segment>
     </unit>
     <unit id="c2e20887-c796-403a-8342-f86073f026b4">
