@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-23 07:24+0000\n"
-"PO-Revision-Date: 2026-02-23 08:37\n"
+"PO-Revision-Date: 2026-02-23 09:44\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -12652,7 +12652,7 @@ msgstr "Vous essayez d'installer une version de NVDA plus ancienne que la versio
 #. the state of the current NVDA installation.
 #: gui\installerGui.py:366
 msgid "An existing NVDA installation has been detected, but its version cannot be determined. If you are attempting to install an earlier version of NVDA, you should first cancel this installation and completely uninstall NVDA before installing the earlier version."
-msgstr ""
+msgstr "Une installation existante de NVDA a été détectée, mais sa version ne peut pas être déterminée. Si vous essayez d'installer une version antérieure de NVDA, vous devez d'abord annuler cette installation et désinstaller complètement NVDA avant d'installer la version antérieure."
 
 #. Translators: The label of a button to proceed with installation,
 #. even though this is not recommended.
@@ -12664,13 +12664,13 @@ msgstr "&Procéder à l'installation (non recommandé)"
 #. to an older version.
 #: gui\installerGui.py:425
 msgid "You are attempting to replace an existing portable copy of NVDA with an earlier version. Downgrading NVDA is not recommended. You should cancel this operation and create a new portable copy instead. "
-msgstr ""
+msgstr "Vous essayez de remplacer une copie portable existante de NVDA par une version antérieure. La mise à jour de NVDA vers une version antérieure n'est pas recommandée. Vous devriez annuler cette opération et créer une nouvelle copie portable à la place. "
 
 #. Translators: A warning presented when the installer is unable to determine
 #. the state of the current NVDA installation.
 #: gui\installerGui.py:433
 msgid "An existing copy of NVDA has been detected in the chosen directory, but its version cannot be determined. If you are attempting to downgrade to an earlier version of NVDA, you should cancel this operation and create a new portable copy. "
-msgstr ""
+msgstr "Une copie existante de NVDA a été détectée dans le répertoire choisi, mais sa version ne peut être déterminée. Si vous essayez de mettre à jour vers une version antérieure de NVDA, vous devez annuler cette opération et créer une nouvelle copie portable. "
 
 #. Translators: The message displayed when the user has specified a destination directory
 #. that already has a portable copy in the Create Portable NVDA dialog.
@@ -12765,7 +12765,7 @@ msgstr "Veuillez indiquer le répertoire où créer la copie portable."
 #: gui\installerGui.py:642
 #, python-brace-format
 msgid "Please specify the absolute path where the portable copy should be created. It may include system variables (e.g. %temp%, %homepath%) and must start with a drive letter (e.g. C:\\). Current path: {path}. "
-msgstr ""
+msgstr "Please specify the absolute path where the portable copy should be created. It may include system variables (e.g. %temp%, %homepath%) and must start with a drive letter (e.g. C:\\). Current path: {path}. "
 
 #. Translators: The message displayed when the user cancels the creation of a portable copy of NVDA.
 #: gui\installerGui.py:694
