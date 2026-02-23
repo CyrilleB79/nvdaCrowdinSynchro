@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-23 06:36+0000\n"
-"PO-Revision-Date: 2026-02-23 07:13\n"
+"POT-Creation-Date: 2026-02-23 07:24+0000\n"
+"PO-Revision-Date: 2026-02-23 08:37\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2149,8 +2149,8 @@ msgstr "Certaines opérations sur les extensions ont échouées. Consulter le fi
 #: gui\configProfiles.py:293 gui\configProfiles.py:337
 #: gui\configProfiles.py:515 gui\configProfiles.py:530
 #: gui\configProfiles.py:541 gui\inputGestures.py:808 gui\inputGestures.py:822
-#: gui\installerGui.py:122 gui\installerGui.py:632 gui\installerGui.py:647
-#: gui\installerGui.py:719 gui\logViewer.py:112 gui\logViewer.py:143
+#: gui\installerGui.py:122 gui\installerGui.py:632 gui\installerGui.py:648
+#: gui\installerGui.py:720 gui\logViewer.py:112 gui\logViewer.py:143
 #: gui\message.py:160 gui\settingsDialogs.py:1038 gui\settingsDialogs.py:5900
 #: gui\settingsDialogs.py:6451 gui\startupDialogs.py:127
 #: _remoteClient\dialogs.py:67 _remoteClient\dialogs.py:306
@@ -11666,7 +11666,7 @@ msgstr "La connection à l'URL a réussi."
 #. Translators: Title of a dialog shown when a portable copy of NVDA is created.
 #. Translators: The message title displayed when copying configuration to system settings was successful.
 #. Translators: Title of success dialog
-#: gui\_SetURLDialog.py:177 gui\installerGui.py:148 gui\installerGui.py:730
+#: gui\_SetURLDialog.py:177 gui\installerGui.py:148 gui\installerGui.py:731
 #: gui\settingsDialogs.py:1044 _remoteClient\dialogs.py:280
 msgid "Success"
 msgstr "Succès"
@@ -12556,7 +12556,7 @@ msgstr "L'installation ne peut pas supprimer ou remplacer un fichier. NVDA est p
 
 #. Translators: the title of a retry cancel dialog when NVDA installation fails
 #. Translators: the title of a retry cancel dialog when NVDA portable copy creation  fails
-#: gui\installerGui.py:106 gui\installerGui.py:711
+#: gui\installerGui.py:106 gui\installerGui.py:712
 msgid "File in Use"
 msgstr "Fichier en cours d'utilisation"
 
@@ -12763,39 +12763,40 @@ msgstr "Veuillez indiquer le répertoire où créer la copie portable."
 #. Translators: The message displayed when the user has not specified an absolute destination directory
 #. in the Create Portable NVDA dialog.
 #: gui\installerGui.py:642
-msgid "Please specify the absolute path where the portable copy should be created. It may include system variables (%temp%, %homepath%, etc.)."
-msgstr "Veuillez spécifier le chemin absolu où la copie portable doit être créée. Il peut inclure des variables système (%temp%, %homepath%, etc.)."
+#, python-brace-format
+msgid "Please specify the absolute path where the portable copy should be created. It may include system variables (e.g. %temp%, %homepath%) and must start with a drive letter (e.g. C:\\). Current path: {path}. "
+msgstr ""
 
 #. Translators: The message displayed when the user cancels the creation of a portable copy of NVDA.
-#: gui\installerGui.py:693
+#: gui\installerGui.py:694
 msgid "Portable copy creation cancelled."
 msgstr "Création de copie portable annulée."
 
 #. Translators: The title of the dialog presented while a portable copy of NVDA is being created.
-#: gui\installerGui.py:698
+#: gui\installerGui.py:699
 msgid "Creating Portable Copy"
 msgstr "Création d'une copie portable en cours"
 
 #. Translators: The message displayed while a portable copy of NVDA is being created.
-#: gui\installerGui.py:700
+#: gui\installerGui.py:701
 msgid "Please wait while a portable copy of NVDA is created."
 msgstr "Veuillez patienter durant la création d'une copie portable de NVDA."
 
 #. Translators: a message dialog asking to retry or cancel when NVDA portable copy creation fails
-#: gui\installerGui.py:709
+#: gui\installerGui.py:710
 msgid "NVDA is unable to remove or overwrite a file."
 msgstr "NVDA ne peut pas supprimer ou remplacer un fichier."
 
 #. Translators: The message displayed when an error occurs while creating a portable copy of NVDA.
 #. {error} will be replaced with the specific error message.
-#: gui\installerGui.py:717
+#: gui\installerGui.py:718
 #, python-brace-format
 msgid "Failed to create portable copy: {error}."
 msgstr "Échec de la création de la copie portable : {error}."
 
 #. Translators: The message displayed when a portable copy of NVDA has been successfully created.
 #. {dir} will be replaced with the destination directory.
-#: gui\installerGui.py:728
+#: gui\installerGui.py:729
 #, python-brace-format
 msgid "Successfully created a portable copy of NVDA at {dir}"
 msgstr "Copie portable de NVDA créée avec succès dans {dir}"
