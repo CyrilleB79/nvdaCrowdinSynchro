@@ -7549,9 +7549,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 188</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed behavior of `TextInfo.collapse()` - previously it was moving TextInfo to the next paragraph in some cases. (#18320, @mltony)</source>
-        <target>Fixed behavior of `TextInfo.collapse()` - previously it was moving TextInfo to the next paragraph in some cases. (#18320, @mltony)</target>
+        <target>Correction du comportement de `TextInfo.collapse()` - auparavant, le TextInfo était déplacé vers le paragraphe suivant dans certains cas. (#18320, @mltony)</target>
       </segment>
     </unit>
     <unit id="edfb763f-f624-4280-b1c0-3581bd1061e3">
@@ -7559,9 +7559,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 189</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed behavior of `OffsetTextInfo.move()` - previously it wouldn't move to the very end of the document unless moving by character. (#18348, @mltony)</source>
-        <target>Fixed behavior of `OffsetTextInfo.move()` - previously it wouldn't move to the very end of the document unless moving by character. (#18348, @mltony)</target>
+        <target>Correction du comportement de `OffsetTextInfo.move()` - auparavant, il n'était pas déplacé pas jusqu'à la toute fin du document à moins d'être déplacer par caractère. (#18348, @mltony)</target>
       </segment>
     </unit>
     <unit id="8d382824-6011-401c-919e-11609922f5ad">
@@ -7569,27 +7569,27 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 190</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAHelper.localLib` is now a module, not a `ctypes.CDLL`.</source>
-        <target>`NVDAHelper.localLib` is now a module, not a `ctypes.CDLL`.</target>
+        <target>`NVDAHelper.localLib` est maintenant un module, plus un `ctypes.CDLL`.</target>
       </segment>
     </unit>
     <unit id="90c3a613-74d6-4f68-b3a6-a95394516323">
       <notes>
         <note appliesTo="source">line: 191</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Most API consumers should not be impacted by this change.</source>
-        <target>Most API consumers should not be impacted by this change.</target>
+        <target>La plupart des consommateurs de l'API ne devraient pas être affectés par ce changement.</target>
       </segment>
     </unit>
     <unit id="aa8fc036-8205-409c-aeeb-d6edd79409e2">
       <notes>
         <note appliesTo="source">line: 192</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `NVDAHelper.localLib.dll` for access to the `ctypes.CDLL` if necessary. (#18207)</source>
-        <target>Use `NVDAHelper.localLib.dll` for access to the `ctypes.CDLL` if necessary. (#18207)</target>
+        <target>Utilisez `NVDAHelper.localLib.dll` pour accéder au `ctypes.CDLL` si nécessaire. (#18207)</target>
       </segment>
     </unit>
     <unit id="e83df638-83e9-4f58-9199-ba6ded12aa82">
@@ -7597,9 +7597,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 193</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`UIAHandler.autoSelectDetectionAvailable` has been removed with no replacement. (#18684, @josephsl)</source>
-        <target>`UIAHandler.autoSelectDetectionAvailable` has been removed with no replacement. (#18684, @josephsl)</target>
+        <target>`UIAHandler.autoSelectDetectionAvailable` a été supprimé sans remplacement. (#18684, @josephsl)</target>
       </segment>
     </unit>
     <unit id="a7755607-f0d8-4a74-a7cb-729f8d27e7c4">
@@ -7607,9 +7607,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 194</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been removed from `installer` with no direct replacement: `programFilesPath`, `getStartMenuFolder`, `getInstallPath`. (#18851)</source>
-        <target>The following symbols have been removed from `installer` with no direct replacement: `programFilesPath`, `getStartMenuFolder`, `getInstallPath`. (#18851)</target>
+        <target>Les symboles suivants ont été supprimés de `installer` sans remplacement direct : `programFilesPath`, `getStartMenuFolder`, `getInstallPath`. (#18851)</target>
       </segment>
     </unit>
     <unit id="5ccf0f27-f5a7-4de9-b819-96b64bd17843">
@@ -7617,18 +7617,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 195</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `bool` configuration key `[documentFormatting][reportSpellingErrors]` has been removed.</source>
-        <target>The `bool` configuration key `[documentFormatting][reportSpellingErrors]` has been removed.</target>
+        <target>La clé de configuration `[documentFormatting][reportSpellingErrors]` de type `bool` a été supprimée.</target>
       </segment>
     </unit>
     <unit id="2eca8023-090a-47e5-82ee-62447ab18f45">
       <notes>
         <note appliesTo="source">line: 196</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use the `int` configuration key `[reportSpellingErrors2]` instead. (#17997, @CyrilleB79)</source>
-        <target>Use the `int` configuration key `[reportSpellingErrors2]` instead. (#17997, @CyrilleB79)</target>
+        <target>Utilisez la clé de configuration `[reportSpellingErrors2]` de type `int` à la place. (#17997, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="df2b6aab-bcc9-4fca-9e48-059e4950791d">
@@ -7636,9 +7636,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 197</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAObjects.window.GhostWindowFromHungWindow` has been removed with no replacement. (#18883)</source>
-        <target>`NVDAObjects.window.GhostWindowFromHungWindow` has been removed with no replacement. (#18883)</target>
+        <target>`NVDAObjects.window.GhostWindowFromHungWindow` a été supprimé sans remplacement. (#18883)</target>
       </segment>
     </unit>
     <unit id="e2cb9128-301f-4d5b-a4fc-319056960def">
@@ -7646,9 +7646,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 198</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winUser.Input_I` and `winUser.PUL` have been removed, with no replacement. (#18883)</source>
-        <target>`winUser.Input_I` and `winUser.PUL` have been removed, with no replacement. (#18883)</target>
+        <target>`winUser.Input_I` et `winUser.PUL` ont été supprimés, sans remplacement. (#18883)</target>
       </segment>
     </unit>
     <unit id="571dff68-a1f0-4d38-8129-41acd2f292ca">
@@ -7656,9 +7656,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 199</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `inputButtonCaps` property on `hwIo.hid.Hid` objects now correctly returns an array of `hidpi.HIDP_BUTTON_CAPS` structures rather than HIDP_VALUE_CAPS` structures. (#18902)</source>
-        <target>The `inputButtonCaps` property on `hwIo.hid.Hid` objects now correctly returns an array of `hidpi.HIDP_BUTTON_CAPS` structures rather than HIDP_VALUE_CAPS` structures. (#18902)</target>
+        <target>La propriété `inputButtonCaps` sur les objets `hwIo.hid.Hid` renvoie désormais correctement un tableau de structures `hidpi.HIDP_BUTTON_CAPS` plutôt que des structures HIDP_VALUE_CAPS`.</target>
       </segment>
     </unit>
     <unit id="384cc255-1841-45de-a59d-0b44f445dd60">
@@ -7666,18 +7666,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 200</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`speech.speech.IDT_TONE_DURATION` has been removed.</source>
-        <target>`speech.speech.IDT_TONE_DURATION` has been removed.</target>
+        <target>`speech.speech.IDT_TONE_DURATION` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="e6a3c7ef-d87b-4d7a-894f-60778c066797">
       <notes>
         <note appliesTo="source">line: 201</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Call `speech.speech.getIndentToneDuration` instead. (#18898)</source>
-        <target>Call `speech.speech.getIndentToneDuration` instead. (#18898)</target>
+        <target>Appelez `speech.speech.getIndentToneDuration à la place. (#18898)</target>
       </segment>
     </unit>
     <unit id="2da51787-e3e7-47bc-9d1e-af3f3524e8ee">
@@ -7685,9 +7685,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 202</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>the `rgpszUsageIdentifier` member of the `updateCheck.CERT_USAGE_MATCH` struct is now of type `POINTER(LPSTR)` rather than `c_void_p` to correctly align with Microsoft documentation.</source>
-        <target>the `rgpszUsageIdentifier` member of the `updateCheck.CERT_USAGE_MATCH` struct is now of type `POINTER(LPSTR)` rather than `c_void_p` to correctly align with Microsoft documentation.</target>
+        <target>le membre `rgpszUsageIdentifier` de la structure `updateCheck.CERT_USAGE_MATCH` est maintenant de type `POINTER(LPSTR)` rather than `c_void_p` to correctly align with Microsoft documentation.</target>
       </segment>
     </unit>
     <unit id="40d08dc8-cdf5-4c02-ac66-7d49d8642669">
@@ -7695,9 +7695,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 203</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `UpdatableAddonsDialog.addonsList` is an instance of `gui.addonStoreGui.controls.addonList.AddonVirtualList`. (#18816, @nvdaes)</source>
-        <target>The `UpdatableAddonsDialog.addonsList` is an instance of `gui.addonStoreGui.controls.addonList.AddonVirtualList`. (#18816, @nvdaes)</target>
+        <target>`UpdatableAddonsDialog.addonsList` est une instance de `gui.addonStoreGui.controls.addonList.AddonVirtualList`. (#18816, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="240f3b06-4b8b-41a7-bb96-9f4080248472">
@@ -7705,18 +7705,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 204</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.nvdaControls.TabbableScrolledPanel` has been removed.</source>
-        <target>`gui.nvdaControls.TabbableScrolledPanel` has been removed.</target>
+        <target>`gui.nvdaControls.TabbableScrolledPanel` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="04366f68-1cdc-4386-8ce1-2411744fdb1a">
       <notes>
         <note appliesTo="source">line: 205</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `wx.lib.scrolledpanel.ScrolledPanel` directly instead. (#17751)</source>
-        <target>Use `wx.lib.scrolledpanel.ScrolledPanel` directly instead. (#17751)</target>
+        <target>Utilisez `wx.lib.scrolledpanel.ScrolledPanel` directement à la place. (#17751)</target>
       </segment>
     </unit>
     <unit id="dc9cc042-3ab9-4ee0-bb98-3131a4c13043">
@@ -7724,9 +7724,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 206</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been removed from `appModules.explorer` with no replacement: `SuggestionListItem`, `SearchBoxClient`, `GridTileElement`, `GridListTileElement`, `GridGroup`, `ImmersiveLauncher`. (#18757, @josephsl)</source>
-        <target>The following symbols have been removed from `appModules.explorer` with no replacement: `SuggestionListItem`, `SearchBoxClient`, `GridTileElement`, `GridListTileElement`, `GridGroup`, `ImmersiveLauncher`. (#18757, @josephsl)</target>
+        <target>Les symboles suivants ont été supprimés de `appModules.explorer` sans remplacement : `SuggestionListItem`, `SearchBoxClient`, `GridTileElement`, `GridListTileElement`, `GridGroup`, `ImmersiveLauncher`. (#18757, @josephsl)</target>
       </segment>
     </unit>
     <unit id="376668f2-d12e-4f7a-938f-d51f098d07ca">
@@ -7734,9 +7734,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 207</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `ftdi2` module has been significantly refactored: (#19105)</source>
-        <target>The `ftdi2` module has been significantly refactored: (#19105)</target>
+        <target>Le module `ftdi2` a été considérablement refactorisé : (#19105)</target>
       </segment>
     </unit>
     <unit id="b2dc005e-9616-476c-a6fd-b75bf83d38e9">
@@ -7744,9 +7744,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 208</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is now a package.</source>
-        <target>It is now a package.</target>
+        <target>C'est maintenant un package.</target>
       </segment>
     </unit>
     <unit id="52868d9a-8499-493c-b895-472263611824">
@@ -7754,9 +7754,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 209</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`MAX_DESCRIPTION_SIZE` has been moved to `ftd2xx.MAX_DESCRIPTION_SIZE`, and reduced to 64 in accordance with the D2XX Programmer’s Guide.</source>
-        <target>`MAX_DESCRIPTION_SIZE` has been moved to `ftd2xx.MAX_DESCRIPTION_SIZE`, and reduced to 64 in accordance with the D2XX Programmer’s Guide.</target>
+        <target>`MAX_DESCRIPTION_SIZE` a été déplacé vers `ftd2xx.MAX_DESCRIPTION_SIZE` et réduit à 64 conformément au D2XX Programmer’s Guide..</target>
       </segment>
     </unit>
     <unit id="4db69b23-6bcb-43b7-b3f8-bd0f312b00b0">
@@ -7764,18 +7764,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 210</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`FT_OK` has been removed.</source>
-        <target>`FT_OK` has been removed.</target>
+        <target>`FT_OK` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="75d8d06b-9038-4cd7-afa9-b31907c1d045">
       <notes>
         <note appliesTo="source">line: 211</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use `ftd2xx.FT_MESSAGE.OK` instead.</source>
-        <target>  Use `ftd2xx.FT_MESSAGE.OK` instead.</target>
+        <target>  Utilisez `ftd2xx.FT_MESSAGE.OK` à la place.</target>
       </segment>
     </unit>
     <unit id="564aeec2-94b6-4a67-b711-3cf05daec8ac">
@@ -7783,18 +7783,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 212</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `FT_LIST_*` constants have been removed.</source>
-        <target>The `FT_LIST_*` constants have been removed.</target>
+        <target>Les constantes `FT_LIST_*` ont été supprimées.</target>
       </segment>
     </unit>
     <unit id="394da2cd-e95b-46e2-8b72-cc1c156dc811">
       <notes>
         <note appliesTo="source">line: 213</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use the `ftd2xx.FT_LIST` enum instead.</source>
-        <target>  Use the `ftd2xx.FT_LIST` enum instead.</target>
+        <target>  Utilisez l'énumération `ftd2xx.FT_LIST` à la place.</target>
       </segment>
     </unit>
     <unit id="0de1b4fb-2d20-4d09-8040-2acc81f0ded5">
@@ -7802,18 +7802,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 214</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `FT_OPEN_BY_SERIAL_NUMBER` constant has been removed.</source>
-        <target>The `FT_OPEN_BY_SERIAL_NUMBER` constant has been removed.</target>
+        <target>La constante `FT_OPEN_BY_SERIAL_NUMBER` a été supprimée.</target>
       </segment>
     </unit>
     <unit id="3cb01f7d-1438-4066-835f-1e7a1c748818">
       <notes>
         <note appliesTo="source">line: 215</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use `ftd2xx.FT_OPEN_BY.SERIAL_NUMBER` instead.</source>
-        <target>  Use `ftd2xx.FT_OPEN_BY.SERIAL_NUMBER` instead.</target>
+        <target>  Utilisez `ftd2xx.FT_OPEN_BY.SERIAL_NUMBER` à la place.</target>
       </segment>
     </unit>
     <unit id="c31eb520-2326-432a-b6d9-098ded6d1f69">
@@ -7821,18 +7821,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 216</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `FT_PURGE_RX` and `FT_PURGE_TX` constants have been removed.</source>
-        <target>The `FT_PURGE_RX` and `FT_PURGE_TX` constants have been removed.</target>
+        <target>Les constantes `FT_PURGE_RX` et `FT_PURGE_TX` ont été supprimées.</target>
       </segment>
     </unit>
     <unit id="dc8ed78b-96c1-4269-8e7b-27b4f63731f1">
       <notes>
         <note appliesTo="source">line: 217</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use `ftd2xx.FT_PURGE.RX` and `ftd2xx.FT_PURGE.TX` instead.</source>
-        <target>  Use `ftd2xx.FT_PURGE.RX` and `ftd2xx.FT_PURGE.TX` instead.</target>
+        <target>  Utilisez `ftd2xx.FT_PURGE.RX` et `ftd2xx.FT_PURGE.TX` à la place.</target>
       </segment>
     </unit>
     <unit id="6177d0f0-6d8b-40cb-8669-54c660c10262">
@@ -7840,9 +7840,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 218</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`FtdiBitModes` has been moved to `ftd2xx.FT_BITMODE`.</source>
-        <target>`FtdiBitModes` has been moved to `ftd2xx.FT_BITMODE`.</target>
+        <target>`FtdiBitModes` a été déplacé vers `ftd2xx.FT_BITMODE`.</target>
       </segment>
     </unit>
     <unit id="87ede2be-e9c1-4db6-af7d-4755f0a511fc">
@@ -7850,9 +7850,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 219</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `ft_messages` list has been replaced with the `ftd2xx.FT_MESSAGE` enum.</source>
-        <target>The `ft_messages` list has been replaced with the `ftd2xx.FT_MESSAGE` enum.</target>
+        <target>La liste `ft_messages` a été remplacée par l'énumération `ftd2xx.FT_MESSAGE`.</target>
       </segment>
     </unit>
     <unit id="56bee2f4-567f-4f85-8b6e-5e7a52d985cf">
@@ -7860,18 +7860,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 220</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`ft` has been removed.</source>
-        <target>`ft` has been removed.</target>
+        <target>`ft` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="131b4883-ebef-45ed-89ea-fadbfe51b96b">
       <notes>
         <note appliesTo="source">line: 221</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use `ftd2xx.dll` instead.</source>
-        <target>  Use `ftd2xx.dll` instead.</target>
+        <target>  Utilisez `ftd2xx.dll` à la place.</target>
       </segment>
     </unit>
     <unit id="d26f71a8-4374-4da3-a976-423fac47c216">
@@ -7879,9 +7879,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 222</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`FTDeviceError` has been moved to `ftd2xx.FTDeviceError`.</source>
-        <target>`FTDeviceError` has been moved to `ftd2xx.FTDeviceError`.</target>
+        <target>`FTDeviceError` a été déplacé vers `ftd2xx.FTDeviceError`.</target>
       </segment>
     </unit>
     <unit id="33b83ef4-8bdb-46a7-af70-943d565b99d7">
@@ -7889,18 +7889,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 223</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`DeviceListInfoNode` has been moved to `ftd2xx.FT_DEVICE_LIST_INFO_NODE`.</source>
-        <target>`DeviceListInfoNode` has been moved to `ftd2xx.FT_DEVICE_LIST_INFO_NODE`.</target>
+        <target>`DeviceListInfoNode` a été déplacé vers `ftd2xx.FT_DEVICE_LIST_INFO_NODE`.</target>
       </segment>
     </unit>
     <unit id="fdd2246f-b2c1-4663-85b2-f7373f615b48">
       <notes>
         <note appliesTo="source">line: 224</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Additionally, in accordance with the D2XX Programmer's Guide:</source>
-        <target>  Additionally, in accordance with the D2XX Programmer's Guide:</target>
+        <target>  De plus, conformément au Guide du programmeur D2XX :</target>
       </segment>
     </unit>
     <unit id="fa1555f7-abfa-4fef-b06c-ce84388ecf0d">
@@ -7908,9 +7908,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 225</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `LocID` field has been renamed to `LocId`.</source>
-        <target>The `LocID` field has been renamed to `LocId`.</target>
+        <target>Le champ `LocID` a été renommé `LocId`.</target>
       </segment>
     </unit>
     <unit id="f25c0fe9-5896-4911-bf8b-cf0abe60d9e7">
@@ -7918,9 +7918,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 226</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The`none` field has been renamed to `ftHandle`.</source>
-        <target>The`none` field has been renamed to `ftHandle`.</target>
+        <target>Le champ `none` a été renommé `ftHandle`.</target>
       </segment>
     </unit>
     <unit id="853c4dc7-7617-45e0-9d9c-80cd58ae4503">
@@ -7928,9 +7928,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 227</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `ftExceptionDecorator` function has been removed, with no public replacement.</source>
-        <target>The `ftExceptionDecorator` function has been removed, with no public replacement.</target>
+        <target>La fonction `ftExceptionDecorator` a été supprimée, sans remplacement public.</target>
       </segment>
     </unit>
     <unit id="86e2cc0b-e14f-474d-b8d6-38d449e29206">
@@ -7938,18 +7938,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 228</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `_PY_*` functions have been replaced with `ftd2xx.FT_*` direct FFI bindings.</source>
-        <target>The `_PY_*` functions have been replaced with `ftd2xx.FT_*` direct FFI bindings.</target>
+        <target>Les fonctions `_PY_*` ont été remplacées par des liaisons FFI directes `ftd2xx.FT_*`.</target>
       </segment>
     </unit>
     <unit id="d872ca82-ec10-4605-90b1-cd7125692f90">
       <notes>
         <note appliesTo="source">line: 229</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  These bindings have type declarations, so are potentially incompatible with existing code.</source>
-        <target>  These bindings have type declarations, so are potentially incompatible with existing code.</target>
+        <target>  Ces liaisons ont des déclarations de type et sont donc potentiellement incompatibles avec le code existant.</target>
       </segment>
     </unit>
     <unit id="47b1e19f-7f8b-4686-82a2-0fd4c2c82103">
@@ -7957,9 +7957,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 230</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following functions have been renamed:</source>
-        <target>The following functions have been renamed:</target>
+        <target>Les fonctions suivantes ont été renommées :</target>
       </segment>
     </unit>
     <unit id="9f15310b-986c-4043-863a-630dc6f767d6">
@@ -7967,9 +7967,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 231</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`list_devices` to `listDevices`;</source>
-        <target>`list_devices` to `listDevices`;</target>
+        <target>`list_devices` vers `listDevices` ;</target>
       </segment>
     </unit>
     <unit id="f5bb5734-0584-42ef-a7b1-debd81d2c041">
@@ -7977,9 +7977,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 232</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`create_device_info_list` to `createDeviceInfoList`;</source>
-        <target>`create_device_info_list` to `createDeviceInfoList`;</target>
+        <target>`create_device_info_list` vers `createDeviceInfoList` ;</target>
       </segment>
     </unit>
     <unit id="efc67f50-4a59-488d-8c14-248afa38c454">
@@ -7987,9 +7987,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 233</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`get_device_info_detail` to `getDeviceInfoDetail`;</source>
-        <target>`get_device_info_detail` to `getDeviceInfoDetail`;</target>
+        <target>`get_device_info_detail` vers `getDeviceInfoDetail` ;</target>
       </segment>
     </unit>
     <unit id="29124dfe-d3f5-4017-8f79-1c8b97f540bc">
@@ -7997,9 +7997,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 234</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`get_device_info_list` to `getDeviceInfoList`; and</source>
-        <target>`get_device_info_list` to `getDeviceInfoList`; and</target>
+        <target>`get_device_info_list` vers `getDeviceInfoList` ; et</target>
       </segment>
     </unit>
     <unit id="895d7398-e737-4765-8bb4-d49184d9674e">
@@ -8007,9 +8007,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 235</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`open_ex` to `openEx`.</source>
-        <target>`open_ex` to `openEx`.</target>
+        <target>`open_ex` vers `openEx`.</target>
       </segment>
     </unit>
     <unit id="ea8f0aa8-a2b6-4fb8-a58b-5f6ccdcb95a7">
@@ -8017,9 +8017,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 236</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following methods on the `FTD2XX` class have been renamed:</source>
-        <target>The following methods on the `FTD2XX` class have been renamed:</target>
+        <target>Les méthodes suivantes sur la classe `FTD2XX` ont été renommées :</target>
       </segment>
     </unit>
     <unit id="d6ac1cdc-445b-48f4-a1cb-beaacf7be2ce">
@@ -8027,9 +8027,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 237</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`set_baud_rate` to `setBaudRate`;</source>
-        <target>`set_baud_rate` to `setBaudRate`;</target>
+        <target>`set_baud_rate` vers `setBaudRate` ;</target>
       </segment>
     </unit>
     <unit id="5669048f-6cef-4897-864c-0df15653b9e3">
@@ -8037,9 +8037,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 238</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`set_timeouts` to `setTimeouts`;</source>
-        <target>`set_timeouts` to `setTimeouts`;</target>
+        <target>`set_timeouts` vers `setTimeouts` ;</target>
       </segment>
     </unit>
     <unit id="f572d549-c703-4e2a-a7e0-5a5f59ff9812">
@@ -8047,9 +8047,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 239</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`set_latency_timer` to `setLatencyTimer`;</source>
-        <target>`set_latency_timer` to `setLatencyTimer`;</target>
+        <target>`set_latency_timer` vers `setLatencyTimer` ;</target>
       </segment>
     </unit>
     <unit id="452c58c6-cb3e-4bfb-bb5b-7f683fa21eb7">
@@ -8057,9 +8057,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 240</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`set_bit_mode` to `setBitMode`;</source>
-        <target>`set_bit_mode` to `setBitMode`;</target>
+        <target>`set_bit_mode` vers `setBitMode` ;</target>
       </segment>
     </unit>
     <unit id="32fc50c1-dd20-4e76-8455-57cca37bf0c5">
@@ -8067,9 +8067,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 241</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`set_usb_parameters` to `setUsbParameters`;</source>
-        <target>`set_usb_parameters` to `setUsbParameters`;</target>
+        <target>`set_usb_parameters` vers `setUsbParameters` ;</target>
       </segment>
     </unit>
     <unit id="643761d1-430f-4901-a4f0-bae0910766b1">
@@ -8077,9 +8077,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 242</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`get_queue_status` to `getQueueStatus`; and</source>
-        <target>`get_queue_status` to `getQueueStatus`; and</target>
+        <target>`get_queue_status` vers `getQueueStatus` ; et</target>
       </segment>
     </unit>
     <unit id="418a6c2e-834a-4c69-86e5-d56c5ac55936">
@@ -8087,9 +8087,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 243</note>
         <note appliesTo="source">prefix:     * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`reset_device` to `resetDevice`.</source>
-        <target>`reset_device` to `resetDevice`.</target>
+        <target>`reset_device` vers `resetDevice`.</target>
       </segment>
     </unit>
     <unit id="5d033da3-748a-4cb2-bb80-9166ccea6258">
@@ -8097,9 +8097,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 244</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `FTD2XX.purge` method now raises `ValueError` If the `toPurge` argument is not one of "TX", "RX" or "TXRX".</source>
-        <target>The `FTD2XX.purge` method now raises `ValueError` If the `toPurge` argument is not one of "TX", "RX" or "TXRX".</target>
+        <target>La méthode `FTD2XX.purge` génère désormais `ValueError` Si l'argument `toPurge` n'est pas l'un des "TX", "RX" ou "TXRX".</target>
       </segment>
     </unit>
     <unit id="e2b70ec0-9500-43d7-9e59-6d2bc7ec2059">
@@ -8107,9 +8107,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 245</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The deprecated `winVersion.isFullScreenMagnificationAvailable` function has been removed. (#19177)</source>
-        <target>The deprecated `winVersion.isFullScreenMagnificationAvailable` function has been removed. (#19177)</target>
+        <target>La fonction obsolète « winVersion.isFullScreenMagnificationAvailable » a été supprimée. (#19177)</target>
       </segment>
     </unit>
     <unit id="f2255a3e-d645-47aa-be74-1c3fce39c255">
@@ -8117,9 +8117,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 246</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `visionEnhancementProviders.screenCurtain` module has been replaced with the `screenCurtain` subpackage. (#19177)</source>
-        <target>The `visionEnhancementProviders.screenCurtain` module has been replaced with the `screenCurtain` subpackage. (#19177)</target>
+        <target>Le module `visionEnhancementProviders.screenCurtain` a été remplacé par le sous-paquet `screenCurtain`. (#19177)</target>
       </segment>
     </unit>
     <unit id="5edcbf63-d025-4317-b91b-73270fc03377">
