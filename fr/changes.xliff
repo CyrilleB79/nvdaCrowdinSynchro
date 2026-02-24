@@ -8109,7 +8109,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>The deprecated `winVersion.isFullScreenMagnificationAvailable` function has been removed. (#19177)</source>
-        <target>La fonction obsolète « winVersion.isFullScreenMagnificationAvailable » a été supprimée. (#19177)</target>
+        <target>La fonction obsolète `winVersion.isFullScreenMagnificationAvailable` a été supprimée. (#19177)</target>
       </segment>
     </unit>
     <unit id="f2255a3e-d645-47aa-be74-1c3fce39c255">
@@ -8127,9 +8127,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 247</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have no public replacement: `playToggleSoundsCheckBoxText`, `ScreenCurtainGuiPanel`, `ScreenCurtainProvider`, `ScreenCurtainSettings`, `screenCurtainTranslatedName`, `TRANSFORM_BLACK`, `VisionEnhancementProvider`, `WarnOnLoadDialog`, `warnOnLoadCheckBoxText`, `warnOnLoadText`.</source>
-        <target>The following symbols have no public replacement: `playToggleSoundsCheckBoxText`, `ScreenCurtainGuiPanel`, `ScreenCurtainProvider`, `ScreenCurtainSettings`, `screenCurtainTranslatedName`, `TRANSFORM_BLACK`, `VisionEnhancementProvider`, `WarnOnLoadDialog`, `warnOnLoadCheckBoxText`, `warnOnLoadText`.</target>
+        <target>Les symboles suivants n'ont pas de remplacement public : `playToggleSoundsCheckBoxText`, `ScreenCurtainGuiPanel`, `ScreenCurtainProvider`, `ScreenCurtainSettings`, `screenCurtainTranslatedName`, `TRANSFORM_BLACK`, `VisionEnhancementProvider`, `WarnOnLoadDialog`, `warnOnLoadCheckBoxText`, `warnOnLoadText`.</target>
       </segment>
     </unit>
     <unit id="8e3d8f5a-fa2e-4edf-98ea-4f0944667717">
@@ -8137,9 +8137,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 248</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>All public symbols defined on `Magnification` are now accessible from `winBindings.magnification`. (#18958)</source>
-        <target>All public symbols defined on `Magnification` are now accessible from `winBindings.magnification`. (#18958)</target>
+        <target>Tous les symboles publics définis dans `Magnification` sont désormais accessibles depuis `winBindings.magnification`. (#18958)</target>
       </segment>
     </unit>
     <unit id="640b487a-4117-4c54-a1d3-57bbc6f78a89">
@@ -8147,9 +8147,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 249</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`MAGCOLOREFFECT` has been moved to `winBindings.magnification`. (#18958)</source>
-        <target>`MAGCOLOREFFECT` has been moved to `winBindings.magnification`. (#18958)</target>
+        <target>`MAGCOLOREFFECT` a été déplacé vers `winBindings.magnification`. (#18958)</target>
       </segment>
     </unit>
     <unit id="47f24317-e089-4f60-962e-4ce40973db53">
@@ -8157,9 +8157,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 250</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`isScreenFullyBlack` has been moved to `NVDAHelper.localLib`. (#18958)</source>
-        <target>`isScreenFullyBlack` has been moved to `NVDAHelper.localLib`. (#18958)</target>
+        <target>`isScreenFullyBlack` a été déplacé vers `NVDAHelper.localLib`. (#18958)</target>
       </segment>
     </unit>
     <unit id="fbb23762-1a7e-4241-aa57-71d7cc59c26f">
@@ -8167,9 +8167,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 251</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.conf["vision"]["screenCurtain"]` has been moved to `config.conf["screenCurtain"]. (#19177)</source>
-        <target>`config.conf["vision"]["screenCurtain"]` has been moved to `config.conf["screenCurtain"]. (#19177)</target>
+        <target>`config.conf["vision"]["screenCurtain"]` a été déplacé vers `config.conf["screenCurtain"]`. (#19177)</target>
       </segment>
     </unit>
     <unit id="67e052fb-df7c-4580-99f7-0bcdbc05bd6e">
@@ -8177,9 +8177,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 252</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `comInterfaces.MathPlayer` and `mathPres.mathPlayer` modules have been removed. (#19239)</source>
-        <target>The `comInterfaces.MathPlayer` and `mathPres.mathPlayer` modules have been removed. (#19239)</target>
+        <target>Les modules `comInterfaces.MathPlayer` et `mathPres.mathPlayer` ont été supprimés. (#19239)</target>
       </segment>
     </unit>
     <unit id="c416459a-d468-4a38-8f32-ff28597cc943">
@@ -8187,9 +8187,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 253</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been removed from `gui.settingsDialogs.GeneralSettingsPanel` without replacement: `logLevelList`, `allowUsageStatsCheckBox`. (#19296)</source>
-        <target>The following symbols have been removed from `gui.settingsDialogs.GeneralSettingsPanel` without replacement: `logLevelList`, `allowUsageStatsCheckBox`. (#19296)</target>
+        <target>Les symboles suivants ont été supprimés de `gui.settingsDialogs.GeneralSettingsPanel` sans remplacement : `logLevelList`, `allowUsageStatsCheckBox`. (#19296)</target>
       </segment>
     </unit>
     <unit id="b72798af-9c26-4871-bafa-01ef0ba52427">
@@ -8197,18 +8197,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 254</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.settingsDialogs.GeneralSettingsPanel.LOG_LEVELS` has been removed.</source>
-        <target>`gui.settingsDialogs.GeneralSettingsPanel.LOG_LEVELS` has been removed.</target>
+        <target>`gui.settingsDialogs.GeneralSettingsPanel.LOG_LEVELS` a été supprimé.</target>
       </segment>
     </unit>
     <unit id="9361a5f5-8f7b-4ee8-ac4a-f82c2d4c2074">
       <notes>
         <note appliesTo="source">line: 255</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `config.configFlags.LoggingLevel` instead. (#19296)</source>
-        <target>Use `config.configFlags.LoggingLevel` instead. (#19296)</target>
+        <target>Utilisez `config.configFlags.LoggingLevel` à la place. (#19296)</target>
       </segment>
     </unit>
     <unit id="06cedf9c-976a-4130-8acd-c8542c290dba">
@@ -8216,9 +8216,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 256</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes to Microsoft Speech API version 4 and 5: (#19432)</source>
-        <target>Changes to Microsoft Speech API version 4 and 5: (#19432)</target>
+        <target>Modifications apportées à l'API Microsoft Speech versions 4 et 5 : (#19432)</target>
       </segment>
     </unit>
     <unit id="0f30d955-cc4b-4e77-97b2-d715baca2c4e">
@@ -8226,18 +8226,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 257</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`synthDrivers.sapi4` (name: "sapi4") has been removed.</source>
-        <target>`synthDrivers.sapi4` (name: "sapi4") has been removed.</target>
+        <target>`synthDrivers.sapi4` (nom : "sapi4") a été supprimé.</target>
       </segment>
     </unit>
     <unit id="a93c8991-f9e5-4d3c-bb3f-cf573fc4f5cc">
       <notes>
         <note appliesTo="source">line: 258</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use `synthDrivers.sapi4_32` (name: "sapi4_32") instead.</source>
-        <target>  Use `synthDrivers.sapi4_32` (name: "sapi4_32") instead.</target>
+        <target>  Utilisez `synthDrivers.sapi4_32` (nom : "sapi4_32") à la place.</target>
       </segment>
     </unit>
     <unit id="4ca1a11f-9bb5-476d-a4a5-4eb3e7def507">
@@ -8245,18 +8245,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 259</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`synthDrivers.sapi5` (name: "sapi5") now refers to the 64-bit SAPI 5 synth driver.</source>
-        <target>`synthDrivers.sapi5` (name: "sapi5") now refers to the 64-bit SAPI 5 synth driver.</target>
+        <target>`synthDrivers.sapi5` (nom : "sapi5") fait désormais référence au pilote de synthétiseur SAPI 5 64 bits.</target>
       </segment>
     </unit>
     <unit id="ee28f13c-c185-4426-8c92-b4fac5ac3027">
       <notes>
         <note appliesTo="source">line: 260</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Use `synthDrivers.sapi5_32` (name: "sapi5_32") for the 32-bit SAPI 5 driver.</source>
-        <target>  Use `synthDrivers.sapi5_32` (name: "sapi5_32") for the 32-bit SAPI 5 driver.</target>
+        <target>  Utilisez `synthDrivers.sapi5_32` (nom : "sapi5_32") pour le pilote SAPI 5 32 bits.</target>
       </segment>
     </unit>
     <unit id="a3933854-aa52-4946-acc7-2be5510e27fe">
@@ -8264,18 +8264,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 261</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.setSystemConfigToCurrentConfig` now takes a `Collection` of add-on IDs (as strings) to copy to the system configuration.</source>
-        <target>`config.setSystemConfigToCurrentConfig` now takes a `Collection` of add-on IDs (as strings) to copy to the system configuration.</target>
+        <target>`config.setSystemConfigToCurrentConfig` prend désormais une `Collection` d'ID d'extensions (sous forme de chaînes) à copier dans la configuration du système.</target>
       </segment>
     </unit>
     <unit id="9e3b430f-bab5-439d-bf58-07e80d028b41">
       <notes>
         <note appliesTo="source">line: 262</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only add-ons with the given IDs will be copied. (#19446)</source>
-        <target>Only add-ons with the given IDs will be copied. (#19446)</target>
+        <target>Seuls les extensions avec les identifiants donnés seront copiées. (#19446)</target>
       </segment>
     </unit>
     <unit id="47a8aa97-b646-46fc-be50-73bddb269501">
@@ -8283,9 +8283,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 264</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Deprecations</source>
-        <target>Deprecations</target>
+        <target>Dépréciations</target>
       </segment>
     </unit>
     <unit id="dd0237e8-f055-4e55-90b4-c4296b8d40cb">
@@ -8293,9 +8293,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 266</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winVersion.WIN81` is deprecated. (#18684, @josephsl)</source>
-        <target>`winVersion.WIN81` is deprecated. (#18684, @josephsl)</target>
+        <target>`winVersion.WIN81` est obsolète. (#18684, @josephsl)</target>
       </segment>
     </unit>
     <unit id="70cb986c-026c-4648-a45f-6729d8ed56c7">
@@ -8303,18 +8303,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 267</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAHelper.versionedLibPath` is deprecated.</source>
-        <target>`NVDAHelper.versionedLibPath` is deprecated.</target>
+        <target>`NVDAHelper.versionedLibPath` est obsolète.</target>
       </segment>
     </unit>
     <unit id="3d290ff5-1a90-4b97-8f18-88914bda0863">
       <notes>
         <note appliesTo="source">line: 268</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `NVDAState.ReadPaths.versionedLibX86Path` instead. (#18207)</source>
-        <target>Use `NVDAState.ReadPaths.versionedLibX86Path` instead. (#18207)</target>
+        <target>Utilisez `NVDAState.ReadPaths.versionedLibX86Path` à la place. (#18207)</target>
       </segment>
     </unit>
     <unit id="9d27fba3-0b37-4e1a-831e-26bd088066d5">
@@ -8322,18 +8322,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 269</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAHelper.coreArchLibPath` is deprecated.</source>
-        <target>`NVDAHelper.coreArchLibPath` is deprecated.</target>
+        <target>`NVDAHelper.coreArchLibPath` est obsolète.</target>
       </segment>
     </unit>
     <unit id="cb234a24-a438-4eea-b74d-70d04d6f7bb1">
       <notes>
         <note appliesTo="source">line: 270</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `NVDAState.ReadPaths.coreArchLibPath` instead. (#18207)</source>
-        <target>Use `NVDAState.ReadPaths.coreArchLibPath` instead. (#18207)</target>
+        <target>Utilisez `NVDAState.ReadPaths.coreArchLibPath` à la place. (#18207)</target>
       </segment>
     </unit>
     <unit id="ae5467bf-400e-47aa-a22d-f1bae8dc680d">
@@ -8341,18 +8341,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 271</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAHelper.LOCAL_WIN10_DLL_PATH` is deprecated.</source>
-        <target>`NVDAHelper.LOCAL_WIN10_DLL_PATH` is deprecated.</target>
+        <target>`NVDAHelper.LOCAL_WIN10_DLL_PATH` est obsolète.</target>
       </segment>
     </unit>
     <unit id="2e395331-700e-423c-ac81-63fffb6558ca">
       <notes>
         <note appliesTo="source">line: 272</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `NVDAState.ReadPaths.nvdaHelperLocalWin10Dll` instead. (#18207)</source>
-        <target>Use `NVDAState.ReadPaths.nvdaHelperLocalWin10Dll` instead. (#18207)</target>
+        <target>Utilisez `NVDAState.ReadPaths.nvdaHelperLocalWin10Dll` à la place. (#18207)</target>
       </segment>
     </unit>
     <unit id="15f46ff7-843f-4adc-bba4-bb9466788d68">
@@ -8360,18 +8360,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 273</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `NVDAHelper` to `NVDAHelper.localLib`: `generateBeep`, `VBuf_getTextInRange`.</source>
-        <target>The following symbols have been moved from `NVDAHelper` to `NVDAHelper.localLib`: `generateBeep`, `VBuf_getTextInRange`.</target>
+        <target>Les symboles suivants ont été déplacés de `NVDAHelper` vers `NVDAHelper.localLib` : `generateBeep`, `VBuf_getTextInRange`.</target>
       </segment>
     </unit>
     <unit id="7ba0b67a-c79c-4beb-80e8-8dd0288c1b7c">
       <notes>
         <note appliesTo="source">line: 274</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `NVDAHelper` is deprecated. (#18207)</source>
-        <target>Access to these symbols via `NVDAHelper` is deprecated. (#18207)</target>
+        <target>L'accès à ces symboles via `NVDAHelper` est obsolète. (#18207)</target>
       </segment>
     </unit>
     <unit id="e7a7f7e3-023c-46d6-8ac9-fdb08491b887">
@@ -8379,18 +8379,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 275</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAHelper.onSsmlMarkReached` is deprecated.</source>
-        <target>`NVDAHelper.onSsmlMarkReached` is deprecated.</target>
+        <target>`NVDAHelper.onSsmlMarkReached` est obsolète.</target>
       </segment>
     </unit>
     <unit id="620f4428-0958-499a-a384-f0ea0cc98b52">
       <notes>
         <note appliesTo="source">line: 276</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `NVDAHelper.localLib.nvdaController_onSsmlMarkReached` instead. (#18207)</source>
-        <target>Use `NVDAHelper.localLib.nvdaController_onSsmlMarkReached` instead. (#18207)</target>
+        <target>Utilisez `NVDAHelper.localLib.nvdaController_onSsmlMarkReached` à la place. (#18207)</target>
       </segment>
     </unit>
     <unit id="d48b6371-bdc2-4883-84d4-cd23ee41ad0d">
