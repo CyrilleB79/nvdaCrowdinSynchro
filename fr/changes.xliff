@@ -8398,18 +8398,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 277</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAObjects.window.excel.ExcelCellInfo` is deprecated.</source>
-        <target>`NVDAObjects.window.excel.ExcelCellInfo` is deprecated.</target>
+        <target>`NVDAObjects.window.excel.ExcelCellInfo` est obsolète.</target>
       </segment>
     </unit>
     <unit id="b1c26467-bfd1-40bb-bd38-e565dcb4cda9">
       <notes>
         <note appliesTo="source">line: 278</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `NVDAHelper.localLib.EXCEL_CELLINFO` instead. (#18207)</source>
-        <target>Use `NVDAHelper.localLib.EXCEL_CELLINFO` instead. (#18207)</target>
+        <target>Utilisez `NVDAHelper.localLib.EXCEL_CELLINFO` à la place. (#18207)</target>
       </segment>
     </unit>
     <unit id="e5c2e1bb-3731-4167-b9b8-6f6c3ee43ee5">
@@ -8417,18 +8417,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 279</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`nvwave.WAVEFORMATEX` is deprecated.</source>
-        <target>`nvwave.WAVEFORMATEX` is deprecated.</target>
+        <target>`nvwave.WAVEFORMATEX` est obsolète.</target>
       </segment>
     </unit>
     <unit id="09fd908c-e8b0-4f87-bb76-e47e28db5036">
       <notes>
         <note appliesTo="source">line: 280</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.mmeapi.WAVEFORMATEX` instead. (#18207)</source>
-        <target>Use `winBindings.mmeapi.WAVEFORMATEX` instead. (#18207)</target>
+        <target>Utilisez `winBindings.mmeapi.WAVEFORMATEX` à la place. (#18207)</target>
       </segment>
     </unit>
     <unit id="c971cb16-a216-43a4-a145-dcd1f59d659b">
@@ -8436,18 +8436,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 281</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `winuser` to `winBindings.user32`: `GUITHREADINFO`, `HWINEVENTHOOK`, `WINEVENTPROC`, `WNDCLASSEXW`, `WNDPROC`, `PAINTSTRUCT`.</source>
-        <target>The following symbols have been moved from `winuser` to `winBindings.user32`: `GUITHREADINFO`, `HWINEVENTHOOK`, `WINEVENTPROC`, `WNDCLASSEXW`, `WNDPROC`, `PAINTSTRUCT`.</target>
+        <target>Les symboles suivants ont été déplacés de `winuser` vers `winBindings.user32` : `GUITHREADINFO`, `HWINEVENTHOOK`, `WINEVENTPROC`, `WNDCLASSEXW`, `WNDPROC`, `PAINTSTRUCT`.</target>
       </segment>
     </unit>
     <unit id="a0e15bce-4213-4e9e-b6e9-08f73cbd070e">
       <notes>
         <note appliesTo="source">line: 282</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `winuser` is deprecated. (#18207, #18883)</source>
-        <target>Access to these symbols via `winuser` is deprecated. (#18207, #18883)</target>
+        <target>L'accès à ces symboles via `winuser` est obsolète. (#18207, #18883)</target>
       </segment>
     </unit>
     <unit id="e6da2adb-599c-4722-a542-50014e6ee648">
@@ -8455,18 +8455,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 283</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `hwPortUtils` to `winBindings.bthprops`: `BLUETOOTH_ADDRESS`, `BLUETOOTH_DEVICE_INFO`, `BLUETOOTH_MAX_NAME_SIZE`, `BluetoothGetDeviceInfo`.</source>
-        <target>The following symbols have been moved from `hwPortUtils` to `winBindings.bthprops`: `BLUETOOTH_ADDRESS`, `BLUETOOTH_DEVICE_INFO`, `BLUETOOTH_MAX_NAME_SIZE`, `BluetoothGetDeviceInfo`.</target>
+        <target>Les symboles suivants ont été déplacés de `hwPortUtils` vers `winBindings.bthprops` : `BLUETOOTH_ADDRESS`, `BLUETOOTH_DEVICE_INFO`, `BLUETOOTH_MAX_NAME_SIZE`, `BluetoothGetDeviceInfo`.</target>
       </segment>
     </unit>
     <unit id="8cbe3679-6b8f-4e91-bfeb-09accb16a7ef">
       <notes>
         <note appliesTo="source">line: 284</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `hwPortUtils` is deprecated. (#18571)</source>
-        <target>Access to these symbols via `hwPortUtils` is deprecated. (#18571)</target>
+        <target>L'accès à ces symboles via `hwPortUtils` est obsolète. (#18571)</target>
       </segment>
     </unit>
     <unit id="40ede034-92e0-4676-8942-d395fce55c18">
@@ -8474,18 +8474,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 285</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`hwPortUtils.BTH_ADDR` is deprecated.</source>
-        <target>`hwPortUtils.BTH_ADDR` is deprecated.</target>
+        <target>`hwPortUtils.BTH_ADDR` est obsolète.</target>
       </segment>
     </unit>
     <unit id="de723432-f1c2-4d92-b881-d554a1b06a90">
       <notes>
         <note appliesTo="source">line: 286</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.bthprops.BLUETOOTH_ADDRESS` instead. (#18571)</source>
-        <target>Use `winBindings.bthprops.BLUETOOTH_ADDRESS` instead. (#18571)</target>
+        <target>Utilisez `winBindings.bthprops.BLUETOOTH_ADDRESS` à la place. (#18571)</target>
       </segment>
     </unit>
     <unit id="2db0d368-82b3-447e-a417-0bc283a9a055">
@@ -8493,18 +8493,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 287</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `hwPortUtils` to `winBindings.cfgmgr32`: `CM_Get_Device_ID`, `CR_SUCCESS`, `MAX_DEVICE_ID_LEN`.</source>
-        <target>The following symbols have been moved from `hwPortUtils` to `winBindings.cfgmgr32`: `CM_Get_Device_ID`, `CR_SUCCESS`, `MAX_DEVICE_ID_LEN`.</target>
+        <target>Les symboles suivants ont été déplacés de `hwPortUtils` vers `winBindings.cfgmgr32`: `CM_Get_Device_ID`, `CR_SUCCESS`, `MAX_DEVICE_ID_LEN`.</target>
       </segment>
     </unit>
     <unit id="a88ed0f7-dd85-49d9-b708-8eafd1200d7d">
       <notes>
         <note appliesTo="source">line: 288</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `hwPortUtils` is deprecated. (#18571)</source>
-        <target>Access to these symbols via `hwPortUtils` is deprecated. (#18571)</target>
+        <target>L'accès à ces symboles via `hwPortUtils` est obsolète. (#18571)</target>
       </segment>
     </unit>
     <unit id="d0fc3818-0196-4750-909e-d53819f3fbf1">
@@ -8512,18 +8512,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 289</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbol has been moved from `hwPortUtils` to `winBindings.hid`: `HIDD_ATTRIBUTES`.</source>
-        <target>The following symbol has been moved from `hwPortUtils` to `winBindings.hid`: `HIDD_ATTRIBUTES`.</target>
+        <target>Le symbole suivant a été déplacé de `hwPortUtils` vers `winBindings.hid`: `HIDD_ATTRIBUTES`.</target>
       </segment>
     </unit>
     <unit id="1c769ee6-3cc5-404c-bfa1-289305e4b48b">
       <notes>
         <note appliesTo="source">line: 290</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to this symbol via `hwPortUtils` is deprecated. (#18571)</source>
-        <target>Access to this symbol via `hwPortUtils` is deprecated. (#18571)</target>
+        <target>L'accès à ce symbole via `hwPortUtils` est obsolète. (#18571)</target>
       </segment>
     </unit>
     <unit id="85fd7e24-23bc-4c94-b27d-7ab18d8f39db">
@@ -8531,18 +8531,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 291</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`hwIo.hid.hidDll` is deprecated.</source>
-        <target>`hwIo.hid.hidDll` is deprecated.</target>
+        <target>`hwIo.hid.hidDll` est obsolète.</target>
       </segment>
     </unit>
     <unit id="495ee76a-ef5e-4092-bd4e-6d32d225be77">
       <notes>
         <note appliesTo="source">line: 292</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.hid.dll` instead. (#18902)</source>
-        <target>Use `winBindings.hid.dll` instead. (#18902)</target>
+        <target>Utilisez `winBindings.hid.dll` à la place. (#18902)</target>
       </segment>
     </unit>
     <unit id="5d138f3e-4469-4803-b43e-e2e357c4501d">
@@ -8550,18 +8550,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 293</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `hwPortUtils` to `winBindings.setupapi`: `DEVPKEY_Device_BusReportedDeviceDesc`, `DEVPROPKEY`, `GUID_CLASS_COMPORT`, `GUID_DEVINTERFACE_USB_DEVICE`, `HDEVINFO`, `PSP_DEVICE_INTERFACE_DATA`, `PSP_DEVICE_INTERFACE_DETAIL_DATA`, `PSP_DEVINFO_DATA`, `SP_DEVICE_INTERFACE_DATA`, `SP_DEVINFO_DATA`, `SetupDiDestroyDeviceInfoList`, `SetupDiEnumDeviceInfo`, `SetupDiEnumDeviceInterfaces`, `SetupDiGetClassDevs`, `SetupDiGetDeviceInterfaceDetail`, `SetupDiGetDeviceProperty`, `SetupDiGetDeviceRegistryProperty`, `SetupDiOpenDevRegKey`, `SIZEOF_SP_DEVICE_INTERFACE_DETAIL_DATA_W`.</source>
-        <target>The following symbols have been moved from `hwPortUtils` to `winBindings.setupapi`: `DEVPKEY_Device_BusReportedDeviceDesc`, `DEVPROPKEY`, `GUID_CLASS_COMPORT`, `GUID_DEVINTERFACE_USB_DEVICE`, `HDEVINFO`, `PSP_DEVICE_INTERFACE_DATA`, `PSP_DEVICE_INTERFACE_DETAIL_DATA`, `PSP_DEVINFO_DATA`, `SP_DEVICE_INTERFACE_DATA`, `SP_DEVINFO_DATA`, `SetupDiDestroyDeviceInfoList`, `SetupDiEnumDeviceInfo`, `SetupDiEnumDeviceInterfaces`, `SetupDiGetClassDevs`, `SetupDiGetDeviceInterfaceDetail`, `SetupDiGetDeviceProperty`, `SetupDiGetDeviceRegistryProperty`, `SetupDiOpenDevRegKey`, `SIZEOF_SP_DEVICE_INTERFACE_DETAIL_DATA_W`.</target>
+        <target>Les symboles suivants ont été déplacés de `hwPortUtils` vers `winBindings.setupapi` : `DEVPKEY_Device_BusReportedDeviceDesc`, `DEVPROPKEY`, `GUID_CLASS_COMPORT`, `GUID_DEVINTERFACE_USB_DEVICE`, `HDEVINFO`, `PSP_DEVICE_INTERFACE_DATA`, `PSP_DEVICE_INTERFACE_DETAIL_DATA`, `PSP_DEVINFO_DATA`, `SP_DEVICE_INTERFACE_DATA`, `SP_DEVINFO_DATA`, `SetupDiDestroyDeviceInfoList`, `SetupDiEnumDeviceInfo`, `SetupDiEnumDeviceInterfaces`, `SetupDiGetClassDevs`, `SetupDiGetDeviceInterfaceDetail`, `SetupDiGetDeviceProperty`, `SetupDiGetDeviceRegistryProperty`, `SetupDiOpenDevRegKey`, `SIZEOF_SP_DEVICE_INTERFACE_DETAIL_DATA_W`.</target>
       </segment>
     </unit>
     <unit id="60db6947-c6b4-4edd-bbae-0e22fad0f3a5">
       <notes>
         <note appliesTo="source">line: 294</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `hwPortUtils` is deprecated. (#18571)</source>
-        <target>Access to these symbols via `hwPortUtils` is deprecated. (#18571)</target>
+        <target>L'accès à ces symboles via `hwPortUtils` est obsolète. (#18571)</target>
       </segment>
     </unit>
     <unit id="9f369a8a-7558-4d59-89bf-116930238b2c">
@@ -8569,18 +8569,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 295</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `DIGCF_*`, `SPDRP_*`, `DICS_FLAG_*`, and `DIREG_*` constants in `hwPortUtils` are deprecated.</source>
-        <target>The `DIGCF_*`, `SPDRP_*`, `DICS_FLAG_*`, and `DIREG_*` constants in `hwPortUtils` are deprecated.</target>
+        <target>Les constantes `DIGCF_*`, `SPDRP_*`, `DICS_FLAG_*`, et `DIREG_*` dans `hwPortUtils` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="cc1eeac7-4fef-469c-a732-2c621c8fb6c2">
       <notes>
         <note appliesTo="source">line: 296</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use their `Enum` counterparts from `winBindings.setupapi` instead. (#18571)</source>
-        <target>Use their `Enum` counterparts from `winBindings.setupapi` instead. (#18571)</target>
+        <target>Utilisez les `Enum` correspondantes de `winBindings.setupapi` à la place. (#18571)</target>
       </segment>
     </unit>
     <unit id="184edfc1-cc63-4e0d-a089-8035442c0593">
@@ -8588,9 +8588,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 297</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`hwPortUtils.dummy`, `hwPortUtils.INVALID_HANDLE_VALUE` and `hwPortUtils.ValidHandle` are deprecated, with no planned replacement. (#18571)</source>
-        <target>`hwPortUtils.dummy`, `hwPortUtils.INVALID_HANDLE_VALUE` and `hwPortUtils.ValidHandle` are deprecated, with no planned replacement. (#18571)</target>
+        <target>`hwPortUtils.dummy`, `hwPortUtils.INVALID_HANDLE_VALUE` et `hwPortUtils.ValidHandle` sont obsolètes, sans remplacement prévu. (#18571)</target>
       </segment>
     </unit>
     <unit id="d3f3239c-4efd-4ec6-82b5-160b65b70c8a">
@@ -8598,18 +8598,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 298</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`hwPortUtils.ERROR_INSUFFICIENT_BUFFER` and `hwPortUtils.ERROR_NO_MORE_ITEMS` are deprecated.</source>
-        <target>`hwPortUtils.ERROR_INSUFFICIENT_BUFFER` and `hwPortUtils.ERROR_NO_MORE_ITEMS` are deprecated.</target>
+        <target>`hwPortUtils.ERROR_INSUFFICIENT_BUFFER` et `hwPortUtils.ERROR_NO_MORE_ITEMS` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="f76a0855-636f-4e1b-8393-bf2e93b06af9">
       <notes>
         <note appliesTo="source">line: 299</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winAPI.SystemErrorCodes.INSUFFICIENT_BUFFER` and `winAPI.SystemErrorCodes.NO_MORE_ITEMS` instead. (#18571)</source>
-        <target>Use `winAPI.SystemErrorCodes.INSUFFICIENT_BUFFER` and `winAPI.SystemErrorCodes.NO_MORE_ITEMS` instead. (#18571)</target>
+        <target>Utilisez `winAPI.SystemErrorCodes.INSUFFICIENT_BUFFER` et `winAPI.SystemErrorCodes.NO_MORE_ITEMS` à la place. (#18571)</target>
       </segment>
     </unit>
     <unit id="77a5f81c-eb77-4613-ba27-be1186188922">
@@ -8617,9 +8617,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 300</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`addonHandler.BUNDLE_EXTENSION` has been moved to `config.registry.ADDON_BUNDLE_EXTENSION`. (#18851)</source>
-        <target>`addonHandler.BUNDLE_EXTENSION` has been moved to `config.registry.ADDON_BUNDLE_EXTENSION`. (#18851)</target>
+        <target>`addonHandler.BUNDLE_EXTENSION` a été déplacé vers `config.registry.ADDON_BUNDLE_EXTENSION`. (#18851)</target>
       </segment>
     </unit>
     <unit id="f4a02009-5558-4838-8ccd-315ad7e22010">
@@ -8627,9 +8627,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 301</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`addonHandler.NVDA_ADDON_PROG_ID` has been moved to `config.registry.NVDA_ADDON_PROG_ID`. (#18851)</source>
-        <target>`addonHandler.NVDA_ADDON_PROG_ID` has been moved to `config.registry.NVDA_ADDON_PROG_ID`. (#18851)</target>
+        <target>`addonHandler.NVDA_ADDON_PROG_ID` a été déplacé vers `config.registry.NVDA_ADDON_PROG_ID`. (#18851)</target>
       </segment>
     </unit>
     <unit id="a552c6a4-b64c-4f3c-8254-f511273fcc62">
@@ -8637,9 +8637,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 302</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`installer.defaultInstallPath` has been moved to `NVDAState.WritePaths.defaultInstallDir`. (#18851)</source>
-        <target>`installer.defaultInstallPath` has been moved to `NVDAState.WritePaths.defaultInstallDir`. (#18851)</target>
+        <target>`installer.defaultInstallPath` a été déplacé vers `NVDAState.WritePaths.defaultInstallDir`. (#18851)</target>
       </segment>
     </unit>
     <unit id="9a1385c3-5595-43cd-96b2-a57abee312d7">
@@ -8647,18 +8647,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 303</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`fonts.gdi32`, `screenBitmap.gdi32` and `winGDI.gdi32` are deprecated.</source>
-        <target>`fonts.gdi32`, `screenBitmap.gdi32` and `winGDI.gdi32` are deprecated.</target>
+        <target>`fonts.gdi32`, `screenBitmap.gdi32` et `winGDI.gdi32` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="10ad8772-cc94-43fb-94a6-a0c2ad6019a5">
       <notes>
         <note appliesTo="source">line: 304</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.gdi32.dll` instead. (#18860)</source>
-        <target>Use `winBindings.gdi32.dll` instead. (#18860)</target>
+        <target>Utilisez `winBindings.gdi32.dll` à la place. (#18860)</target>
       </segment>
     </unit>
     <unit id="5a237b90-98a4-4779-9f74-48442df8a68d">
@@ -8666,18 +8666,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 305</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`shellapi.shell32` is deprecated.</source>
-        <target>`shellapi.shell32` is deprecated.</target>
+        <target>`shellapi.shell32` est obsolète.</target>
       </segment>
     </unit>
     <unit id="5951324d-da53-48d5-a6a4-1b06c561710b">
       <notes>
         <note appliesTo="source">line: 306</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.shell32.dll` instead. (#18860)</source>
-        <target>Use `winBindings.shell32.dll` instead. (#18860)</target>
+        <target>Utilisez `winBindings.shell32.dll` à la place. (#18860)</target>
       </segment>
     </unit>
     <unit id="aee8bcf7-5727-4527-8205-15daedcf2a41">
@@ -8685,18 +8685,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 307</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `shellapi` to `winBindings.shell32`: `SHELLEXECUTEINFO`, `SHELLEXECUTEINFOW`.</source>
-        <target>The following symbols have been moved from `shellapi` to `winBindings.shell32`: `SHELLEXECUTEINFO`, `SHELLEXECUTEINFOW`.</target>
+        <target>Les symboles suivants ont été déplacés de `shellapi` vers `winBindings.shell32`: `SHELLEXECUTEINFO`, `SHELLEXECUTEINFOW`.</target>
       </segment>
     </unit>
     <unit id="d6179c40-fd9f-480b-9858-9d7d862e650f">
       <notes>
         <note appliesTo="source">line: 308</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `shellapi` is deprecated. (#18860)</source>
-        <target>Access to these symbols via `shellapi` is deprecated. (#18860)</target>
+        <target>L'accès à ces symboles via `shellapi` est obsolète. (#18860)</target>
       </segment>
     </unit>
     <unit id="8ad48839-9285-4192-a7fb-34c50f490c20">
@@ -8704,18 +8704,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 309</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winGDI.gdiplus` is deprecated.</source>
-        <target>`winGDI.gdiplus` is deprecated.</target>
+        <target>`winGDI.gdiplus` est obsolète.</target>
       </segment>
     </unit>
     <unit id="4abef0dc-c6b0-480f-8c6a-e3c96af7a507">
       <notes>
         <note appliesTo="source">line: 310</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.gdiplus.dll` instead. (#18860)</source>
-        <target>Use `winBindings.gdiplus.dll` instead. (#18860)</target>
+        <target>Utilisez `winBindings.gdiplus.dll` à la place. (#18860)</target>
       </segment>
     </unit>
     <unit id="1bef825d-5c8b-4d54-90ca-5d1d5c47ca56">
@@ -8723,18 +8723,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 311</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `winGDI` to `winBindings.gdi32`: `RGBQUAD`, `BITMAPINFOHEADER`, `BITMAPINFO`.</source>
-        <target>The following symbols have been moved from `winGDI` to `winBindings.gdi32`: `RGBQUAD`, `BITMAPINFOHEADER`, `BITMAPINFO`.</target>
+        <target>Les symboles suivants ont été déplacés de `winGDI` vers `winBindings.gdi32`: `RGBQUAD`, `BITMAPINFOHEADER`, `BITMAPINFO`.</target>
       </segment>
     </unit>
     <unit id="41339eda-e992-45ff-8335-302beaea3f34">
       <notes>
         <note appliesTo="source">line: 312</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `winGDI` is deprecated. (#18860)</source>
-        <target>Access to these symbols via `winGDI` is deprecated. (#18860)</target>
+        <target>L'accès à ces symboles via `winGDI` est obsolète. (#18860)</target>
       </segment>
     </unit>
     <unit id="eaddf906-ea3e-4307-9652-e1a608694295">
@@ -8742,18 +8742,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 313</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `winGDI` to `winBindings.gdiplus`: `GdiplusStartupInput`, `GdiplusStartupOutput`.</source>
-        <target>The following symbols have been moved from `winGDI` to `winBindings.gdiplus`: `GdiplusStartupInput`, `GdiplusStartupOutput`.</target>
+        <target>Les symboles suivants ont été déplacés de `winGDI` vers `winBindings.gdiplus`: `GdiplusStartupInput`, `GdiplusStartupOutput`.</target>
       </segment>
     </unit>
     <unit id="a8e0e927-d73d-4aee-ace4-3e1a4429a015">
       <notes>
         <note appliesTo="source">line: 314</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `winGDI` is deprecated. (#18860)</source>
-        <target>Access to these symbols via `winGDI` is deprecated. (#18860)</target>
+        <target>L'accès à ces symboles via `winGDI` est obsolète. (#18860)</target>
       </segment>
     </unit>
     <unit id="6fac6359-680f-4f37-8184-d0652b5656bd">
@@ -8761,18 +8761,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 315</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `winKernel` to `winBindings.advapi32`: `PROCESS_INFORMATION`, `STARTUPINFO`, `STARTUPINFOW`.</source>
-        <target>The following symbols have been moved from `winKernel` to `winBindings.advapi32`: `PROCESS_INFORMATION`, `STARTUPINFO`, `STARTUPINFOW`.</target>
+        <target>Les symboles suivants ont été déplacés de `winKernel` vers `winBindings.advapi32`: `PROCESS_INFORMATION`, `STARTUPINFO`, `STARTUPINFOW`.</target>
       </segment>
     </unit>
     <unit id="168fcbb9-f0e5-4c9a-a271-d02edfe94417">
       <notes>
         <note appliesTo="source">line: 316</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `winKernel` is deprecated. (#18860)</source>
-        <target>Access to these symbols via `winKernel` is deprecated. (#18860)</target>
+        <target>L'accès à ces symboles via `winKernel` est obsolète. (#18860)</target>
       </segment>
     </unit>
     <unit id="8bd9828c-0025-4d2c-847a-7b87bdceb0a6">
@@ -8780,18 +8780,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 317</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winKernel.advapi32` is deprecated.</source>
-        <target>`winKernel.advapi32` is deprecated.</target>
+        <target>`winKernel.advapi32` est obsolète.</target>
       </segment>
     </unit>
     <unit id="b85215dd-84ae-4036-8bcf-5cb3d34e6999">
       <notes>
         <note appliesTo="source">line: 318</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.advapi32.dll` instead. (#18860)</source>
-        <target>Use `winBindings.advapi32.dll` instead. (#18860)</target>
+        <target>Utilisez `winBindings.advapi32.dll` à la place. (#18860)</target>
       </segment>
     </unit>
     <unit id="ee342a51-ad5e-4375-8da3-8583e7257292">
@@ -8799,9 +8799,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 319</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`NVDAHelper.bstrReturn` is deprecated, with no planned replacement. (#18858)</source>
-        <target>`NVDAHelper.bstrReturn` is deprecated, with no planned replacement. (#18858)</target>
+        <target>`NVDAHelper.bstrReturn` est obsolète et aucun remplacement n'est prévu. (#18858)</target>
       </segment>
     </unit>
     <unit id="f25d234b-a0e7-4e07-831b-d62f9503b313">
@@ -8809,18 +8809,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 320</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`contentRecog.uwpOcr.uwpOcr_Callback` is deprecated.</source>
-        <target>`contentRecog.uwpOcr.uwpOcr_Callback` is deprecated.</target>
+        <target>`contentRecog.uwpOcr.uwpOcr_Callback` est obsolète.</target>
       </segment>
     </unit>
     <unit id="bf6f3e8e-b7e6-47de-832d-00fb9d2257d5">
       <notes>
         <note appliesTo="source">line: 321</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `NVDAHelper.localWin10.uwpOcr_Callback` instead. (#18858)</source>
-        <target>Use `NVDAHelper.localWin10.uwpOcr_Callback` instead. (#18858)</target>
+        <target>Utilisez `NVDAHelper.localWin10.uwpOcr_Callback` à la place. (#18858)</target>
       </segment>
     </unit>
     <unit id="6493099d-a49a-4d02-950d-2260bc6614c6">
@@ -8828,18 +8828,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 322</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`touchHelper.SM_MAXIMUMTOUCHES` is deprecated.</source>
-        <target>`touchHelper.SM_MAXIMUMTOUCHES` is deprecated.</target>
+        <target>`touchHelper.SM_MAXIMUMTOUCHES` est obsolète.</target>
       </segment>
     </unit>
     <unit id="1e8de2b6-74fc-4543-a0f6-606392a7400b">
       <notes>
         <note appliesTo="source">line: 323</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winAPI.winUser.constants.SystemMetrics.MAXIMUM_TOUCHES` instead. (#18883)</source>
-        <target>Use `winAPI.winUser.constants.SystemMetrics.MAXIMUM_TOUCHES` instead. (#18883)</target>
+        <target>Utilisez `winAPI.winUser.constants.SystemMetrics.MAXIMUM_TOUCHES` à la place. (#18883)</target>
       </segment>
     </unit>
     <unit id="f36534af-91b5-4c57-8686-995d45569057">
@@ -8847,18 +8847,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 324</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`screenBitmap.user32`, `winAPI.winUser.functions.user32`, `winGDI.user32`, and `winUser.user32` are deprecated.</source>
-        <target>`screenBitmap.user32`, `winAPI.winUser.functions.user32`, `winGDI.user32`, and `winUser.user32` are deprecated.</target>
+        <target>`screenBitmap.user32`, `winAPI.winUser.functions.user32`, `winGDI.user32`, et `winUser.user32` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="f820cfb9-d67d-41ff-8cf3-4a4b9823f8ff">
       <notes>
         <note appliesTo="source">line: 325</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.user32.dll` instead. (#18883)</source>
-        <target>Use `winBindings.user32.dll` instead. (#18883)</target>
+        <target>Utilisez `winBindings.user32.dll` à la place. (#18883)</target>
       </segment>
     </unit>
     <unit id="b6334f69-e1bc-4231-b439-768458367eef">
@@ -8866,18 +8866,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 326</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `HardwareInput`, `Input`, `KeyBdInput` and `MouseInput` structures from `winUser` are deprecated.</source>
-        <target>The `HardwareInput`, `Input`, `KeyBdInput` and `MouseInput` structures from `winUser` are deprecated.</target>
+        <target>Les structures `HardwareInput`, `Input`, `KeyBdInput` et `MouseInput` de `winUser` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="04a05f1b-4261-45b7-bf17-77dd839b5d41">
       <notes>
         <note appliesTo="source">line: 327</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `HARDWAREINPUT`, `INPUT`, `KEYBDINPUT` and `MOUSEINPUT` from `winBindings.user32` instead. (#18883)</source>
-        <target>Use `HARDWAREINPUT`, `INPUT`, `KEYBDINPUT` and `MOUSEINPUT` from `winBindings.user32` instead. (#18883)</target>
+        <target>Utilisez `HARDWAREINPUT`, `INPUT`, `KEYBDINPUT` et `MOUSEINPUT` de `winBindings.user32` à la place. (#18883)</target>
       </segment>
     </unit>
     <unit id="f9346b23-f4d3-436d-b044-3d7d73b4e406">
@@ -8885,18 +8885,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 328</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `winKernel` to `winBindings.kernel32`: `FILETIME`, `SYSTEMTIME` and `TIME_ZONE_INFORMATION`.</source>
-        <target>The following symbols have been moved from `winKernel` to `winBindings.kernel32`: `FILETIME`, `SYSTEMTIME` and `TIME_ZONE_INFORMATION`.</target>
+        <target>Les symboles suivants ont été déplacés de `winKernel` to `winBindings.kernel32`: `FILETIME`, `SYSTEMTIME` et `TIME_ZONE_INFORMATION`.</target>
       </segment>
     </unit>
     <unit id="b4cb00dd-a85c-451f-94d3-5b08e5e2b07f">
       <notes>
         <note appliesTo="source">line: 329</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `winKernel` is deprecated. (#18896)</source>
-        <target>Access to these symbols via `winKernel` is deprecated. (#18896)</target>
+        <target>L'accès à ces symboles via `winKernel` est obsolète. (#18896)</target>
       </segment>
     </unit>
     <unit id="6beb4ead-2bf1-491f-a70b-b8295492ee09">
@@ -8904,18 +8904,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 330</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `wincon` to `winBindings.kernel32`: `COORD`, `CONSOLE_SCREEN_BUFFER_INFO`, `CONSOLE_SELECTION_INFO`, `CHAR_INFO` and `PHANDLER_ROUTINE`.</source>
-        <target>The following symbols have been moved from `wincon` to `winBindings.kernel32`: `COORD`, `CONSOLE_SCREEN_BUFFER_INFO`, `CONSOLE_SELECTION_INFO`, `CHAR_INFO` and `PHANDLER_ROUTINE`.</target>
+        <target>Les symboles suivants ont été déplacés de `wincon` vers `winBindings.kernel32`: `COORD`, `CONSOLE_SCREEN_BUFFER_INFO`, `CONSOLE_SELECTION_INFO`, `CHAR_INFO` et `PHANDLER_ROUTINE`.</target>
       </segment>
     </unit>
     <unit id="3d148196-f4c7-4f00-b38c-b14222c718b2">
       <notes>
         <note appliesTo="source">line: 331</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `wincon` is deprecated. (#18896)</source>
-        <target>Access to these symbols via `wincon` is deprecated. (#18896)</target>
+        <target>L'accès à ces symboles via `wincon` est obsolète. (#18896)</target>
       </segment>
     </unit>
     <unit id="1cc2c902-b2ca-4fec-99f9-460afad81fcb">
@@ -8923,9 +8923,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 332</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`appModuleHandler.processEntry32W` has been moved to `winBindings.kernel32.PROCESSENTRY32W`. (#18896)</source>
-        <target>`appModuleHandler.processEntry32W` has been moved to `winBindings.kernel32.PROCESSENTRY32W`. (#18896)</target>
+        <target>`appModuleHandler.processEntry32W` a été déplacé vers `winBindings.kernel32.PROCESSENTRY32W`. (#18896)</target>
       </segment>
     </unit>
     <unit id="6326dc36-9260-434b-bd34-05f44eed8dd0">
@@ -8933,18 +8933,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 333</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winKernel.kernel32` is deprecated.</source>
-        <target>`winKernel.kernel32` is deprecated.</target>
+        <target>`winKernel.kernel32` est obsolète.</target>
       </segment>
     </unit>
     <unit id="91df18d4-03c8-4ffd-869c-26376b286075">
       <notes>
         <note appliesTo="source">line: 334</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `winBindings.kernel32.dll` instead. (#18896)</source>
-        <target>Use `winBindings.kernel32.dll` instead. (#18896)</target>
+        <target>Utilisez `winBindings.kernel32.dll` à la place. (#18896)</target>
       </segment>
     </unit>
     <unit id="3e293119-bf09-4197-9143-c7dab8e88f95">
@@ -8952,18 +8952,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 335</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `LVS_*` constants from `NVDAObjects.IAccessible.sysListView32` are deprecated.</source>
-        <target>The `LVS_*` constants from `NVDAObjects.IAccessible.sysListView32` are deprecated.</target>
+        <target>Les  constantes `LVS_*` de `NVDAObjects.IAccessible.sysListView32` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="c2aa1a4c-4004-433a-87ad-b65bf25d41e8">
       <notes>
         <note appliesTo="source">line: 336</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use the `ListViewWindowStyle` enumeration instead. (#18926 , @LeonarddeR)</source>
-        <target>Use the `ListViewWindowStyle` enumeration instead. (#18926 , @LeonarddeR)</target>
+        <target>Utilisez l'énumération `ListViewWindowStyle` à la place. (#18926 , @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="515b56bd-de92-48a2-bce4-56a889b0149d">
@@ -8971,18 +8971,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 337</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `INPUT_MOUSE`, `INPUT_KEYBOARD`, `KEYEVENTF_KEYUP` and `KEYEVENTF_UNICODE` constants from `winUser` are deprecated.</source>
-        <target>The `INPUT_MOUSE`, `INPUT_KEYBOARD`, `KEYEVENTF_KEYUP` and `KEYEVENTF_UNICODE` constants from `winUser` are deprecated.</target>
+        <target>Les constantes `INPUT_MOUSE`, `INPUT_KEYBOARD`, `KEYEVENTF_KEYUP` et `KEYEVENTF_UNICODE` de `winUser` sont obsolètes.</target>
       </segment>
     </unit>
     <unit id="8912a094-baa9-43a8-964a-93b766536ec8">
       <notes>
         <note appliesTo="source">line: 338</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use `INPUT_TYPE.MOUSE`, `INPUT_TYPE.KEYBOARD`, `KEYEVENTF.KEYUP` and `KEYEVENTF.UNICODE` from `winBindings.user32` instead. (#18947)</source>
-        <target>Use `INPUT_TYPE.MOUSE`, `INPUT_TYPE.KEYBOARD`, `KEYEVENTF.KEYUP` and `KEYEVENTF.UNICODE` from `winBindings.user32` instead. (#18947)</target>
+        <target>Utilisez `INPUT_TYPE.MOUSE`, `INPUT_TYPE.KEYBOARD`, `KEYEVENTF.KEYUP` et `KEYEVENTF.UNICODE` de `winBindings.user32` à la place. (#18947)</target>
       </segment>
     </unit>
     <unit id="a6ac938e-8bad-4639-a75e-d7c354d03c69">
@@ -8990,18 +8990,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 339</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been moved from `updateCheck` to `winBindings.crypt32`: `CERT_USAGE_MATCH`, `CERT_CHAIN_PARA`.</source>
-        <target>The following symbols have been moved from `updateCheck` to `winBindings.crypt32`: `CERT_USAGE_MATCH`, `CERT_CHAIN_PARA`.</target>
+        <target>Les symboles suivants ont été déplacés de `updateCheck` vers `winBindings.crypt32`  `CERT_USAGE_MATCH`, `CERT_CHAIN_PARA`.</target>
       </segment>
     </unit>
     <unit id="be461677-8008-40be-9c21-b9fa713bf768">
       <notes>
         <note appliesTo="source">line: 340</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Access to these symbols via `updateCheck` is deprecated. (#18956)</source>
-        <target>Access to these symbols via `updateCheck` is deprecated. (#18956)</target>
+        <target>L'accès à ces symboles via `updateCheck` est obsolète. (#18956)</target>
       </segment>
     </unit>
     <unit id="47a1c89c-ef6f-452b-8308-8e54b4d3a164">
@@ -9009,18 +9009,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 341</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`textInfos.OffsetsTextInfo.allowMoveToOffsetPastEnd` is deprecated.</source>
-        <target>`textInfos.OffsetsTextInfo.allowMoveToOffsetPastEnd` is deprecated.</target>
+        <target>`textInfos.OffsetsTextInfo.allowMoveToOffsetPastEnd` est obsolète.</target>
       </segment>
     </unit>
     <unit id="0f7587a1-3f96-4399-ad36-0f203d352951">
       <notes>
         <note appliesTo="source">line: 342</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use the `OffsetsTextInfo.allowMoveToUnitOffsetPastEnd` method instead. (#19152, @LeonarddeR)</source>
-        <target>Use the `OffsetsTextInfo.allowMoveToUnitOffsetPastEnd` method instead. (#19152, @LeonarddeR)</target>
+        <target>Utilisez la méthode `OffsetsTextInfo.allowMoveToUnitOffsetPastEnd` à la place. (#19152, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="6cc75241-364a-4e82-870b-05b140ac67d3">
@@ -9028,9 +9028,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 343</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`installer.comparePreviousInstall` is deprecated with no planned replacement. (#19631)</source>
-        <target>`installer.comparePreviousInstall` is deprecated with no planned replacement. (#19631)</target>
+        <target>`installer.comparePreviousInstall` est obsolète et aucun remplacement n'est prévu. (#19631)</target>
       </segment>
     </unit>
     <unit id="f8e64de8-daf5-4df8-974f-b5b682040f5a">
@@ -9038,7 +9038,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 348</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2025.3.3</source>
         <target>2025.3.3</target>
       </segment>
@@ -9047,9 +9047,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 350</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a security issue.</source>
-        <target>This is a patch release to fix a security issue.</target>
+        <target>Il s'agit d'une version corrective visant à résoudre un problème de sécurité.</target>
       </segment>
     </unit>
     <unit id="8342a3b8-d831-4e36-989f-2f51124e47d6">
@@ -9057,18 +9057,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 352</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Security fixes</source>
-        <target>Security fixes</target>
+        <target>Correctifs de sécurité</target>
       </segment>
     </unit>
     <unit id="d678a1c4-d31f-4f81-ba2c-78855a880a44">
       <notes>
         <note appliesTo="source">line: 354</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</source>
-        <target>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</target>
+        <target>Merci de divulguer les problèmes de sécurité de manière responsable, conformément à la [politique de sécurité](https://github.com/nvaccess/nvda/blob/master/security.md) de NVDA.</target>
       </segment>
     </unit>
     <unit id="b74c39f7-be02-4efe-9415-9b0fe8877198">
@@ -9076,9 +9076,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 356</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Prevents a situation where NVDA may unexpectedly run as an administrator. [GHSA-cq78-fjp7-3rp5](https://github.com/nvaccess/nvda/security/advisories/ghsa-cq78-fjp7-3rp5)</source>
-        <target>Prevents a situation where NVDA may unexpectedly run as an administrator. [GHSA-cq78-fjp7-3rp5](https://github.com/nvaccess/nvda/security/advisories/ghsa-cq78-fjp7-3rp5)</target>
+        <target>Empêche une situation dans laquelle NVDA pourrait s'exécuter de manière inattendue en tant qu'administrateur. [GHSA-cq78-fjp7-3rp5](https://github.com/nvaccess/nvda/security/advisories/ghsa-cq78-fjp7-3rp5)</target>
       </segment>
     </unit>
     <unit id="95f97cbc-24c2-4812-8dfe-58c3e1e7b291">
@@ -9086,7 +9086,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 358</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2025.3.2</source>
         <target>2025.3.2</target>
       </segment>
@@ -9095,9 +9095,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 360</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a security issue.</source>
-        <target>This is a patch release to fix a security issue.</target>
+        <target>Il s'agit d'une version corrective visant à résoudre un problème de sécurité.</target>
       </segment>
     </unit>
     <unit id="c0b81011-3881-4516-9e1b-c4f785524036">
@@ -9105,18 +9105,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 362</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Security fixes</source>
-        <target>Security fixes</target>
+        <target>Correctifs de sécurité</target>
       </segment>
     </unit>
     <unit id="01289c60-c601-4620-842f-4f691a22316b">
       <notes>
         <note appliesTo="source">line: 364</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</source>
-        <target>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</target>
+        <target>Merci de divulguer les problèmes de sécurité de manière responsable, conformément à la [politique de sécurité](https://github.com/nvaccess/nvda/blob/master/security.md) de NVDA.</target>
       </segment>
     </unit>
     <unit id="eb66c384-4048-4211-a679-17fc642b4df1">
@@ -9124,9 +9124,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 366</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed a vulnerability which could prevent access to secure screens via Remote Access. ([GHSA-42v6-wjv6-h3jj](https://github.com/nvaccess/nvda/security/advisories/ghsa-42v6-wjv6-h3jj))</source>
-        <target>Fixed a vulnerability which could prevent access to secure screens via Remote Access. ([GHSA-42v6-wjv6-h3jj](https://github.com/nvaccess/nvda/security/advisories/ghsa-42v6-wjv6-h3jj))</target>
+        <target>Correction d'une vulnérabilité qui pouvait empêcher l'accès aux écrans sécurisés via l'accès à distance. ([GHSA-42v6-wjv6-h3jj](https://github.com/nvaccess/nvda/security/advisories/ghsa-42v6-wjv6-h3jj))</target>
       </segment>
     </unit>
     <unit id="c9e0aaa1-5f71-4ebf-9364-ab0109d04b8e">
@@ -9134,7 +9134,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 368</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2025.3.1</source>
         <target>2025.3.1</target>
       </segment>
@@ -9143,9 +9143,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 370</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a security issue and a bug.</source>
-        <target>This is a patch release to fix a security issue and a bug.</target>
+        <target>Il s'agit d'une version corrective visant à résoudre un problème de sécurité et un bug.</target>
       </segment>
     </unit>
     <unit id="24b7efb2-8901-4659-992d-c74e1c41cd85">
@@ -9153,18 +9153,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 372</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Security fixes</source>
-        <target>Security fixes</target>
+        <target>Correctifs de sécurité</target>
       </segment>
     </unit>
     <unit id="2065249b-6b1e-4bbb-a5ec-03a37cc677d2">
       <notes>
         <note appliesTo="source">line: 374</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</source>
-        <target>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</target>
+        <target>Merci de divulguer les problèmes de sécurité de manière responsable, conformément à la [politique de sécurité](https://github.com/nvaccess/nvda/blob/master/security.md) de NVDA.</target>
       </segment>
     </unit>
     <unit id="67d27746-c848-4499-8a9e-3c6f28fd3631">
@@ -9172,9 +9172,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 376</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed a vulnerability which could prevent access to secure screens via Remote Access. ([GHSA-vr27-g5ph-xvq2](https://github.com/nvaccess/nvda/security/advisories/GHSA-vr27-g5ph-xvq2))</source>
-        <target>Fixed a vulnerability which could prevent access to secure screens via Remote Access. ([GHSA-vr27-g5ph-xvq2](https://github.com/nvaccess/nvda/security/advisories/GHSA-vr27-g5ph-xvq2))</target>
+        <target>Correction d'une vulnérabilité qui pouvait empêcher l'accès aux écrans sécurisés via l'accès à distance. ([GHSA-vr27-g5ph-xvq2](https://github.com/nvaccess/nvda/security/advisories/GHSA-vr27-g5ph-xvq2))</target>
       </segment>
     </unit>
     <unit id="45f82a73-7afa-432f-b872-fcf32449a88c">
@@ -9182,9 +9182,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 378</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Bug Fixes</source>
-        <target>Bug Fixes</target>
+        <target>Corrections de bugs</target>
       </segment>
     </unit>
     <unit id="859412ec-47bd-43c1-8465-274c03c61ac4">
@@ -9192,9 +9192,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 380</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access now returns control to the local computer if it locks while controlling the remote computer. (#18951)</source>
-        <target>Remote Access now returns control to the local computer if it locks while controlling the remote computer. (#18951)</target>
+        <target>L'accès à distance rend désormais le contrôle à l'ordinateur local s'il se verrouille lors du contrôle de l'ordinateur distant. (#18951)</target>
       </segment>
     </unit>
     <unit id="3ed4cdd2-f214-47d5-9579-85301a16852c">
@@ -9710,9 +9710,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 449</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>detours to `9764cebcb1a75940e68fa83d6730ffaf0f669401`. (#18447, @LeonarddeR)</source>
-        <target>detours to `9764cebcb1a75940e68fa83d6730ffaf0f669401`. (#18447, @LeonarddeR)</target>
+        <target>detours au commit `9764cebcb1a75940e68fa83d6730ffaf0f669401`. (#18447, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="81bf02b2-48fc-4b1f-9c88-f5d28d15110d">
@@ -10816,9 +10816,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 603</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Security Fixes</source>
-        <target>Corrections de sécurité</target>
+        <target>Correctifs de sécurité</target>
       </segment>
     </unit>
     <unit id="dd3d63d0-1124-4c8a-abb2-c0f38363ef49">
