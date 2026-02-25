@@ -6215,9 +6215,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 33</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Support for [modern Windows Operating Systems](#MinimumSystemRequirements)</source>
-        <target>Support for [modern Windows Operating Systems](#MinimumSystemRequirements)</target>
+        <target>Prise en charge des [systèmes d'exploitation Windows modernes](#MinimumSystemRequirements)</target>
       </segment>
     </unit>
     <unit id="feb4bf8e-636e-485d-a629-f9ee30d4c787">
@@ -6297,18 +6297,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 44</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Operating Systems: 64-bit editions of Windows 10 and Windows 11.</source>
-        <target>Operating Systems: 64-bit editions of Windows 10 and Windows 11.</target>
+        <target>Systèmes d'exploitation : éditions 64 bits de Windows 10 et Windows 11.</target>
       </segment>
     </unit>
     <unit id="a7145881-2918-42e5-84b8-8e7d8da20683">
       <notes>
         <note appliesTo="source">line: 45</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Windows Server 2016, 2019, 2022 and 2025.</source>
-        <target>Windows Server 2016, 2019, 2022 and 2025.</target>
+        <target>Windows Server 2016, 2019, 2022 et 2025.</target>
       </segment>
     </unit>
     <unit id="04dcadf0-4d16-4cc7-a2f4-436102a943d0">
@@ -6316,9 +6316,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 46</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</source>
-        <target>both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</target>
+        <target>les variantes AMD64 et ARM64 de Windows 11 sont prises en charge, y compris les PC Copilot+.</target>
       </segment>
     </unit>
     <unit id="ce25b9cf-8b2c-44f9-a22e-5b47ebf572a5">
@@ -6326,9 +6326,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 47</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that ARM64 Windows 10 is not supported.</source>
-        <target>Note that ARM64 Windows 10 is not supported.</target>
+        <target>Notez que ARM64 Windows 10 n'est pas pris en charge.</target>
       </segment>
     </unit>
     <unit id="145a3371-d7fd-429c-bb04-4f3fcd53321c">
@@ -6336,9 +6336,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 48</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that Windows 10 versions older than 22H2 and Windows Server versions older than 2022 are no longer under active support by NV Access.</source>
-        <target>Note that Windows 10 versions older than 22H2 and Windows Server versions older than 2022 are no longer under active support by NV Access.</target>
+        <target>Notez que les versions de Windows 10 antérieures à 22H2 et les versions de Windows Server antérieures à 2022 ne sont plus prises en charge activement par NV Access.</target>
       </segment>
     </unit>
     <unit id="e24c9ba8-0668-4378-82a9-3a170ed73b7f">
@@ -6367,9 +6367,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 53</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Operating Systems: Windows 11 or Windows 10 (Version 22H2), and Windows Server 2025 or 2022.</source>
-        <target>Operating Systems: Windows 11 or Windows 10 (Version 22H2), and Windows Server 2025 or 2022.</target>
+        <target>Systèmes d'exploitation : Windows 11 ou Windows 10 (version 22H2) et Windows Server 2025 ou 2022.</target>
       </segment>
     </unit>
     <unit id="9c59451a-72f5-4ab8-88f0-987d9c5be5fa">
@@ -6377,9 +6377,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 54</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</source>
-        <target>both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</target>
+        <target>les variantes AMD64 et ARM64 de Windows 11 sont prises en charge, y compris les PC Copilot+.</target>
       </segment>
     </unit>
     <unit id="ec5d3c07-e68b-4f10-987d-26c1cf4e8142">
@@ -6387,9 +6387,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 55</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that ARM64 Windows 10 is not supported.</source>
-        <target>Note that ARM64 Windows 10 is not supported.</target>
+        <target>Notez que ARM64 Windows 10 n'est pas pris en charge.</target>
       </segment>
     </unit>
     <unit id="40475f3b-9146-4909-8c10-e8e1c5bd89a0">
@@ -6568,9 +6568,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 86</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA is available under the GNU General Public License version 2 or later, with two special exceptions.</source>
-        <target>NVDA is available under the GNU General Public License version 2 or later, with two special exceptions.</target>
+        <target>NVDA est disponible sous la licence publique générale GNU version 2 ou ultérieure, avec deux exceptions.</target>
       </segment>
     </unit>
     <unit id="cf2fd589-25ab-4568-b27b-dc509a2e0387">
@@ -6613,9 +6613,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 92</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For further details, access the license document from the NVDA menu under the "Help" section.</source>
-        <target>For further details, access the license document from the NVDA menu under the "Help" section.</target>
+        <target>Pour plus de détails, accédez au document de licence depuis le menu NVDA sous la section "Aide".</target>
       </segment>
     </unit>
     <unit id="a5187732-8518-41a7-9a6a-a209c13b3ebe">
@@ -6804,7 +6804,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 122</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>&lt;https://www.nvaccess.org/download&gt;</source>
         <target>&lt;https://www.nvaccess.org/download&gt;</target>
       </segment>
@@ -9757,27 +9757,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 531</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can read more info about the data gathered by NV Access in the Privacy and Security Settings section, [Allow NV Access to gather NVDA usage statistics](#GeneralSettingsGatherUsageStats).</source>
-        <target>You can read more info about the data gathered by NV Access in the Privacy and Security Settings section, [Allow NV Access to gather NVDA usage statistics](#GeneralSettingsGatherUsageStats).</target>
+        <target>Vous pouvez obtenir plus d'informations concernant les données recueillies par NV Access dans la section Confidentialité et sécurité, [Autoriser NV Access à recueillir des statistiques d'utilisation de NVDA](#GeneralSettingsGatherUsageStats).</target>
       </segment>
     </unit>
     <unit id="a03e47c1-e17c-475d-a373-cf80422a4907">
       <notes>
         <note appliesTo="source">line: 533</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note: pressing "yes" or "no" will save this setting and the dialog will not appear again unless you reinstall NVDA or reset your configuration.</source>
-        <target>Note: pressing "yes" or "no" will save this setting and the dialog will not appear again unless you reinstall NVDA or reset your configuration.</target>
+        <target>Note : l'appui sur "oui" ou "non" sauvegardera ce choix et ce dialogue n'apparaîtra plus à moins que vous réinstalliez NVDA ou que vous réinitialisiez votre configuration.</target>
       </segment>
     </unit>
     <unit id="263887c1-8f48-414c-aea7-1f6a8c79cfc9">
       <notes>
         <note appliesTo="source">line: 534</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can enable or disable the data gathering process manually in the [Privacy and Security category](#PrivacyAndSecuritySettings) of the [NVDA Settings dialog](#NVDASettings).</source>
-        <target>You can enable or disable the data gathering process manually in the [Privacy and Security category](#PrivacyAndSecuritySettings) of the [NVDA Settings dialog](#NVDASettings).</target>
+        <target>vous pouvez activer ou désactiver le processus de collecte de données manuellement dans la [Catégorie Confidentialité et sécurité](#PrivacyAndSecuritySettings) du [dialogue des paramètres de NVDA](#NVDASettings).</target>
       </segment>
     </unit>
     <unit id="95b8424a-fa01-434e-b129-d79c7144c865">
