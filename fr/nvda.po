@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-26 08:41+0000\n"
-"PO-Revision-Date: 2026-02-26 12:44\n"
+"PO-Revision-Date: 2026-02-26 15:45\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -13635,7 +13635,7 @@ msgstr "Décrire un aperçu"
 #: gui\settingsDialogs.py:2895
 msgctxt "math"
 msgid "Use native math speech in Word and Outlook"
-msgstr ""
+msgstr "Utiliser l'énoncé mathématique natif dans Word et Outlook"
 
 #. Translators: Text for the navigation group.
 #: gui\settingsDialogs.py:2903
