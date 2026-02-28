@@ -14522,9 +14522,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Name | Key </source>
-        <target> &lt;target/&gt; </target>
+        <target> Name | Key </target>
       </segment>
     </unit>
     <unit id="4871a4ce-838a-47f7-a512-3908d4d55269">
@@ -14533,9 +14533,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to previous | `leftArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to previous | `leftArrow` </target>
       </segment>
     </unit>
     <unit id="16e7200f-c983-4495-a026-1b1e93ff1042">
@@ -14544,9 +14544,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to previous cell in a table, or previous digit if in columnar math | `control+leftArrow` or `control+alt+leftArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to previous cell in a table, or previous digit if in columnar math | `control+leftArrow` or `control+alt+leftArrow` </target>
       </segment>
     </unit>
     <unit id="afc7638a-2df3-4f22-aa06-712680badcfc">
@@ -14555,9 +14555,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Read previous | `shift+leftArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Read previous | `shift+leftArrow` </target>
       </segment>
     </unit>
     <unit id="94c30109-30c4-4e3f-948a-0db75b8cf27f">
@@ -14566,9 +14566,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Describe previous | `control+shift+leftArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Describe previous | `control+shift+leftArrow` </target>
       </segment>
     </unit>
     <unit id="ac6c7881-fea6-4062-945b-d2190fd827dc">
@@ -14577,9 +14577,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to next | `rightArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to next | `rightArrow` </target>
       </segment>
     </unit>
     <unit id="70a45f4b-ad78-4312-b915-6925e8446310">
@@ -14588,9 +14588,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to next cell in a table, or next digit if in columnar math | `control+rightArrow` or `control+alt+rightArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to next cell in a table, or next digit if in columnar math | `control+rightArrow` or `control+alt+rightArrow` </target>
       </segment>
     </unit>
     <unit id="8cfb899d-ccf0-4b71-889a-a26c4ae27b75">
@@ -14599,9 +14599,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Read next | `shift+rightArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Read next | `shift+rightArrow` </target>
       </segment>
     </unit>
     <unit id="91809748-80bb-4c9b-aa86-90e009b3c00e">
@@ -14610,9 +14610,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Describe next | `control+shift+rightArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Describe next | `control+shift+rightArrow` </target>
       </segment>
     </unit>
     <unit id="05e87a38-6df2-4c25-8e1b-e0608bf4b981">
@@ -14621,9 +14621,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Zoom out | `upArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Zoom out | `upArrow` </target>
       </segment>
     </unit>
     <unit id="a510ff80-97d3-4b3d-bf93-338170d24283">
@@ -14632,9 +14632,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to cell above in a table, or digit above in columnar math. | `control+upArrow` or `control+alt+upArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to cell above in a table, or digit above in columnar math. | `control+upArrow` or `control+alt+upArrow` </target>
       </segment>
     </unit>
     <unit id="0be7a18b-4ccd-4c3b-94c6-64e8a55cdbd8">
@@ -14643,9 +14643,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Change Navigation Mode (Enhanced/Simple/Character) to larger | `shift+upArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Change Navigation Mode (Enhanced/Simple/Character) to larger | `shift+upArrow` </target>
       </segment>
     </unit>
     <unit id="fbbd6c80-dc64-45ac-a54b-9ac607fadbce">
@@ -14654,9 +14654,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Zoom out all the way | `control+shift+upArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Zoom out all the way | `control+shift+upArrow` </target>
       </segment>
     </unit>
     <unit id="328ca18e-1751-4915-9ca6-f57d2c89b04d">
@@ -14665,9 +14665,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Zoom in | `downArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Zoom in | `downArrow` </target>
       </segment>
     </unit>
     <unit id="24c76c91-ae34-4bc9-9e20-2962a467db2f">
@@ -14676,9 +14676,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to cell below in a table, or digit below in columnar math | `control+downArrow` or `control+alt+downArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to cell below in a table, or digit below in columnar math | `control+downArrow` or `control+alt+downArrow` </target>
       </segment>
     </unit>
     <unit id="5f876e86-46e7-481d-9765-0a5f711e1c80">
@@ -14687,9 +14687,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Change Navigation Mode (Enhanced/Simple/Character) to smaller | `shift+downArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Change Navigation Mode (Enhanced/Simple/Character) to smaller | `shift+downArrow` </target>
       </segment>
     </unit>
     <unit id="83530780-0811-42eb-9ae5-1ee3cc56196c">
@@ -14698,9 +14698,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Zoom in all the way | `control+shift+downArrow` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Zoom in all the way | `control+shift+downArrow` </target>
       </segment>
     </unit>
     <unit id="4236bfeb-e54e-42c9-bd64-86cee076a1f1">
@@ -14709,9 +14709,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Where am I | `enter` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Where am I | `enter` </target>
       </segment>
     </unit>
     <unit id="85698060-2cd7-4326-825a-20e12942ce04">
@@ -14720,9 +14720,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Global Where am I | `control+enter` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Global Where am I | `control+enter` </target>
       </segment>
     </unit>
     <unit id="827bd1c0-2d35-40a3-b858-f3e10f14f4ee">
@@ -14731,9 +14731,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Jump to placemarker | `1` through `0` (`0` is 10) </source>
-        <target> &lt;target/&gt; </target>
+        <target> Jump to placemarker | `1` through `0` (`0` is 10) </target>
       </segment>
     </unit>
     <unit id="1c03f58f-65d6-43d3-9283-601540ac9330">
@@ -14742,9 +14742,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Set placemarker | `control+1` through `control+0` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Set placemarker | `control+1` through `control+0` </target>
       </segment>
     </unit>
     <unit id="9912ae2b-cb52-493c-9501-ed8eaa711909">
@@ -14753,9 +14753,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Read placemarker | `shift+1` through `shift+0` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Read placemarker | `shift+1` through `shift+0` </target>
       </segment>
     </unit>
     <unit id="a7916d61-97b7-4648-919d-58389f958573">
@@ -14764,9 +14764,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Describe placemarker | `control+shift+1` through `shift+0` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Describe placemarker | `control+shift+1` through `shift+0` </target>
       </segment>
     </unit>
     <unit id="be12d844-810c-4dd9-a4f1-90919b0a41c2">
@@ -14775,9 +14775,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Read current | `space` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Read current | `space` </target>
       </segment>
     </unit>
     <unit id="66af7d50-76c1-4be1-9910-d94663353bbe">
@@ -14786,9 +14786,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Read current cell | `control+space` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Read current cell | `control+space` </target>
       </segment>
     </unit>
     <unit id="62bedbf1-e433-44fa-8a0f-14ff03addfcd">
@@ -14797,9 +14797,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Toggle "speech mode" to Read or Describe | `shift+space` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Toggle "speech mode" to Read or Describe | `shift+space` </target>
       </segment>
     </unit>
     <unit id="77dbf92d-f0bd-4066-89ff-ebb23b3e58e8">
@@ -14808,9 +14808,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Describe current | `control+shift+space` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Describe current | `control+shift+space` </target>
       </segment>
     </unit>
     <unit id="b4f76a95-5800-40f2-86cd-8b6593121425">
@@ -14819,9 +14819,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to start of expression | `home` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to start of expression | `home` </target>
       </segment>
     </unit>
     <unit id="fbd5428a-ee30-41d3-ab5c-15f68d856580">
@@ -14830,9 +14830,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to start of line | `control+home` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to start of line | `control+home` </target>
       </segment>
     </unit>
     <unit id="3a7b99d2-4c93-45a5-b3d5-834fb85a507c">
@@ -14841,9 +14841,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to start of column in table, or move to digit at top in columnar math | `shift+home` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to start of column in table, or move to digit at top in columnar math | `shift+home` </target>
       </segment>
     </unit>
     <unit id="fadf7bd0-0879-45ed-b5be-dc0988a36f42">
@@ -14852,9 +14852,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to end of expression | `end` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to end of expression | `end` </target>
       </segment>
     </unit>
     <unit id="1f549a93-ce8e-4cef-86dd-e60d54b2755e">
@@ -14863,9 +14863,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to end of line | `control+end` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to end of line | `control+end` </target>
       </segment>
     </unit>
     <unit id="fa80a97e-221e-4af8-9f3f-d88089504c79">
@@ -14874,9 +14874,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move to end of column in table, or move to digit at bottom in columnar math | `shift+end` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move to end of column in table, or move to digit at bottom in columnar math | `shift+end` </target>
       </segment>
     </unit>
     <unit id="673a174f-b93d-49c4-939e-433a58ae70d0">
@@ -14885,9 +14885,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Move back to last position | `backspace` </source>
-        <target> &lt;target/&gt; </target>
+        <target> Move back to last position | `backspace` </target>
       </segment>
     </unit>
     <unit id="65fff510-9a3a-47ca-81ca-23d9bee4ff27">
@@ -19559,9 +19559,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2043</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>   For example, the character "ü" (u with umlaut/diaeresis), a common character in languages like German and Turkish can be represented in two forms:</source>
-        <target>   &lt;target/&gt;</target>
+        <target>   For example, the character "ü" (u with umlaut/diaeresis), a common character in languages like German and Turkish can be represented in two forms:</target>
       </segment>
     </unit>
     <unit id="57de0f80-130f-44c8-8c8b-812c25b47359">
@@ -19588,9 +19588,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2048</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>   Unicode normalization ensures that only one form will be used throughout all speech output, which is the single-character variant.</source>
-        <target>   &lt;target/&gt;</target>
+        <target>   Unicode normalization ensures that only one form will be used throughout all speech output, which is the single-character variant.</target>
       </segment>
     </unit>
     <unit id="1eb1edea-d27b-4c3a-9625-89e115395d2f">
@@ -21596,9 +21596,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> ⠑ ("e")| Start spelling error </source>
-        <target> &lt;target/&gt; </target>
+        <target> ⠑ ("e")| Start spelling error </target>
       </segment>
     </unit>
     <unit id="b2c02b43-b1a5-4a3b-ba2a-2db57ced89c7">
@@ -21607,9 +21607,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> ⡑ ("e" with dot 7) | End spelling error </source>
-        <target> &lt;target/&gt; </target>
+        <target> ⡑ ("e" with dot 7) | End spelling error </target>
       </segment>
     </unit>
     <unit id="7c33180a-4ea4-4852-91e3-7965f7281931">
@@ -21618,9 +21618,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> ⠛ ("g")| Start grammar error </source>
-        <target> &lt;target/&gt; </target>
+        <target> ⠛ ("g")| Start grammar error </target>
       </segment>
     </unit>
     <unit id="a1c01d7d-bfd3-4e8a-adbb-836fc219b51f">
@@ -21629,9 +21629,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> ⡛ ("g" with dot 7) | End grammar error </source>
-        <target> &lt;target/&gt; </target>
+        <target> ⡛ ("g" with dot 7) | End grammar error </target>
       </segment>
     </unit>
     <unit id="d3e37afb-f884-4413-98a7-d9195d313527">
@@ -26565,9 +26565,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Blindness, Low Vision, Learning disabilities </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Blindness, Low Vision, Learning disabilities </target>
       </segment>
     </unit>
     <unit id="30f164e6-7bee-4390-92e9-dc5d505bf273">
@@ -26576,9 +26576,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Blindness </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Blindness </target>
       </segment>
     </unit>
     <unit id="e44e8963-cc27-4bda-aa0a-4082e62dffbd">
@@ -26625,9 +26625,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Any known language code and sub-code, e.g. "en-uk". </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Any known language code and sub-code, e.g. "en-uk". </target>
       </segment>
     </unit>
     <unit id="a332e446-d9eb-42a4-9c25-2ff23e72779d">
@@ -26636,9 +26636,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | en </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | en </target>
       </segment>
     </unit>
     <unit id="38b667be-4bd0-4dac-9d27-7d615f561d8e">
@@ -26742,9 +26742,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Expression | LiteralSpeak | SimpleSpeak | ClearSpeak </source>
-        <target> &lt;target/&gt; </target>
+        <target> Expression | LiteralSpeak | SimpleSpeak | ClearSpeak </target>
       </segment>
     </unit>
     <unit id="e0a0e84f-7524-4b40-bfd4-fa9e66c4ce1e">
@@ -26753,9 +26753,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> 1/2 | 1 slash 2 | 1 divided by 2 | one half </source>
-        <target> &lt;target/&gt; </target>
+        <target> 1/2 | 1 slash 2 | 1 divided by 2 | one half </target>
       </segment>
     </unit>
     <unit id="eb73e5fa-e142-4871-a1a3-d36dca097a24">
@@ -26764,9 +26764,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> √x | radical x | square root x | square root of x </source>
-        <target> &lt;target/&gt; </target>
+        <target> √x | radical x | square root x | square root of x </target>
       </segment>
     </unit>
     <unit id="28ca5f01-713f-4d12-b444-94c3d6701f9d">
@@ -26775,9 +26775,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | ClearSpeak, SimpleSpeak, LiteralSpeak, and more options depending on your language </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | ClearSpeak, SimpleSpeak, LiteralSpeak, and more options depending on your language </target>
       </segment>
     </unit>
     <unit id="b985b169-93d4-407a-967d-e2d6b65dd8c3">
@@ -26786,9 +26786,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | ClearSpeak </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | ClearSpeak </target>
       </segment>
     </unit>
     <unit id="b636dc14-f4ca-4740-923f-8684ea9800de">
@@ -26826,9 +26826,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Terse, Medium, Verbose </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Terse, Medium, Verbose </target>
       </segment>
     </unit>
     <unit id="c8827e40-90a5-4dc7-aebe-11b31c27d34a">
@@ -26837,9 +26837,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Medium </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Medium </target>
       </segment>
     </unit>
     <unit id="647ab47f-d9e9-4fa9-9e8d-8e3204db951d">
@@ -26886,9 +26886,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Number between 1 and 100 </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Number between 1 and 100 </target>
       </segment>
     </unit>
     <unit id="305511b0-9f4e-4f98-b118-60a385031059">
@@ -26897,9 +26897,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | 100 </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | 100 </target>
       </segment>
     </unit>
     <unit id="b69374bc-ac51-4106-8d70-164445ffdf9a">
@@ -26937,9 +26937,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Number between 0 and 100 </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Number between 0 and 100 </target>
       </segment>
     </unit>
     <unit id="916d1af1-5779-489a-af97-3380e2f54593">
@@ -26948,9 +26948,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | 50 </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | 50 </target>
       </segment>
     </unit>
     <unit id="81a72cdf-7019-4988-b473-80e159989bb0">
@@ -26988,9 +26988,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Checked, Unchecked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Checked, Unchecked </target>
       </segment>
     </unit>
     <unit id="2021db76-75da-4707-870c-9f0a05a13822">
@@ -26999,9 +26999,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Unchecked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Unchecked </target>
       </segment>
     </unit>
     <unit id="f0cd663f-db53-4eb8-881e-668ebc2e029e">
@@ -27069,9 +27069,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Spell Out, As Compound, Off </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Spell Out, As Compound, Off </target>
       </segment>
     </unit>
     <unit id="1c521b86-022c-4f27-bba0-fdeac9da2662">
@@ -27080,9 +27080,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | SpellOut </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | SpellOut </target>
       </segment>
     </unit>
     <unit id="db4c6c6b-4c5f-49da-906e-6e0dc478c0bf">
@@ -27111,9 +27111,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Speak, Describe overview </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Speak, Describe overview </target>
       </segment>
     </unit>
     <unit id="0766114e-130c-4064-9451-ef65c9a354cd">
@@ -27122,9 +27122,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Speak </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Speak </target>
       </segment>
     </unit>
     <unit id="54046c83-7f52-41ca-8a30-7c585be9790e">
@@ -27153,9 +27153,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Checked, Unchecked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Checked, Unchecked </target>
       </segment>
     </unit>
     <unit id="22cf302f-3273-430f-b58d-cac21f4638d7">
@@ -27164,9 +27164,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Unchecked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Unchecked </target>
       </segment>
     </unit>
     <unit id="1e97c0cc-fecc-483d-bc31-661758d43f57">
@@ -27224,9 +27224,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Enhanced, Character, Simple </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Enhanced, Character, Simple </target>
       </segment>
     </unit>
     <unit id="509a71e8-a78d-4860-8c14-31c68b4522d7">
@@ -27235,9 +27235,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Enhanced </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Enhanced </target>
       </segment>
     </unit>
     <unit id="db3f17c9-1773-45b3-836f-ac30bd320ab3">
@@ -27284,9 +27284,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Checked, Unchecked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Checked, Unchecked </target>
       </segment>
     </unit>
     <unit id="b0cc4051-fd94-4714-be03-421940954544">
@@ -27295,9 +27295,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Checked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Checked </target>
       </segment>
     </unit>
     <unit id="756e5e38-5645-4183-a880-535bb003bd12">
@@ -27335,9 +27335,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Checked, Unchecked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Checked, Unchecked </target>
       </segment>
     </unit>
     <unit id="6f66711d-9c48-410c-b432-d0db096bc741">
@@ -27346,9 +27346,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Checked </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Checked </target>
       </segment>
     </unit>
     <unit id="d79e578a-f203-4701-82bf-0d865af2284a">
@@ -27377,9 +27377,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Terse, Medium, Verbose </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Terse, Medium, Verbose </target>
       </segment>
     </unit>
     <unit id="31a52af7-046d-47a8-9549-1380f08bb1c8">
@@ -27388,9 +27388,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Medium </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Medium </target>
       </segment>
     </unit>
     <unit id="a4d6faee-8291-487c-b682-ec464904aea2">
@@ -27419,9 +27419,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | MathML, LaTeX, ASCIIMath </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | MathML, LaTeX, ASCIIMath </target>
       </segment>
     </unit>
     <unit id="8af582e9-7a9a-4d03-8524-690fe7801a6e">
@@ -27430,9 +27430,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | MathML </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | MathML </target>
       </segment>
     </unit>
     <unit id="d0037639-3e75-4dab-8916-47ec1c9ac7d2">
@@ -27481,9 +27481,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Automatic, ASCIIMath, ASCIIMath-Finnish, CMU, LaTeX, Nemeth, Swedish, UEB, Vietnam </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Automatic, ASCIIMath, ASCIIMath-Finnish, CMU, LaTeX, Nemeth, Swedish, UEB, Vietnam </target>
       </segment>
     </unit>
     <unit id="9857c66e-b35b-4e4d-bde2-6a1a1422460a">
@@ -27492,9 +27492,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Automatic </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Automatic </target>
       </segment>
     </unit>
     <unit id="ea0bbf51-a140-4f29-a6cf-d0393cfcda76">
@@ -27532,9 +27532,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Options | Off, First Character, Endpoints, All </source>
-        <target> &lt;target/&gt; </target>
+        <target> Options | Off, First Character, Endpoints, All </target>
       </segment>
     </unit>
     <unit id="6965cebe-05f7-41b9-a8d6-daf6fcbfb2f8">
@@ -27543,9 +27543,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source> Default | Endpoints </source>
-        <target> &lt;target/&gt; </target>
+        <target> Default | Endpoints </target>
       </segment>
     </unit>
     <unit id="9bdf175e-b215-4ca7-a07d-5bbdd2406bb4">
@@ -32076,9 +32076,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4146</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>     For example, `example.com:1234`.</source>
-        <target>     &lt;target/&gt;</target>
+        <target>     For example, `example.com:1234`.</target>
       </segment>
     </unit>
     <unit id="c0c4cd99-9bc9-46e6-8fb9-1b39fcfc2acc">
@@ -32095,9 +32095,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4149</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>   Be careful to type the key exactly as given.</source>
-        <target>   &lt;target/&gt;</target>
+        <target>   Be careful to type the key exactly as given.</target>
       </segment>
     </unit>
     <unit id="49d587fc-7af4-4cce-a2f7-9cfeaf1600f1">
@@ -32154,9 +32154,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4158</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>   You will need to provide this address to the other person.</source>
-        <target>   &lt;target/&gt;</target>
+        <target>   You will need to provide this address to the other person.</target>
       </segment>
     </unit>
     <unit id="f2fd05f7-ed87-474b-bc33-b84f4739209b">
@@ -32173,9 +32173,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4161</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>     For example, `example.com:1234`.</source>
-        <target>     &lt;target/&gt;</target>
+        <target>     For example, `example.com:1234`.</target>
       </segment>
     </unit>
     <unit id="dada18fb-997b-4047-9346-4f9d438e04a6">
@@ -32192,9 +32192,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4164</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>   You will need to provide this to the other person.</source>
-        <target>   &lt;target/&gt;</target>
+        <target>   You will need to provide this to the other person.</target>
       </segment>
     </unit>
     <unit id="640c6834-557f-4288-9aa9-13a06961ccc0">
@@ -32309,9 +32309,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4181</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>   The other person will also need this.</source>
-        <target>   &lt;target/&gt;</target>
+        <target>   The other person will also need this.</target>
       </segment>
     </unit>
     <unit id="ee7e1342-5a0a-459c-9554-845f0da3b0f4">
@@ -32348,18 +32348,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4186</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>     This documentation does not cover how to forward ports.</source>
-        <target>     &lt;target/&gt;</target>
+        <target>     This documentation does not cover how to forward ports.</target>
       </segment>
     </unit>
     <unit id="26ff4425-2e8c-45c7-a718-a599da8b4c7a">
       <notes>
         <note appliesTo="source">line: 4187</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>     You may need to contact your network administrator to do this.</source>
-        <target>     &lt;target/&gt;</target>
+        <target>     You may need to contact your network administrator to do this.</target>
       </segment>
     </unit>
     <unit id="d995902d-8e11-47a8-9306-aab1445ce6b9">
@@ -32376,9 +32376,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4190</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>   You will need to provide this to the other person.</source>
-        <target>   &lt;target/&gt;</target>
+        <target>   You will need to provide this to the other person.</target>
       </segment>
     </unit>
     <unit id="7838d750-c53d-4bf9-a677-6f9393ae174a">
@@ -34892,18 +34892,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4579</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>  Choose the files containing the TTS data for the desired languages/voices.</source>
-        <target>  &lt;target/&gt;</target>
+        <target>  Choose the files containing the TTS data for the desired languages/voices.</target>
       </segment>
     </unit>
     <unit id="36bac650-d44a-43d1-8d6b-433b70b194c1">
       <notes>
         <note appliesTo="source">line: 4580</note>
       </notes>
-      <segment state="translated">
+      <segment state="initial">
         <source>  For example, the file MSSpeech_TTS_en-US_ZiraPro.msi is a U.S. English voice.</source>
-        <target>  &lt;target/&gt;</target>
+        <target>  For example, the file MSSpeech_TTS_en-US_ZiraPro.msi is a U.S. English voice.</target>
       </segment>
     </unit>
     <unit id="8668b0f5-6f98-46a3-9ded-501b71afa24b">
