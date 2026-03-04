@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-02 04:42+0000\n"
-"PO-Revision-Date: 2026-03-04 12:37\n"
+"PO-Revision-Date: 2026-03-04 13:51\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -12478,7 +12478,7 @@ msgstr "Entrez le geste à émuler :"
 msgid "{category} ({nbResults} result)"
 msgid_plural "{category} ({nbResults} results)"
 msgstr[0] "{category} ({nbResults} résultat)"
-msgstr[1] "{category} ({nbResults} résultat)"
+msgstr[1] "{category} ({nbResults} résultats)"
 
 #. Translators: The title of the Input Gestures dialog where the user can remap input gestures for scripts.
 #: gui\inputGestures.py:586
