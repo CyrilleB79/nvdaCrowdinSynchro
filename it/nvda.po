@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-05 23:23+0000\n"
-"PO-Revision-Date: 2026-03-09 01:21\n"
+"POT-Creation-Date: 2026-03-09 04:02+0000\n"
+"PO-Revision-Date: 2026-03-09 04:09\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -4868,47 +4868,47 @@ msgstr "Varie"
 #. if the default key causes problems for the normal locale keyboard layout.
 #. The key must be formatted as described in this article:
 #. http://msdn.microsoft.com/en-us/library/3zb1shc6%28v=vs.84%29.aspx
-#: installer.py:498
+#: installer.py:499
 msgid "CTRL+ALT+N"
 msgstr "CTRL+ALT+N"
 
 #. Translators: A label for a shortcut in start menu and a menu entry in NVDA menu (to go to NVDA website).
-#: installer.py:521
+#: installer.py:522
 msgid "NVDA web site"
 msgstr "Sito web di NVDA"
 
 #. Translators: A label for a shortcut item in start menu to uninstall NVDA from the computer.
-#: installer.py:530
+#: installer.py:531
 msgid "Uninstall NVDA"
 msgstr "Disinstalla NVDA"
 
 #. Translators: A label for a shortcut item in start menu to open current user's NVDA configuration directory.
-#: installer.py:540
+#: installer.py:541
 msgid "Explore NVDA user configuration directory"
 msgstr "Esplora la cartella delle impostazioni utente di NVDA"
 
 #. Translators: The label of the NVDA Documentation menu in the Start Menu.
-#: installer.py:551
+#: installer.py:552
 msgid "Documentation"
 msgstr "Documentazione"
 
 #. Translators: The label of the Start Menu item to open the Commands Quick Reference document.
-#: installer.py:554
+#: installer.py:555
 msgid "Commands Quick Reference"
 msgstr "Elenco comandi"
 
 #. Translators: A label for a shortcut in start menu to open NVDA user guide.
-#: installer.py:563
+#: installer.py:564
 msgid "User Guide"
 msgstr "Manuale utente"
 
 #. Translators: A label for a shortcut in start menu to open NVDA what's new.
-#: installer.py:572
+#: installer.py:573
 msgid "What's new"
 msgstr "Novità"
 
 #. Translators: A file extension label for NVDA add-on package.
-#: installer.py:714
+#: installer.py:715
 msgid "NVDA add-on package"
 msgstr "NVDA pacchetto componente aggiuntivo"
 
