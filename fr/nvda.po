@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-16 03:11+0000\n"
-"PO-Revision-Date: 2026-03-17 04:09\n"
+"POT-Creation-Date: 2026-03-17 05:36+0000\n"
+"PO-Revision-Date: 2026-03-17 05:53\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -19086,7 +19086,7 @@ msgid "table with {columnCountText} and {rowCountText}"
 msgstr "tableau de  {columnCountText} et {rowCountText}"
 
 #. Translators: name of the default espeak varient.
-#: synthDrivers\_espeak.py:416
+#: synthDrivers\_espeak.py:417
 msgctxt "espeakVarient"
 msgid "none"
 msgstr "aucune"
