@@ -6219,9 +6219,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 32</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Translated into 56 languages</source>
-        <target>Translated into 56 languages</target>
+        <target>Une traduction dans 56 langues</target>
       </segment>
     </unit>
     <unit id="137a5d15-17a5-49db-b795-9a88989dad16">
@@ -6450,9 +6450,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 62</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Besides English, NVDA has been translated into 56 languages including: Afrikaans, Albanian, Amharic, Arabic, Aragonese, Bosnian, Bulgarian, Burmese, Cambodian, Catalan, Chinese (simplified and traditional), Croatian, Czech, Danish, Dutch, Farsi, Finnish, French, Galician, Georgian, German (Germany and Switzerland), Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Japanese, Kannada, Korean, Kyrgyz, Lithuanian, Macedonian, Mongolian, Nepali, Norwegian, Polish, Portuguese (Brazil and Portugal), Punjabi, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish (Colombia and Spain), Swedish, Tamil, Thai, Turkish, Ukrainian and Vietnamese.</source>
-        <target>Besides English, NVDA has been translated into 56 languages including: Afrikaans, Albanian, Amharic, Arabic, Aragonese, Bosnian, Bulgarian, Burmese, Cambodian, Catalan, Chinese (simplified and traditional), Croatian, Czech, Danish, Dutch, Farsi, Finnish, French, Galician, Georgian, German (Germany and Switzerland), Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Japanese, Kannada, Korean, Kyrgyz, Lithuanian, Macedonian, Mongolian, Nepali, Norwegian, Polish, Portuguese (Brazil and Portugal), Punjabi, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish (Colombia and Spain), Swedish, Tamil, Thai, Turkish, Ukrainian and Vietnamese.</target>
+        <target>En plus de l'anglais, NVDA a été traduit en 56 langues, y compris : afrikaans, albanais, amharique, arabe, aragonais, bosniaque, bulgare, birman, catalan, cambodgien, chinois (simplifié et traditionnel), croate, tchèque, danois, néerlandais, farsi, finnois, français, galicien, géorgien, allemand (Allemagne et Suisse), grec, hébreu, hindi, hongrois, islandais, irlandais, italien, japonais, kannada, coréen, kirghiz, lituanien, macédonien, mongol, népalais, norvégien, polonais, portugais (Brésil et Portugal), pendjabi, roumain, russe, serbe, slovaque, slovène, espagnol (Colombie et Espagne), suédois, tamoul, thaï, turc, ukrainien et vietnamien.</target>
       </segment>
     </unit>
     <unit id="6dbfeab6-d167-4f5e-9706-f501d729511e">
@@ -7873,9 +7873,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 263</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The synth settings ring is a set of key commands that allow you to move through the most common speech settings and easily control them from anywhere while running NVDA.</source>
-        <target>The synth settings ring is a set of key commands that allow you to move through the most common speech settings and easily control them from anywhere while running NVDA.</target>
+        <target>La boucle des paramètres du synthétiseur est un ensemble de raccourcis clavier qui vous permettent de parcourir les paramètres vocaux les plus courants et de les contrôler facilement depuis n'importe où durant l'exécution de NVDA.</target>
       </segment>
     </unit>
     <unit id="ea947c56-399f-4018-9a79-b68d25f7d965">
@@ -13408,9 +13408,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1085</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reference</source>
-        <target>Reference</target>
+        <target>Référence</target>
       </segment>
     </unit>
     <unit id="4b728462-bfed-4b53-8ba1-7f1bf08f9634">
@@ -13963,9 +13963,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1177</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA uses [MathCAT](https://daisy.github.io/MathCAT/) for reading mathematical content.</source>
-        <target>NVDA uses [MathCAT](https://daisy.github.io/MathCAT/) for reading mathematical content.</target>
+        <target>NVDA utilise [MathCAT](https://daisy.github.io/MathCAT/) pour la lecture du contenu mathématique.</target>
       </segment>
     </unit>
     <unit id="ba5c585b-11ec-46fb-bf6e-c1e178998d33">
@@ -13983,9 +13983,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1181</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA supports the following types of mathematical content:</source>
-        <target>NVDA supports the following types of mathematical content:</target>
+        <target>NVDA prend en charge les types de contenu mathématique suivants :</target>
       </segment>
     </unit>
     <unit id="17ac1ca3-a707-4d2f-bdd8-c88814331933">
@@ -14048,9 +14048,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1189</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Microsoft Word provides linear symbol-based navigation through the equations itself and supports inputting math using several syntaxes, including LaTeX.</source>
-        <target>Microsoft Word provides linear symbol-based navigation through the equations itself and supports inputting math using several syntaxes, including LaTeX.</target>
+        <target>Microsoft Word propose une navigation linéaire basée sur les symboles dans les équations elles-mêmes et prend en charge la saisie de mathématiques à l'aide de plusieurs syntaxes, notamment LaTeX.</target>
       </segment>
     </unit>
     <unit id="51afb819-3c62-4e25-8de8-7ef9feda2b95">
@@ -14113,18 +14113,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1196</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Adobe Acrobat Reader:</source>
-        <target>Adobe Acrobat Reader:</target>
+        <target>Adobe Acrobat Reader :</target>
       </segment>
     </unit>
     <unit id="6debc593-3fa9-4ec1-a615-1e3588d21abd">
       <notes>
         <note appliesTo="source">line: 1197</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tagged PDF with MathML Structure elements.</source>
-        <target>Tagged PDF with MathML Structure elements.</target>
+        <target>PDF balisé avec des éléments de structure MathML.</target>
       </segment>
     </unit>
     <unit id="ac38febe-2ff1-4314-803e-d1c95f1274e3">
@@ -14132,18 +14132,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1198</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Foxit PDF Reader:</source>
-        <target>Foxit PDF Reader:</target>
+        <target>Foxit PDF Reader :</target>
       </segment>
     </unit>
     <unit id="1b6b5a36-89e0-4ad0-85df-a2d96f53f532">
       <notes>
         <note appliesTo="source">line: 1199</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tagged PDF with MathML embedded as Associated files or MathML Structure Elements.</source>
-        <target>Tagged PDF with MathML embedded as Associated files or MathML Structure Elements.</target>
+        <target>PDF balisé avec MathML intégré comme fichiers associés ou éléments de structure MathML.</target>
       </segment>
     </unit>
     <unit id="f7bb2783-3938-4cce-989a-14c5d6157c01">
@@ -14321,9 +14321,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1234</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Below is a summary of the most useful commands for those wanting to quickly get started with navigating mathematical content.</source>
-        <target>Below is a summary of the most useful commands for those wanting to quickly get started with navigating mathematical content.</target>
+        <target>Voici ci-dessous un résumé des commandes les plus utiles pour ceux qui souhaitent démarrer rapidement dans la navigation dans le contenu mathématique.</target>
       </segment>
     </unit>
     <unit id="4bb7c863-f098-42c9-a95a-0ef2699a08f6">
@@ -14331,9 +14331,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1236</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use the arrow keys to move left/right or up/down a mathematical structure (e.g. into/out of a fraction).</source>
-        <target>Use the arrow keys to move left/right or up/down a mathematical structure (e.g. into/out of a fraction).</target>
+        <target>Utilisez les touches fléchées pour vous déplacer vers la gauche/droite ou vers le haut/bas dans une structure mathématique (par exemple dans/hors d'une fraction).</target>
       </segment>
     </unit>
     <unit id="7404de82-8edb-4382-90bf-6ca3017404dc">
@@ -14341,9 +14341,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1237</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If inside of a table, `control+arrow` will move by cell.</source>
-        <target>If inside of a table, `control+arrow` will move by cell.</target>
+        <target>À l'intérieur d'un tableau, `contrôle+flèche` se déplacera de cellule en cellule.</target>
       </segment>
     </unit>
     <unit id="1ef8cfb8-f2da-47a9-ae11-d9c815afaec2">
@@ -14351,9 +14351,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1238</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`home` / `end` moves to the start/end of the expression.</source>
-        <target>`home` / `end` moves to the start/end of the expression.</target>
+        <target>`début` / `fin` se déplace au début/à la fin de l'expression.</target>
       </segment>
     </unit>
     <unit id="a28c44d0-1c3c-428b-93fa-142e73708ca8">
@@ -14361,9 +14361,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1239</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`space` reads your current position.</source>
-        <target>`space` reads your current position.</target>
+        <target>`espace` lit votre position actuelle.</target>
       </segment>
     </unit>
     <unit id="fff2d698-9b30-423d-8ba4-772fbc87451b">
@@ -14371,45 +14371,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1240</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`shift+upArrow` / `shift+downArrow` will change the mode of navigation, which will be discussed in more detail in the following section.</source>
-        <target>`shift+upArrow` / `shift+downArrow` will change the mode of navigation, which will be discussed in more detail in the following section.</target>
+        <target>`maj+flècheHaut` / `maj+flècheBas` changera le mode de navigation, qui sera discuté plus en détail dans la section suivante.</target>
       </segment>
     </unit>
     <unit id="f1b5cd76-14e0-4877-96b0-eea3e5b43148">
       <notes>
         <note appliesTo="source">line: 1242</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To start navigation: press `NVDA+alt+m` or `space` to enter math navigation mode, press `esc` to exit.</source>
-        <target>To start navigation: press `NVDA+alt+m` or `space` to enter math navigation mode, press `esc` to exit.</target>
+        <target>Pour démarrer la navigation : appuyez sur `NVDA+alt+m` ou `espace` pour entrer en mode navigation mathématique, appuyez sur `échap` pour quitter.</target>
       </segment>
     </unit>
     <unit id="b54b2175-0b47-4e68-b909-b2f176d1a6f0">
       <notes>
         <note appliesTo="source">line: 1244</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>MathCAT's navigation is the same in Microsoft Word and in a web browser.</source>
-        <target>MathCAT's navigation is the same in Microsoft Word and in a web browser.</target>
+        <target>La navigation MathCAT est la même dans Microsoft Word et dans un navigateur Web.</target>
       </segment>
     </unit>
     <unit id="79335c85-92da-42f2-b69b-034444122d24">
       <notes>
         <note appliesTo="source">line: 1246</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>While navigating an expression, `control+c` copies the math content of the current node in NVDA.</source>
-        <target>While navigating an expression, `control+c` copies the math content of the current node in NVDA.</target>
+        <target>Lors de la navigation dans une expression, `control+c` copie le contenu mathématique du nœud actuel dans NVDA.</target>
       </segment>
     </unit>
     <unit id="2be65653-29b7-4194-96f7-9a3fb778c48e">
       <notes>
         <note appliesTo="source">line: 1247</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The format of the math copied to the clipboard can be adjusted through the [math settings panel](#MathSettings).</source>
-        <target>The format of the math copied to the clipboard can be adjusted through the [math settings panel](#MathSettings).</target>
+        <target>Le format du contenu mathématique copié dans le presse-papiers peut être défini dans le [panneau des paramètres mathématiques](#MathSettings).</target>
       </segment>
     </unit>
     <unit id="9d8f3560-08c4-490b-9d78-4040311d66f2">
@@ -14418,18 +14418,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#MathNavigationModes}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Navigation Modes</source>
-        <target>Navigation Modes</target>
+        <target>Modes de navigation</target>
       </segment>
     </unit>
     <unit id="fce76eb3-adb9-4abe-8bd5-d651548de82c">
       <notes>
         <note appliesTo="source">line: 1251</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>MathCAT supports the following navigation modes:</source>
-        <target>MathCAT supports the following navigation modes:</target>
+        <target>MathCAT prend en charge les modes de navigation suivants :</target>
       </segment>
     </unit>
     <unit id="09e3c626-6fa2-467b-9057-90d5626cba0b">
@@ -14437,9 +14437,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1253</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enhanced Mode: navigation is by mathematically meaningful pieces (operators, delimiters, and operands).</source>
-        <target>Enhanced Mode: navigation is by mathematically meaningful pieces (operators, delimiters, and operands).</target>
+        <target>Mode amélioré : la navigation se fait par éléments mathématiquement significatifs (opérateurs, délimiteurs et opérandes).</target>
       </segment>
     </unit>
     <unit id="c901b5c9-90a8-4c02-b295-b45c82e8a257">
@@ -14447,27 +14447,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1254</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Simple mode: moves by words except when you get to a 2D notation (fractions, roots, ...), then it speaks the entire notation.</source>
-        <target>Simple mode: moves by words except when you get to a 2D notation (fractions, roots, ...), then it speaks the entire notation.</target>
+        <target>Mode simple : déplacement par mots sauf quand on atteint une notation 2D (fractions, racines, ...), alors la notation entière est lue.</target>
       </segment>
     </unit>
     <unit id="e06ec1ed-c058-4bd4-8f09-84700412284b">
       <notes>
         <note appliesTo="source">line: 1255</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Zooming in lets you explore the 2D notation in the same mode.</source>
-        <target>Zooming in lets you explore the 2D notation in the same mode.</target>
+        <target>Le zoom avant vous permet d'explorer la notation 2D dans le même mode.</target>
       </segment>
     </unit>
     <unit id="6285475d-d68d-4e46-bcec-314ff3e806e5">
       <notes>
         <note appliesTo="source">line: 1256</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Zooming out or moving out of the 2D notation brings you back to the outer/higher level of navigation.</source>
-        <target>Zooming out or moving out of the 2D notation brings you back to the outer/higher level of navigation.</target>
+        <target>Effectuer un zoom arrière ou sortir de la notation 2D vous ramène au niveau de navigation externe/supérieur.</target>
       </segment>
     </unit>
     <unit id="79974742-797f-4b6e-b09a-a935ff814964">
@@ -14475,45 +14475,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1257</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Character Mode: this is actually two modes - word mode and character mode (zoom in to get "real" character mode).</source>
-        <target>Character Mode: this is actually two modes - word mode and character mode (zoom in to get "real" character mode).</target>
+        <target>Mode Caractère : il s'agit en fait de deux modes : le mode mot et le mode caractère (en zoomant, on obtient le mode caractère "réel").</target>
       </segment>
     </unit>
     <unit id="165131fa-51e9-4f41-b9af-084d4acd2b13">
       <notes>
         <note appliesTo="source">line: 1258</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Moves by words/characters.</source>
-        <target>Moves by words/characters.</target>
+        <target>Déplacement par mots/caractères.</target>
       </segment>
     </unit>
     <unit id="3713de28-4f5a-4962-9132-0a51445cb476">
       <notes>
         <note appliesTo="source">line: 1259</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This differs for numbers of more than one digit and function names such as "sin" that are multiple characters.</source>
-        <target>This differs for numbers of more than one digit and function names such as "sin" that are multiple characters.</target>
+        <target>Cela diffère pour les nombres à plus d'un chiffre et les noms de fonctions tels que "sin" qui comportent plusieurs caractères.</target>
       </segment>
     </unit>
     <unit id="7fafa029-a164-460b-b9af-839b391ad791">
       <notes>
         <note appliesTo="source">line: 1260</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Otherwise, word and character navigation is the same.</source>
-        <target>Otherwise, word and character navigation is the same.</target>
+        <target>Sinon, la navigation par mots et caractères est identique.</target>
       </segment>
     </unit>
     <unit id="419dbc53-63fe-4ba8-ab41-5f551fa88969">
       <notes>
         <note appliesTo="source">line: 1262</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following are key commands used to navigate math:</source>
-        <target>The following are key commands used to navigate math:</target>
+        <target>Voici les touches de commandes utilisées pour naviguer dans le contenu mathématique :</target>
       </segment>
     </unit>
     <unit id="edcbbf86-ad5a-47ec-8868-3434bc7435ec">
@@ -14522,9 +14522,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Name | Key </source>
-        <target> Name | Key </target>
+        <target> Nom | Touche </target>
       </segment>
     </unit>
     <unit id="4871a4ce-838a-47f7-a512-3908d4d55269">
