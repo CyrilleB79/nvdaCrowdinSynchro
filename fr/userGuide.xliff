@@ -14562,7 +14562,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source> Move to previous cell in a table, or previous digit if in columnar math | `control+leftArrow` or `control+alt+leftArrow` </source>
-        <target> Aller à la cellule précédente dans un tableau, ou au chiffre précédent dans des mathématiques en colonnes | `control+flècheGauche` ou `contrôle+alt+flècheGauche` </target>
+        <target> Aller à la cellule précédente dans un tableau, ou au chiffre précédent dans des mathématiques en colonne | `control+flècheGauche` ou `contrôle+alt+flècheGauche` </target>
       </segment>
     </unit>
     <unit id="afc7638a-2df3-4f22-aa06-712680badcfc">
@@ -14571,9 +14571,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Read previous | `shift+leftArrow` </source>
-        <target> Read previous | `shift+leftArrow` </target>
+        <target> Lire l'élément précédent | `maj+flècheGauche` </target>
       </segment>
     </unit>
     <unit id="94c30109-30c4-4e3f-948a-0db75b8cf27f">
@@ -14582,9 +14582,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Describe previous | `control+shift+leftArrow` </source>
-        <target> Describe previous | `control+shift+leftArrow` </target>
+        <target> Décrire l'élément précédent | `contrôle+maj+flècheGauche` </target>
       </segment>
     </unit>
     <unit id="ac6c7881-fea6-4062-945b-d2190fd827dc">
@@ -14593,9 +14593,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to next | `rightArrow` </source>
-        <target> Move to next | `rightArrow` </target>
+        <target> Aller à l'élément suivant | `flècheDroite` </target>
       </segment>
     </unit>
     <unit id="70a45f4b-ad78-4312-b915-6925e8446310">
@@ -14604,9 +14604,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to next cell in a table, or next digit if in columnar math | `control+rightArrow` or `control+alt+rightArrow` </source>
-        <target> Move to next cell in a table, or next digit if in columnar math | `control+rightArrow` or `control+alt+rightArrow` </target>
+        <target> Aller à la cellule suivante dans un tableau, ou au chiffre suivant dans des mathématiques en colonne | `control+flècheDroite` ou `contrôle+alt+flècheDroite` </target>
       </segment>
     </unit>
     <unit id="8cfb899d-ccf0-4b71-889a-a26c4ae27b75">
@@ -14615,9 +14615,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Read next | `shift+rightArrow` </source>
-        <target> Read next | `shift+rightArrow` </target>
+        <target> Lire l'élément suivant | `maj+flècheDroite` </target>
       </segment>
     </unit>
     <unit id="91809748-80bb-4c9b-aa86-90e009b3c00e">
@@ -14626,9 +14626,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Describe next | `control+shift+rightArrow` </source>
-        <target> Describe next | `control+shift+rightArrow` </target>
+        <target> Décrire l'élément suivant | `contrôle+maj+flècheDroite` </target>
       </segment>
     </unit>
     <unit id="05e87a38-6df2-4c25-8e1b-e0608bf4b981">
@@ -14637,9 +14637,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Zoom out | `upArrow` </source>
-        <target> Zoom out | `upArrow` </target>
+        <target> Dézoomer | `flècheHaut` </target>
       </segment>
     </unit>
     <unit id="a510ff80-97d3-4b3d-bf93-338170d24283">
@@ -14648,9 +14648,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to cell above in a table, or digit above in columnar math. | `control+upArrow` or `control+alt+upArrow` </source>
-        <target> Move to cell above in a table, or digit above in columnar math. | `control+upArrow` or `control+alt+upArrow` </target>
+        <target> Aller à la cellule au-dessus dans un tableau, ou au chiffre au dessus dans des mathématiques en colonne. | `contrôle+flècheHaut` ou `contrôle+alt+flècheHaut` </target>
       </segment>
     </unit>
     <unit id="0be7a18b-4ccd-4c3b-94c6-64e8a55cdbd8">
@@ -14670,9 +14670,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Zoom out all the way | `control+shift+upArrow` </source>
-        <target> Zoom out all the way | `control+shift+upArrow` </target>
+        <target> Dézoomer complètement | `contrôle+maj+flècheHaut` </target>
       </segment>
     </unit>
     <unit id="328ca18e-1751-4915-9ca6-f57d2c89b04d">
@@ -14681,9 +14681,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Zoom in | `downArrow` </source>
-        <target> Zoom in | `downArrow` </target>
+        <target> Zoomer | `flècheBas` </target>
       </segment>
     </unit>
     <unit id="24c76c91-ae34-4bc9-9e20-2962a467db2f">
@@ -14692,9 +14692,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to cell below in a table, or digit below in columnar math | `control+downArrow` or `control+alt+downArrow` </source>
-        <target> Move to cell below in a table, or digit below in columnar math | `control+downArrow` or `control+alt+downArrow` </target>
+        <target> Aller à la cellule au-dessous dans un tableau, ou au chiffre au dessous dans des mathématiques en colonne. | `contrôle+flècheBas` ou `contrôle+alt+flècheBas` </target>
       </segment>
     </unit>
     <unit id="5f876e86-46e7-481d-9765-0a5f711e1c80">
@@ -14714,9 +14714,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Zoom in all the way | `control+shift+downArrow` </source>
-        <target> Zoom in all the way | `control+shift+downArrow` </target>
+        <target> Zoomer complètement | `contrôle+maj+flècheBas` </target>
       </segment>
     </unit>
     <unit id="4236bfeb-e54e-42c9-bd64-86cee076a1f1">
@@ -14802,9 +14802,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Read current cell | `control+space` </source>
-        <target> Read current cell | `control+space` </target>
+        <target> Lire la cellule courante | `contrôle+espace` </target>
       </segment>
     </unit>
     <unit id="62bedbf1-e433-44fa-8a0f-14ff03addfcd">
