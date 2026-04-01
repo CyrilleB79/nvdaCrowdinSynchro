@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-01 00:06+0000\n"
-"PO-Revision-Date: 2026-04-01 04:42\n"
+"POT-Creation-Date: 2026-04-01 05:05+0000\n"
+"PO-Revision-Date: 2026-04-01 06:22\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -2193,12 +2193,12 @@ msgid "gesture map File Error"
 msgstr "errore nella mappatura del file dei gesti"
 
 #. Translators: This is spoken when NVDA is starting.
-#: core.py:797
+#: core.py:803
 msgid "Loading NVDA. Please wait..."
 msgstr "Caricamento di NVDA in corso. Attendere prego..."
 
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts.
-#: core.py:945
+#: core.py:951
 msgid "NVDA started"
 msgstr "NVDA attivato"
 
