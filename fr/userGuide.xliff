@@ -15396,9 +15396,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>mslst |multiselect list</source>
-        <target>mslst |multiselect list</target>
+        <target>lstsm |liste à selection multiple</target>
       </segment>
     </unit>
     <unit id="0d3d2461-ce9b-43ec-bb01-7aee7eed5da4">
@@ -15814,7 +15814,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>cmnt |displayed when there is a comment for a spreadsheet cell or piece of text in a document</source>
-        <target>cmnt |affiché quand il y a un commentaire pour une cellule de feuille de travail ou un document</target>
+        <target>cmnt |affiché quand il y a un commentaire pour une cellule de feuille de calcul ou un document</target>
       </segment>
     </unit>
     <unit id="09cc4c15-d8f2-4425-b996-b924a7876a4a">
@@ -15825,7 +15825,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>frml |displayed when there is a formula on a spreadsheet cell</source>
-        <target>frml |affiché quand il y a une formule dans une cellule de feuille de travail</target>
+        <target>frml |affiché quand il y a une formule dans une cellule de feuille de calcul</target>
       </segment>
     </unit>
     <unit id="f176fcb4-5151-4fb5-bbc7-b266a87c79af">
@@ -15867,9 +15867,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>msel |displayed when an object allows selecting multiple items</source>
-        <target>msel |displayed when an object allows selecting multiple items</target>
+        <target>selm |affiché lorsqu'un objet permet de sélectionner plusieurs éléments</target>
       </segment>
     </unit>
     <unit id="c14870bf-6f04-44b2-b699-0a7b21454719">
@@ -16471,9 +16471,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1493</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can enable Screen Curtain in the [Privacy and Security category](#PrivacyAndSecuritySettings) of the [NVDA Settings](#NVDASettings) dialog.</source>
-        <target>You can enable Screen Curtain in the [Privacy and Security category](#PrivacyAndSecuritySettings) of the [NVDA Settings](#NVDASettings) dialog.</target>
+        <target>Vous pouvez activer le rideau d'écran dans la [catégorie Confidentialité et sécurité](#PrivacyAndSecuritySettings) de la boîte de dialogue [Paramètres NVDA](#NVDASettings).</target>
       </segment>
     </unit>
     <unit id="509daff7-ab17-402a-925b-6110a9cb8e0d">
@@ -16502,36 +16502,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1503</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When Screen Curtain is enabled, features that rely on what is literally on screen will not function.</source>
-        <target>When Screen Curtain is enabled, features that rely on what is literally on screen will not function.</target>
+        <target>Lorsque le rideau d'écran est activé, les fonctionnalités qui reposent sur ce qui est concrètement affiché à l'écran ne fonctionneront pas.</target>
       </segment>
     </unit>
     <unit id="14df27db-ed9a-4e2b-a666-676fc855b6f1">
       <notes>
         <note appliesTo="source">line: 1504</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, you cannot [use OCR](#Win10Ocr).</source>
-        <target>For example, you cannot [use OCR](#Win10Ocr).</target>
+        <target>Par exemple, vous ne pouvez pas [utiliser la Reconnaissance Optique de Caractères](#Win10Ocr).</target>
       </segment>
     </unit>
     <unit id="186924d2-4574-4f54-88c8-f203e6b33288">
       <notes>
         <note appliesTo="source">line: 1505</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Some screenshot utilities also may not work.</source>
-        <target>Some screenshot utilities also may not work.</target>
+        <target>Certains utilitaires de capture d'écran peuvent également ne pas fonctionner.</target>
       </segment>
     </unit>
     <unit id="002145a3-909c-48ef-90c3-a591cb9905a3">
       <notes>
         <note appliesTo="source">line: 1507</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please note that while Windows Magnifier is running and inverted screen colors are being used, Screen Curtain cannot be enabled.</source>
-        <target>Please note that while Windows Magnifier is running and inverted screen colors are being used, Screen Curtain cannot be enabled.</target>
+        <target>Veuillez noter que lorsque la Loupe Windows est activée et que l'inversion des couleurs est utilisée, le rideau d'écran ne peut pas être activé.</target>
       </segment>
     </unit>
     <unit id="db268119-b152-4431-bbe7-44da8add31e6">
@@ -17124,7 +17124,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Charts: This lists all charts in the active worksheet.</source>
-        <target>Diagrammes : Ceci liste tous les diagrammes dans la feuille de travail active.</target>
+        <target>Diagrammes : Liste tous les diagrammes dans la feuille de calcul active.</target>
       </segment>
     </unit>
     <unit id="f3fe0fa2-3fbc-4f1b-b510-635e44488f4d">
@@ -17141,27 +17141,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1620</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Notes: This lists all cells in the active worksheet containing notes.</source>
-        <target>Notes: This lists all cells in the active worksheet containing notes.</target>
+        <target>Notes : Liste toutes les cellules de la feuille de calcul active contenant des notes.</target>
       </segment>
     </unit>
     <unit id="737d0981-bcf7-44bb-94be-3e0d304f2cdf">
       <notes>
         <note appliesTo="source">line: 1621</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The cell address along with its note are shown for each cell.</source>
-        <target>The cell address along with its note are shown for each cell.</target>
+        <target>L'adresse de la cellule et sa note sont présentées pour chaque cellule.</target>
       </segment>
     </unit>
     <unit id="b312c569-e0ff-4a50-ade9-7c19b438abf1">
       <notes>
         <note appliesTo="source">line: 1622</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Pressing enter or the Move To button when on a listed note will move directly to that cell.</source>
-        <target>Pressing enter or the Move To button when on a listed note will move directly to that cell.</target>
+        <target>L'appui sur la touche Entrée ou le bouton Aller à sur une note de la liste vous amènera directement à cette cellule.</target>
       </segment>
     </unit>
     <unit id="513f368c-edad-4ff7-bccc-00b241290946">
@@ -17171,7 +17171,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Formulas: This lists all cells in the worksheet containing a formula.</source>
-        <target>Formules : Ceci liste toutes les cellules de la feuille de travail contenant une formule.</target>
+        <target>Formules : Ceci liste toutes les cellules de la feuille de calcul contenant une formule.</target>
       </segment>
     </unit>
     <unit id="74a6c8fe-8165-401d-980e-cd9ff2d77ae4">
@@ -17199,7 +17199,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Sheets: This lists all sheets in the workbook.</source>
-        <target>feuilles : Ceci liste toutes les feuilles du classeur.</target>
+        <target>feuilles : Liste toutes les feuilles du classeur.</target>
       </segment>
     </unit>
     <unit id="ff1a9cbd-1def-4d56-bbea-9b9c37c56797">
@@ -17227,7 +17227,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Form fields: This lists all form fields in the active worksheet.</source>
-        <target>Champs de formulaire : Ceci liste tous les champs de formulaire dans la feuille de travail active.</target>
+        <target>Champs de formulaire : Liste tous les champs de formulaire dans la feuille de calcul active.</target>
       </segment>
     </unit>
     <unit id="879701ba-7a9c-4167-ba38-c7c15cf1c16e">
@@ -18696,9 +18696,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1892</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Processor architecture</source>
-        <target>Processor architecture</target>
+        <target>Architecture du processeur</target>
       </segment>
     </unit>
     <unit id="db00c65c-0296-4504-8865-fc3ecf8a5d27">
@@ -19258,9 +19258,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1988</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that in Advanced settings, there is a similar [option for SAPI 4 voices](#UseWASAPIForSAPI4), not to be confused with this one.</source>
-        <target>Note that in Advanced settings, there is a similar [option for SAPI 4 voices](#UseWASAPIForSAPI4), not to be confused with this one.</target>
+        <target>Veuillez noter que dans les paramètres avancés, il existe une [option similaire pour les voix SAPI 4](#UseWASAPIForSAPI4), à ne pas confondre avec celle-ci.</target>
       </segment>
     </unit>
     <unit id="aefb6bcc-25d5-4cba-bc91-f2f8c73e756a">
@@ -22790,18 +22790,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#PrivacyAndSecuritySettings}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Privacy and Security</source>
-        <target>Privacy and Security</target>
+        <target>Confidentialité et sécurité</target>
       </segment>
     </unit>
     <unit id="89136ca1-b58c-41a4-95a6-0e27dba369f5">
       <notes>
         <note appliesTo="source">line: 2597</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This category allows you to adjust settings that affect your privacy and security while using NVDA.</source>
-        <target>This category allows you to adjust settings that affect your privacy and security while using NVDA.</target>
+        <target>Cette catégorie vous permet d'ajuster les paramètres qui affectent votre confidentialité et votre sécurité lors de l'utilisation de NVDA.</target>
       </segment>
     </unit>
     <unit id="4f86399f-ba0c-4bb7-9daa-b31b68fbf30f">
@@ -22810,72 +22810,72 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ScreenCurtainEnable}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Make screen black (immediate effect)</source>
-        <target>Make screen black (immediate effect)</target>
+        <target>Rendre l'écran noir (effet immédiat)</target>
       </segment>
     </unit>
     <unit id="33cc8923-eb10-4dc6-a5db-10fc2cb8f949">
       <notes>
         <note appliesTo="source">line: 2601</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option enables and disables the [Screen Curtain](#VisionScreenCurtain).</source>
-        <target>This option enables and disables the [Screen Curtain](#VisionScreenCurtain).</target>
+        <target>Cette option active et désactive le [rideau d'écran](#VisionScreenCurtain).</target>
       </segment>
     </unit>
     <unit id="52efba1d-226c-4ae2-963e-f6a59d6a1e33">
       <notes>
         <note appliesTo="source">line: 2602</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that Screen Curtain is activated or deactivated as soon as the checkbox is checked or unchecked.</source>
-        <target>Note that Screen Curtain is activated or deactivated as soon as the checkbox is checked or unchecked.</target>
+        <target>Veuillez noter que le rideau d'écran est activé ou désactivé dès que la case est cochée ou décochée.</target>
       </segment>
     </unit>
     <unit id="b04da53d-ca2a-4a39-ba90-41dd3afc8f08">
       <notes>
         <note appliesTo="source">line: 2604</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, when you check this box, a warning that your screen will become black after activation will be displayed.</source>
-        <target>By default, when you check this box, a warning that your screen will become black after activation will be displayed.</target>
+        <target>Par défaut, lorsque vous cochez cette case, un avertissement indiquant que votre écran deviendra noir après l'activation s'affichera.</target>
       </segment>
     </unit>
     <unit id="17a0b989-d376-4182-a3d4-e068071eee59">
       <notes>
         <note appliesTo="source">line: 2605</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Before continuing, ensure you have enabled speech / braille and will be able to control your computer without the use of the screen.</source>
-        <target>Before continuing, ensure you have enabled speech / braille and will be able to control your computer without the use of the screen.</target>
+        <target>Avant de continuer, assurez-vous que vous avez activé la parole/le braille et que vous pourrez contrôler votre ordinateur sans utiliser l'écran.</target>
       </segment>
     </unit>
     <unit id="2955889d-6d6f-43a4-a2c2-b8d32275453b">
       <notes>
         <note appliesTo="source">line: 2606</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you are sure, you can choose the "Yes" button to enable Screen Curtain.</source>
-        <target>If you are sure, you can choose the "Yes" button to enable Screen Curtain.</target>
+        <target>Si vous êtes sûr, vous pouvez choisir le bouton "Oui" pour activer le rideau d'écran.</target>
       </segment>
     </unit>
     <unit id="7d556623-8f06-4c9d-91b8-30f9a21f68a3">
       <notes>
         <note appliesTo="source">line: 2607</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Select "No" if you no longer wish to enable Screen Curtain.</source>
-        <target>Select "No" if you no longer wish to enable Screen Curtain.</target>
+        <target>Choisissez "Non" si vous ne souhaitez plus activer le rideau d'écran.</target>
       </segment>
     </unit>
     <unit id="5044c2f0-6bf5-441d-93a6-75b1b6d7f0c4">
       <notes>
         <note appliesTo="source">line: 2608</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you no longer want to see this warning message every time, you can change this behaviour in the dialog that displays the message.</source>
-        <target>If you no longer want to see this warning message every time, you can change this behaviour in the dialog that displays the message.</target>
+        <target>Si vous ne voulez plus voir cet avertissement à chaque fois, vous pouvez changer ce comportement dans le dialogue qui affiche le message.</target>
       </segment>
     </unit>
     <unit id="2a27a394-672f-494c-8cf3-59d9a38761aa">
@@ -22884,36 +22884,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ScreenCurtainWarnOnLoad}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Always show a warning when loading Screen Curtain</source>
-        <target>Always show a warning when loading Screen Curtain</target>
+        <target>Toujours afficher un avertissement à l'activation du Rideau d'Écran</target>
       </segment>
     </unit>
     <unit id="aeec54e1-d613-4f0b-b813-705f50f7dc68">
       <notes>
         <note appliesTo="source">line: 2612</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option controls whether a warning dialog is displayed when enabling the [Screen Curtain](#VisionScreenCurtain).</source>
-        <target>This option controls whether a warning dialog is displayed when enabling the [Screen Curtain](#VisionScreenCurtain).</target>
+        <target>Cette option contrôle si une boîte de dialogue d'avertissement s'affiche lors de l'activation du [rideau d'écran](#VisionScreenCurtain).</target>
       </segment>
     </unit>
     <unit id="9713cee5-a6bd-408d-aeee-551f450f8992">
       <notes>
         <note appliesTo="source">line: 2614</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you use Screen Curtain regularly, you may find it more convenient to disable this option.</source>
-        <target>If you use Screen Curtain regularly, you may find it more convenient to disable this option.</target>
+        <target>Si vous utilisez régulièrement le rideau d'écran, vous trouverez peut-être plus pratique de désactiver cette option.</target>
       </segment>
     </unit>
     <unit id="c3383192-9c4d-4f74-9bb8-b98f160da6d4">
       <notes>
         <note appliesTo="source">line: 2615</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can also choose not to show the warning dialog using the checkbox in the dialog itself.</source>
-        <target>You can also choose not to show the warning dialog using the checkbox in the dialog itself.</target>
+        <target>Vous pouvez également choisir de ne pas afficher la boîte de dialogue d'avertissement en utilisant la case à cocher dans la boîte de dialogue elle-même.</target>
       </segment>
     </unit>
     <unit id="476e08be-2bde-49fd-b044-cba245f992d2">
@@ -22922,45 +22922,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ScreenCurtainPlayToggleSounds}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Play sound when toggling Screen Curtain</source>
-        <target>Play sound when toggling Screen Curtain</target>
+        <target>Émettre un son lors de l'activation/désactivation du rideau d'écran</target>
       </segment>
     </unit>
     <unit id="b2740414-150d-4442-96a1-25e6bb7f4399">
       <notes>
         <note appliesTo="source">line: 2619</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option controls whether a sound cue is played when [Screen Curtain](#VisionScreenCurtain) is enabled or disabled.</source>
-        <target>This option controls whether a sound cue is played when [Screen Curtain](#VisionScreenCurtain) is enabled or disabled.</target>
+        <target>Cette option contrôle si un signal sonore est joué lorsque le [rideau d'écran](#VisionScreenCurtain) est activé ou désactivé.</target>
       </segment>
     </unit>
     <unit id="7e62d46f-2d2f-4231-87c3-b59ae908a916">
       <notes>
         <note appliesTo="source">line: 2621</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, sounds are played when Screen Curtain is toggled.</source>
-        <target>By default, sounds are played when Screen Curtain is toggled.</target>
+        <target>Par défaut, des sons sont joués lorsque le rideau d'écran est activé ou désactivé.</target>
       </segment>
     </unit>
     <unit id="3d6eba1d-3ac8-4ef0-9b7a-3f2c6d9db788">
       <notes>
         <note appliesTo="source">line: 2622</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you do not wish to hear these sounds, you can uncheck this checkbox.</source>
-        <target>If you do not wish to hear these sounds, you can uncheck this checkbox.</target>
+        <target>Si vous ne souhaitez pas entendre ces sons, vous pouvez décocher cette case.</target>
       </segment>
     </unit>
     <unit id="18469df8-5738-4e57-bc6e-3fe838025377">
       <notes>
         <note appliesTo="source">line: 2623</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that you will still be alerted in speech and/or braille when Screen Curtain is toggled with an input gesture.</source>
-        <target>Note that you will still be alerted in speech and/or braille when Screen Curtain is toggled with an input gesture.</target>
+        <target>Veuillez noter que vous serez toujours alerté vocalement et/ou par le braille lorsque le rideau d'écran est activé ou désactivé par un geste de commande.</target>
       </segment>
     </unit>
     <unit id="9c0f6957-8383-4803-b35a-f42418f64870">
@@ -22969,45 +22969,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#GeneralSettingsLogLevel}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Logging level</source>
-        <target>Logging level</target>
+        <target>Niveau de journalisation</target>
       </segment>
     </unit>
     <unit id="1e10ddb5-8a01-4562-88c2-a30b3e749bbf">
       <notes>
         <note appliesTo="source">line: 2627</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a combo box that lets you choose how much NVDA will log as it's running.</source>
-        <target>This is a combo box that lets you choose how much NVDA will log as it's running.</target>
+        <target>C'est une liste déroulante qui vous permet de choisir la quantité d'informations que NVDA consignera dans son journal durant son exécution.</target>
       </segment>
     </unit>
     <unit id="9d165954-c665-4ae1-a5b6-2002f4a7f361">
       <notes>
         <note appliesTo="source">line: 2628</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Generally, users should not need to touch this, as not too much is logged.</source>
-        <target>Generally, users should not need to touch this, as not too much is logged.</target>
+        <target>Généralement, l'utilisateur n'aura pas besoin d'y toucher dans la mesure où assez peu d'informations sont consignées.</target>
       </segment>
     </unit>
     <unit id="e0d1f296-9b70-4774-a9b2-cde68dad13b2">
       <notes>
         <note appliesTo="source">line: 2629</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, if you wish to provide information in a bug report, or enable or disable logging altogether, then it may be a useful option.</source>
-        <target>However, if you wish to provide information in a bug report, or enable or disable logging altogether, then it may be a useful option.</target>
+        <target>Cependant, si vous voulez fournir des informations lors d'un rapport d'erreur, ou activer/désactiver la journalisation, cette option peut être utile.</target>
       </segment>
     </unit>
     <unit id="e4ca0659-8926-46c6-bed5-6386308a22b1">
       <notes>
         <note appliesTo="source">line: 2631</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The available logging levels are:</source>
-        <target>The available logging levels are:</target>
+        <target>Les niveaux de journalisation disponibles sont :</target>
       </segment>
     </unit>
     <unit id="490d31c1-b480-48ea-a663-20ea59ad72fb">
@@ -23015,9 +23015,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2633</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Disabled: Apart from a brief startup message, NVDA will not log anything while it runs.</source>
-        <target>Disabled: Apart from a brief startup message, NVDA will not log anything while it runs.</target>
+        <target>Désactivé : À l'exception d'un bref message de démarrage, NVDA ne journalisera rien durant son exécution.</target>
       </segment>
     </unit>
     <unit id="a76fe52e-cdeb-44e8-96a0-8de600c54c31">
@@ -23025,9 +23025,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2634</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Info: NVDA will log basic information such as startup messages and information useful for developers.</source>
-        <target>Info: NVDA will log basic information such as startup messages and information useful for developers.</target>
+        <target>Info : NVDA journalisera des informations de base telles que les messages de démarrage et des informations utiles pour les développeurs.</target>
       </segment>
     </unit>
     <unit id="311dcaf5-9c31-4d5d-b532-08e954f8ffde">
@@ -23035,9 +23035,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2635</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Debug warning: Warning messages that are not caused by severe errors will be logged.</source>
-        <target>Debug warning: Warning messages that are not caused by severe errors will be logged.</target>
+        <target>Avertissements de débogage : Les messages d'avertissement qui ne sont pas causés par des erreurs graves seront journalisés.</target>
       </segment>
     </unit>
     <unit id="dc6f40d6-e276-4ffd-af22-daaeb0d1c89d">
@@ -23045,18 +23045,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2636</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Input/output: Input from keyboard and braille displays, as well as speech and braille output will be logged.</source>
-        <target>Input/output: Input from keyboard and braille displays, as well as speech and braille output will be logged.</target>
+        <target>Entrées/sorties : Les entrées du clavier et des terminaux braille, ainsi que les sorties en parole et en braille seront journalisées.</target>
       </segment>
     </unit>
     <unit id="164f7171-d744-46a9-acbc-80d2ec105f82">
       <notes>
         <note appliesTo="source">line: 2637</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you are concerned about privacy, do not set the logging level to this option.</source>
-        <target>If you are concerned about privacy, do not set the logging level to this option.</target>
+        <target>Si la confidentialité vous préoccupe, ne définissez pas le niveau de journalisation sur cette option.</target>
       </segment>
     </unit>
     <unit id="1d43ad0b-4133-4d42-b353-0948e7e0589a">
@@ -23064,18 +23064,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2638</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Debug: In addition to info, warning, and input/output messages, additional debug messages will be logged.</source>
-        <target>Debug: In addition to info, warning, and input/output messages, additional debug messages will be logged.</target>
+        <target>Débogage : En plus des messages d'info, avertissements et entrées/sorties, des messages additionnels de débogage seront journalisés.</target>
       </segment>
     </unit>
     <unit id="76336555-dc4c-4910-898e-33cc511217c7">
       <notes>
         <note appliesTo="source">line: 2639</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Just like input/output, if you are concerned about privacy, you should not set the logging level to this option.</source>
-        <target>Just like input/output, if you are concerned about privacy, you should not set the logging level to this option.</target>
+        <target>Tout comme pour entrées/sorties, si la confidentialité vous préoccupe, vous ne devez pas définir le niveau de journalisation sur cette option.</target>
       </segment>
     </unit>
     <unit id="15a4a49b-50a5-448e-94a0-7d863f5f5dbf">
@@ -23084,36 +23084,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#GeneralSettingsGatherUsageStats}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Allow NV Access to gather NVDA usage statistics</source>
-        <target>Allow NV Access to gather NVDA usage statistics</target>
+        <target>Autoriser NV Access à récupérer des statistiques d'utilisation de NVDA</target>
       </segment>
     </unit>
     <unit id="b331c548-8738-48c2-9414-41437e300806">
       <notes>
         <note appliesTo="source">line: 2643</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If this is enabled, NV Access will use the information from update checks, including particular demographics such as the operating system and country of origin, to track the number of NVDA users.</source>
-        <target>If this is enabled, NV Access will use the information from update checks, including particular demographics such as the operating system and country of origin, to track the number of NVDA users.</target>
+        <target>Si cette option est activée, NV Access utilisera les informations de vérification de mises à jour, y compris certaines informations démographiques telles que le système d'exploitation et le pays d'origine, pour suivre le nombre d'utilisateurs de NVDA.</target>
       </segment>
     </unit>
     <unit id="534e8a45-8027-433d-9ad1-4e4630650430">
       <notes>
         <note appliesTo="source">line: 2644</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that although your IP address will be used to calculate your country during the update check, the IP address is never kept.</source>
-        <target>Note that although your IP address will be used to calculate your country during the update check, the IP address is never kept.</target>
+        <target>Bien que votre adresse IP soit utilisée pour déterminer votre pays durant la mise à jour, elle ne sera jamais conservée.</target>
       </segment>
     </unit>
     <unit id="ace31388-04f7-42d1-9d55-bddcf48b327c">
       <notes>
         <note appliesTo="source">line: 2645</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Apart from the [mandatory information required to check for updates](#GeneralSettingsCheckForUpdates), the following extra information is also currently sent:</source>
-        <target>Apart from the [mandatory information required to check for updates](#GeneralSettingsCheckForUpdates), the following extra information is also currently sent:</target>
+        <target>En plus des [informations obligatoires nécessaires à la mise à jour](#GeneralSettingsCheckForUpdates), les informations supplémentaires suivantes sont également envoyées :</target>
       </segment>
     </unit>
     <unit id="29cdffe0-b77a-49f2-92ad-1fdc935c3457">
@@ -23121,9 +23121,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2647</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A unique ID for the current NVDA user, this changes once a month</source>
-        <target>A unique ID for the current NVDA user, this changes once a month</target>
+        <target>Un identifiant unique pour l'utilisateur courant de NVDA, il change une fois par mois</target>
       </segment>
     </unit>
     <unit id="43a1a027-6d02-4c93-aad2-2a9957da14ad">
@@ -23131,9 +23131,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2648</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA interface language</source>
-        <target>NVDA interface language</target>
+        <target>La langue d'interface de NVDA</target>
       </segment>
     </unit>
     <unit id="14fd25a9-3d1b-4d51-9427-030f16046a98">
@@ -23141,9 +23141,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2649</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Whether this copy of NVDA is portable or installed</source>
-        <target>Whether this copy of NVDA is portable or installed</target>
+        <target>• Copie en cours de NVDA installée ou portables</target>
       </segment>
     </unit>
     <unit id="3a6ad2e2-5fab-4304-923b-d96551532d3d">
@@ -23151,9 +23151,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2650</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Name of the current speech synthesizer in use (including the name of the add-on the driver comes from)</source>
-        <target>Name of the current speech synthesizer in use (including the name of the add-on the driver comes from)</target>
+        <target>Le nom du synthétiseur vocal actuellement utilisé (incluant le nom de l'extension dont provient le pilote)</target>
       </segment>
     </unit>
     <unit id="843bcd40-6791-4209-bcb6-97082d13cc03">
@@ -23161,9 +23161,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2651</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Name of the current Braille display in use (including the name of the add-on the driver comes from)</source>
-        <target>Name of the current Braille display in use (including the name of the add-on the driver comes from)</target>
+        <target>Le nom du terminal braille actuellement utilisé (incluant le nom de l'extension dont provient le pilote)</target>
       </segment>
     </unit>
     <unit id="c2225cda-80a8-4392-8169-4319732870c4">
@@ -23171,18 +23171,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2652</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The current output Braille table (if Braille is in use)</source>
-        <target>The current output Braille table (if Braille is in use)</target>
+        <target>La table d'affichage braille en cours (si le braille est activé)</target>
       </segment>
     </unit>
     <unit id="a7adceee-305c-43a6-b067-6bd54fdb95ec">
       <notes>
         <note appliesTo="source">line: 2654</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This information greatly aides NV Access to prioritize future development of NVDA.</source>
-        <target>This information greatly aides NV Access to prioritize future development of NVDA.</target>
+        <target>Ces informations aident grandement NV Access pour prioriser les futurs développements de NVDA.</target>
       </segment>
     </unit>
     <unit id="7fd83f22-c800-472c-91e9-5122f20fef81">
