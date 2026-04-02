@@ -27330,27 +27330,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathNavAutoZoom}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Automatically zoom out of two-dimensional notation</source>
-        <target>Automatically zoom out of two-dimensional notation</target>
+        <target>Zoom arrière automatique sur les notations 2D</target>
       </segment>
     </unit>
     <unit id="de964dc0-a7b1-41fa-ac25-6820a486f523">
       <notes>
         <note appliesTo="source">line: 3370</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Auto zoom out of 2D expressions like fractions (use `shift+arrow` to force zoom out if this is unchecked).</source>
-        <target>Auto zoom out of 2D expressions like fractions (use `shift+arrow` to force zoom out if this is unchecked).</target>
+        <target>Zoom arrière automatique sur les expressions 2D comme les fractions (utilisez `maj+flèche` pour forcer le zoom arrière si cette case n'est pas cochée).</target>
       </segment>
     </unit>
     <unit id="5454dcc7-df50-4495-b1c0-d13f7dd63ae7">
       <notes>
         <note appliesTo="source">line: 3371</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is enabled by default.</source>
-        <target>This option is enabled by default.</target>
+        <target>Cette option est activée par défaut.</target>
       </segment>
     </unit>
     <unit id="3a57d5c8-f7f9-4df4-a9b0-b9b601ca0ba8">
@@ -27359,9 +27359,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Checked, Unchecked </source>
-        <target> Options | Checked, Unchecked </target>
+        <target> Options | Coché, Décoché </target>
       </segment>
     </unit>
     <unit id="6f66711d-9c48-410c-b432-d0db096bc741">
@@ -27370,9 +27370,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Checked </source>
-        <target> Default | Checked </target>
+        <target> Défaut | Coché </target>
       </segment>
     </unit>
     <unit id="d79e578a-f203-4701-82bf-0d865af2284a">
@@ -27381,18 +27381,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathNavSpeechAmount}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Navigation verbosity</source>
-        <target>Navigation verbosity</target>
+        <target>Verbosité de la navigation</target>
       </segment>
     </unit>
     <unit id="9bf1013a-82e3-49ab-a6ad-fcd3b2e8f64d">
       <notes>
         <note appliesTo="source">line: 3380</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option specifies whether NVDA should read mathematical expressions in a terse or verbose manner during navigation.</source>
-        <target>This option specifies whether NVDA should read mathematical expressions in a terse or verbose manner during navigation.</target>
+        <target>Cette option spécifie si NVDA doit lire les expressions mathématiques de manière concise ou détaillée pendant la navigation.</target>
       </segment>
     </unit>
     <unit id="b2e84c2a-d2b8-46d5-9f9d-dfb06ac89bb8">
@@ -27401,9 +27401,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Terse, Medium, Verbose </source>
-        <target> Options | Terse, Medium, Verbose </target>
+        <target> Options | Concis, Moyen, Détaillé </target>
       </segment>
     </unit>
     <unit id="31a52af7-046d-47a8-9549-1380f08bb1c8">
@@ -27412,9 +27412,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Medium </source>
-        <target> Default | Medium </target>
+        <target> Default | Moyen </target>
       </segment>
     </unit>
     <unit id="a4d6faee-8291-487c-b682-ec464904aea2">
@@ -27476,27 +27476,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathBrailleCode}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Output code</source>
-        <target>Output code</target>
+        <target>Code d'affichage</target>
       </segment>
     </unit>
     <unit id="c0c7ffba-ea92-4257-85c2-5d87aa593e29">
       <notes>
         <note appliesTo="source">line: 3400</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The braille math code to use.</source>
-        <target>The braille math code to use.</target>
+        <target>Le code mathématique braille à utiliser.</target>
       </segment>
     </unit>
     <unit id="0f8a5c04-6339-4e4a-8502-921345b92480">
       <notes>
         <note appliesTo="source">line: 3401</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When this option is set to "Automatic", NVDA selects a default math braille code based on the current NVDA language.</source>
-        <target>When this option is set to "Automatic", NVDA selects a default math braille code based on the current NVDA language.</target>
+        <target>Lorsque cette option est définie sur "Automatique", NVDA sélectionne un code braille mathématique par défaut basé sur la langue courante de NVDA.</target>
       </segment>
     </unit>
     <unit id="9e0cdc5e-bd53-42bb-bf71-6254b05debec">
@@ -27505,9 +27505,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Automatic, ASCIIMath, ASCIIMath-Finnish, CMU, LaTeX, Nemeth, Swedish, UEB, Vietnam </source>
-        <target> Options | Automatic, ASCIIMath, ASCIIMath-Finnish, CMU, LaTeX, Nemeth, Swedish, UEB, Vietnam </target>
+        <target> Options | Automatique, ASCIIMath, ASCIIMath-Finnish, CMU, LaTeX, Nemeth, Swedish, UEB, Vietnam </target>
       </segment>
     </unit>
     <unit id="9857c66e-b35b-4e4d-bde2-6a1a1422460a">
@@ -27516,9 +27516,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Automatic </source>
-        <target> Default | Automatic </target>
+        <target> Default | Automatique </target>
       </segment>
     </unit>
     <unit id="ea0bbf51-a140-4f29-a6cf-d0393cfcda76">
@@ -27527,27 +27527,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathBrailleHighlights}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Highlight navigation focus with dots 7 and 8</source>
-        <target>Highlight navigation focus with dots 7 and 8</target>
+        <target>Mettre en évidence le focus de navigation avec les points 7 et 8</target>
       </segment>
     </unit>
     <unit id="54357583-088a-46ad-bbeb-d0d0d7fc5937">
       <notes>
         <note appliesTo="source">line: 3410</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option determines whether NVDA indicates the currently selected subexpression with dots 7 and 8 during navigation.</source>
-        <target>This option determines whether NVDA indicates the currently selected subexpression with dots 7 and 8 during navigation.</target>
+        <target>Cette option détermine si NVDA indique la sous-expression actuellement sélectionnée avec les points 7 et 8 lors de la navigation.</target>
       </segment>
     </unit>
     <unit id="649de93f-cb35-4ee7-948e-fe8e4a3c26f4">
       <notes>
         <note appliesTo="source">line: 3411</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The options allow for either no highlighting, only highlighting of the first character, highlighting of the first and last character, or highlighting of the entire subexpression.</source>
-        <target>The options allow for either no highlighting, only highlighting of the first character, highlighting of the first and last character, or highlighting of the entire subexpression.</target>
+        <target>Les options permettent soit de ne rien mettre en évidence, soit de mettre en éviedence uniquement le premier caractère, soit de mettre en évidence le premier et le dernier caractère, soit de mettre en évidence la sous-expression entière.</target>
       </segment>
     </unit>
     <unit id="576370ce-cb41-4e71-a422-106dc0ce2fdf">
@@ -27556,9 +27556,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Off, First Character, Endpoints, All </source>
-        <target> Options | Off, First Character, Endpoints, All </target>
+        <target> Options | Désactivé, Premier caractère, Extrémités, Tout </target>
       </segment>
     </unit>
     <unit id="6965cebe-05f7-41b9-a8d6-daf6fcbfb2f8">
@@ -27567,9 +27567,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Endpoints </source>
-        <target> Default | Endpoints </target>
+        <target> Défaut | Extrémités </target>
       </segment>
     </unit>
     <unit id="9bdf175e-b215-4ca7-a07d-5bbdd2406bb4">
@@ -28576,9 +28576,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3588</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is disabled by default.</source>
-        <target>This option is disabled by default.</target>
+        <target>Cette option est désactivée par défaut.</target>
       </segment>
     </unit>
     <unit id="140575f8-408e-4874-9ee8-d2ab85760ad1">
@@ -28587,18 +28587,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#Win10OcrSettingsAutoSayAllOnResult}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Automatically say all on result</source>
-        <target>Automatically say all on result</target>
+        <target>Dire tout automatique sur le résultat</target>
       </segment>
     </unit>
     <unit id="e5cfdaa4-3ba1-4db2-b8ca-b9339884969c">
       <notes>
         <note appliesTo="source">line: 3592</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checkbox toggles the automatic reading of all recognized content after a recognition is complete.</source>
-        <target>This checkbox toggles the automatic reading of all recognized content after a recognition is complete.</target>
+        <target>Cette case à cocher active ou désactive la lecture automatique de tout le contenu reconnu une fois la reconnaissance terminée.</target>
       </segment>
     </unit>
     <unit id="4c2518dc-03b4-4526-8ede-29d74414b5e0">
@@ -46263,9 +46263,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 6029</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These values are stored in the registry under the key `HKEY_LOCAL_MACHINE\SOFTWARE\nvda`.</source>
-        <target>These values are stored in the registry under the key `HKEY_LOCAL_MACHINE\SOFTWARE\nvda`.</target>
+        <target>Ces valeurs sont stockées dans le registre sous la clé `HKEY_LOCAL_MACHINE\SOFTWARE\nvda`.</target>
       </segment>
     </unit>
     <unit id="f041ba92-f068-49a1-992b-db61cb9dca29">
