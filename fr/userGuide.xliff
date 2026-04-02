@@ -26699,18 +26699,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3252</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>ClearSpeak was developed by the Educational Testing Service for use on university-admission and other high-stakes tests in the United States.</source>
-        <target>ClearSpeak was developed by the Educational Testing Service for use on university-admission and other high-stakes tests in the United States.</target>
+        <target>ClearSpeak a été développé par l'Educational Testing Service pour être utilisé lors des tests d'admission à l'université et d'autres tests à enjeux élevés aux États-Unis.</target>
       </segment>
     </unit>
     <unit id="28d1bf46-1173-4a02-a720-b9942cf594fd">
       <notes>
         <note appliesTo="source">line: 3253</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Refer to the [ClearSpeak specification details in this Word document](https://daisy.github.io/MathCAT/ClearSpeakRulesAndPreferences.docx).</source>
-        <target>Refer to the [ClearSpeak specification details in this Word document](https://daisy.github.io/MathCAT/ClearSpeakRulesAndPreferences.docx).</target>
+        <target>Se référer aux [détails des spécifications ClearSpeak dans ce document Word (en anglais](https://daisy.github.io/MathCAT/ClearSpeakRulesAndPreferences.docx).</target>
       </segment>
     </unit>
     <unit id="496bd608-0629-4446-b308-b5a764cea8aa">
@@ -26718,18 +26718,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3254</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>SimpleSpeak tries to minimize speech by speaking simple expressions such as $\frac{a}{b}$ quickly without bracketing words ("a over b").</source>
-        <target>SimpleSpeak tries to minimize speech by speaking simple expressions such as $\frac{a}{b}$ quickly without bracketing words ("a over b").</target>
+        <target>SimpleSpeak essaie de minimiser la parole en prononçant rapidement des expressions simples telles que $\frac{a}{b}$ sans mettre les mots entre délimiteurs ("a sur b").</target>
       </segment>
     </unit>
     <unit id="434f44b7-4fd1-4a24-aed4-a0c4a65b445e">
       <notes>
         <note appliesTo="source">line: 3255</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These are distinguished from more complex expressions such as $\frac{a}{b+1}$ which will always have bracketing words ("fraction a over b plus 1 end fraction").</source>
-        <target>These are distinguished from more complex expressions such as $\frac{a}{b+1}$ which will always have bracketing words ("fraction a over b plus 1 end fraction").</target>
+        <target>Celles-ci se distinguent des expressions plus complexes telles que $\frac{a}{b+1}$ qui auront toujours des mots entre délimiteurs ("fraction a sur b plus 1 fin fraction").</target>
       </segment>
     </unit>
     <unit id="422d5a68-c21c-45dc-aa60-347e29f11e11">
@@ -26737,27 +26737,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3256</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>LiteralSpeak tells MathCAT to speak math expressions almost exactly as written, without interpreting the symbols or meaning.</source>
-        <target>LiteralSpeak tells MathCAT to speak math expressions almost exactly as written, without interpreting the symbols or meaning.</target>
+        <target>LiteralSpeak demande à MathCAT de prononcer les expressions mathématiques presque exactement telles qu'elles sont écrites, sans interpréter les symboles ou la signification.</target>
       </segment>
     </unit>
     <unit id="94cb820f-4862-4674-a47c-6b51d1b034d0">
       <notes>
         <note appliesTo="source">line: 3257</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It prioritizes literal reading (character-by-character or symbol-by-symbol), rather than mathematical meaning.</source>
-        <target>It prioritizes literal reading (character-by-character or symbol-by-symbol), rather than mathematical meaning.</target>
+        <target>Il donne la priorité à la lecture littérale (caractère par caractère ou symbole par symbole), plutôt qu'à la signification mathématique.</target>
       </segment>
     </unit>
     <unit id="73aba824-0e61-468d-a6c5-6cec4e23bee6">
       <notes>
         <note appliesTo="source">line: 3259</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Examples of each type of speech:</source>
-        <target>Examples of each type of speech:</target>
+        <target>Exemples pour chaque style de parole :</target>
       </segment>
     </unit>
     <unit id="612055ee-b76d-40b6-9894-4a0fc294f0a4">
@@ -26766,7 +26766,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Expression | LiteralSpeak | SimpleSpeak | ClearSpeak </source>
         <target> Expression | LiteralSpeak | SimpleSpeak | ClearSpeak </target>
       </segment>
@@ -26777,9 +26777,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> 1/2 | 1 slash 2 | 1 divided by 2 | one half </source>
-        <target> 1/2 | 1 slash 2 | 1 divided by 2 | one half </target>
+        <target> 1/2 | 1 barre oblique 2 | 1 divisé par 2 | un demi </target>
       </segment>
     </unit>
     <unit id="eb73e5fa-e142-4871-a1a3-d36dca097a24">
@@ -26788,9 +26788,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> √x | radical x | square root x | square root of x </source>
-        <target> √x | radical x | square root x | square root of x </target>
+        <target> √x | racine carrée x | racine carrée x | racine carrée de x </target>
       </segment>
     </unit>
     <unit id="6812c1db-5604-436c-85b6-855208955a2e">
@@ -26799,9 +26799,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | ClearSpeak, SimpleSpeak, LiteralSpeak, or other options depending on your language </source>
-        <target> Options | ClearSpeak, SimpleSpeak, LiteralSpeak, or other options depending on your language </target>
+        <target> Options | ClearSpeak, SimpleSpeak, LiteralSpeak, or other options depending on your language sélectionné </target>
       </segment>
     </unit>
     <unit id="8cad6d60-b711-4316-90db-c276a75dc254">
@@ -26810,9 +26810,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Depends on the language </source>
-        <target> Default | Depends on the language </target>
+        <target> Default | Dépend de la langue </target>
       </segment>
     </unit>
     <unit id="b636dc14-f4ca-4740-923f-8684ea9800de">
@@ -26821,27 +26821,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathSpeechVerbosity}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Speech verbosity</source>
-        <target>Speech verbosity</target>
+        <target>Verbosité de la parole</target>
       </segment>
     </unit>
     <unit id="24151c2e-dd3a-42f2-a213-daf633d810b8">
       <notes>
         <note appliesTo="source">line: 3273</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option controls how much "extra" speech is used.</source>
-        <target>This option controls how much "extra" speech is used.</target>
+        <target>Cette option contrôle la quantité de parole « supplémentaire » utilisée.</target>
       </segment>
     </unit>
     <unit id="2d6836fc-531a-4731-8cb5-8e63b80616a3">
       <notes>
         <note appliesTo="source">line: 3274</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, square roots are verbosely spoken as "the square root of x" and tersely spoken as "square root x".</source>
-        <target>For example, square roots are verbosely spoken as "the square root of x" and tersely spoken as "square root x".</target>
+        <target>Par exemple, les racines carrées sont annoncées de manière détaillée comme "la racine carrée de x" et de manière concise comme "racine de x".</target>
       </segment>
     </unit>
     <unit id="e9afc84c-cba6-4146-b8f3-5fb932d4e3d1">
@@ -26850,9 +26850,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Terse, Medium, Verbose </source>
-        <target> Options | Terse, Medium, Verbose </target>
+        <target> Options | Concis, Moyen, Détaillé </target>
       </segment>
     </unit>
     <unit id="c8827e40-90a5-4dc7-aebe-11b31c27d34a">
@@ -26861,9 +26861,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Medium </source>
-        <target> Default | Medium </target>
+        <target> Défaut | Moyen </target>
       </segment>
     </unit>
     <unit id="647ab47f-d9e9-4fa9-9e8d-8e3204db951d">
