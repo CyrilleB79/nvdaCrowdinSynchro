@@ -26872,36 +26872,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathRelativeSpeed}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Relative speech rate</source>
-        <target>Relative speech rate</target>
+        <target>Débit de parole relatif</target>
       </segment>
     </unit>
     <unit id="fa3111e7-505a-4c1e-a6f7-fb360986017a">
       <notes>
         <note appliesTo="source">line: 3283</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes the relative speech rate.</source>
-        <target>Changes the relative speech rate.</target>
+        <target>Modifie le débit de parole relatif.</target>
       </segment>
     </unit>
     <unit id="d10fde30-cf58-4ba7-b603-76c634342ea0">
       <notes>
         <note appliesTo="source">line: 3284</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The change is a percentage speed change from the standard speech engine's rate.</source>
-        <target>The change is a percentage speed change from the standard speech engine's rate.</target>
+        <target>Le changement est un pourcentage de changement de vitesse par rapport au débit du moteur vocal standard.</target>
       </segment>
     </unit>
     <unit id="4b3a2773-5e43-42b8-b77a-574c96fa47ee">
       <notes>
         <note appliesTo="source">line: 3285</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`100` means the reading rates of text and math content are the same, whereas `50` means that math content is read at half the speed of other content.</source>
-        <target>`100` means the reading rates of text and math content are the same, whereas `50` means that math content is read at half the speed of other content.</target>
+        <target>`100` signifie que les débits de lecture du texte et du contenu mathématique sont les mêmes, tandis que `50` signifie que le contenu mathématique est lu à la moitié de la vitesse des autres contenus.</target>
       </segment>
     </unit>
     <unit id="83ad1c3a-1cee-4182-8bbc-e37f90b7109d">
@@ -26910,9 +26910,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Number between 1 and 100 </source>
-        <target> Options | Number between 1 and 100 </target>
+        <target> Options | Nombre entre 1 et 100 </target>
       </segment>
     </unit>
     <unit id="305511b0-9f4e-4f98-b118-60a385031059">
@@ -26921,9 +26921,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | 100 </source>
-        <target> Default | 100 </target>
+        <target> Défaut | 100 </target>
       </segment>
     </unit>
     <unit id="b69374bc-ac51-4106-8d70-164445ffdf9a">
@@ -26932,27 +26932,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathSpeechPauseFactor}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Pause Factor</source>
-        <target>Pause Factor</target>
+        <target>Facteur de pause</target>
       </segment>
     </unit>
     <unit id="ad53bb6b-539c-4208-b5c3-55190b36671c">
       <notes>
         <note appliesTo="source">line: 3294</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes the relative amount of pausing that MathCAT adds.</source>
-        <target>Changes the relative amount of pausing that MathCAT adds.</target>
+        <target>Modifie la durée relative de pause ajoutée par MathCAT.</target>
       </segment>
     </unit>
     <unit id="a9657b5c-685e-4a2d-aece-98747aebdeab">
       <notes>
         <note appliesTo="source">line: 3295</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`0` turns off all pausing and `100` makes the pauses 10 times longer than normal.</source>
-        <target>`0` turns off all pausing and `100` makes the pauses 10 times longer than normal.</target>
+        <target>« 0 » désactive toutes les pauses et « 100 » rend les pauses 10 fois plus longues que la normale.</target>
       </segment>
     </unit>
     <unit id="04d71262-651c-4cd5-b990-a965efbc9e0a">
@@ -26961,9 +26961,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Number between 0 and 100 </source>
-        <target> Options | Number between 0 and 100 </target>
+        <target> Options | Nombre entre 0 et 100 </target>
       </segment>
     </unit>
     <unit id="916d1af1-5779-489a-af97-3380e2f54593">
@@ -26972,9 +26972,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | 50 </source>
-        <target> Default | 50 </target>
+        <target> Défaut | 50 </target>
       </segment>
     </unit>
     <unit id="81a72cdf-7019-4988-b473-80e159989bb0">
@@ -26983,27 +26983,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathSpeechSound}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Beep at the beginning and end of math</source>
-        <target>Beep at the beginning and end of math</target>
+        <target>Bip au début et à la fin du contenu mathématique</target>
       </segment>
     </unit>
     <unit id="8c1f26cc-b95b-4655-a538-1b78e96f6c06">
       <notes>
         <note appliesTo="source">line: 3304</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option determines whether NVDA beeps at the beginning and end of math content.</source>
-        <target>This option determines whether NVDA beeps at the beginning and end of math content.</target>
+        <target>Cette option détermine si NVDA émet un bip au début et à la fin du contenu mathématique.</target>
       </segment>
     </unit>
     <unit id="c4ceff71-8e4a-4d81-a14c-6098b6ce3280">
       <notes>
         <note appliesTo="source">line: 3305</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is disabled by default.</source>
-        <target>This option is disabled by default.</target>
+        <target>Cette option est désactivée par défaut.</target>
       </segment>
     </unit>
     <unit id="4227a6b7-4f86-4f0d-8107-3c30873a5483">
@@ -27012,9 +27012,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Checked, Unchecked </source>
-        <target> Options | Checked, Unchecked </target>
+        <target> Options | Coché, décoché </target>
       </segment>
     </unit>
     <unit id="2021db76-75da-4707-870c-9f0a05a13822">
@@ -27023,9 +27023,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Unchecked </source>
-        <target> Default | Unchecked </target>
+        <target> Default | Décoché </target>
       </segment>
     </unit>
     <unit id="f0cd663f-db53-4eb8-881e-668ebc2e029e">
@@ -27034,27 +27034,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathSpeechForChemical}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Chemical formulae</source>
-        <target>Chemical formulae</target>
+        <target>Formules chimiques</target>
       </segment>
     </unit>
     <unit id="7bc4748c-fc67-4154-94aa-458a8213f93a">
       <notes>
         <note appliesTo="source">line: 3314</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option controls how chemical formulae are read.</source>
-        <target>This option controls how chemical formulae are read.</target>
+        <target>Cette option contrôle la manière dont les formules chimiques sont lues.</target>
       </segment>
     </unit>
     <unit id="451bfa58-b72a-47cd-b3bd-a66133640e1e">
       <notes>
         <note appliesTo="source">line: 3315</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Examples for $\mathrm{H}_2\mathrm{O}$:</source>
-        <target>Examples for $\mathrm{H}_2\mathrm{O}$:</target>
+        <target>Exemples pour $\mathrm{H}_2\mathrm{O}$ :</target>
       </segment>
     </unit>
     <unit id="aa5a33c7-e2b8-4255-8e6e-5c0658a367bf">
@@ -27062,9 +27062,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3317</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>SpellOut: "H 2 O" (verbosity controls whether "sub"/"super" is spoken)</source>
-        <target>SpellOut: "H 2 O" (verbosity controls whether "sub"/"super" is spoken)</target>
+        <target>L'épeler : "H 2 O" (la verbosité contrôle si "indice"/"exposant" est prononcé)</target>
       </segment>
     </unit>
     <unit id="97bc2431-0a5c-4979-8d65-fba23694de53">
@@ -27072,9 +27072,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3318</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>AsCompound: "Water"</source>
-        <target>AsCompound: "Water"</target>
+        <target>AsCompound: "Eau"</target>
       </segment>
     </unit>
     <unit id="dd86be64-022c-4198-925e-465ea41ce4c1">
@@ -27082,9 +27082,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3319</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Off: "H sub 2 O"</source>
-        <target>Off: "H sub 2 O"</target>
+        <target>Désactivé : "H indice 2 O"</target>
       </segment>
     </unit>
     <unit id="a4c4e312-629a-4ea3-9413-34dd25878198">
@@ -27093,9 +27093,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Spell Out, As Compound, Off </source>
-        <target> Options | Spell Out, As Compound, Off </target>
+        <target> Options | L'épeler, As Compound, Désactivé </target>
       </segment>
     </unit>
     <unit id="1c521b86-022c-4f27-bba0-fdeac9da2662">
@@ -27104,9 +27104,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | SpellOut </source>
-        <target> Default | SpellOut </target>
+        <target> Default | L'épeler </target>
       </segment>
     </unit>
     <unit id="db4c6c6b-4c5f-49da-906e-6e0dc478c0bf">
@@ -27115,18 +27115,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathNavSpeech}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When entering an equation</source>
-        <target>When entering an equation</target>
+        <target>À l'entrée dans une équation :</target>
       </segment>
     </unit>
     <unit id="40f4ad15-061b-4b2f-b092-2ff539f73f4a">
       <notes>
         <note appliesTo="source">line: 3328</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Whether to speak the expression after moving to it or give an overview.</source>
-        <target>Whether to speak the expression after moving to it or give an overview.</target>
+        <target>S'il faut lire l'expression lorsqu'on l'atteint ou en donner un aperçu.</target>
       </segment>
     </unit>
     <unit id="e59b53e7-b59d-4374-a0d9-e3b56cea3f41">
@@ -27135,9 +27135,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Speak, Describe overview </source>
-        <target> Options | Speak, Describe overview </target>
+        <target> Options | Lire, Décrire un aperçu </target>
       </segment>
     </unit>
     <unit id="0766114e-130c-4064-9451-ef65c9a354cd">
@@ -27146,9 +27146,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Speak </source>
-        <target> Default | Speak </target>
+        <target> Default | Lire </target>
       </segment>
     </unit>
     <unit id="54046c83-7f52-41ca-8a30-7c585be9790e">
@@ -27157,18 +27157,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathUseWordNative}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use native math speech in Word and Outlook</source>
-        <target>Use native math speech in Word and Outlook</target>
+        <target>Utiliser l'énoncé mathématique natif dans Word et Outlook</target>
       </segment>
     </unit>
     <unit id="1e750171-d19e-418f-bb0c-f74c7b59125c">
       <notes>
         <note appliesTo="source">line: 3337</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, NVDA uses Microsoft Word's built-in math presentation (speech, braille, and interaction) instead of MathCAT when reading and interacting with equations in Word documents.</source>
-        <target>When enabled, NVDA uses Microsoft Word's built-in math presentation (speech, braille, and interaction) instead of MathCAT when reading and interacting with equations in Word documents.</target>
+        <target>Lorsque cette option est activée, NVDA utilise la présentation mathématique intégrée de Microsoft Word (parole, braille et interaction) au lieu de MathCAT lors de la lecture et de l'interaction avec les équations dans les documents Word.</target>
       </segment>
     </unit>
     <unit id="d0d68454-d52b-432d-90be-e32277809429">
@@ -27177,9 +27177,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Checked, Unchecked </source>
-        <target> Options | Checked, Unchecked </target>
+        <target> Options | Coché, décoché </target>
       </segment>
     </unit>
     <unit id="22cf302f-3273-430f-b58d-cac21f4638d7">
@@ -27188,9 +27188,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Unchecked </source>
-        <target> Default | Unchecked </target>
+        <target> Default | Décoché </target>
       </segment>
     </unit>
     <unit id="1e97c0cc-fecc-483d-bc31-661758d43f57">
@@ -27199,9 +27199,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MathNavigation}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Navigation Options</source>
-        <target>Navigation Options</target>
+        <target>Options de navigation</target>
       </segment>
     </unit>
     <unit id="e9285d8e-5ec6-410e-8473-94293b011dfd">
@@ -27210,36 +27210,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathNavMode}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default navigation mode</source>
-        <target>Default navigation mode</target>
+        <target>Mode de navigation par défaut</target>
       </segment>
     </unit>
     <unit id="a0d8b420-1655-4fe7-a585-b5aa24db2bf3">
       <notes>
         <note appliesTo="source">line: 3348</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>"Enhanced" mode understands math structure.</source>
-        <target>"Enhanced" mode understands math structure.</target>
+        <target>Le mode "Amélioré" comprend la structure mathématique.</target>
       </segment>
     </unit>
     <unit id="13f0c454-1608-4859-abd8-577dc1c98225">
       <notes>
         <note appliesTo="source">line: 3349</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>"Simple" mode walks by character to find things like fractions, roots, and scripts.</source>
-        <target>"Simple" mode walks by character to find things like fractions, roots, and scripts.</target>
+        <target>Le mode "Simple" avance par caractère pour trouver des éléments comme les fractions, les racines et les indices / exposants.</target>
       </segment>
     </unit>
     <unit id="3d712bdd-faab-482f-8719-130f8cc997c9">
       <notes>
         <note appliesTo="source">line: 3350</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>"Character" mode moves around by character, automatically moving into fractions, etc.</source>
-        <target>"Character" mode moves around by character, automatically moving into fractions, etc.</target>
+        <target>Le mode "Caractère" se déplace par caractère, en entrant automatiquement dans les fractions, etc.</target>
       </segment>
     </unit>
     <unit id="d281d012-5727-40b5-a7cd-95fc09a3a481">
@@ -27248,9 +27248,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Enhanced, Character, Simple </source>
-        <target> Options | Enhanced, Character, Simple </target>
+        <target> Options | Amélioré, Caractère, Simple </target>
       </segment>
     </unit>
     <unit id="509a71e8-a78d-4860-8c14-31c68b4522d7">
@@ -27259,9 +27259,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Enhanced </source>
-        <target> Default | Enhanced </target>
+        <target> Default | Amélioré </target>
       </segment>
     </unit>
     <unit id="db3f17c9-1773-45b3-836f-ac30bd320ab3">
@@ -27270,36 +27270,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathNavReset}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reset to the default navigation mode for each new equation</source>
-        <target>Reset to the default navigation mode for each new equation</target>
+        <target>Retourner au mode de navigation par défaut pour chaque nouvelle équation</target>
       </segment>
     </unit>
     <unit id="cbf38290-d76d-4572-a37d-956f4a11f577">
       <notes>
         <note appliesTo="source">line: 3359</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option selects whether NVDA resets to the default navigation mode when entering a new equation.</source>
-        <target>This option selects whether NVDA resets to the default navigation mode when entering a new equation.</target>
+        <target>Cette option décide si NVDA retourne au mode de navigation par défaut lors de l'entrée dans une nouvelle équation.</target>
       </segment>
     </unit>
     <unit id="73d889b5-1bde-48a1-95a6-183789ec32d2">
       <notes>
         <note appliesTo="source">line: 3360</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When this option is disabled, NVDA preserves the last selected navigation mode across equations in the same NVDA session.</source>
-        <target>When this option is disabled, NVDA preserves the last selected navigation mode across equations in the same NVDA session.</target>
+        <target>Lorsque cette option est désactivée, NVDA conserve le dernier mode de navigation sélectionné en passant d'une équation à l'autre durant la session NVDA.</target>
       </segment>
     </unit>
     <unit id="13fc2e11-681a-4572-b4fd-1bfbbc37d202">
       <notes>
         <note appliesTo="source">line: 3361</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is enabled by default.</source>
-        <target>This option is enabled by default.</target>
+        <target>Cette option est activée par défaut.</target>
       </segment>
     </unit>
     <unit id="768271b7-859c-4aeb-9a08-e6be95c1cb7b">
@@ -27308,9 +27308,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Checked, Unchecked </source>
-        <target> Options | Checked, Unchecked </target>
+        <target> Options | Coché, décoché </target>
       </segment>
     </unit>
     <unit id="b0cc4051-fd94-4714-be03-421940954544">
@@ -27319,9 +27319,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Checked </source>
-        <target> Default | Checked </target>
+        <target> Défaut | Coché </target>
       </segment>
     </unit>
     <unit id="756e5e38-5645-4183-a880-535bb003bd12">
@@ -27423,18 +27423,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathNavCopyAs}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Copy math as</source>
-        <target>Copy math as</target>
+        <target>Copiez le contenu mathématique en tant que</target>
       </segment>
     </unit>
     <unit id="bec987c4-0266-4af4-9002-7e561ddd0345">
       <notes>
         <note appliesTo="source">line: 3389</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option selects the format of math content copied to the clipboard.</source>
-        <target>This option selects the format of math content copied to the clipboard.</target>
+        <target>Cette option sélectionne le format du contenu mathématique copié dans le presse-papiers.</target>
       </segment>
     </unit>
     <unit id="df258256-be32-4562-bdc9-b6ce499a7101">
@@ -27443,7 +27443,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | MathML, LaTeX, ASCIIMath </source>
         <target> Options | MathML, LaTeX, ASCIIMath </target>
       </segment>
@@ -27454,9 +27454,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | MathML </source>
-        <target> Default | MathML </target>
+        <target> Défaut | MathML </target>
       </segment>
     </unit>
     <unit id="d0037639-3e75-4dab-8916-47ec1c9ac7d2">
@@ -27465,9 +27465,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MathBrailleOptions}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille Options</source>
-        <target>Braille Options</target>
+        <target>Options braille</target>
       </segment>
     </unit>
     <unit id="612003b7-b092-48d5-a63a-53dc68903513">
@@ -35062,9 +35062,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4602</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA uses Windows OneCore voices by default.</source>
-        <target>NVDA uses Windows OneCore voices by default.</target>
+        <target>NVDA utilise les voix Windows OneCore par défaut.</target>
       </segment>
     </unit>
     <unit id="42bdcd64-0d3e-4da9-b9e8-78fdb5febf27">

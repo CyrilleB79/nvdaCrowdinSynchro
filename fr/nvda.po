@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-01 05:05+0000\n"
-"PO-Revision-Date: 2026-04-02 12:54\n"
+"PO-Revision-Date: 2026-04-02 15:52\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -13593,7 +13593,7 @@ msgstr "Verbosité de la parole :"
 #: gui\settingsDialogs.py:2817
 msgctxt "math"
 msgid "Relative speech rate"
-msgstr "Débit relatif de la parole"
+msgstr "Débit de parole relatif"
 
 #. Translators: label for slider that specifies relative factor to increase or decrease pauses in the math speech
 #: gui\settingsDialogs.py:2830
@@ -13605,7 +13605,7 @@ msgstr "Facteur de pause"
 #: gui\settingsDialogs.py:2845
 msgctxt "math"
 msgid "Beep at the beginning and end of math"
-msgstr "Bip au début et à la fin de l'annonce du contenu mathématique"
+msgstr "Bip au début et à la fin du contenu mathématique"
 
 #. Translators: label for combobox to specify how verbose/terse the speech should be
 #: gui\settingsDialogs.py:2851
@@ -13623,7 +13623,7 @@ msgstr "À l'entrée dans une équation :"
 #: gui\settingsDialogs.py:2866
 msgctxt "math"
 msgid "Speak"
-msgstr "Parole"
+msgstr "Lire"
 
 #. Translators: "Describe" the expression after moving to it
 #: gui\settingsDialogs.py:2868
@@ -13656,7 +13656,7 @@ msgstr "Mode de navigation par défaut :"
 #: gui\settingsDialogs.py:2912
 msgctxt "math"
 msgid "Reset to the default navigation mode for each new equation"
-msgstr "Réinitialisation au mode de navigation par défaut pour chaque nouvelle équation"
+msgstr "Retourner au mode de navigation par défaut pour chaque nouvelle équation"
 
 #. Translators: label for checkbox that controls whether arrow keys move out of fractions, etc.,
 #. or whether you have to manually back out of the fraction, etc.
@@ -13675,7 +13675,7 @@ msgstr "Verbosité lors de la navigation :"
 #: gui\settingsDialogs.py:2943
 msgctxt "math"
 msgid "Copy math as:"
-msgstr "Copiez le contenu mathématique comme :"
+msgstr "Copiez le contenu mathématique en tant que :"
 
 #. Translators: Text for the braille group.
 #: gui\settingsDialogs.py:2955
@@ -16107,7 +16107,7 @@ msgstr "Personnalisé"
 #: mathPres\MathCAT\preferences.py:70 mathPres\MathCAT\preferences.py:118
 msgctxt "math"
 msgid "Terse"
-msgstr "Laconique"
+msgstr "Concis"
 
 #. Translators: options for speech verbosity -- "medium" = try to be neither too terse nor too verbose
 #. Translators: options for navigation verbosity -- "medium" = try to be nether too terse nor too verbose words
@@ -16121,7 +16121,7 @@ msgstr "Moyen"
 #: mathPres\MathCAT\preferences.py:74 mathPres\MathCAT\preferences.py:122
 msgctxt "math"
 msgid "Verbose"
-msgstr "Verbeux"
+msgstr "Détaillé"
 
 #. Translators: values for chemistry options with example speech in parenthesis
 #: mathPres\MathCAT\preferences.py:86
