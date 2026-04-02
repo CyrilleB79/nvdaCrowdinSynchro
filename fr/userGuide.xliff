@@ -14659,9 +14659,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Change Navigation Mode (Enhanced/Simple/Character) to larger | `shift+upArrow` </source>
-        <target> Change Navigation Mode (Enhanced/Simple/Character) to larger | `shift+upArrow` </target>
+        <target> Changer le mode de navigation (Amélioré/Simple/Caractère) pour un mode plus grand | `maj+flècheHaut` </target>
       </segment>
     </unit>
     <unit id="fbbd6c80-dc64-45ac-a54b-9ac607fadbce">
@@ -14703,9 +14703,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Change Navigation Mode (Enhanced/Simple/Character) to smaller | `shift+downArrow` </source>
-        <target> Change Navigation Mode (Enhanced/Simple/Character) to smaller | `shift+downArrow` </target>
+        <target> Changer le mode de navigation (Amélioré/Simple/Caractère) pour un mode plus petit | `maj+flècheBas` </target>
       </segment>
     </unit>
     <unit id="83530780-0811-42eb-9ae5-1ee3cc56196c">
@@ -14725,9 +14725,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Where am I | `enter` </source>
-        <target> Where am I | `enter` </target>
+        <target> Où suis-je | `entrée` </target>
       </segment>
     </unit>
     <unit id="85698060-2cd7-4326-825a-20e12942ce04">
@@ -14736,9 +14736,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Global Where am I | `control+enter` </source>
-        <target> Global Where am I | `control+enter` </target>
+        <target> Où suis-je global | `contrôle+entrée` </target>
       </segment>
     </unit>
     <unit id="827bd1c0-2d35-40a3-b858-f3e10f14f4ee">
@@ -14747,9 +14747,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Jump to placemarker | `1` through `0` (`0` is 10) </source>
-        <target> Jump to placemarker | `1` through `0` (`0` is 10) </target>
+        <target> Aller au repère | `1` à `0` (`0` pour 10) </target>
       </segment>
     </unit>
     <unit id="1c03f58f-65d6-43d3-9283-601540ac9330">
@@ -14758,9 +14758,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Set placemarker | `control+1` through `control+0` </source>
-        <target> Set placemarker | `control+1` through `control+0` </target>
+        <target> Définir le repère | `contrôle+1` à `contrôle+0` </target>
       </segment>
     </unit>
     <unit id="9912ae2b-cb52-493c-9501-ed8eaa711909">
@@ -14769,9 +14769,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Read placemarker | `shift+1` through `shift+0` </source>
-        <target> Read placemarker | `shift+1` through `shift+0` </target>
+        <target> Lire le repère | `maj+1` à `maj+0` </target>
       </segment>
     </unit>
     <unit id="a7916d61-97b7-4648-919d-58389f958573">
@@ -14780,9 +14780,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Describe placemarker | `control+shift+1` through `shift+0` </source>
-        <target> Describe placemarker | `control+shift+1` through `shift+0` </target>
+        <target> Décrire le repère | `contrôle+maj+1` à `contrôle+maj+0` </target>
       </segment>
     </unit>
     <unit id="be12d844-810c-4dd9-a4f1-90919b0a41c2">
@@ -14791,9 +14791,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Read current | `space` </source>
-        <target> Read current | `space` </target>
+        <target> Lire l'élément courant | `espace` </target>
       </segment>
     </unit>
     <unit id="66af7d50-76c1-4be1-9910-d94663353bbe">
@@ -14813,9 +14813,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Toggle "speech mode" to Read or Describe | `shift+space` </source>
-        <target> Toggle "speech mode" to Read or Describe | `shift+space` </target>
+        <target> Basculer le "mode de parole" entre Lire et Décrire | `maj+espace` </target>
       </segment>
     </unit>
     <unit id="77dbf92d-f0bd-4066-89ff-ebb23b3e58e8">
@@ -14824,9 +14824,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Describe current | `control+shift+space` </source>
-        <target> Describe current | `control+shift+space` </target>
+        <target> Décrire l'élément courant | `contrôle+maj+espace` </target>
       </segment>
     </unit>
     <unit id="b4f76a95-5800-40f2-86cd-8b6593121425">
@@ -14835,9 +14835,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to start of expression | `home` </source>
-        <target> Move to start of expression | `home` </target>
+        <target> Aller au début de l'expression | `début` </target>
       </segment>
     </unit>
     <unit id="fbd5428a-ee30-41d3-ab5c-15f68d856580">
@@ -14846,9 +14846,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to start of line | `control+home` </source>
-        <target> Move to start of line | `control+home` </target>
+        <target> Aller au début de la ligne | `contrôle+début` </target>
       </segment>
     </unit>
     <unit id="3a7b99d2-4c93-45a5-b3d5-834fb85a507c">
@@ -14857,9 +14857,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to start of column in table, or move to digit at top in columnar math | `shift+home` </source>
-        <target> Move to start of column in table, or move to digit at top in columnar math | `shift+home` </target>
+        <target> Aller au début de la colonne dans un tableau ou au chiffre du haut dans les mathématiques en colonnes | `maj+début` </target>
       </segment>
     </unit>
     <unit id="fadf7bd0-0879-45ed-b5be-dc0988a36f42">
@@ -14868,9 +14868,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to end of expression | `end` </source>
-        <target> Move to end of expression | `end` </target>
+        <target> Aller à la fin de l'expression | `fin` </target>
       </segment>
     </unit>
     <unit id="1f549a93-ce8e-4cef-86dd-e60d54b2755e">
@@ -14879,9 +14879,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to end of line | `control+end` </source>
-        <target> Move to end of line | `control+end` </target>
+        <target> Aller à la fin de la ligne | `contrôle+fin` </target>
       </segment>
     </unit>
     <unit id="fa80a97e-221e-4af8-9f3f-d88089504c79">
@@ -14890,9 +14890,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to end of column in table, or move to digit at bottom in columnar math | `shift+end` </source>
-        <target> Move to end of column in table, or move to digit at bottom in columnar math | `shift+end` </target>
+        <target> Aller à la fin de la colonne dans un tableau ou aller au chiffre du bas dans les mathématiques en colonnes | `maj+fin` </target>
       </segment>
     </unit>
     <unit id="673a174f-b93d-49c4-939e-433a58ae70d0">
@@ -14901,9 +14901,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move back to last position | `backspace` </source>
-        <target> Move back to last position | `backspace` </target>
+        <target> Revenir à la dernière position | `retour arrière` </target>
       </segment>
     </unit>
     <unit id="65fff510-9a3a-47ca-81ca-23d9bee4ff27">
@@ -14911,90 +14911,90 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1302</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Typical Use</source>
-        <target>Typical Use</target>
+        <target>Utilisation typique</target>
       </segment>
     </unit>
     <unit id="18c3b342-7c70-43f7-90ed-2d58515bc63f">
       <notes>
         <note appliesTo="source">line: 1304</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Typically, you will start at the first term of an expression and move right as needed.</source>
-        <target>Typically, you will start at the first term of an expression and move right as needed.</target>
+        <target>En règle générale, vous commencerez par le premier terme d’une expression et vous avancerez vers la droite si nécessaire.</target>
       </segment>
     </unit>
     <unit id="492eeed0-10b5-468e-a55b-250865d430fd">
       <notes>
         <note appliesTo="source">line: 1305</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You might move up and down levels if needed.</source>
-        <target>You might move up and down levels if needed.</target>
+        <target>Vous pouvez monter et descendre de niveau si nécessaire.</target>
       </segment>
     </unit>
     <unit id="9fe7ce44-81eb-4c16-92d5-9f0738156165">
       <notes>
         <note appliesTo="source">line: 1306</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is done with the arrow keys.</source>
-        <target>This is done with the arrow keys.</target>
+        <target>Cela se fait avec les touches fléchées.</target>
       </segment>
     </unit>
     <unit id="00ca5128-00c7-4301-b8d4-664a1883e5fc">
       <notes>
         <note appliesTo="source">line: 1307</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`control+alt+arrow` is used to move around tabular entries.</source>
-        <target>`control+alt+arrow` is used to move around tabular entries.</target>
+        <target>`contrôle+alt+flèche` est utilisé pour se déplacer dans une structure tabulaire.</target>
       </segment>
     </unit>
     <unit id="490f33d8-383f-4ccd-8fe7-279c39f78bf9">
       <notes>
         <note appliesTo="source">line: 1309</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Backspace will take you back to where you were, which is not always the same as moving to the left.</source>
-        <target>Backspace will take you back to where you were, which is not always the same as moving to the left.</target>
+        <target>Retour arrière vous ramènera là où vous étiez, ce qui n'est pas toujours la même chose que de vous déplacer vers la gauche.</target>
       </segment>
     </unit>
     <unit id="046670df-b519-427c-b76b-000103de1188">
       <notes>
         <note appliesTo="source">line: 1310</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, if right arrow moved you out of a fraction, backspace will take you back to where you were in the denominator and left arrow will land on the entire fraction.</source>
-        <target>For example, if right arrow moved you out of a fraction, backspace will take you back to where you were in the denominator and left arrow will land on the entire fraction.</target>
+        <target>Par exemple, si flèche droite vous fait sortir d'une fraction, retour arrière vous ramènera là où vous étiez dans le dénominateur alors que flèche gauche vous amènera sur la fraction entière.</target>
       </segment>
     </unit>
     <unit id="ac76b8ee-e783-48dc-8abc-0544cdcc9a55">
       <notes>
         <note appliesTo="source">line: 1312</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You will likely find one mode of navigation the most natural for you most of the time.</source>
-        <target>You will likely find one mode of navigation the most natural for you most of the time.</target>
+        <target>Vous trouverez probablement le mode de navigation le plus naturel pour vous dans la plupart des situations.</target>
       </segment>
     </unit>
     <unit id="4a8eb473-59ac-4139-89c5-69443c0e7758">
       <notes>
         <note appliesTo="source">line: 1313</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The default mode can be set in the math settings panel.</source>
-        <target>The default mode can be set in the math settings panel.</target>
+        <target>Le mode par défaut peut être défini dans le panneau des paramètres mathématiques.</target>
       </segment>
     </unit>
     <unit id="b7660dba-391c-4c73-9b6e-fe4e0b3830ea">
       <notes>
         <note appliesTo="source">line: 1314</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, at any time during navigation, you can switch navigation modes using `shift+up/down arrow` to take advantage of the differing strengths of each navigation mode.</source>
-        <target>However, at any time during navigation, you can switch navigation modes using `shift+up/down arrow` to take advantage of the differing strengths of each navigation mode.</target>
+        <target>Cependant, à tout moment pendant la navigation, vous pouvez changer de mode de navigation en utilisant `maj+flècheHaut/Bas` pour profiter des différents atouts de chaque mode de navigation.</target>
       </segment>
     </unit>
     <unit id="8fbc04ab-c5bf-4d7d-a0b8-2b1ab7d15e9b">
