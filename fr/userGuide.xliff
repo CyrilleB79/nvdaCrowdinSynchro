@@ -26530,18 +26530,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#MathSettings}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Math Settings</source>
-        <target>Math Settings</target>
+        <target>Paramètres Mathématiques</target>
       </segment>
     </unit>
     <unit id="79eb320a-afe4-49f4-a72b-77bdb9b22305">
       <notes>
         <note appliesTo="source">line: 3221</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This category allows you to adjust how NVDA reads mathematical content.</source>
-        <target>This category allows you to adjust how NVDA reads mathematical content.</target>
+        <target>Cette catégorie vous permet d'ajuster la manière dont NVDA lit le contenu mathématique.</target>
       </segment>
     </unit>
     <unit id="93db6a8d-37a8-4856-94b7-9d6d25004ff6">
@@ -26550,9 +26550,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MathCATSpeechOptions}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Speech Options</source>
-        <target>Speech Options</target>
+        <target>Options de la parole</target>
       </segment>
     </unit>
     <unit id="9907cc97-b1ab-4892-89da-3819168e90ee">
@@ -26561,18 +26561,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathSpeechImpairment}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Impairment</source>
-        <target>Impairment</target>
+        <target>Handicap</target>
       </segment>
     </unit>
     <unit id="abbdb948-a480-41eb-9fe6-73d5e17f2fcb">
       <notes>
         <note appliesTo="source">line: 3227</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This controls whether certain notations are disambiguated or not in speech.</source>
-        <target>This controls whether certain notations are disambiguated or not in speech.</target>
+        <target>Cela contrôle si certaines notations sont désambiguïsées ou non dans la lecture vocale.</target>
       </segment>
     </unit>
     <unit id="95018172-aa7a-48fb-bc65-e2bc1395d794">
@@ -26581,9 +26581,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Blindness, Low Vision, Learning disabilities </source>
-        <target> Options | Blindness, Low Vision, Learning disabilities </target>
+        <target> Options | Cécité, Basse Vision, Troubles de l'apprentissage </target>
       </segment>
     </unit>
     <unit id="30f164e6-7bee-4390-92e9-dc5d505bf273">
@@ -26592,9 +26592,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Blindness </source>
-        <target> Default | Blindness </target>
+        <target> Défaut | Cécité </target>
       </segment>
     </unit>
     <unit id="e44e8963-cc27-4bda-aa0a-4082e62dffbd">
@@ -26603,36 +26603,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ###### </note>
         <note appliesTo="source">suffix:  {#MathSpeechLanguage}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Language</source>
-        <target>Language</target>
+        <target>Langue</target>
       </segment>
     </unit>
     <unit id="7ed436d2-286b-4a51-a65e-8159086c50cd">
       <notes>
         <note appliesTo="source">line: 3236</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This value determines the language to be used.</source>
-        <target>This value determines the language to be used.</target>
+        <target>Cette valeur détermine la langue à utiliser.</target>
       </segment>
     </unit>
     <unit id="a97af23f-1047-4177-b1d3-5fbada3dd65d">
       <notes>
         <note appliesTo="source">line: 3237</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If the regional variant is not found among the speech rules, the speech will fall back to using the main language.</source>
-        <target>If the regional variant is not found among the speech rules, the speech will fall back to using the main language.</target>
+        <target>Si la variante régionale n’est pas trouvée parmi les règles vocales, la lecture vocale utilisera la langue principale.</target>
       </segment>
     </unit>
     <unit id="e6dd553c-1739-4b12-9b98-bd304223b091">
       <notes>
         <note appliesTo="source">line: 3238</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If speech rules for the main language cannot be found, English ("en") is used.</source>
-        <target>If speech rules for the main language cannot be found, English ("en") is used.</target>
+        <target>Si les règles de parole pour la langue principale ne peuvent pas être trouvées, l'anglais ("en") est utilisé.</target>
       </segment>
     </unit>
     <unit id="f06b8879-dbc4-4c62-9593-801896c45f83">
@@ -26641,9 +26641,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Automatic, English, English (en-GB), Chinese (Traditional) (zh-TW), Finnish, German, Indonesian, Norwegian Bokmål, Spanish, Swedish, Vietnamese </source>
-        <target> Options | Automatic, English, English (en-GB), Chinese (Traditional) (zh-TW), Finnish, German, Indonesian, Norwegian Bokmål, Spanish, Swedish, Vietnamese </target>
+        <target> Options | Automatique, Allemand, Anglais, Anglais (en-GB), Espagnol, Finnois, Indonésien, norvégien bokmål, Suédois, Vietnamien, Chinois (traditionnel) (zh-TW) </target>
       </segment>
     </unit>
     <unit id="aa88b007-3eb9-4803-8e97-7065a86c8685">
@@ -26652,9 +26652,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Automatic (the language of the current voice if supported, or fallback to English) </source>
-        <target> Default | Automatic (the language of the current voice if supported, or fallback to English) </target>
+        <target> Défaut | Automatique (la langue de la voix courante si elle est prise en charge, ou anglais le cas échéant) </target>
       </segment>
     </unit>
     <unit id="38b667be-4bd0-4dac-9d27-7d615f561d8e">
@@ -26662,36 +26662,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3245</note>
         <note appliesTo="source">prefix: ###### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Speech Style {MathSpeechStyle}</source>
-        <target>Speech Style {MathSpeechStyle}</target>
+        <target>Style de parole {MathSpeechStyle}</target>
       </segment>
     </unit>
     <unit id="8ae345f5-2710-4c4d-9203-e3796b6e6f9c">
       <notes>
         <note appliesTo="source">line: 3247</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Different styles can be used to speak mathematical content.</source>
-        <target>Different styles can be used to speak mathematical content.</target>
+        <target>Différents styles peuvent être utilisés pour annoncer le contenu mathématique.</target>
       </segment>
     </unit>
     <unit id="9e8911d7-d9be-4531-9e08-07b3db61f0bf">
       <notes>
         <note appliesTo="source">line: 3248</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Each [math speech language](#MathSpeechLanguage) has different speech styles available.</source>
-        <target>Each [math speech language](#MathSpeechLanguage) has different speech styles available.</target>
+        <target>Chaque [langue pour le contenu mathématique](#MathSpeechLanguage) propose différents styles de parole.</target>
       </segment>
     </unit>
     <unit id="fba95dc8-b306-46cb-83bd-b7e6288fdf5a">
       <notes>
         <note appliesTo="source">line: 3250</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For English and most languages, the following styles are available:</source>
-        <target>For English and most languages, the following styles are available:</target>
+        <target>Pour l'anglais et la plupart des langues, les styles suivants sont disponibles :</target>
       </segment>
     </unit>
     <unit id="33c784bb-4b9d-49b1-ac00-3f2762f68210">
