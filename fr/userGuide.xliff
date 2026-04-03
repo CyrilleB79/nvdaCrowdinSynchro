@@ -19538,18 +19538,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2038</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The bold and italic versions of characters that are part of the Unicode standard and are commonly used on social media are normalized to their most common compatible equivalent.</source>
-        <target>The bold and italic versions of characters that are part of the Unicode standard and are commonly used on social media are normalized to their most common compatible equivalent.</target>
+        <target>Les versions en gras et en italique des caractères qui font partie de la norme Unicode et sont couramment utilisées sur les réseaux sociaux sont normalisées selon leur équivalent compatible le plus courant.</target>
       </segment>
     </unit>
     <unit id="d0d17ade-3fcf-4567-985b-34c57a71a97c">
       <notes>
         <note appliesTo="source">line: 2039</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, the Latin letter "h" can also be presented as "𝐡" (bold), "ℎ" (italic), etc. but will always be spoken as "h" when normalization is enabled.</source>
-        <target>For example, the Latin letter "h" can also be presented as "𝐡" (bold), "ℎ" (italic), etc. but will always be spoken as "h" when normalization is enabled.</target>
+        <target>Par exemple, the lettre latine "h" peut également être présenté comme "𝐡" (gras), "ℎ" (italique), etc. mais sera toujours prononcé comme "h" lorsque la normalisation est activée.</target>
       </segment>
     </unit>
     <unit id="95809e9d-dba1-46cf-ab64-5f16b2499444">
@@ -19575,9 +19575,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2043</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>   For example, the character "ü" (u with umlaut/diaeresis), a common character in languages like German and Turkish can be represented in two forms:</source>
-        <target>   For example, the character "ü" (u with umlaut/diaeresis), a common character in languages like German and Turkish can be represented in two forms:</target>
+        <target>   Par exemple, le caractère "é" (e avec un accent aigu), un caractère courant dans des langues comme le français et l'espagnol peut être représenté sous deux formes :</target>
       </segment>
     </unit>
     <unit id="57de0f80-130f-44c8-8c8b-812c25b47359">
@@ -19585,9 +19585,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2045</note>
         <note appliesTo="source">prefix:    1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>One standalone Unicode character (ü)</source>
-        <target>One standalone Unicode character (ü)</target>
+        <target>Un caractère Unicode unique (é)</target>
       </segment>
     </unit>
     <unit id="967d073c-1b21-4380-abbc-9d85c02d1bd4">
@@ -19595,18 +19595,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2046</note>
         <note appliesTo="source">prefix:    1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A decomposition into two characters (ü), namely the normal Latin letter u and a diaeresis modifier</source>
-        <target>A decomposition into two characters (ü), namely the normal Latin letter u and a diaeresis modifier</target>
+        <target>Une décomposition en deux caractères (é), à savoir la lettre latine normale e et un modificateur accent aigu</target>
       </segment>
     </unit>
     <unit id="4ede6e77-1eb4-4eb7-bb07-bf273f07e5ac">
       <notes>
         <note appliesTo="source">line: 2048</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>   Unicode normalization ensures that only one form will be used throughout all speech output, which is the single-character variant.</source>
-        <target>   Unicode normalization ensures that only one form will be used throughout all speech output, which is the single-character variant.</target>
+        <target>   La normalisation Unicode garantit qu'une seule forme sera utilisée pour la sortie vocale, à savoir la variante à un caractère.</target>
       </segment>
     </unit>
     <unit id="1eb1edea-d27b-4c3a-9625-89e115395d2f">
@@ -19832,9 +19832,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2087</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In case pitch change for capitals is not supported, consider [Say "cap" before capitals](#SpeechSettingsSayCapBefore) and/or [Beep for capitals](#SpeechSettingsBeepForCaps) instead.</source>
-        <target>In case pitch change for capitals is not supported, consider [Say "cap" before capitals](#SpeechSettingsSayCapBefore) and/or [Beep for capitals](#SpeechSettingsBeepForCaps) instead.</target>
+        <target>Si le changement de hauteur pour les majuscules n'est pas pris en charge, envisagez plutôt [Dire "majuscule"] après les majuscules](#SpeechSettingsSayCapBefore) et/ou [Émettre un bip pour signaler les majuscules](#SpeechSettingsBeepForCaps).</target>
       </segment>
     </unit>
     <unit id="cfa5037d-a54d-4b90-b2b0-0c666f74453a">
@@ -20293,9 +20293,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set the first value of the current synth setting |none |none |Select the first value of the current speech setting, e.g. set rate to 0 or select the first available voice</source>
-        <target>Set the first value of the current synth setting |none |none |Select the first value of the current speech setting, e.g. set rate to 0 or select the first available voice</target>
+        <target>Sélectionner la première valeur du paramètre synthétiseur courant |none |none |Sélectionne la première valeur du paramètre synthétiseur courant, par ex. mettre le débit à 0 ou sélectionnez la première voix disponible</target>
       </segment>
     </unit>
     <unit id="67a52464-62ec-49b8-a8c1-b57ff954debb">
@@ -20304,9 +20304,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Set the last value of the current synth setting |none |none |Select the last value of the current speech setting, e.g. set rate to 100 or select the last available voice</source>
-        <target>Set the last value of the current synth setting |none |none |Select the last value of the current speech setting, e.g. set rate to 100 or select the last available voice</target>
+        <target>Sélectionner la dernière valeur du paramètre synthétiseur courant |none |none |Sélectionne la dernière valeur du paramètre synthétiseur courant, par ex. mettre le débit à 100 ou sélectionnez la dernière voix disponible</target>
       </segment>
     </unit>
     <unit id="b2785bb3-60ac-45aa-aa2d-23dcf6ab795a">
@@ -21612,9 +21612,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> ⠑ ("e")| Start spelling error </source>
-        <target> ⠑ ("e")| Start spelling error </target>
+        <target> ⠑ ("e")| Début faute d'orthographe </target>
       </segment>
     </unit>
     <unit id="b2c02b43-b1a5-4a3b-ba2a-2db57ced89c7">
@@ -21623,9 +21623,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> ⡑ ("e" with dot 7) | End spelling error </source>
-        <target> ⡑ ("e" with dot 7) | End spelling error </target>
+        <target> ⡑ ("e" avec le point 7) | Fin faute d'orthographe </target>
       </segment>
     </unit>
     <unit id="7c33180a-4ea4-4852-91e3-7965f7281931">
@@ -21634,9 +21634,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> ⠛ ("g")| Start grammar error </source>
-        <target> ⠛ ("g")| Start grammar error </target>
+        <target> ⠛ ("g")| Début erreur de grammaire </target>
       </segment>
     </unit>
     <unit id="a1c01d7d-bfd3-4e8a-adbb-836fc219b51f">
@@ -21645,9 +21645,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> ⡛ ("g" with dot 7) | End grammar error </source>
-        <target> ⡛ ("g" with dot 7) | End grammar error </target>
+        <target> ⡛ ("g" avec le point 7) | Fin erreur de grammaire </target>
       </segment>
     </unit>
     <unit id="d3e37afb-f884-4413-98a7-d9195d313527">
@@ -23287,18 +23287,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2672</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that checking and unchecking the "Enable Highlighting" check box will also change the state of the three other check boxes accordingly.</source>
-        <target>Note that checking and unchecking the "Enable Highlighting" check box will also change the state of the three other check boxes accordingly.</target>
+        <target>Notez que cocher ou décocher la case "Activer la Mise en évidence" modifiera également l'état des trois autres cases à cocher en conséquence.</target>
       </segment>
     </unit>
     <unit id="2ec52e2b-9d6d-4b94-a0a5-af277ed176bf">
       <notes>
         <note appliesTo="source">line: 2673</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Therefore, if "Enable Highlighting" is off and you check this check box, the other three check boxes will also be checked automatically.</source>
-        <target>Therefore, if "Enable Highlighting" is off and you check this check box, the other three check boxes will also be checked automatically.</target>
+        <target>Ainsi, si "Activer la Mise en évidence" n'est pas cochée et que vous la cochez, les trois autres cases seront cochées automatiquement.</target>
       </segment>
     </unit>
     <unit id="012f6bab-27a4-4ee9-be21-dfada7a151c2">
@@ -23763,9 +23763,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2762</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available if [reporting of spelling errors](#reportSpellingErrors) is enabled in NVDA's Document Formatting Settings.</source>
-        <target>This option is only available if [reporting of spelling errors](#reportSpellingErrors) is enabled in NVDA's Document Formatting Settings.</target>
+        <target>Cette option n'est disponible que si [l'annonce des fautes d'orthographe](#reportSpellingErrors) est activée dans les paramètres de mise en forme des documents de NVDA.</target>
       </segment>
     </unit>
     <unit id="c6c0276b-40ff-437e-a935-b4c145f14cb4">
@@ -24096,9 +24096,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2821</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can also assign a custom gesture in the Mouse category of the Input Gestures dialog to toggle this option.</source>
-        <target>You can also assign a custom gesture in the Mouse category of the Input Gestures dialog to toggle this option.</target>
+        <target>Vous pouvez également attribuer un geste personnalisé dans la catégorie Souris de la boîte de dialogue Gestes de commandes pour activer ou désactiver cette option.</target>
       </segment>
     </unit>
     <unit id="ac7a28a4-1671-497a-981c-164122b6394d">
@@ -24629,27 +24629,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ReportMultiSelect}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Report when objects support multiple selection</source>
-        <target>Report when objects support multiple selection</target>
+        <target>Annoncer lorsque les objets prennent en charge la sélection multiple</target>
       </segment>
     </unit>
     <unit id="da9f4ea0-1ca6-49c7-9381-b05d2825c9b3">
       <notes>
         <note appliesTo="source">line: 2924</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When this option is enabled, NVDA will report when an object, such as a list box, supports selecting multiple items.</source>
-        <target>When this option is enabled, NVDA will report when an object, such as a list box, supports selecting multiple items.</target>
+        <target>Lorsque cette option est activée, NVDA signalera lorsqu'un objet, tel qu'une zone de liste, prend en charge la sélection de plusieurs éléments.</target>
       </segment>
     </unit>
     <unit id="aba743e9-539a-4778-8acd-13fa6d73be77">
       <notes>
         <note appliesTo="source">line: 2925</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>As it is usually possible to infer multiple selection support from the context of a list box, this option is disabled by default.</source>
-        <target>As it is usually possible to infer multiple selection support from the context of a list box, this option is disabled by default.</target>
+        <target>Comme il est généralement possible de déduire à partir du contexte d'une zone de liste si la sélection multiple est prise en charge, cette option est désactivée par défaut.</target>
       </segment>
     </unit>
     <unit id="9516f4a2-a0f3-462b-aa6e-d277f555aaa2">
@@ -26157,27 +26157,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ReportSpellingErrors}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Spelling and grammar error reporting</source>
-        <target>Spelling and grammar error reporting</target>
+        <target>Signaler les erreurs d'orthographe et de grammaire</target>
       </segment>
     </unit>
     <unit id="a7337c81-25c0-42e0-9e18-5ee7dc312542">
       <notes>
         <note appliesTo="source">line: 3162</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option allows you to configure how spelling and grammar errors are reported while reading text.</source>
-        <target>This option allows you to configure how spelling and grammar errors are reported while reading text.</target>
+        <target>Cette option vous permet de configurer la manière dont les erreurs d'orthographe et de grammaire sont signalées lors de la lecture du texte.</target>
       </segment>
     </unit>
     <unit id="e4c4fd97-f5e3-4283-816c-88c317b4a2ed">
       <notes>
         <note appliesTo="source">line: 3163</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checklist box has three options:</source>
-        <target>This checklist box has three options:</target>
+        <target>Cette liste de cases à cocher propose trois options :</target>
       </segment>
     </unit>
     <unit id="e9540d45-afd0-4812-b25a-789844024e5e">
@@ -26185,9 +26185,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3165</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Speech: NVDA will say "spelling error" or "grammar error" when an error is encountered while reading text</source>
-        <target>Speech: NVDA will say "spelling error" or "grammar error" when an error is encountered while reading text</target>
+        <target>Parole : NVDA dira "faute d'orthographe" ou "erreur de grammaire" lorsqu'une erreur est rencontrée lors de la lecture de texte</target>
       </segment>
     </unit>
     <unit id="9d51dc42-0da3-4b8e-958d-69b1b4b1e0b9">
@@ -26195,18 +26195,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3166</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sound: NVDA will play a short buzzer sound when a spelling or grammar error is encountered while reading text</source>
-        <target>Sound: NVDA will play a short buzzer sound when a spelling or grammar error is encountered while reading text</target>
+        <target>Son : NVDA émettra un court signal sonore lorsqu'une erreur d'orthographe ou de grammaire est rencontrée lors de la lecture de texte.</target>
       </segment>
     </unit>
     <unit id="68732419-ae34-4e51-abd6-3085509d8caa">
       <notes>
         <note appliesTo="source">line: 3167</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When navigating word by word or character by character, "out of spelling error" or "out of grammar error" is also reported if the "Speech" or "Sound" option is selected.</source>
-        <target>When navigating word by word or character by character, "out of spelling error" or "out of grammar error" is also reported if the "Speech" or "Sound" option is selected.</target>
+        <target>Lors de la navigation mot par mot ou caractère par caractère, "hors de la faute d'orthographe" ou "hors de l'erreur de grammaire" est également annoncé si l'option "Parole" ou "Son" est sélectionnée.</target>
       </segment>
     </unit>
     <unit id="3ef70923-ce01-4c34-9d5b-c76b743df126">
@@ -26214,18 +26214,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3168</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille: NVDA will indicate spelling or grammar errors in braille.</source>
-        <target>Braille: NVDA will indicate spelling or grammar errors in braille.</target>
+        <target>Braille : NVDA indiquera les erreurs d'orthographe ou de grammaire en braille.</target>
       </segment>
     </unit>
     <unit id="3fb1eed2-fc0c-4c9b-a098-46830e902e52">
       <notes>
         <note appliesTo="source">line: 3169</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To have spelling or grammar errors reported in braille, [formatting display with tags](#BrailleFormattingDisplayTags) must be enabled.</source>
-        <target>To have spelling or grammar errors reported in braille, [formatting display with tags](#BrailleFormattingDisplayTags) must be enabled.</target>
+        <target>Pour avoir les fautes d'orthographe ou de grammaire signalées en braille, [l'affichage de la mise en forme avec des balises](#BrailleFormattingDisplayTags) doit être activé.</target>
       </segment>
     </unit>
     <unit id="3ccedadc-b07c-49bd-b781-99fe14ddd2e9">

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-01 05:05+0000\n"
-"PO-Revision-Date: 2026-04-03 07:57\n"
+"PO-Revision-Date: 2026-04-03 09:45\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -19090,12 +19090,12 @@ msgstr "hors de la faute d'orthographe"
 #. Translators: Reported when text contains a grammar error.
 #: speech\speech.py:3034
 msgid "grammar error"
-msgstr "erreur grammaticale"
+msgstr "erreur de grammaire"
 
 #. Translators: Reported when moving out of text containing a grammar error.
 #: speech\speech.py:3037
 msgid "out of grammar error"
-msgstr "hors de l'erreur grammaticale"
+msgstr "hors de l'erreur de grammaire"
 
 #. Translators: Indicates end of a table.
 #: speech\speech.py:3070
