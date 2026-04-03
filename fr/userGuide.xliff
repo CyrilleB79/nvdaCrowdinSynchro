@@ -30125,9 +30125,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 3828</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>UIA notifications: This option defers the responsibility of determining what text to speak to Windows Terminal itself, meaning that NVDA no longer has to determine what text currently on-screen is "new".</source>
-        <target>UIA notifications: This option defers the responsibility of determining what text to speak to Windows Terminal itself, meaning that NVDA no longer has to determine what text currently on-screen is "new".</target>
+        <target>Notifications UIA : Cette option reporte la responsabilité de déterminer quel texte parler au terminal Windows lui-même, ce qui signifie que NVDA n'a plus à déterminer quel texte actuellement à l'écran est "nouveau".</target>
       </segment>
     </unit>
     <unit id="4ee646a7-dc69-4527-b062-f87971870c02">
@@ -30239,54 +30239,54 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#UseWASAPIForSAPI4}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use WASAPI for SAPI 4 audio output</source>
-        <target>Use WASAPI for SAPI 4 audio output</target>
+        <target>Utiliser WASAPI pour la sortie audio SAPI 4</target>
       </segment>
     </unit>
     <unit id="b72c2742-df61-471b-90f9-ac6122e4e547">
       <notes>
         <note appliesTo="source">line: 3847</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option enables Microsoft Speech API version 4 (SAPI 4) voices to output audio via the Windows Audio Session API (WASAPI).</source>
-        <target>This option enables Microsoft Speech API version 4 (SAPI 4) voices to output audio via the Windows Audio Session API (WASAPI).</target>
+        <target>Cette option permet aux voix de l'API Microsoft Speech version 4 (SAPI 4) de produire de l'audio via l'API de session audio Windows (WASAPI).</target>
       </segment>
     </unit>
     <unit id="f43848dc-bae1-4d0e-975a-963b9c45ed69">
       <notes>
         <note appliesTo="source">line: 3848</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This can allow SAPI 4 voices to work with more features, such as leading silence trimming and keeping audio device awake.</source>
-        <target>This can allow SAPI 4 voices to work with more features, such as leading silence trimming and keeping audio device awake.</target>
+        <target>Cela peut permettre aux voix SAPI 4 de fonctionner avec davantage de fonctionnalités, telles que la réduction du silence initial et le maintien en éveil du périphérique audio.</target>
       </segment>
     </unit>
     <unit id="6b1daae4-93c0-4a87-a437-b6b0da25616f">
       <notes>
         <note appliesTo="source">line: 3849</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, some SAPI 4 voices might not work with the current WASAPI implementation.</source>
-        <target>However, some SAPI 4 voices might not work with the current WASAPI implementation.</target>
+        <target>Cependant, certaines voix SAPI 4 peuvent ne pas fonctionner avec l’implémentation WASAPI actuelle.</target>
       </segment>
     </unit>
     <unit id="71ee9713-f475-4f5d-a153-e9dedfe23e8f">
       <notes>
         <note appliesTo="source">line: 3850</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If you find that the SAPI 4 voice you are using stops working, you may disable this option.</source>
-        <target>If you find that the SAPI 4 voice you are using stops working, you may disable this option.</target>
+        <target>Si vous constatez que la voix SAPI 4 que vous utilisez cesse de fonctionner, vous pouvez désactiver cette option.</target>
       </segment>
     </unit>
     <unit id="d5c44b45-555a-4439-b59a-31fcaa5e9757">
       <notes>
         <note appliesTo="source">line: 3852</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that in Speech settings, there is a similar [option for SAPI 5 voices](#SpeechSettingsUseWasapi), not to be confused with this one.</source>
-        <target>Note that in Speech settings, there is a similar [option for SAPI 5 voices](#SpeechSettingsUseWasapi), not to be confused with this one.</target>
+        <target>Notez que dans les paramètres de parole, il existe une [option similaire pour les voix SAPI 5](#SpeechSettingsUseWasapi), à ne pas confondre avec celle-ci.</target>
       </segment>
     </unit>
     <unit id="0b8a8675-b930-4dc8-9be8-81deb09ca609">
@@ -30295,9 +30295,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Options |Default (Enabled), Disabled, Enabled</source>
-        <target>Options |Default (Enabled), Disabled, Enabled</target>
+        <target>Options |Défaut (Activé), Désactivé, Activé</target>
       </segment>
     </unit>
     <unit id="09351fbd-5c78-4d8a-8f42-f06205c49ccf">
@@ -30306,9 +30306,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Default |Enabled</source>
-        <target>Default |Enabled</target>
+        <target>Défaut |Activé</target>
       </segment>
     </unit>
     <unit id="9818ec02-721e-4b97-aa0e-668e024c4ab0">
@@ -30755,9 +30755,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3927</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For an introductory tutorial, please refer to [Python's Regular Expression Guide](https://docs.python.org/3.13/howto/regex.html).</source>
-        <target>For an introductory tutorial, please refer to [Python's Regular Expression Guide](https://docs.python.org/3.13/howto/regex.html).</target>
+        <target>Pour un tutoriel d'introduction, veuillez consulter le [Guide des expressions régulières de Python](https://docs.python.org/3.13/howto/regex.html).</target>
       </segment>
     </unit>
     <unit id="909761ee-4a29-4728-af07-9622d4e8ef0f">
