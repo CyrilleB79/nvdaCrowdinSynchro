@@ -32190,18 +32190,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4161</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You may include the port to connect on by appending a colon (":") and the port number to the host address.</source>
-        <target>You may include the port to connect on by appending a colon (":") and the port number to the host address.</target>
+        <target>Vous pouvez inclure le port sur lequel vous connecter en ajoutant deux points (":") et le numéro de port à l'adresse de l'hôte.</target>
       </segment>
     </unit>
     <unit id="a3daaa38-dd68-4226-93f7-98096375d797">
       <notes>
         <note appliesTo="source">line: 4162</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>     For example, `example.com:1234`.</source>
-        <target>     For example, `example.com:1234`.</target>
+        <target>     Par exemple, `exemple.com:1234`.</target>
       </segment>
     </unit>
     <unit id="c0c4cd99-9bc9-46e6-8fb9-1b39fcfc2acc">
@@ -32218,9 +32218,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4165</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>   Be careful to type the key exactly as given.</source>
-        <target>   Be careful to type the key exactly as given.</target>
+        <target>   Veillez à saisir la clé exactement comme indiquée.</target>
       </segment>
     </unit>
     <unit id="49d587fc-7af4-4cce-a2f7-9cfeaf1600f1">
@@ -32277,9 +32277,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4174</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>   You will need to provide this address to the other person.</source>
-        <target>   You will need to provide this address to the other person.</target>
+        <target>   Vous devrez fournir cette adresse à l’autre personne.</target>
       </segment>
     </unit>
     <unit id="f2fd05f7-ed87-474b-bc33-b84f4739209b">
@@ -32287,18 +32287,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4176</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You may include the port to connect on by appending a colon (":") and the port number to the host.</source>
-        <target>You may include the port to connect on by appending a colon (":") and the port number to the host.</target>
+        <target>Vous pouvez inclure le port sur lequel vous connecter en ajoutant deux points (":") et le numéro de port à l’hôte.</target>
       </segment>
     </unit>
     <unit id="9dfd2f00-e81f-4e04-a05c-c1b9ed1c5853">
       <notes>
         <note appliesTo="source">line: 4177</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>     For example, `example.com:1234`.</source>
-        <target>     For example, `example.com:1234`.</target>
+        <target>     Par exemple, `exemple.com:1234`.</target>
       </segment>
     </unit>
     <unit id="dada18fb-997b-4047-9346-4f9d438e04a6">
@@ -32315,9 +32315,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4180</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>   You will need to provide this to the other person.</source>
-        <target>   You will need to provide this to the other person.</target>
+        <target>   Vous devrez la fournir à l’autre personne.</target>
       </segment>
     </unit>
     <unit id="640c6834-557f-4288-9aa9-13a06961ccc0">
@@ -32325,9 +32325,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4182</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that the key acts as both the identifier for the session and the password, so it is very important it is hard to guess.</source>
-        <target>Note that the key acts as both the identifier for the session and the password, so it is very important it is hard to guess.</target>
+        <target>Notez que la clé agit à la fois comme identifiant de session et comme mot de passe, il est donc très important qu’elle soit difficile à deviner.</target>
       </segment>
     </unit>
     <unit id="4e76d0e7-ce86-4e4e-8189-2ccfcb7da8f8">
@@ -32432,9 +32432,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4197</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>   The other person will also need this.</source>
-        <target>   The other person will also need this.</target>
+        <target>   L’autre personne en aura également besoin.</target>
       </segment>
     </unit>
     <unit id="ee7e1342-5a0a-459c-9554-845f0da3b0f4">
@@ -32442,9 +32442,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4199</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This should be a port that is not used by any other services.</source>
-        <target>This should be a port that is not used by any other services.</target>
+        <target>Il doit s’agir d’un port qui n’est utilisé par aucun autre service.</target>
       </segment>
     </unit>
     <unit id="346442a1-7945-4250-b587-4296507a3d2a">
@@ -32452,9 +32452,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4200</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, Remote Access uses port 6837.</source>
-        <target>By default, Remote Access uses port 6837.</target>
+        <target>Par défaut, l’accès à distance utilise le port 6837.</target>
       </segment>
     </unit>
     <unit id="a3c833f9-9798-4277-9c99-c8719e7fa8d9">
@@ -32462,27 +32462,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4201</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If connecting over the internet, the port may need to be forwarded.</source>
-        <target>If connecting over the internet, the port may need to be forwarded.</target>
+        <target>Si vous vous connectez via Internet, le port devra peut-être être transféré.</target>
       </segment>
     </unit>
     <unit id="047d4c13-607a-4667-a571-7294c4ded0e6">
       <notes>
         <note appliesTo="source">line: 4202</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>     This documentation does not cover how to forward ports.</source>
-        <target>     This documentation does not cover how to forward ports.</target>
+        <target>     Cette documentation ne couvre pas la manière de transférer des ports.</target>
       </segment>
     </unit>
     <unit id="26ff4425-2e8c-45c7-a718-a599da8b4c7a">
       <notes>
         <note appliesTo="source">line: 4203</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>     You may need to contact your network administrator to do this.</source>
-        <target>     You may need to contact your network administrator to do this.</target>
+        <target>     Vous devrez peut-être contacter votre administrateur réseau pour ce faire.</target>
       </segment>
     </unit>
     <unit id="d995902d-8e11-47a8-9306-aab1445ce6b9">
@@ -32499,9 +32499,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4206</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>   You will need to provide this to the other person.</source>
-        <target>   You will need to provide this to the other person.</target>
+        <target>   Vous devrez la fournir à l’autre personne.</target>
       </segment>
     </unit>
     <unit id="7838d750-c53d-4bf9-a677-6f9393ae174a">
@@ -32509,9 +32509,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4208</note>
         <note appliesTo="source">prefix:    * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that the key acts as both the identifier for the session and the password, so it is very important it is hard to guess.</source>
-        <target>Note that the key acts as both the identifier for the session and the password, so it is very important it is hard to guess.</target>
+        <target>Notez que la clé agit à la fois comme identifiant de session et comme mot de passe, il est donc très important qu’elle soit difficile à deviner.</target>
       </segment>
     </unit>
     <unit id="6be70a23-825b-4949-a94c-5788cb14f373">
@@ -43340,9 +43340,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`control+end` key |`rightKeypadRight+rightKeypadDown`</source>
-        <target>`control+end` key |`rightKeypadRight+rightKeypadDown`</target>
+        <target>touche `contrôle+fin` |`clavierDroitDroite+clavierDroitBas`</target>
       </segment>
     </unit>
     <unit id="07bd8eca-ba86-4eae-b708-575312597884">
@@ -45676,18 +45676,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 5944</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When running on a secure screen, NVDA uses its system-wide configuration for preferences.</source>
-        <target>When running on a secure screen, NVDA uses its system-wide configuration for preferences.</target>
+        <target>Lorsqu'il est exécuté sur un écran sécurisé, NVDA utilise sa configuration système pour les préférences.</target>
       </segment>
     </unit>
     <unit id="446bb7f1-b91d-4de7-913c-9d56f2f060d2">
       <notes>
         <note appliesTo="source">line: 5945</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA user preferences can be copied [for use on secure screens](#GeneralSettingsCopySettings).</source>
-        <target>NVDA user preferences can be copied [for use on secure screens](#GeneralSettingsCopySettings).</target>
+        <target>Les préférences utilisateur de NVDA peuvent être copiées [pour l'utilisation sur les écrans sécurisés](#GeneralSettingsCopySettings).</target>
       </segment>
     </unit>
     <unit id="0627dff2-dc87-4db5-b4b2-77beb45ed1a9">
