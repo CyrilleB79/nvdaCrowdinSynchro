@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-08 05:11+0000\n"
-"PO-Revision-Date: 2026-04-08 21:34\n"
+"POT-Creation-Date: 2026-04-09 00:37+0000\n"
+"PO-Revision-Date: 2026-04-09 01:25\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -15298,19 +15298,19 @@ msgid "Reviews URL:"
 msgstr "URL des avis :"
 
 #. Translators: Label for an extra detail field for the selected add-on in the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:354
+#: gui\addonStoreGui\controls\details.py:355
 msgctxt "addonStore"
 msgid "Install date:"
 msgstr "Date d'installation :"
 
 #. Translators: Label for an extra detail field for the selected add-on. In the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:362
+#: gui\addonStoreGui\controls\details.py:363
 msgctxt "addonStore"
 msgid "Publication date:"
 msgstr "Date de publication :"
 
 #. Translators: Label for an extra detail field for the selected add-on. In the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:371
+#: gui\addonStoreGui\controls\details.py:372
 msgctxt "addonStore"
 msgid "VirusTotal scan results:"
 msgstr "Résultats de l’analyse par VirusTotal :"
@@ -15319,7 +15319,7 @@ msgstr "Résultats de l’analyse par VirusTotal :"
 #. {malicious} is the number of vendors that detected the add-on as malicious,
 #. {total} is the total number of vendors that scanned the add-on.
 #. In the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:378
+#: gui\addonStoreGui\controls\details.py:379
 #, python-brace-format
 msgctxt "addonStore"
 msgid "{malicious} malware scanner detected this add-on as potentially malicious (out of {total})."
@@ -15328,7 +15328,7 @@ msgstr[0] "{malicious} analyseur de logiciels malveillants a détecté cette ext
 msgstr[1] "{malicious} analyseurs de logiciels malveillants ont détecté cette extension comme potentiellement malveillante (sur {total})."
 
 #. Translators: Label for an extra detail field for the selected add-on. In the add-on store dialog.
-#: gui\addonStoreGui\controls\details.py:388
+#: gui\addonStoreGui\controls\details.py:389
 msgctxt "addonStore"
 msgid "VirusTotal scan URL:"
 msgstr "URL de l’analyse par VirusTotal :"
@@ -15597,7 +15597,7 @@ msgstr "Extensions"
 #. Translators: The label for a column in the copy add-ons dialog that displays the name of the add-on
 #. Translators: The name of the column that contains names of addons.
 #: gui\addonStoreGui\controls\messageDialogs.py:748
-#: gui\addonStoreGui\viewModels\addonList.py:62
+#: gui\addonStoreGui\viewModels\addonList.py:63
 msgctxt "addonStore"
 msgid "Name"
 msgstr "Nom"
@@ -15767,68 +15767,68 @@ msgstr "Choisir le fichier paquet de l'extension"
 
 #. Translators: The name of the column that contains the status of the addon.
 #. e.g. available, downloading installing
-#: gui\addonStoreGui\viewModels\addonList.py:68
+#: gui\addonStoreGui\viewModels\addonList.py:69
 msgctxt "addonStore"
 msgid "Status"
 msgstr "État"
 
 #. Translators: The name of the column that contains the installed addon's version string.
-#: gui\addonStoreGui\viewModels\addonList.py:73
+#: gui\addonStoreGui\viewModels\addonList.py:74
 msgctxt "addonStore"
 msgid "Installed version"
 msgstr "Version installée"
 
 #. Translators: The name of the column that contains the available addon's version string.
-#: gui\addonStoreGui\viewModels\addonList.py:79
+#: gui\addonStoreGui\viewModels\addonList.py:80
 msgctxt "addonStore"
 msgid "Available version"
 msgstr "Version disponible"
 
 #. Translators: The name of the column that contains the channel of the addon (e.g stable, beta, dev).
-#: gui\addonStoreGui\viewModels\addonList.py:85
+#: gui\addonStoreGui\viewModels\addonList.py:86
 msgctxt "addonStore"
 msgid "Channel"
 msgstr "Canal"
 
 #. Translators: The name of the column that contains the addon's publisher.
-#: gui\addonStoreGui\viewModels\addonList.py:90
+#: gui\addonStoreGui\viewModels\addonList.py:91
 msgctxt "addonStore"
 msgid "Publisher"
 msgstr "Éditeur"
 
 #. Translators: The name of the column that contains the addon's author.
-#: gui\addonStoreGui\viewModels\addonList.py:96
+#: gui\addonStoreGui\viewModels\addonList.py:97
 msgctxt "addonStore"
 msgid "Author"
 msgstr "Auteur"
 
 #. Translators: The name of the column that contains the publication date of the add-on.
-#: gui\addonStoreGui\viewModels\addonList.py:102
+#: gui\addonStoreGui\viewModels\addonList.py:103
 msgctxt "addonStore"
 msgid "Publication date"
 msgstr "Date de publication"
 
 #. Translators: The name of the column that contains the installation date of the add-on.
-#: gui\addonStoreGui\viewModels\addonList.py:107
+#: gui\addonStoreGui\viewModels\addonList.py:108
 msgctxt "addonStore"
 msgid "Install date"
 msgstr "Date d'installation"
 
 #. Translators: The name of the column that contains the minimum version of NVDA required for this add-on.
-#: gui\addonStoreGui\viewModels\addonList.py:113
+#: gui\addonStoreGui\viewModels\addonList.py:114
 msgctxt "addonStore"
 msgid "Minimum NVDA version"
 msgstr "Version minimale de NVDA"
 
 #. Translators: The name of the column that contains the last version of NVDA tested with this add-on.
-#: gui\addonStoreGui\viewModels\addonList.py:118
+#: gui\addonStoreGui\viewModels\addonList.py:119
 msgctxt "addonStore"
 msgid "Last tested NVDA version"
 msgstr "Dernière version NVDA testée"
 
 #. Translators: An option of a combo box to sort columns in the add-on store, in ascending order.
 #. {column} will be replaced with the column display string.
-#: gui\addonStoreGui\viewModels\addonList.py:400
+#: gui\addonStoreGui\viewModels\addonList.py:404
 #, python-brace-format
 msgctxt "addonStore"
 msgid "{column} (ascending)"
@@ -15836,7 +15836,7 @@ msgstr "{column} (croissant)"
 
 #. Translators: An option of a combo box to sort columns in the add-on store, in descending order.
 #. {column} will be replaced with the column display string.
-#: gui\addonStoreGui\viewModels\addonList.py:410
+#: gui\addonStoreGui\viewModels\addonList.py:414
 #, python-brace-format
 msgctxt "addonStore"
 msgid "{column} (descending)"
