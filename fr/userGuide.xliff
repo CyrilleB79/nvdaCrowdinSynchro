@@ -25336,7 +25336,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Automatic Say All on page load</source>
-        <target>Dire tout automatiquement au chargement des pages</target>
+        <target>Lecture automatique au chargement de la page</target>
       </segment>
     </unit>
     <unit id="46549110-7229-4329-9d04-1ba772bb31b7">
