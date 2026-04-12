@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-09 08:28+0000\n"
-"PO-Revision-Date: 2026-04-12 18:36\n"
+"PO-Revision-Date: 2026-04-12 21:26\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -13701,13 +13701,13 @@ msgstr "Mettre en évidence le focus de navigation avec les points 7 et 8"
 #: gui\settingsDialogs.py:2995
 msgctxt "math"
 msgid "Application support"
-msgstr ""
+msgstr "Prise en charge des applications"
 
 #. Translators: label for checkbox to use native math presentation support instead of MathCAT in Word and Outlook
 #: gui\settingsDialogs.py:3002
 msgctxt "math"
 msgid "Use native math support in Word and Outlook"
-msgstr ""
+msgstr "Utiliser la prise en charge native des mathématiques dans Word et Outlook"
 
 #. Translators: This is the label for the document formatting panel.
 #. Translators: This is the label for a group of advanced options in the
