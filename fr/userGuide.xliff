@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="fr">
   <file id="userGuide.md" original="https://raw.githubusercontent.com/nvaccess/nvda/0040ff92a1e41dea017e9eaa7dd5ef1e19dabb90/user_docs/en/userGuide.md">
     <skeleton>
@@ -14655,9 +14656,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move to cell above in a table, or digit above in columnar math | `control+upArrow` or `control+alt+upArrow` </source>
-        <target> Move to cell above in a table, or digit above in columnar math | `control+upArrow` or `control+alt+upArrow` </target>
+        <target> Aller à la cellule au-dessus dans un tableau, ou au chiffre au dessous dans des mathématiques en colonne. | `contrôle+flècheHaut` ou `contrôle+alt+flècheHaut` </target>
       </segment>
     </unit>
     <unit id="0be7a18b-4ccd-4c3b-94c6-64e8a55cdbd8">
@@ -14787,9 +14788,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Describe placemarker | `control+shift+1` through `control+shift+0` </source>
-        <target> Describe placemarker | `control+shift+1` through `control+shift+0` </target>
+        <target> Décrire le repère | `contrôle+maj+1` à `contrôle+maj+0` </target>
       </segment>
     </unit>
     <unit id="be12d844-810c-4dd9-a4f1-90919b0a41c2">
@@ -27296,9 +27297,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3360</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Auto zoom out of 2D expressions like fractions (use `upArrow` to manually zoom out if this is unchecked).</source>
-        <target>Auto zoom out of 2D expressions like fractions (use `upArrow` to manually zoom out if this is unchecked).</target>
+        <target>Effectuer automatiquement un zoom arrière sur les notations 2D (utiliser `flècheHaut` pour effectuer un zoom arrière manuellement si cette case n'est pas cochée).</target>
       </segment>
     </unit>
     <unit id="5454dcc7-df50-4495-b1c0-d13f7dd63ae7">
@@ -27593,9 +27594,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Checked, Unchecked </source>
-        <target> Options | Checked, Unchecked </target>
+        <target> Options | Coché, Décoché </target>
       </segment>
     </unit>
     <unit id="7a10eb0f-cfdb-46a3-a20b-2c1366058964">
@@ -27604,9 +27605,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Unchecked </source>
-        <target> Default | Unchecked </target>
+        <target> Défaut | Décoché </target>
       </segment>
     </unit>
     <unit id="9bdf175e-b215-4ca7-a07d-5bbdd2406bb4">
@@ -33499,9 +33500,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4353</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note: Add-ons are programs that can modify and access your device like any other software you download.</source>
-        <target>Note: Add-ons are programs that can modify and access your device like any other software you download.</target>
+        <target>Remarque : les extensions sont des programmes qui peuvent modifier et accéder à votre appareil comme n'importe quel autre logiciel que vous téléchargez.</target>
       </segment>
     </unit>
     <unit id="05ebf0c7-e109-4145-a448-78757d7381f2">
