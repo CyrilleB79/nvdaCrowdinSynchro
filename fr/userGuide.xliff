@@ -6353,9 +6353,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 46</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</source>
-        <target>Both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</target>
+        <target>Les variantes AMD64 et ARM64 de Windows 11 sont prises en charge, y compris les PC Copilot+.</target>
       </segment>
     </unit>
     <unit id="ce25b9cf-8b2c-44f9-a22e-5b47ebf572a5">
@@ -6414,9 +6414,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 54</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</source>
-        <target>Both AMD64 and ARM64 variants of Windows 11 are supported, including Copilot+ PCs.</target>
+        <target>Les variantes AMD64 et ARM64 de Windows 11 sont prises en charge, y compris les PC Copilot+.</target>
       </segment>
     </unit>
     <unit id="ec5d3c07-e68b-4f10-987d-26c1cf4e8142">
@@ -12380,7 +12380,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If you wish to take advantage of them, you can configure them from the [Mouse settings](#MouseSettings) category of the [NVDA Settings](#NVDASettings) dialog, found in the NVDA Preferences menu.</source>
-        <target>Si vous voulez en tirer profit, vous pouvez les configurer dans la catégorie [Souris](#MouseSettings) du dialogue [Paramètres](#NVDASettings) qui se trouve dans le menu "Préférences" de NVDA.</target>
+        <target>Si vous voulez en profiter, vous pouvez les configurer dans la catégorie [Souris](#MouseSettings) du dialogue [Paramètres](#NVDASettings) qui se trouve dans le menu "Préférences" de NVDA.</target>
       </segment>
     </unit>
     <unit id="9059d4e0-8bda-4385-acee-5f7ac1e131df">
@@ -14145,9 +14145,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1197</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tagged PDF with MathML structure elements.</source>
-        <target>Tagged PDF with MathML structure elements.</target>
+        <target>PDF balisé avec des éléments de structure MathML.</target>
       </segment>
     </unit>
     <unit id="ac38febe-2ff1-4314-803e-d1c95f1274e3">
@@ -14164,9 +14164,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1199</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tagged PDF with MathML embedded as associated files or MathML structure elements.</source>
-        <target>Tagged PDF with MathML embedded as associated files or MathML structure elements.</target>
+        <target>PDF balisé avec MathML intégré comme fichiers associés ou comme éléments de structure MathML.</target>
       </segment>
     </unit>
     <unit id="f7bb2783-3938-4cce-989a-14c5d6157c01">
@@ -14364,9 +14364,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1237</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If inside a table, `control+arrow` keys will move by cell.</source>
-        <target>If inside a table, `control+arrow` keys will move by cell.</target>
+        <target>À l'intérieur d'un tableau, les touches `contrôle+flèche` se déplaceront par cellule.</target>
       </segment>
     </unit>
     <unit id="1ef8cfb8-f2da-47a9-ae11-d9c815afaec2">
@@ -14460,9 +14460,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1253</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enhanced mode: navigation is by mathematically meaningful pieces (operators, delimiters, and operands).</source>
-        <target>Enhanced mode: navigation is by mathematically meaningful pieces (operators, delimiters, and operands).</target>
+        <target>Mode amélioré : la navigation se fait par éléments mathématiquement significatifs (opérateurs, délimiteurs et opérandes).</target>
       </segment>
     </unit>
     <unit id="bb3ea9d0-f808-4b1e-a121-568bd00ff11a">
@@ -14470,9 +14470,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1254</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Simple mode: moves by words except when you get to a 2D notation (fractions, roots, etc), then it speaks the entire notation.</source>
-        <target>Simple mode: moves by words except when you get to a 2D notation (fractions, roots, etc), then it speaks the entire notation.</target>
+        <target>Mode simple : déplacement par mots sauf lorsqu'on arrive à une notation 2D (fractions, racines, etc), alors la notation entière est annoncée.</target>
       </segment>
     </unit>
     <unit id="e06ec1ed-c058-4bd4-8f09-84700412284b">
@@ -14498,9 +14498,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1257</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Character mode: this is actually two modes - word mode and character mode (zoom in to get "real" character mode).</source>
-        <target>Character mode: this is actually two modes - word mode and character mode (zoom in to get "real" character mode).</target>
+        <target>Mode caractère : il s'agit en fait de deux modes : le mode mot et le mode caractère (zoomer pour obtenir le mode caractère "réel").</target>
       </segment>
     </unit>
     <unit id="165131fa-51e9-4f41-b9af-084d4acd2b13">
@@ -14919,9 +14919,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: #### </note>
         <note appliesTo="source">suffix:  {#MathTypicalUse}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Typical Use</source>
-        <target>Typical Use</target>
+        <target>Utilisation typique</target>
       </segment>
     </unit>
     <unit id="18c3b342-7c70-43f7-90ed-2d58515bc63f">
@@ -14955,27 +14955,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1307</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can also move around tabular entries with `control+alt+arrow` keys.</source>
-        <target>You can also move around tabular entries with `control+alt+arrow` keys.</target>
+        <target>Vous pouvez également vous déplacer dans les éléments de tableau avec les touches `contrôle+alt+flèche`.</target>
       </segment>
     </unit>
     <unit id="ff5064ac-dd65-4733-ac9d-4fc282e1f79a">
       <notes>
         <note appliesTo="source">line: 1309</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Pressing `backspace` will take you back to where you were, which is not always the same as moving to the left.</source>
-        <target>Pressing `backspace` will take you back to where you were, which is not always the same as moving to the left.</target>
+        <target>Un appui sur `retourArrière` vous ramènera là où vous étiez, ce qui n'est pas toujours la même chose que de se déplacer vers la gauche.</target>
       </segment>
     </unit>
     <unit id="ae777923-58e9-4b0e-9ef2-a232571163be">
       <notes>
         <note appliesTo="source">line: 1310</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, if `rightArrow` moved you out of a fraction, `backspace` will take you back to where you were in the denominator and `leftArrow` will land on the entire fraction.</source>
-        <target>For example, if `rightArrow` moved you out of a fraction, `backspace` will take you back to where you were in the denominator and `leftArrow` will land on the entire fraction.</target>
+        <target>Par exemple, si `flèche droite` vous a fait sortir d'une fraction, `retourArrière` vous ramènera là où vous étiez dans le dénominateur mais `flècheArrow` atterrira sur la fraction entière.</target>
       </segment>
     </unit>
     <unit id="ac76b8ee-e783-48dc-8abc-0544cdcc9a55">
@@ -14991,18 +14991,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1313</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The default mode can be set in [the math settings panel](#MathSettings).</source>
-        <target>The default mode can be set in [the math settings panel](#MathSettings).</target>
+        <target>Le mode par défaut peut être défini dans [le panneau des paramètres mathématiques](#MathSettings).</target>
       </segment>
     </unit>
     <unit id="cdfedf33-4703-4d2e-b536-00381a1a5c72">
       <notes>
         <note appliesTo="source">line: 1314</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, at any time during navigation, you can switch navigation modes using `shift+upArrow/downArrow` to take advantage of the differing strengths of each navigation mode.</source>
-        <target>However, at any time during navigation, you can switch navigation modes using `shift+upArrow/downArrow` to take advantage of the differing strengths of each navigation mode.</target>
+        <target>Cependant, à tout moment pendant la navigation, vous pouvez changer de mode de navigation en utilisant `maj+flècheHaut/flècheBas` pour tirer partie des différents atouts de chaque mode de navigation.</target>
       </segment>
     </unit>
     <unit id="8fbc04ab-c5bf-4d7d-a0b8-2b1ab7d15e9b">
@@ -22376,9 +22376,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2523</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Audio ducking is not available when using [Microsoft Speech API version 4 (SAPI 4)](#SAPI4) or 32-bit [Microsoft Speech API version 5 (SAPI 5)](#SAPI5) voices.</source>
-        <target>Audio ducking is not available when using [Microsoft Speech API version 4 (SAPI 4)](#SAPI4) or 32-bit [Microsoft Speech API version 5 (SAPI 5)](#SAPI5) voices.</target>
+        <target>L'atténuation audio n'est pas disponible lors de l'utilisation des voix [Microsoft Speech API version 4 (SAPI 4)](#SAPI4) ou [Microsoft Speech API version 5 (SAPI 5 32 bits)](#SAPI5).</target>
       </segment>
     </unit>
     <unit id="cbf8c229-6f61-41cf-9bd5-87fdca9386eb">
@@ -23129,9 +23129,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2647</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A unique ID for the current NVDA user, which changes once a month</source>
-        <target>A unique ID for the current NVDA user, which changes once a month</target>
+        <target>Un identifiant unique pour l'utilisateur courant de NVDA, qui change une fois par mois</target>
       </segment>
     </unit>
     <unit id="43a1a027-6d02-4c93-aad2-2a9957da14ad">
@@ -23188,9 +23188,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2654</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This information greatly aids NV Access to prioritize future development of NVDA.</source>
-        <target>This information greatly aids NV Access to prioritize future development of NVDA.</target>
+        <target>Ces informations aident grandement NV Access à définir des priorités pour le développement futur de NVDA.</target>
       </segment>
     </unit>
     <unit id="7fd83f22-c800-472c-91e9-5122f20fef81">
@@ -23771,9 +23771,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2762</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is only available if [reporting of spelling errors](#ReportSpellingErrors) is enabled in NVDA's Document Formatting Settings.</source>
-        <target>This option is only available if [reporting of spelling errors](#ReportSpellingErrors) is enabled in NVDA's Document Formatting Settings.</target>
+        <target>Cette option n'est disponible que si [l'annonce des fautes d'orthographe](#ReportSpellingErrors) est activé dans les paramètres de mise en forme des documents de NVDA.</target>
       </segment>
     </unit>
     <unit id="c6c0276b-40ff-437e-a935-b4c145f14cb4">
