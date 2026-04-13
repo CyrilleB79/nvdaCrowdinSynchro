@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-13 00:58+0000\n"
-"PO-Revision-Date: 2026-04-13 09:29\n"
+"PO-Revision-Date: 2026-04-13 11:10\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -4623,7 +4623,7 @@ msgstr "Commencer l'interaction avec le contenu mathématique"
 #. with something that isn't math.
 #: globalCommands.py:4680
 msgid "Not math"
-msgstr "Non mathématique"
+msgstr "Pas un contenu mathématique"
 
 #. Translators: Describes a command.
 #: globalCommands.py:4686
