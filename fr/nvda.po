@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-12 00:42+0000\n"
-"PO-Revision-Date: 2026-05-12 18:51\n"
+"PO-Revision-Date: 2026-05-12 22:05\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1527,7 +1527,7 @@ msgstr "Aller au potentiomètre suivant"
 #. Translators: Message presented when the browse mode element is not found.
 #: browseMode.py:1229
 msgid "no next slider"
-msgstr ""
+msgstr "aucun potentiomètre suivant"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1231
@@ -1537,7 +1537,7 @@ msgstr "Aller au potentiomètre précédent"
 #. Translators: Message presented when the browse mode element is not found.
 #: browseMode.py:1233
 msgid "no previous slider"
-msgstr ""
+msgstr "aucun potentiomètre précédent"
 
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1235
@@ -4266,7 +4266,7 @@ msgstr "Afficher les paramètres de confidentialité et de sécurité de NVDA"
 #. Translators: Input help mode message for go to vision settings command.
 #: globalCommands.py:3490
 msgid "Shows NVDA's vision settings"
-msgstr "Affiche les paramètres de vision de NVDA"
+msgstr "Afficher les paramètres de vision de NVDA"
 
 #. Translators: Input help mode message for go to keyboard settings command.
 #: globalCommands.py:3499
@@ -4307,12 +4307,12 @@ msgstr "Afficher les paramètres de mise en forme des documents de NVDA"
 #: globalCommands.py:3567
 msgctxt "remote"
 msgid "Shows the Remote Access settings"
-msgstr "Affiche les paramètres d’accès à distance"
+msgstr "Afficher les paramètres d’accès à distance"
 
 #. Translators: Input help mode message for go to Add-on Store settings command.
 #: globalCommands.py:3576
 msgid "Shows NVDA's Add-on Store settings"
-msgstr "Affiche les paramètres de l'Addon Store de NVDA"
+msgstr "Afficher les paramètres de l'Addon Store de NVDA"
 
 #. Translators: Input help mode message for go to Windows OCR settings command.
 #: globalCommands.py:3585
@@ -4322,7 +4322,7 @@ msgstr "Affiche les paramètres de l'OCR Windows de NVDA"
 #. Translators: Input help mode message for go to Advanced settings command.
 #: globalCommands.py:3594
 msgid "Shows NVDA's Advanced settings"
-msgstr "Affiche les paramètres avancés de NVDA"
+msgstr "Afficher les paramètres avancés de NVDA"
 
 #. Translators: Input help mode message for opening default dictionary dialog.
 #: globalCommands.py:3603
@@ -4352,7 +4352,7 @@ msgstr "Afficher le dialogue Gestes de commandes de NVDA"
 #. Translators: Input help mode message for go to magnifier settings command.
 #: globalCommands.py:3648
 msgid "Shows NVDA's magnifier settings"
-msgstr ""
+msgstr "Afficher les paramètres de la loupe de NVDA"
 
 #. Translators: Input help mode message for the report current configuration profile command.
 #: globalCommands.py:3658
@@ -5009,17 +5009,17 @@ msgstr "Annonce l’état du rideau d’écran."
 #. Translators: Describes a command.
 #: globalCommands.py:5050
 msgid "Toggles the magnifier on and off"
-msgstr ""
+msgstr "Active ou désactive la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5064
 msgid "Increases the magnification level of the magnifier"
-msgstr ""
+msgstr "Augmente le niveau de grossissement de la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5078
 msgid "Decreases the magnification level of the magnifier"
-msgstr ""
+msgstr "Diminue le niveau de grossissement de la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5092
@@ -7179,7 +7179,7 @@ msgstr "Utilisez le système de sortie audio moderne (WASAPI)"
 #. Translators: Label for a setting toggle in voice settings dialog.
 #: synthDriverHandler.py:236
 msgid "Natural pause after punctuation"
-msgstr ""
+msgstr "Pause naturelle après la ponctuation"
 
 #. Translators: The name of a touch mode.
 #: touchHandler.py:68 touchHandler.py:88
@@ -12995,33 +12995,33 @@ msgstr "Impossible de sauvegarder les gestes définis par l'utilisateur : le sys
 #. shown in the post-install dialog.
 #: gui\installerGui.py:74
 msgid "Successfully updated your installation of NVDA. It is recommended to restart Windows after updating. NVDA may malfunction without a restart."
-msgstr ""
+msgstr "Votre installation de NVDA a été mise à jour avec succès. Il est recommandé de redémarrer Windows après la mise à jour. NVDA peut mal fonctionner sans redémarrage."
 
 #. Translators: The message displayed when NVDA has been successfully installed,
 #. shown in the post-install dialog.
 #: gui\installerGui.py:82
 msgid "Successfully installed NVDA. It is recommended to restart Windows after installing. NVDA may malfunction without a restart."
-msgstr ""
+msgstr "NVDA a été installé avec succès. Il est recommandé de redémarrer Windows après l'installation. NVDA peut mal fonctionner sans redémarrage."
 
 #. Translators: Button in the post-install dialog to restart Windows immediately.
 #: gui\installerGui.py:95
 msgid "Restart &Windows"
-msgstr ""
+msgstr "Redémarrer &Windows"
 
 #. Translators: Button in the post-install dialog to start the newly installed NVDA.
 #: gui\installerGui.py:98
 msgid "&Start NVDA"
-msgstr ""
+msgstr "&Démarrer NVDA"
 
 #. Translators: Button in the post-install dialog to exit NVDA.
 #: gui\installerGui.py:100
 msgid "E&xit NVDA"
-msgstr ""
+msgstr "&Quitter NVDA"
 
 #. Translators: Message shown when Windows restart fails after NVDA installation.
 #: gui\installerGui.py:111
 msgid "Failed to restart Windows. Please restart Windows manually."
-msgstr ""
+msgstr "Échec du redémarrage de Windows. Veuillez redémarrer Windows manuellement."
 
 #. Translators: The title of the dialog presented while NVDA is being updated.
 #: gui\installerGui.py:151
@@ -13637,7 +13637,7 @@ msgstr "Dictionnaires suppléme&ntaires pour le traitement des caractères et de
 #. Translators: Label of the list where user can enable or disable speech dictionaries.
 #: gui\settingsDialogs.py:1860
 msgid "Sp&eech dictionaries:"
-msgstr ""
+msgstr "D&ictionnaires de prononciation :"
 
 #. Translators: Label of the list where user can select speech modes that will be available.
 #: gui\settingsDialogs.py:1874
@@ -15257,12 +15257,12 @@ msgstr "Impossible de configurer l'interface utilisateur pour le service d'amél
 #. Translators: This is the label for the magnifier settings panel.
 #: gui\settingsDialogs.py:6040
 msgid "Magnifier"
-msgstr ""
+msgstr "Loupe"
 
 #. Translators: The label for a setting in magnifier settings to select the zoom level.
 #: gui\settingsDialogs.py:6054
 msgid "&Zoom level:"
-msgstr ""
+msgstr "&Niveau de zoom :"
 
 #. Translators: The label for a setting in magnifier settings to select the pan step size (in percentage).
 #: gui\settingsDialogs.py:6083
@@ -15292,22 +15292,22 @@ msgstr ""
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the mouse
 #: gui\settingsDialogs.py:6153
 msgid "Follow &mouse"
-msgstr ""
+msgstr "Suivre la &souris"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the system focus
 #: gui\settingsDialogs.py:6155
 msgid "Follow &system focus"
-msgstr ""
+msgstr "Suivre le focus &système"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the review cursor
 #: gui\settingsDialogs.py:6157
 msgid "Follow &review cursor"
-msgstr ""
+msgstr "Suivre le curseur de &revue"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the navigator object
 #: gui\settingsDialogs.py:6160
 msgid "Follow &navigator object"
-msgstr ""
+msgstr "Suivre l'objet &navigateur"
 
 #. Translators: The label for a checkbox to keep the mouse pointer centered in the magnifier view
 #: gui\settingsDialogs.py:6173
