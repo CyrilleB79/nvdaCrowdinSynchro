@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-12 00:42+0000\n"
-"PO-Revision-Date: 2026-05-13 14:22\n"
+"PO-Revision-Date: 2026-05-13 17:09\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -952,22 +952,22 @@ msgstr "défaut"
 #. Translators: Input help message for a browse mode touch navigation command in browse mode.
 #: browseMode.py:816
 msgid "Selects the next element type for browse mode touch navigation"
-msgstr "Selects the next element type for browse mode touch navigation"
+msgstr "Sélectionne le type d'élément suivant pour la navigation tactile par élément"
 
 #. Translators: Input help message for a browse mode touch navigation command in browse mode.
 #: browseMode.py:835
 msgid "Selects the previous element type for browse mode touch navigation"
-msgstr ""
+msgstr "Sélectionne le type d'élément précédent pour la navigation tactile par élément"
 
 #. Translators: Input help message for a browse mode touch navigation command in browse mode.
 #: browseMode.py:854
 msgid "Moves to the next element of the selected type in browse mode touch navigation"
-msgstr ""
+msgstr "Aller à l'élément suivant du type sélectionné pour la navigation tactile par élément"
 
 #. Translators: Input help message for a browse mode touch navigation command in browse mode.
 #: browseMode.py:871
 msgid "Moves to the previous element of the selected type in browse mode touch navigation"
-msgstr ""
+msgstr "Aller à l'élément précédent du type sélectionné pour la navigation tactile par élément"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:912
@@ -7232,13 +7232,13 @@ msgstr[1] "{action} {numFingers} doigts"
 #: touchTracker.py:40
 msgctxt "touch action"
 msgid "pinch in"
-msgstr ""
+msgstr "pincer"
 
 #. Translators: a touch screen gesture where two fingers move away from each other (zoom in)
 #: touchTracker.py:42
 msgctxt "touch action"
 msgid "pinch out"
-msgstr ""
+msgstr "écarter"
 
 #. Translators: a very quick touch and release of a finger on a touch screen
 #: touchTracker.py:44
@@ -12200,35 +12200,40 @@ msgid "Welcome to the System Accessibility Repair Tool.\n\n"
 "Installing and uninstalling programs, as well as other events, can damage accessibility entries in the Windows registry. This can cause previously accessible elements to be presented incorrectly, or can cause \"unknown\" or \"pane\" to be spoken or brailled in some applications or Windows components, instead of the content you were expecting.\n\n"
 "This tool attempts to fix such common problems. Note that the tool must access the system registry, which requires administrative privileges.\n\n"
 "Press Continue to run the tool now."
-msgstr ""
+msgstr "Bienvenue dans l'Outil de réparation de l'accessibilité du système.\n\n"
+"L'installation et la désinstallation de programmes, ainsi que d'autres événements, peuvent endommager les entrées d'accessibilité dans le registre Windows. Cela peut entraîner une mauvaise présentation des éléments précédemment accessibles ou faire en sorte que certains éléments soient annoncés comme \"inconnu\" ou \"volet\" dans certaines applications ou composants Windows, au lieu du contenu attendu. \n\n"
+"\"Cet outil tente de résoudre ce type de problèmes courants. Veuillez noter que l'outil doit accéder au registre système, ce qui nécessite des privilèges administrateur.\n\n"
+"\"Appuyez sur Continuer pour exécuter l'outil maintenant."
 
 #. Translators: The title of various dialogs displayed when using the System Accessibility Repair Tool
 #: gui\__init__.py:582
 msgid "System Accessibility Repair Tool"
-msgstr ""
+msgstr "Outil de réparation de l'accessibilité du système"
 
 #. Translators: The message displayed while NVDA is running the System Accessibility Repair Tool
 #: gui\__init__.py:597
 msgid "Please wait while NVDA attempts to repair your system's accessibility registrations..."
-msgstr ""
+msgstr "Veuillez patienter pendant que NVDA tente de réparer les enregistrements d'accessibilité de votre système..."
 
 #. Translators: message shown to the user on System Accessibility Repair fail
 #: gui\__init__.py:624
 #, python-brace-format
 msgid "The System Accessibility Repair Tool was unsuccessful. This Windows error may provide more information.\n"
 "{error}"
-msgstr ""
+msgstr "L'outil de réparation de l’accessibilité du système a échoué. Cette erreur Windows peut fournir plus d'informations.\n"
+"{error}"
 
 #. Translators: The title of a System Accessibility Repair Tool dialog, when the tool has failed
 #: gui\__init__.py:628
 msgid "System Accessibility Repair Failed"
-msgstr ""
+msgstr "Échec de la réparation de l'accessibilité du système"
 
 #. Translators: Message shown when the System Accessibility Repair Tool completes.
 #: gui\__init__.py:635
 msgid "The System Accessibility Repair Tool has completed successfully.\n"
 "It is highly recommended that you restart your computer now, to make sure the changes take full effect."
-msgstr ""
+msgstr "L’outil de réparation de l’accessibilité du système s’est terminé avec succès.\n"
+"Il est fortement recommandé de redémarrer votre ordinateur maintenant pour vous assurer que les modifications prennent pleinement effet."
 
 #. Translators: The label for the menu item to open NVDA Settings dialog.
 #: gui\__init__.py:662
@@ -12298,7 +12303,7 @@ msgstr "&Installer NVDA..."
 #. Translators: The label for the menu item to run the System Accessibility Repair Tool
 #: gui\__init__.py:725
 msgid "Run System Accessibility Repair Tool..."
-msgstr ""
+msgstr "Exécutez l'outil de réparation de l'accessibilité du système..."
 
 #. Translators: The label for the menu item to reload plugins.
 #: gui\__init__.py:729
@@ -13238,7 +13243,8 @@ msgstr "Veuillez indiquer le répertoire où créer la copie portable."
 #, python-brace-format
 msgid "Please specify the absolute path where the portable copy should be created. It must start with a drive letter (e.g. C:). It may include system variables (e.g. %temp%, %homepath%) as placeholders for parts of the path.\n"
 "Current path: {path}. "
-msgstr ""
+msgstr "Veuillez spécifier le chemin absolu où la copie portable doit être créée. Il doit commencer par une lettre de lecteur (par exemple C:). Il peut inclure des variables système (par exemple %temp%, %homepath%) comme variables de remplacement pour des parties du chemin.\n"
+"Current path: {path}. "
 
 #. Translators: The message displayed when the user cancels the creation of a portable copy of NVDA.
 #: gui\installerGui.py:758
@@ -14022,7 +14028,7 @@ msgstr "&Empêcher tous les gestes ne correspondant pas à des commandes d'attei
 #. Translators: Label for the list of browse mode touch navigation element types in browse mode settings.
 #: gui\settingsDialogs.py:2674
 msgid "T&ouch navigation elements:"
-msgstr ""
+msgstr "Éléments de navigation &tactile :"
 
 #. Translators: Title of the math settings panel.
 #: gui\settingsDialogs.py:2711
@@ -16610,61 +16616,61 @@ msgstr "{lang} ({code})"
 #: mathPres\MathCAT\navCommands.py:26
 msgctxt "math"
 msgid "Move to previous item in math"
-msgstr ""
+msgstr "Aller à l'élément précédent dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the next item in math.
 #: mathPres\MathCAT\navCommands.py:32
 msgctxt "math"
 msgid "Move to next item in math"
-msgstr ""
+msgstr "Aller à l'élément suivant dans une expression mathématique"
 
 #. Translators: Input help message for the command to zoom out in math.
 #: mathPres\MathCAT\navCommands.py:38
 msgctxt "math"
 msgid "Zoom out in math"
-msgstr ""
+msgstr "Zoom arrière dans une expression mathématique"
 
 #. Translators: Input help message for the command to zoom in in math.
 #: mathPres\MathCAT\navCommands.py:44
 msgctxt "math"
 msgid "Zoom in in math"
-msgstr ""
+msgstr "Zoomer dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the previous table cell or digit in math.
 #: mathPres\MathCAT\navCommands.py:50
 msgctxt "math"
 msgid "Move to previous table cell or digit in math"
-msgstr ""
+msgstr "Aller à la cellule de tableau ou au chiffre précédent dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the next table cell or digit in math.
 #: mathPres\MathCAT\navCommands.py:56
 msgctxt "math"
 msgid "Move to next table cell or digit in math"
-msgstr ""
+msgstr "Aller à la cellule de tableau ou au chiffre suivant dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the cell or digit above in math.
 #: mathPres\MathCAT\navCommands.py:62
 msgctxt "math"
 msgid "Move to cell or digit above in math"
-msgstr ""
+msgstr "Aller à la cellule de tableau ou au chiffre au-dessus dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the cell or digit below in math.
 #: mathPres\MathCAT\navCommands.py:68
 msgctxt "math"
 msgid "Move to cell or digit below in math"
-msgstr ""
+msgstr "Aller à la cellule de tableau ou au chiffre au-dessous dans une expression mathématique"
 
 #. Translators: Input help message for the command to read the previous item in math.
 #: mathPres\MathCAT\navCommands.py:74
 msgctxt "math"
 msgid "Read previous item in math"
-msgstr ""
+msgstr "Lire l'élément précédent dans une expression mathématique"
 
 #. Translators: Input help message for the command to read the next item in math.
 #: mathPres\MathCAT\navCommands.py:81
 msgctxt "math"
 msgid "Read next item in math"
-msgstr ""
+msgstr "Lire l'élément suivant dans une expression mathématique"
 
 #. Translators: Input help message for the command to change the math navigation mode to larger.
 #: mathPres\MathCAT\navCommands.py:88
@@ -16682,131 +16688,131 @@ msgstr ""
 #: mathPres\MathCAT\navCommands.py:100
 msgctxt "math"
 msgid "Describe previous item in math"
-msgstr ""
+msgstr "Décrire l'élément précédent dans une expression mathématique"
 
 #. Translators: Input help message for the command to describe the next item in math.
 #: mathPres\MathCAT\navCommands.py:107
 msgctxt "math"
 msgid "Describe next item in math"
-msgstr ""
+msgstr "Décrire l'élément suivant dans une expression mathématique"
 
 #. Translators: Input help message for the command to zoom out all the way in math.
 #: mathPres\MathCAT\navCommands.py:114
 msgctxt "math"
 msgid "Zoom out all the way in math"
-msgstr ""
+msgstr "Zoom arrière complet dans une expression mathématique"
 
 #. Translators: Input help message for the command to zoom in all the way in math.
 #: mathPres\MathCAT\navCommands.py:120
 msgctxt "math"
 msgid "Zoom in all the way in math"
-msgstr ""
+msgstr "Zoomer complètement dans une expression mathématique"
 
 #. Translators: Input help message for the command to report the current position in math.
 #: mathPres\MathCAT\navCommands.py:126
 msgctxt "math"
 msgid "Report current position in math"
-msgstr ""
+msgstr "Annoncer la position courante dans une expression mathématique"
 
 #. Translators: Input help message for the command to report the global position in math.
 #: mathPres\MathCAT\navCommands.py:133
 msgctxt "math"
 msgid "Report global position in math"
-msgstr ""
+msgstr "Annoncer la position globale dans une expression mathématique"
 
 #. Translators: Input help message for the command to read the current item in math.
 #: mathPres\MathCAT\navCommands.py:140
 msgctxt "math"
 msgid "Read current item in math"
-msgstr ""
+msgstr "Lire l'élément courant dans une expression mathématique"
 
 #. Translators: Input help message for the command to read the current table cell in math.
 #: mathPres\MathCAT\navCommands.py:147
 msgctxt "math"
 msgid "Read current table cell in math"
-msgstr ""
+msgstr "Lire la cellule courante du tableau dans une expression mathématique"
 
 #. Translators: Input help message for the command to toggle math speech mode between read and describe.
 #: mathPres\MathCAT\navCommands.py:154
 msgctxt "math"
 msgid "Toggle math speech mode between read and describe"
-msgstr ""
+msgstr "Basculer le mode de parole mathématique entre Lire et Décrire"
 
 #. Translators: Input help message for the command to describe the current item in math.
 #: mathPres\MathCAT\navCommands.py:160
 msgctxt "math"
 msgid "Describe current item in math"
-msgstr ""
+msgstr "Décrire l'élément courant dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the start of a math expression.
 #: mathPres\MathCAT\navCommands.py:167
 msgctxt "math"
 msgid "Move to start of math expression"
-msgstr ""
+msgstr "Aller au début de l'expression mathématique"
 
 #. Translators: Input help message for the command to move to the start of a line in math.
 #: mathPres\MathCAT\navCommands.py:173
 msgctxt "math"
 msgid "Move to start of line in math"
-msgstr ""
+msgstr "Aller au début de la ligne dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the start of a column in math.
 #: mathPres\MathCAT\navCommands.py:179
 msgctxt "math"
 msgid "Move to start of column in math"
-msgstr ""
+msgstr "Aller au début de la colonne dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the end of a math expression.
 #: mathPres\MathCAT\navCommands.py:185
 msgctxt "math"
 msgid "Move to end of math expression"
-msgstr ""
+msgstr "Aller à la fin de l'expression mathématique"
 
 #. Translators: Input help message for the command to move to the end of a line in math.
 #: mathPres\MathCAT\navCommands.py:191
 msgctxt "math"
 msgid "Move to end of line in math"
-msgstr ""
+msgstr "Aller à la fin de la ligne dans une expression mathématique"
 
 #. Translators: Input help message for the command to move to the end of a column in math.
 #: mathPres\MathCAT\navCommands.py:197
 msgctxt "math"
 msgid "Move to end of column in math"
-msgstr ""
+msgstr "Aller à la fin de la colonne dans une expression mathématique"
 
 #. Translators: Input help message for the command to move back to the last position in math.
 #: mathPres\MathCAT\navCommands.py:203
 msgctxt "math"
 msgid "Move back to last position in math"
-msgstr ""
+msgstr "Revenir à la dernière position dans une expression mathématique"
 
 #. Translators: Input help message for the command to jump to a placemarker in math; {n} is replaced with the placemarker number.
 #: mathPres\MathCAT\navCommands.py:216
 #, python-brace-format
 msgctxt "math"
 msgid "Jump to placemarker {n} in math"
-msgstr ""
+msgstr "Aller au repère {n} dans une expression mathématique"
 
 #. Translators: Input help message for the command to set a placemarker in math; {n} is replaced with the placemarker number.
 #: mathPres\MathCAT\navCommands.py:222
 #, python-brace-format
 msgctxt "math"
 msgid "Set placemarker {n} in math"
-msgstr ""
+msgstr "Définir le repère {n} dans une expression mathématique"
 
 #. Translators: Input help message for the command to read a placemarker in math; {n} is replaced with the placemarker number.
 #: mathPres\MathCAT\navCommands.py:228
 #, python-brace-format
 msgctxt "math"
 msgid "Read placemarker {n} in math"
-msgstr ""
+msgstr "Lire le repère {n} dans une expression mathématique"
 
 #. Translators: Input help message for the command to describe a placemarker in math; {n} is replaced with the placemarker number.
 #: mathPres\MathCAT\navCommands.py:235
 #, python-brace-format
 msgctxt "math"
 msgid "Describe placemarker {n} in math"
-msgstr ""
+msgstr "Décrire le repère {n} dans une expression mathématique"
 
 #. Translators: Learning disabilities includes dyslexia and ADHD
 #. category of impairment that MathCAT supports: people with learning disabilities
