@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-15 08:54+0000\n"
-"PO-Revision-Date: 2026-05-15 19:19\n"
+"PO-Revision-Date: 2026-05-15 20:52\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2432,7 +2432,7 @@ msgstr "Chargement de NVDA. Veuillez patienter..."
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts with the screen curtain enabled.
 #: core.py:957
 msgid "NVDA started with screen curtain enabled"
-msgstr ""
+msgstr "NVDA a démarré avec le rideau d'écran activé"
 
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts.
 #: core.py:960
@@ -15273,7 +15273,7 @@ msgstr "Loupe"
 #. Translators: The label for a setting in magnifier settings to enable or disable the magnifier.
 #: gui\settingsDialogs.py:6055
 msgid "&Enable magnifier (immediate effect)"
-msgstr ""
+msgstr "&Activer la loupe (effet immédiat)"
 
 #. Translators: The label for a setting in magnifier settings to select the zoom level.
 #: gui\settingsDialogs.py:6067
@@ -15288,7 +15288,7 @@ msgstr ""
 #. Translators: The label for a setting in magnifier settings to select the default filter
 #: gui\settingsDialogs.py:6115
 msgid "F&ilter:"
-msgstr ""
+msgstr "F&iltre :"
 
 #. Translators: The label for a setting in magnifier settings to select the full-screen mode
 #: gui\settingsDialogs.py:6130
@@ -15328,7 +15328,7 @@ msgstr "Suivre l'objet &navigateur"
 #. Translators: The label for a checkbox to keep the mouse pointer centered in the magnifier view
 #: gui\settingsDialogs.py:6186
 msgid "Keep mouse pointer &centered in magnifier view"
-msgstr ""
+msgstr "Garder le pointeur de la souris centré dans la vue de la loupe"
 
 #. Translators: The title of the privacy and security category in NVDA's settings.
 #: gui\settingsDialogs.py:6231
@@ -20231,7 +20231,7 @@ msgstr "Bureau Sécurisé"
 #: _magnifier\commands.py:41 _magnifier\commands.py:62
 msgctxt "magnifier"
 msgid "left edge"
-msgstr ""
+msgstr "bord gauche"
 
 #. Translators: Message announced when already at right edge of the screen while panning the magnified view
 #. Translators: Message announced when already at right edge of the screen while panning the magnified view
@@ -20239,7 +20239,7 @@ msgstr ""
 #: _magnifier\commands.py:46 _magnifier\commands.py:68
 msgctxt "magnifier"
 msgid "right edge"
-msgstr ""
+msgstr "bord droit"
 
 #. Translators: Message announced when already at top edge of the screen while panning the magnified view
 #. Translators: Message announced when already at top edge of the screen while panning the magnified view
@@ -20247,7 +20247,7 @@ msgstr ""
 #: _magnifier\commands.py:51 _magnifier\commands.py:74
 msgctxt "magnifier"
 msgid "top edge"
-msgstr ""
+msgstr "bord supérieur"
 
 #. Translators: Message announced when already at bottom edge of the screen while panning the magnified view
 #. Translators: Message announced when already at left edge of the screen while panning the magnified view
@@ -20255,13 +20255,13 @@ msgstr ""
 #: _magnifier\commands.py:56 _magnifier\commands.py:80
 msgctxt "magnifier"
 msgid "bottom edge"
-msgstr ""
+msgstr "bord inférieur"
 
 #. Translators: Message announced when stopping the NVDA magnifier.
 #: _magnifier\commands.py:97
 msgctxt "magnifier"
 msgid "Exiting magnifier"
-msgstr ""
+msgstr "Sortie de la loupe"
 
 #. Translators: Message announced when trying to start magnifier while Screen Curtain is active.
 #: _magnifier\commands.py:106
@@ -20366,7 +20366,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "magnifier"
 msgid "{zoomLevel}x"
-msgstr ""
+msgstr "{zoomLevel}x"
 
 #. Translators: Message when NVDA's Magnifier cannot start because another magnifier is already running.
 #: _magnifier\fullscreenMagnifier.py:77
