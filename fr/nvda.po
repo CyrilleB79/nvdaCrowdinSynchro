@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-27 06:52+0000\n"
-"PO-Revision-Date: 2026-05-27 10:52\n"
+"PO-Revision-Date: 2026-05-27 14:21\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -5029,82 +5029,82 @@ msgstr "Diminue le niveau de grossissement de la loupe"
 #. Translators: Describes a command.
 #: globalCommands.py:5085
 msgid "Pan the magnifier view to the left"
-msgstr ""
+msgstr "Déplacez la vue loupe vers la gauche"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5099
 msgid "Pan the magnifier view to the right"
-msgstr ""
+msgstr "Déplacez la vue loupe vers la droite"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5113
 msgid "Pan the magnifier view up"
-msgstr ""
+msgstr "Déplacez la vue loupe vers le haut"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5127
 msgid "Pan the magnifier view down"
-msgstr ""
+msgstr "Déplacez la vue loupe vers le bas"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5141
 msgid "Pan the magnifier view to left edge"
-msgstr ""
+msgstr "Déplacez la vue loupe vers le bord gauche."
 
 #. Translators: Describes a command.
 #: globalCommands.py:5155
 msgid "Pan the magnifier view to right edge"
-msgstr ""
+msgstr "Déplacez la vue loupe vers le bord droit."
 
 #. Translators: Describes a command.
 #: globalCommands.py:5169
 msgid "Pan the magnifier view to top edge"
-msgstr ""
+msgstr "Déplacez la vue loupe vers le bord supérieur."
 
 #. Translators: Describes a command.
 #: globalCommands.py:5183
 msgid "Pan the magnifier view to bottom edge"
-msgstr ""
+msgstr "Déplacez la vue loupe vers le bord inférieur."
 
 #. Translators: Describes a command.
 #: globalCommands.py:5197
 msgid "Toggle filter of the magnifier"
-msgstr ""
+msgstr "Activer/désactiver le filtre de la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5211
 msgid "Toggle follow mouse for the magnifier"
-msgstr ""
+msgstr "Activer/désactiver le suivi de la souris pour la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5224
 msgid "Toggle follow system focus for the magnifier"
-msgstr ""
+msgstr "Activer/désactiver le suivi du curseur système pour la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5237
 msgid "Toggle follow review cursor for the magnifier"
-msgstr ""
+msgstr "Activer/désactiver le suivi du curseur de revue pour la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5250
 msgid "Toggle follow navigator object for the magnifier"
-msgstr ""
+msgstr "Activer/désactiver le suivi de l'objet navigateur pour la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5263
 msgid "Toggle all follow modes for the magnifier"
-msgstr ""
+msgstr "Activer/désactiver le suivi de tout les modes pour la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5276
 msgid "Toggle focus mode for the full-screen magnifier"
-msgstr ""
+msgstr "Activer/désactiver le mode focus pour la loupe plein écran"
 
 #. Translators: Describe a command.
 #: globalCommands.py:5289
 msgid "Launch spotlight if magnifier is full-screen"
-msgstr ""
+msgstr "Lancer le projecteur si la loupe est en plein écran"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5303
@@ -10671,7 +10671,7 @@ msgstr "débogage"
 #. without redacting secrets).
 #: config\configFlags.py:441
 msgid "debug (unredacted)"
-msgstr ""
+msgstr "débogage (non expurgé)"
 
 #. Translators: Label for a value in the Play a sound for logged errors combobox, in the Advanced settings.
 #: config\configFlags.py:464
@@ -15279,12 +15279,12 @@ msgstr "&Activer la loupe (effet immédiat)"
 #. Translators: The label for a setting in magnifier settings to select the zoom level.
 #: gui\settingsDialogs.py:6066
 msgid "&Zoom (%):"
-msgstr ""
+msgstr "&Zoom (%) :"
 
 #. Translators: The label for a setting in magnifier settings to select the pan step size (in percentage).
 #: gui\settingsDialogs.py:6086
 msgid "&Panning step size (%):"
-msgstr ""
+msgstr "&Taille du pas de panoramique (%) :"
 
 #. Translators: The label for a setting in magnifier settings to select the default filter
 #: gui\settingsDialogs.py:6105
@@ -15294,17 +15294,17 @@ msgstr "F&iltre :"
 #. Translators: The label for a setting in magnifier settings to select the full-screen mode
 #: gui\settingsDialogs.py:6120
 msgid "&Fullscreen mode:"
-msgstr ""
+msgstr "&Mode plein écran :"
 
 #. Translators: The label for a setting in magnifier settings to select whether true center is used in full-screen mode
 #: gui\settingsDialogs.py:6134
 msgid "Use &true center in fullscreen mode"
-msgstr ""
+msgstr "Utiliser le &véritable centre en mode plein écran"
 
 #. Translators: This is the label for a group of focus options in the magnifier settings panel
 #: gui\settingsDialogs.py:6148
 msgid "Focus"
-msgstr ""
+msgstr "Curseur"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the mouse
 #: gui\settingsDialogs.py:6156
@@ -15339,17 +15339,17 @@ msgstr "Confidentialité et sécurité"
 #. Translators: Warning shown when enabling the "debug (unredacted)" log level from NVDA settings.
 #: gui\settingsDialogs.py:6234
 msgid "Setting the logging level to \"debug (unredacted)\" will write sensitive information to the log without redaction, including passwords, API keys, or other private data. Only enable this temporarily if you explicitly need unredacted diagnostic logs. Do you want to continue?"
-msgstr ""
+msgstr "Définir le niveau de journalisation sur « débogage (non expurgé) » enregistrera les informations sensibles dans le journal sans les masquer, notamment les mots de passe, les clés API et autres données privées. N'activez cette option que temporairement et uniquement si vous avez absolument besoin de journaux de diagnostic non expurgés. Voulez-vous continuer ?"
 
 #. Translators: Title of the warning dialog shown when enabling the "debug (unredacted)" log level.
 #: gui\settingsDialogs.py:6241
 msgid "High risk logging level"
-msgstr ""
+msgstr "Niveau de journalisation à haut risque"
 
 #. Translators: Warning shown when enabling a logging level above info from NVDA settings.
 #: gui\settingsDialogs.py:6246
 msgid "Setting the logging level above info may record sensitive information such as typed input, speech output, or other private data in the log. Only enable higher logging levels temporarily while troubleshooting. Do you want to continue?"
-msgstr ""
+msgstr "L'activation d'un niveau de journalisation supérieur à « info » peut enregistrer des informations sensibles telles que des frappes au clavier, des enregistrements vocaux ou d'autres données privées. N'activez les niveaux de journalisation élevés que temporairement, lors du dépannage. Voulez-vous continuer ?"
 
 #. Translators: Name for a feature that disables output to the screen,
 #. making it black.
@@ -16542,7 +16542,7 @@ msgstr "Interaction mathématique non supportée."
 #. Translators: The name of the category of MathCAT navigation commands in the Input Gestures dialog.
 #: mathPres\MathCAT\MathCAT.py:50
 msgid "MathCat navigation"
-msgstr ""
+msgstr "Navigation MathCat"
 
 #. Translators: this message reports an error in starting navigation of math.
 #: mathPres\MathCAT\MathCAT.py:92
@@ -16687,13 +16687,13 @@ msgstr "Lire l'élément suivant dans une expression mathématique"
 #: mathPres\MathCAT\navCommands.py:88
 msgctxt "math"
 msgid "Change math navigation mode to larger"
-msgstr ""
+msgstr "Changer le mode de navigation mathématique pour un mode plus grand"
 
 #. Translators: Input help message for the command to change the math navigation mode to smaller.
 #: mathPres\MathCAT\navCommands.py:94
 msgctxt "math"
 msgid "Change math navigation mode to smaller"
-msgstr ""
+msgstr "Changer le mode de navigation mathématique pour un mode plus petit"
 
 #. Translators: Input help message for the command to describe the previous item in math.
 #: mathPres\MathCAT\navCommands.py:100
@@ -19895,22 +19895,22 @@ msgstr "Mot &entier"
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:60
 msgid "&Part of word"
-msgstr ""
+msgstr "&Partie d'un mot"
 
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:62
 msgid "&Start of word"
-msgstr ""
+msgstr "&Début d'un mot"
 
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:64
 msgid "E&nd of word"
-msgstr ""
+msgstr "&Fin d'un mot"
 
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:66
 msgid "&Unix shell-style wildcards"
-msgstr ""
+msgstr "&Caractères génériques de type shell Unix"
 
 #. Translators: A type of speech dictionary.
 #: speechDictHandler\types.py:107
@@ -20268,35 +20268,35 @@ msgstr "Sortie de la loupe"
 #: _magnifier\commands.py:106
 msgctxt "magnifier"
 msgid "Cannot start magnifier: Screen Curtain is active. Please disable Screen Curtain first."
-msgstr ""
+msgstr "Impossible de démarrer la loupe : le rideau d’écran est actif. Veuillez d’abord désactiver le rideau d'écran."
 
 #. Translators: Message announced when starting the NVDA magnifier.
 #: _magnifier\commands.py:119
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Starting {magnifiedView} magnifier with {zoomLevel} zoom level, {filter} filter, and {fullscreenMode} full-screen mode"
-msgstr ""
+msgstr "Démarrage de la loupe {magnifiedView} avec le niveau de zoom {zoomLevel}, le filtre {filter} et le mode plein écran {fullscreenMode}."
 
 #. Translators: Message announced when starting the NVDA magnifier.
 #: _magnifier\commands.py:130
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Starting {magnifiedView} magnifier with {zoomLevel} zoom level and {filter} filter"
-msgstr ""
+msgstr "Démarrage de la loupe {magnifiedView} avec le niveau de zoom {zoomLevel} et le filtre {filter}"
 
 #. Translators: Message announced when changing the color filter with {filter} being the new color filter.
 #: _magnifier\commands.py:191
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Color filter changed to {filter}"
-msgstr ""
+msgstr "Filtre de couleurs changé à {filter}"
 
 #. Translators: Message announced when changing the magnifier view with {view} being the new magnifier view.
 #: _magnifier\commands.py:215
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Magnifier view changed to {view}"
-msgstr ""
+msgstr "Vue loupe changée à {view}"
 
 #. Translators: Message announced when toggling a follow setting with {setting} being the name of the setting and {state} being either "enabled" or "disabled".
 #: _magnifier\commands.py:238
@@ -20321,46 +20321,46 @@ msgstr "désactivé"
 #: _magnifier\commands.py:268
 msgctxt "magnifier"
 msgid "All follow settings disabled"
-msgstr ""
+msgstr "Tous les paramètres de suivi sont désactivés."
 
 #. Translators: State of all follow settings being restored.
 #: _magnifier\commands.py:274
 msgctxt "magnifier"
 msgid "All follow settings restored"
-msgstr ""
+msgstr "Tous les paramètres de suivi ont été restaurés."
 
 #. Translators: Message announced when changing the full-screen mode with {mode} being the new full-screen mode.
 #: _magnifier\commands.py:301
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Full-screen mode changed to {mode}"
-msgstr ""
+msgstr "Mode plein écran changé à {mode}"
 
 #. Translators: Message announced when trying to start spotlight mode while it's already active.
 #: _magnifier\commands.py:325
 msgctxt "magnifier"
 msgid "Spotlight mode is already active"
-msgstr ""
+msgstr "Le mode projecteur est déjà actif"
 
 #. Translators: Message announced when spotlight mode is started.
 #: _magnifier\commands.py:335
 msgctxt "magnifier"
 msgid "Spotlight mode started"
-msgstr ""
+msgstr "Mode projecteur activé"
 
 #. Translators: Message announced when the magnifier is not active.
 #: _magnifier\commands.py:359
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Cannot {action} when Magnifier is not active."
-msgstr ""
+msgstr "Impossible de {action} lorsque la loupe n'est pas active."
 
 #. Translators: Message announced when the magnifier is not full-screen.
 #: _magnifier\commands.py:384
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Cannot {action} when Magnifier is not full-screen."
-msgstr ""
+msgstr "Impossible de {action} lorsque la loupe n'est pas en mode plein écran."
 
 #. Translators: Message announced when zooming in with {zoomLevel} being the target zoom level.
 #: _magnifier\config.py:49
@@ -20373,193 +20373,193 @@ msgstr "{zoomLevel}x"
 #: _magnifier\fullscreenMagnifier.py:77
 msgctxt "magnifier"
 msgid "Cannot start magnifier. Another magnifier application may already be running."
-msgstr ""
+msgstr "Impossible de démarrer la loupe. Une autre application de loupe est peut-être déjà en cours d'exécution."
 
 #. Translators: Message announced when the magnifier stops due to an unrecoverable error.
 #: _magnifier\fullscreenMagnifier.py:199
 msgctxt "magnifier"
 msgid "Magnifier stopped due to an error. Please restart it."
-msgstr ""
+msgstr "La loupe s'est arrêtée en raison d'une erreur. Veuillez la redémarrer."
 
 #. Translators: Message when trying to enable magnifier while screen curtain is active
 #: _magnifier\magnifier.py:180
 msgctxt "magnifier"
 msgid "Cannot enable magnifier: screen curtain is active. Please disable screen curtain first."
-msgstr ""
+msgstr "Impossible d'activer la loupe : le rideau d'écran est actif. Veuillez d'abord désactiver le rideau d'écran."
 
 #. Translators: Spoken message when magnifier is disabled due to screen curtain being enabled.
 #: _magnifier\magnifier.py:271
 msgctxt "magnifier"
 msgid "Magnifier is active, disabling it before enabling screen curtain"
-msgstr ""
+msgstr "La loupe est active ; désactivez-la avant d’activer le rideau d’écran."
 
 #. Translators: Spoken message when magnifier is re-enabled after screen curtain is disabled.
 #: _magnifier\magnifier.py:289
 msgctxt "magnifier"
 msgid "Magnifier was active before screen curtain, re-enabling it"
-msgstr ""
+msgstr "La loupe était active avant le rideau d'écran, la réactiver"
 
 #. Translators: Message announced when stopping the magnifier spotlight.
 #: _magnifier\utils\spotlightManager.py:69
 msgctxt "magnifier"
 msgid "Magnifier spotlight stopped"
-msgstr ""
+msgstr "Mode projecteur de la loupe désactivé"
 
 #. Translators: Action description for zooming in.
 #: _magnifier\utils\types.py:60
 msgctxt "magnifier action"
 msgid "zoom in"
-msgstr ""
+msgstr "Augmenter le zoom"
 
 #. Translators: Action description for zooming out.
 #: _magnifier\utils\types.py:62
 msgctxt "magnifier action"
 msgid "zoom out"
-msgstr ""
+msgstr "Diminuer le zoom"
 
 #. Translators: Action description for panning left.
 #: _magnifier\utils\types.py:64
 msgctxt "magnifier action"
 msgid "pan left"
-msgstr ""
+msgstr "Côté gauche"
 
 #. Translators: Action description for panning right.
 #: _magnifier\utils\types.py:66
 msgctxt "magnifier action"
 msgid "pan right"
-msgstr ""
+msgstr "Côté droit"
 
 #. Translators: Action description for panning up.
 #: _magnifier\utils\types.py:68
 msgctxt "magnifier action"
 msgid "pan up"
-msgstr ""
+msgstr "Côté supérieur"
 
 #. Translators: Action description for panning down.
 #: _magnifier\utils\types.py:70
 msgctxt "magnifier action"
 msgid "pan down"
-msgstr ""
+msgstr "Côté inférieur"
 
 #. Translators: Action description for panning to left edge.
 #: _magnifier\utils\types.py:72
 msgctxt "magnifier action"
 msgid "pan to left edge"
-msgstr ""
+msgstr "Panoramique vers le bord gauche"
 
 #. Translators: Action description for panning to right edge.
 #: _magnifier\utils\types.py:74
 msgctxt "magnifier action"
 msgid "pan to right edge"
-msgstr ""
+msgstr "Panoramique vers le bord droit"
 
 #. Translators: Action description for panning to top edge.
 #: _magnifier\utils\types.py:76
 msgctxt "magnifier action"
 msgid "pan to top edge"
-msgstr ""
+msgstr "Panoramique vers le bord supérieur"
 
 #. Translators: Action description for panning to bottom edge.
 #: _magnifier\utils\types.py:78
 msgctxt "magnifier action"
 msgid "pan to bottom edge"
-msgstr ""
+msgstr "Panoramique vers le bord inférieur"
 
 #. Translators: Action description for toggling settings.
 #: _magnifier\utils\types.py:80
 msgctxt "magnifier action"
 msgid "toggle follow settings"
-msgstr ""
+msgstr "Activer/désactiver les paramètres de suivi"
 
 #. Translators: Action description for toggling color filters.
 #: _magnifier\utils\types.py:82
 msgctxt "magnifier action"
 msgid "toggle filters"
-msgstr ""
+msgstr "Activer/désactiver les filtres"
 
 #. Translators: Action description for changing magnifier view.
 #: _magnifier\utils\types.py:84
 msgctxt "magnifier action"
 msgid "change magnifier view"
-msgstr ""
+msgstr "Changer la vue de la loupe"
 
 #. Translators: Action description for changing full-screen mode.
 #: _magnifier\utils\types.py:86
 msgctxt "magnifier action"
 msgid "change full-screen mode"
-msgstr ""
+msgstr "Changer le mode plein écran"
 
 #. Translators: Action description for starting spotlight mode.
 #: _magnifier\utils\types.py:88
 msgctxt "magnifier action"
 msgid "start spotlight mode"
-msgstr ""
+msgstr "Démarrer le mode projecteur"
 
 #. Translators: Focus type for magnifier to follow - mouse cursor.
 #: _magnifier\utils\types.py:104
 msgctxt "magnifier follow focus type"
 msgid "Mouse"
-msgstr ""
+msgstr "Souris"
 
 #. Translators: Focus type for magnifier to follow - system focus (active element).
 #: _magnifier\utils\types.py:106
 msgctxt "magnifier follow focus type"
 msgid "System focus"
-msgstr ""
+msgstr "Curseur système"
 
 #. Translators: Focus type for magnifier to follow - review cursor position.
 #: _magnifier\utils\types.py:108
 msgctxt "magnifier follow focus type"
 msgid "Review cursor"
-msgstr ""
+msgstr "Curseur de revue"
 
 #. Translators: Focus type for magnifier to follow - navigator object position.
 #: _magnifier\utils\types.py:110
 msgctxt "magnifier follow focus type"
 msgid "Navigator object"
-msgstr ""
+msgstr "Objet navigateur"
 
 #. Translators: Magnifier view - full-screen mode.
 #: _magnifier\utils\types.py:126
 msgctxt "magnifier"
 msgid "Fullscreen"
-msgstr ""
+msgstr "Plein écran"
 
 #. Translators: Magnifier view - fixed mode.
 #: _magnifier\utils\types.py:128
 msgctxt "magnifier"
 msgid "Fixed"
-msgstr ""
+msgstr "Fixe"
 
 #. Translators: Magnifier view - docked mode.
 #: _magnifier\utils\types.py:130
 msgctxt "magnifier"
 msgid "Docked"
-msgstr ""
+msgstr "Ancrée"
 
 #. Translators: Magnifier view - lens mode.
 #: _magnifier\utils\types.py:132
 msgctxt "magnifier"
 msgid "Lens"
-msgstr ""
+msgstr "Lentille"
 
 #. Translators: Magnifier focus mode - center mouse/focus on screen.
 #: _magnifier\utils\types.py:159
 msgctxt "magnifier"
 msgid "Center"
-msgstr ""
+msgstr "Centre"
 
 #. Translators: Magnifier focus mode - follow focus at screen borders.
 #: _magnifier\utils\types.py:161
 msgctxt "magnifier"
 msgid "Border"
-msgstr ""
+msgstr "Bord"
 
 #. Translators: Magnifier focus mode - maintain relative position.
 #: _magnifier\utils\types.py:163
 msgctxt "magnifier"
 msgid "Relative"
-msgstr ""
+msgstr "Relatif"
 
 #. Translators: Magnifier color filter - no filter applied.
 #: _magnifier\utils\types.py:176
