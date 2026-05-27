@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-25 07:57+0000\n"
-"PO-Revision-Date: 2026-05-26 23:02\n"
+"POT-Creation-Date: 2026-05-27 00:21+0000\n"
+"PO-Revision-Date: 2026-05-27 02:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -16946,82 +16946,82 @@ msgid "All"
 msgstr "Tutti"
 
 #. Translators: A mode  that allows typing in the actual 'native' characters for an east-Asian input method language currently selected, rather than alpha numeric (Roman/English) characters.
-#: NVDAHelper\__init__.py:497
+#: NVDAHelper\__init__.py:505
 msgid "Native input"
 msgstr "Immissione originale"
 
 #. Translators: a mode that lets you type in alpha numeric (roman/english) characters, rather than 'native' characters for the east-Asian input method  language currently selected.
-#: NVDAHelper\__init__.py:499
+#: NVDAHelper\__init__.py:507
 msgid "Alpha numeric input"
 msgstr "Immissione con caratteri alfanumerici"
 
 #. Translators: for East-Asian input methods, a mode that allows typing in full-shaped (full double-byte) characters, rather than the smaller half-shaped ones.
-#: NVDAHelper\__init__.py:503
+#: NVDAHelper\__init__.py:511
 msgid "Full shaped mode"
 msgstr "Modalità cursore a forma piena"
 
 #. Translators: for East-Asian input methods, a mode that allows typing in half-shaped (single-byte) characters, rather than the larger full-shaped (double-byte) ones.
-#: NVDAHelper\__init__.py:505
+#: NVDAHelper\__init__.py:513
 msgid "Half shaped mode"
 msgstr "Modalità cursore  a forma dimezzata"
 
 #. Translators: For Japanese character input: half-shaped (single-byte) alpha numeric (roman/english) mode.
-#: NVDAHelper\__init__.py:511 NVDAHelper\__init__.py:521
+#: NVDAHelper\__init__.py:519 NVDAHelper\__init__.py:529
 msgid "half alphanumeric"
 msgstr "metà alfanumerici"
 
 #. Translators: For Japanese character input: half-shaped (single-byte) Katacana input mode.
-#: NVDAHelper\__init__.py:513
+#: NVDAHelper\__init__.py:521
 msgid "half katakana"
 msgstr "metà katakana"
 
 #. Translators: For Japanese character input: alpha numeric (roman/english) mode.
-#: NVDAHelper\__init__.py:515 NVDAHelper\__init__.py:525
+#: NVDAHelper\__init__.py:523 NVDAHelper\__init__.py:533
 msgid "alphanumeric"
 msgstr "alfanumerici"
 
 #. Translators: For Japanese character input: Hiragana input mode.
-#: NVDAHelper\__init__.py:517
+#: NVDAHelper\__init__.py:525
 msgid "hiragana"
 msgstr "hiragana"
 
 #. Translators: For Japanese character input: Katacana input mode.
-#: NVDAHelper\__init__.py:519
+#: NVDAHelper\__init__.py:527
 msgid "katakana"
 msgstr "katakana"
 
 #. Translators: For Japanese character input: half katakana roman input mode.
-#: NVDAHelper\__init__.py:523
+#: NVDAHelper\__init__.py:531
 msgid "half katakana roman"
 msgstr "metà katakana roman"
 
 #. Translators: For Japanese character input: Hiragana Roman input mode.
-#: NVDAHelper\__init__.py:527
+#: NVDAHelper\__init__.py:535
 msgid "hiragana roman"
 msgstr "hiragana roman"
 
 #. Translators: For Japanese character input: Katacana Roman input mode.
-#: NVDAHelper\__init__.py:529
+#: NVDAHelper\__init__.py:537
 msgid "katakana roman"
 msgstr "katakana roman"
 
 #. Translators: a message when the IME open status changes to opened
-#: NVDAHelper\__init__.py:571
+#: NVDAHelper\__init__.py:579
 msgid "IME opened"
 msgstr "IME aperto"
 
 #. Translators: a message when the IME open status changes to closed
-#: NVDAHelper\__init__.py:574
+#: NVDAHelper\__init__.py:582
 msgid "IME closed"
 msgstr "IME chiuso"
 
 #. Translators: the label for an unknown language when switching input methods.
-#: NVDAHelper\__init__.py:611
+#: NVDAHelper\__init__.py:619
 msgid "unknown language"
 msgstr "lingua sconosciuta"
 
 #. Translators: The label for an unknown input method when switching input methods.
-#: NVDAHelper\__init__.py:637
+#: NVDAHelper\__init__.py:645
 msgid "unknown input method"
 msgstr "metodo di immissione sconosciuto"
 
