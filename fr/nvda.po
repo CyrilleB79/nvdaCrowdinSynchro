@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-29 05:49+0000\n"
-"PO-Revision-Date: 2026-05-29 07:41\n"
+"PO-Revision-Date: 2026-05-29 12:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2742,7 +2742,7 @@ msgstr "aide à la saisie désactivée"
 #. Translators: Input help mode message for toggle sleep mode command.
 #: globalCommands.py:233
 msgid "Toggles sleep mode on and off for the active application."
-msgstr "Activer/désactiver le mode veille pour l'application en cours"
+msgstr "Activer ou désactiver le mode veille pour l'application en cours"
 
 #. Translators: This is presented when sleep mode is deactivated, NVDA will continue working as expected.
 #: globalCommands.py:243
@@ -3187,7 +3187,7 @@ msgstr "Signaler le retrait des lignes {mode}"
 #. Translators: Input help mode message for toggle ignore blank lines for line indentation reporting command.
 #: globalCommands.py:940
 msgid "Toggles on and off the ignoring of blank lines for line indentation reporting"
-msgstr "Activer/désactiver ignorer les lignes vides pour l'annonce du retrait de ligne"
+msgstr "Activer ou désactiver ignorer les lignes vides pour l'annonce du retrait de ligne"
 
 #. Translators: The message announced when toggling off the ignore blank lines for line indentation
 #. reporting document formatting setting.
@@ -3524,7 +3524,7 @@ msgstr "Niveau de symbole %s"
 #. Translators: Input help mode message for toggle delayed character description command.
 #: globalCommands.py:1309
 msgid "Toggles on and off delayed descriptions for characters on cursor movement"
-msgstr "Activer/désactiver la description différée des caractères lors du mouvement du curseur"
+msgstr "Activer ou désactiver la description différée des caractères lors du mouvement du curseur"
 
 #. Translators: The message announced when toggling the delayed character description setting.
 #: globalCommands.py:1317
@@ -4415,7 +4415,7 @@ msgstr "visionneuse de parole activée"
 #. Translators: Input help mode message for toggle Braille viewer command.
 #: globalCommands.py:3748
 msgid "Toggles the NVDA Braille viewer, a floating window that allows you to view braille output, and the text equivalent for each braille character"
-msgstr "Activer/désactiver la visioneuse braille, une fenêtre flottante qui vous permet de visualiser la sortie braille et le texte équivalent pour chaque caractère braille"
+msgstr "Activer ou désactiver la visioneuse braille, une fenêtre flottante qui vous permet de visualiser la sortie braille et le texte équivalent pour chaque caractère braille"
 
 #. Translators: The message announced when disabling braille viewer.
 #: globalCommands.py:3759
@@ -4884,7 +4884,7 @@ msgstr "Afficher le dialogue de configuration des profils de NVDA"
 #. Translators: Input help mode message for toggle configuration profile triggers command.
 #: globalCommands.py:4716
 msgid "Toggles disabling of all configuration profile triggers. Disabling remains in effect until NVDA is restarted"
-msgstr "Activer/désactiver tous les profils de configuration. La désactivation demeure effective jusqu'au redémarrage de NVDA"
+msgstr "Activer ou désactiver tous les profils de configuration. La désactivation demeure effective jusqu'au redémarrage de NVDA"
 
 #. Translators: The message announced when temporarily disabling all configuration profile triggers.
 #: globalCommands.py:4725
@@ -5029,77 +5029,77 @@ msgstr "Diminue le niveau de grossissement de la loupe"
 #. Translators: Describes a command.
 #: globalCommands.py:5085
 msgid "Pan the magnifier view to the left"
-msgstr "Déplacez la vue loupe vers la gauche"
+msgstr "Déplacez la vue de la loupe vers la gauche"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5099
 msgid "Pan the magnifier view to the right"
-msgstr "Déplacez la vue loupe vers la droite"
+msgstr "Déplacez la vue de la loupe vers la droite"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5113
 msgid "Pan the magnifier view up"
-msgstr "Déplacez la vue loupe vers le haut"
+msgstr "Déplacez la vue de la loupe vers le haut"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5127
 msgid "Pan the magnifier view down"
-msgstr "Déplacez la vue loupe vers le bas"
+msgstr "Déplacez la vue de la loupe vers le bas"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5141
 msgid "Pan the magnifier view to left edge"
-msgstr "Déplacez la vue loupe vers le bord gauche."
+msgstr "Déplacez la vue de la loupe au bord gauche"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5155
 msgid "Pan the magnifier view to right edge"
-msgstr "Déplacez la vue loupe vers le bord droit."
+msgstr "Déplacez la vue de la loupe au bord droit"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5169
 msgid "Pan the magnifier view to top edge"
-msgstr "Déplacez la vue loupe vers le bord supérieur."
+msgstr "Déplacez la vue de la loupe au bord supérieur"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5183
 msgid "Pan the magnifier view to bottom edge"
-msgstr "Déplacez la vue loupe vers le bord inférieur."
+msgstr "Déplacez la vue de la loupe au bord inférieur"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5197
 msgid "Toggle filter of the magnifier"
-msgstr "Activer/désactiver le filtre de la loupe"
+msgstr "Activer ou désactiver le filtre de la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5211
 msgid "Toggle follow mouse for the magnifier"
-msgstr "Activer/désactiver le suivi de la souris pour la loupe"
+msgstr "Activer ou désactiver le suivi de la souris par la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5224
 msgid "Toggle follow system focus for the magnifier"
-msgstr "Activer/désactiver le suivi du curseur système pour la loupe"
+msgstr "Activer ou désactiver le suivi du curseur système par la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5237
 msgid "Toggle follow review cursor for the magnifier"
-msgstr "Activer/désactiver le suivi du curseur de revue pour la loupe"
+msgstr "Activer ou désactiver le suivi du curseur de revue par la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5250
 msgid "Toggle follow navigator object for the magnifier"
-msgstr "Activer/désactiver le suivi de l'objet navigateur pour la loupe"
+msgstr "Activer ou désactiver le suivi de l'objet navigateur par la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5263
 msgid "Toggle all follow modes for the magnifier"
-msgstr "Activer/désactiver le suivi de tout les modes pour la loupe"
+msgstr "Activer ou désactiver tous les modes de suivi de la loupe"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5276
 msgid "Toggle focus mode for the full-screen magnifier"
-msgstr "Activer/désactiver le mode focus pour la loupe plein écran"
+msgstr "Activer ou désactiver le mode de focus pour la loupe plein écran"
 
 #. Translators: Describe a command.
 #: globalCommands.py:5289
@@ -9024,7 +9024,7 @@ msgstr "Simulation de clavier HID désactivée"
 #. Translators: Description of the script that toggles HID keyboard simulation.
 #: brailleDisplayDrivers\alva.py:463
 msgid "Toggles HID keyboard simulation"
-msgstr "Activer/désactiver la simulation de clavier HID"
+msgstr "Activer ou désactiver la simulation de clavier HID"
 
 #. Translators: Names of braille displays.
 #: brailleDisplayDrivers\baum.py:80
@@ -9178,7 +9178,7 @@ msgstr "Simulation de clavier HID indisponible."
 #. Translators: Description of the script that toggles HID keyboard simulation.
 #: brailleDisplayDrivers\eurobraille\driver.py:397
 msgid "Toggle HID keyboard simulation"
-msgstr "Activer/désactiver la simulation de clavier HID"
+msgstr "Activer ou désactiver la simulation de clavier HID"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -10671,7 +10671,7 @@ msgstr "débogage"
 #. without redacting secrets).
 #: config\configFlags.py:441
 msgid "debug (unredacted)"
-msgstr "débogage (non expurgé)"
+msgstr "débogage (non masqué)"
 
 #. Translators: Label for a value in the Play a sound for logged errors combobox, in the Advanced settings.
 #: config\configFlags.py:464
@@ -15284,7 +15284,7 @@ msgstr "&Zoom (%) :"
 #. Translators: The label for a setting in magnifier settings to select the pan step size (in percentage).
 #: gui\settingsDialogs.py:6121
 msgid "&Panning step size (%):"
-msgstr "&Taille du pas de panoramique (%) :"
+msgstr "&Taille du pas de déplacement (%) :"
 
 #. Translators: The label for a setting in magnifier settings to select the default filter
 #: gui\settingsDialogs.py:6143
@@ -15299,17 +15299,17 @@ msgstr "&Mode plein écran :"
 #. Translators: The label for a setting in magnifier settings to select whether true center is used in full-screen mode
 #: gui\settingsDialogs.py:6174
 msgid "Use &true center in fullscreen mode"
-msgstr "Utiliser le &véritable centre en mode plein écran"
+msgstr "Utiliser le suivi &central réel en mode plein écran"
 
 #. Translators: This is the label for a group of focus options in the magnifier settings panel
 #: gui\settingsDialogs.py:6192
 msgid "Focus"
-msgstr "Curseur"
+msgstr "Suivi"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the mouse
 #: gui\settingsDialogs.py:6200
 msgid "Follow &mouse"
-msgstr "Suivre la &souris"
+msgstr "Suivre la s&ouris"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the system focus
 #: gui\settingsDialogs.py:6202
@@ -15329,7 +15329,7 @@ msgstr "Suivre l'objet &navigateur"
 #. Translators: The label for a checkbox to keep the mouse pointer centered in the magnifier view
 #: gui\settingsDialogs.py:6224
 msgid "Keep mouse pointer &centered in magnifier view"
-msgstr "Garder le pointeur de la souris centré dans la vue de la loupe"
+msgstr "Garder le pointeur de la souris &centré dans la vue de la loupe"
 
 #. Translators: The title of the privacy and security category in NVDA's settings.
 #: gui\settingsDialogs.py:6292
@@ -15339,7 +15339,7 @@ msgstr "Confidentialité et sécurité"
 #. Translators: Warning shown when enabling the "debug (unredacted)" log level from NVDA settings.
 #: gui\settingsDialogs.py:6305
 msgid "Setting the logging level to \"debug (unredacted)\" will write sensitive information to the log without redaction, including passwords, API keys, or other private data. Only enable this temporarily if you explicitly need unredacted diagnostic logs. Do you want to continue?"
-msgstr "Définir le niveau de journalisation sur « débogage (non expurgé) » enregistrera les informations sensibles dans le journal sans les masquer, notamment les mots de passe, les clés API et autres données privées. N'activez cette option que temporairement et uniquement si vous avez absolument besoin de journaux de diagnostic non expurgés. Voulez-vous continuer ?"
+msgstr "Définir le niveau de journalisation sur « débogage (non masqué) » enregistrera les informations sensibles dans le journal sans les masquer, notamment les mots de passe, les clés API et autres données privées. N'activez cette option que temporairement et uniquement si vous avez absolument besoin de journaux de diagnostic non masqués. Voulez-vous continuer ?"
 
 #. Translators: Title of the warning dialog shown when enabling the "debug (unredacted)" log level.
 #: gui\settingsDialogs.py:6312
@@ -16687,13 +16687,13 @@ msgstr "Lire l'élément suivant dans une expression mathématique"
 #: mathPres\MathCAT\navCommands.py:88
 msgctxt "math"
 msgid "Change math navigation mode to larger"
-msgstr "Changer le mode de navigation mathématique pour un mode plus grand"
+msgstr "Passer à un mode de navigation mathématique plus grand"
 
 #. Translators: Input help message for the command to change the math navigation mode to smaller.
 #: mathPres\MathCAT\navCommands.py:94
 msgctxt "math"
 msgid "Change math navigation mode to smaller"
-msgstr "Changer le mode de navigation mathématique pour un mode plus petit"
+msgstr "Passer à un mode de navigation mathématique plus petit"
 
 #. Translators: Input help message for the command to describe the previous item in math.
 #: mathPres\MathCAT\navCommands.py:100
@@ -20084,13 +20084,13 @@ msgstr "Périphérique de sortie par défaut"
 #. Windows is locked.
 #: utils\security.py:371
 msgid "NVDA is unable to determine if Windows is locked. While this instance of NVDA is running, your desktop will not be secure when Windows is locked. Restarting Windows may address this. If this error is ongoing then disabling the Windows lock screen is recommended."
-msgstr "NVDA est incapable de déterminer si Windows est verrouillé. Pendant que cette instance de NVDA est en cours d'exécution, votre bureau ne sera pas sécurisé lorsque Windows sera verrouillé. Le redémarrage de Windows peut résoudre ce problème. Si cette erreur persiste, il est recommandé de désactiver l'écran de verrouillage Windows."
+msgstr "NVDA est incapable de déterminer si Windows est verrouillé. Tant que cette instance de NVDA est en cours d'exécution, votre bureau ne sera pas sécurisé lors du verrouillage de Windows. Le redémarrage de Windows peut résoudre ce problème. Si cette erreur persiste, il est recommandé de désactiver l'écran de verrouillage de Windows."
 
 #. Translators: This is the title for a warning dialog, shown if NVDA cannot determine if
 #. Windows is locked.
 #: utils\security.py:386
 msgid "Lock screen not secure while using NVDA"
-msgstr "L'écran de verrouillage n'est pas sécurisé lors de l'utilisation de NVDA"
+msgstr "Écran de verrouillage non sécurisé lors de l'utilisation de NVDA"
 
 #. Translators: Reported when a page reloads (example: after refreshing a webpage).
 #: virtualBuffers\__init__.py:603
@@ -20469,13 +20469,13 @@ msgstr "Panoramique vers le bord inférieur"
 #: _magnifier\utils\types.py:80
 msgctxt "magnifier action"
 msgid "toggle follow settings"
-msgstr "Activer/désactiver les paramètres de suivi"
+msgstr "Activer ou désactiver les paramètres de suivi"
 
 #. Translators: Action description for toggling color filters.
 #: _magnifier\utils\types.py:82
 msgctxt "magnifier action"
 msgid "toggle filters"
-msgstr "Activer/désactiver les filtres"
+msgstr "Activer ou désactiver les filtres"
 
 #. Translators: Action description for changing magnifier view.
 #: _magnifier\utils\types.py:84
