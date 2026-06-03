@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-03 03:24+0000\n"
-"PO-Revision-Date: 2026-06-03 08:13\n"
+"PO-Revision-Date: 2026-06-03 13:09\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -967,7 +967,7 @@ msgstr "Passa all'elemento successivo del tipo selezionato nell'esplorazione tou
 #. Translators: Input help message for a browse mode touch navigation command in browse mode.
 #: browseMode.py:871
 msgid "Moves to the previous element of the selected type in browse mode touch navigation"
-msgstr ""
+msgstr "Passa all'elemento precedente del tipo selezionato nell'esplorazione touch in modalità navigazione"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:912
@@ -992,7 +992,7 @@ msgstr "nessuna intestazione precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:920
 msgid "headings"
-msgstr ""
+msgstr "Intestazioni"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:927
@@ -1017,7 +1017,7 @@ msgstr "nessuna tabella precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:936
 msgid "tables"
-msgstr ""
+msgstr "tabelle"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:942
@@ -1042,7 +1042,7 @@ msgstr "nessun link precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:950
 msgid "links"
-msgstr ""
+msgstr "link"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:956
@@ -1067,7 +1067,7 @@ msgstr "nessun link visitato precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:964
 msgid "visited links"
-msgstr ""
+msgstr "Link visitati"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:970
@@ -1092,7 +1092,7 @@ msgstr "nessun link non visitato precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:978
 msgid "unvisited links"
-msgstr ""
+msgstr "link non visitati"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:984
@@ -1117,7 +1117,7 @@ msgstr "nessun campo del form precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:992
 msgid "form fields"
-msgstr ""
+msgstr "campi del form"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:998
@@ -1142,7 +1142,7 @@ msgstr "nessun elenco precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1007
 msgid "lists"
-msgstr ""
+msgstr "elenchi"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1013
@@ -1167,7 +1167,7 @@ msgstr "nessun elemento di elenco precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1021
 msgid "list items"
-msgstr ""
+msgstr "elementi elenco"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1027
@@ -1192,7 +1192,7 @@ msgstr "nessun pulsante precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1035
 msgid "buttons"
-msgstr ""
+msgstr "pulsanti"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1041
@@ -1217,7 +1217,7 @@ msgstr "nessun campo del form precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1050
 msgid "edit fields"
-msgstr ""
+msgstr "campi di testo"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1056
@@ -1242,7 +1242,7 @@ msgstr "nessun frame precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1065
 msgid "frames"
-msgstr ""
+msgstr "frame"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1071
@@ -1267,7 +1267,7 @@ msgstr "nessun separatore precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1079
 msgid "separators"
-msgstr ""
+msgstr "separatori"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1085
@@ -1292,7 +1292,7 @@ msgstr "nessun pulsante radio precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1093
 msgid "radio buttons"
-msgstr ""
+msgstr "pulsanti radio"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1099
@@ -1317,7 +1317,7 @@ msgstr "nessuna casella combinata precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1107
 msgid "combo boxes"
-msgstr ""
+msgstr "caselle combinate"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1113
@@ -1342,7 +1342,7 @@ msgstr "nessuna casella di controllo precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1121
 msgid "check boxes"
-msgstr ""
+msgstr "caselle di controllo"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1127
@@ -1367,7 +1367,7 @@ msgstr "nessun grafico precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1135
 msgid "graphics"
-msgstr ""
+msgstr "grafici"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1141
@@ -1392,7 +1392,7 @@ msgstr "nessun blocco tra virgolette precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1149
 msgid "block quotes"
-msgstr ""
+msgstr "blocchi tra virgolette"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1155
@@ -1417,7 +1417,7 @@ msgstr "nessun testo senza link precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1164
 msgid "non-link blocks"
-msgstr ""
+msgstr "blocchi senza link"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1170
@@ -1442,7 +1442,7 @@ msgstr "nessun punto di riferimento precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1179
 msgid "landmarks"
-msgstr ""
+msgstr "punti di riferimento"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1185
@@ -1467,7 +1467,7 @@ msgstr "nessun oggetto precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1193
 msgid "embedded objects"
-msgstr ""
+msgstr "oggetti"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1199
@@ -1492,7 +1492,7 @@ msgstr "nessuna nota precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1207
 msgid "annotations"
-msgstr ""
+msgstr "Annotazioni"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1213
@@ -1517,32 +1517,32 @@ msgstr "nessun errore precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1221
 msgid "errors"
-msgstr ""
+msgstr "errori"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1227
 msgid "moves to the next slider"
-msgstr ""
+msgstr "Vai al cursore d'avanzamento successivo"
 
 #. Translators: Message presented when the browse mode element is not found.
 #: browseMode.py:1229
 msgid "no next slider"
-msgstr ""
+msgstr "nessun cursore d'avanzamento successivo"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1231
 msgid "moves to the previous slider"
-msgstr ""
+msgstr "Vai al cursore d'avanzamento precedente"
 
 #. Translators: Message presented when the browse mode element is not found.
 #: browseMode.py:1233
 msgid "no previous slider"
-msgstr ""
+msgstr "nessun cursore d'avanzamento precedente"
 
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1235
 msgid "sliders"
-msgstr ""
+msgstr "cursori d'avanzamento"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1241
@@ -1567,7 +1567,7 @@ msgstr "nessun articolo precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1249
 msgid "articles"
-msgstr ""
+msgstr "articoli"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1255
@@ -1592,7 +1592,7 @@ msgstr "nessun gruppo precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1263
 msgid "groupings"
-msgstr ""
+msgstr "gruppi"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1269
@@ -1617,7 +1617,7 @@ msgstr "nessuna scheda precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1277
 msgid "tabs"
-msgstr ""
+msgstr "schede"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1283
@@ -1642,7 +1642,7 @@ msgstr "nessuna figura precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1291
 msgid "figures"
-msgstr ""
+msgstr "figure"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1297
@@ -1667,7 +1667,7 @@ msgstr "nessuna voce di menu precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1305
 msgid "menu items"
-msgstr ""
+msgstr "elementi di menu"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1311
@@ -1692,7 +1692,7 @@ msgstr "nessun interruttore precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1319
 msgid "toggle buttons"
-msgstr ""
+msgstr "interruttori"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1325
@@ -1717,7 +1717,7 @@ msgstr "nessuna barra di avanzamento precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1333
 msgid "progress bars"
-msgstr ""
+msgstr "barre di avanzamento"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1339
@@ -1742,7 +1742,7 @@ msgstr "nessuna formula matematica precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1347
 msgid "math formulas"
-msgstr ""
+msgstr "formule matematiche"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1353
@@ -1767,7 +1767,7 @@ msgstr "nessun paragrafo di testo precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1362
 msgid "text paragraphs"
-msgstr ""
+msgstr "paragrafi di testo"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1368
@@ -1792,7 +1792,7 @@ msgstr "nessun paragrafo precedente allineato verticalmente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1377
 msgid "vertical paragraphs"
-msgstr ""
+msgstr "paragrafi verticali"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1383
@@ -1817,7 +1817,7 @@ msgstr "Nessun testo precedente con lo stesso stile"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1391
 msgid "same style"
-msgstr ""
+msgstr "stesso stile"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1397
@@ -1842,7 +1842,7 @@ msgstr "Nessun testo precedente con stile diverso"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1405
 msgid "different style"
-msgstr ""
+msgstr "stile diverso"
 
 #. Translators: Input help message for a quick navigation command in browse mode.
 #: browseMode.py:1411
@@ -1867,7 +1867,7 @@ msgstr "nessun riferimento precedente"
 #. Translators: Label announced when cycling browse mode touch navigation element types in browse mode.
 #: browseMode.py:1420
 msgid "references"
-msgstr ""
+msgstr "riferimenti"
 
 #. Translators: The label of a radio button to select the type of element
 #. in the browse mode Elements List dialog.
@@ -2432,7 +2432,7 @@ msgstr "Caricamento di NVDA in corso. Attendere prego..."
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts with the screen curtain enabled.
 #: core.py:957
 msgid "NVDA started with screen curtain enabled"
-msgstr ""
+msgstr "NVDA avviato con tenda schermo attiva"
 
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts.
 #: core.py:960
@@ -2871,14 +2871,14 @@ msgstr "Si sposta all'impostazione disponibile precedente nelle impostazioni del
 #. Translators: Input help mode message for toggling keyboard layout.
 #: globalCommands.py:572
 msgid "Toggles between desktop and laptop keyboard layout"
-msgstr ""
+msgstr "Passa tra i layout di tastiera desktop e laptop"
 
 #. Translators: Reported when the user toggles keyboard layout.
 #. {layout} will be replaced with the new keyboard layout, i.e. desktop or laptop
 #: globalCommands.py:585
 #, python-brace-format
 msgid "{layout} layout"
-msgstr ""
+msgstr "{layout} layout"
 
 #. Translators: Input help mode message for cycling the reporting of typed characters.
 #: globalCommands.py:590
@@ -3111,22 +3111,22 @@ msgstr "Mostra errori in braille disattivo"
 #. Translators: Input help mode message for command to toggle braille automatic scroll.
 #: globalCommands.py:847
 msgid "Toggles braille automatic scroll"
-msgstr ""
+msgstr "Attiva/disattiva lo scorrimento automatico braille"
 
 #. Translators: Message reported when automatic scrolling has been enabled in braille.
 #: globalCommands.py:855
 msgid "Automatic scrolling enabled"
-msgstr ""
+msgstr "Scorrimento automatico attivato"
 
 #. Translators: Message reported when automatic scrolling has been disabled in braille.
 #: globalCommands.py:863
 msgid "Automatic scrolling disabled"
-msgstr ""
+msgstr "Scorrimento automatico disattivato"
 
 #. Translators: Input help mode message for command to increase the rate for braille automatic scroll.
 #: globalCommands.py:868
 msgid "Increases the rate for braille automatic scroll"
-msgstr ""
+msgstr "Aumenta la velocità per lo scorrimento automatico braille"
 
 #. Translators: Message shown when increasing the braille auto scroll rate.
 #. {rate} will be replaced with the rate as a whole number from 0 to 100.
@@ -3135,12 +3135,12 @@ msgstr ""
 #: globalCommands.py:876 globalCommands.py:888
 #, python-brace-format
 msgid "Scroll rate {rate}"
-msgstr ""
+msgstr "Velocità scorrimento {rate}"
 
 #. Translators: Input help mode message for command to decrease the rate for braille automatic scroll.
 #: globalCommands.py:880
 msgid "Decreases the rate for braille automatic scroll"
-msgstr ""
+msgstr "Riduce la velocità per lo scorrimento automatico braille"
 
 #. Translators: Input help mode message for toggle report pages command.
 #: globalCommands.py:892
@@ -4357,7 +4357,7 @@ msgstr "Mostra la finestra gesti e tasti di immissione di NVDA"
 #. Translators: Input help mode message for go to magnifier settings command.
 #: globalCommands.py:3641
 msgid "Shows NVDA's magnifier settings"
-msgstr ""
+msgstr "Mostra le impostazioni dell'ingranditore di NVDA"
 
 #. Translators: Input help mode message for the report current configuration profile command.
 #: globalCommands.py:3651
@@ -5009,97 +5009,97 @@ msgstr "Tenda schermo attivata temporaneamente fino al prossimo riavvio"
 #. Translators: Describes a command.
 #: globalCommands.py:5013
 msgid "Reports the state of the screen curtain."
-msgstr ""
+msgstr "Annuncia lo stato della tenda schermo."
 
 #. Translators: Describes a command.
 #: globalCommands.py:5043
 msgid "Toggles the magnifier on and off"
-msgstr ""
+msgstr "Attiva/Disattiva l'ingranditore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5057
 msgid "Increases the magnification level of the magnifier"
-msgstr ""
+msgstr "Aumenta il livello di ingrandimento"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5071
 msgid "Decreases the magnification level of the magnifier"
-msgstr ""
+msgstr "Riduce il livello di ingrandimento"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5085
 msgid "Pan the magnifier view to the left"
-msgstr ""
+msgstr "Sposta la visualizzazione dell'ingranditore a sinistra"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5099
 msgid "Pan the magnifier view to the right"
-msgstr ""
+msgstr "Sposta la visualizzazione dell'ingranditore a destra"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5113
 msgid "Pan the magnifier view up"
-msgstr ""
+msgstr "Sposta la visualizzazione dell'ingranditore in alto"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5127
 msgid "Pan the magnifier view down"
-msgstr ""
+msgstr "Sposta la visualizzazione dell'ingranditore in basso"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5141
 msgid "Pan the magnifier view to left edge"
-msgstr ""
+msgstr "Porta la visualizzazione dell'ingranditore al bordo sinistro"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5155
 msgid "Pan the magnifier view to right edge"
-msgstr ""
+msgstr "Porta la visualizzazione dell'ingranditore al bordo destro"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5169
 msgid "Pan the magnifier view to top edge"
-msgstr ""
+msgstr "Porta la visualizzazione dell'ingranditore al bordo superiore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5183
 msgid "Pan the magnifier view to bottom edge"
-msgstr ""
+msgstr "Porta la visualizzazione dell'ingranditore al bordo inferiore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5197
 msgid "Toggle filter of the magnifier"
-msgstr ""
+msgstr "Attiva/disattiva i filtri dell'ingranditore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5211
 msgid "Toggle follow mouse for the magnifier"
-msgstr ""
+msgstr "Attiva/disattiva l'inseguimento del mouse per l'ingranditore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5224
 msgid "Toggle follow system focus for the magnifier"
-msgstr ""
+msgstr "Attiva/disattiva l'inseguimento del cursore di sistema per l'ingranditore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5237
 msgid "Toggle follow review cursor for the magnifier"
-msgstr ""
+msgstr "Attiva/disattiva l'inseguimento del cursore di controllo per l'ingranditore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5250
 msgid "Toggle follow navigator object for the magnifier"
-msgstr ""
+msgstr "Attiva/disattiva l'inseguimento del navigatore ad oggetti per l'ingranditore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5263
 msgid "Toggle all follow modes for the magnifier"
-msgstr ""
+msgstr "Attiva/disattiva tutte le modalità di inseguimento dell'ingranditore"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5276
 msgid "Toggle focus mode for the full-screen magnifier"
-msgstr ""
+msgstr "Attiva/disattiva la modalità focus per l'ingranditore a tutto schermo"
 
 #. Translators: Describe a command.
 #: globalCommands.py:5289
@@ -5210,12 +5210,12 @@ msgstr "Invia Control+Alt+Canc al computer controllato."
 #. Translators: Description for the repeat last speech script
 #: globalCommands.py:5465
 msgid "Repeat the last spoken information. Pressing twice shows it in a browsable message. "
-msgstr ""
+msgstr "Ripete l'ultima informazione annunciata. Una doppia pressione la visualizza in un messaggio navigabile. "
 
 #. Translators: title for report last spoken information dialog.
 #: globalCommands.py:5483
 msgid "Last spoken information"
-msgstr ""
+msgstr "Ultima informazione annunciata"
 
 #. Translators: a message indicating that configuration profiles can't be activated using gestures,
 #. due to profile activation being suspended.
@@ -7184,7 +7184,7 @@ msgstr "Usa sistema audio moderno (WASAPI)"
 #. Translators: Label for a setting toggle in voice settings dialog.
 #: synthDriverHandler.py:236
 msgid "Natural pause after punctuation"
-msgstr ""
+msgstr "Pausa naturale dopo la punteggiatura"
 
 #. Translators: The name of a touch mode.
 #: touchHandler.py:68 touchHandler.py:88
@@ -7199,7 +7199,7 @@ msgstr "modalità oggetti"
 #. Translators: The name of a touch mode used when in browse mode.
 #: touchHandler.py:70 touchHandler.py:92
 msgid "browse mode"
-msgstr ""
+msgstr "Modalità navigazione"
 
 #. Translators: a touch screen action performed once
 #: touchHandler.py:218
@@ -7237,13 +7237,13 @@ msgstr[1] "{action} {numFingers} dito"
 #: touchTracker.py:40
 msgctxt "touch action"
 msgid "pinch in"
-msgstr ""
+msgstr "Avvicina due dita"
 
 #. Translators: a touch screen gesture where two fingers move away from each other (zoom in)
 #: touchTracker.py:42
 msgctxt "touch action"
 msgid "pinch out"
-msgstr ""
+msgstr "Allontana due dita"
 
 #. Translators: a very quick touch and release of a finger on a touch screen
 #: touchTracker.py:44
@@ -9538,7 +9538,7 @@ msgstr "Spagnolo grado 2"
 #. braille settings dialog.
 #: brailleTables\__tables.py:201
 msgid "Estonian 6 dot"
-msgstr ""
+msgstr "Estone 6 punti"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -9718,7 +9718,7 @@ msgstr "Alfabeto fonetico internazionale"
 #. braille settings dialog.
 #: brailleTables\__tables.py:313
 msgid "Italian 6 dot"
-msgstr ""
+msgstr "Italiano 6 punti"
 
 #. Translators: The name of a braille table displayed in the
 #. braille settings dialog.
@@ -10671,7 +10671,7 @@ msgstr "debug"
 #. without redacting secrets).
 #: config\configFlags.py:441
 msgid "debug (unredacted)"
-msgstr ""
+msgstr "Debug (senza oscuramento)"
 
 #. Translators: Label for a value in the Play a sound for logged errors combobox, in the Advanced settings.
 #: config\configFlags.py:464
@@ -10689,7 +10689,7 @@ msgstr "Sì"
 #: config\configFlags.py:469
 msgctxt "advanced.playErrorSound"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. Translators: Label for an option in NVDA settings.
 #: config\featureFlagEnums.py:53
@@ -12206,7 +12206,10 @@ msgid "Welcome to the System Accessibility Repair Tool.\n\n"
 "Installing and uninstalling programs, as well as other events, can damage accessibility entries in the Windows registry. This can cause previously accessible elements to be presented incorrectly, or can cause \"unknown\" or \"pane\" to be spoken or brailled in some applications or Windows components, instead of the content you were expecting.\n\n"
 "This tool attempts to fix such common problems. Note that the tool must access the system registry, which requires administrative privileges.\n\n"
 "Press Continue to run the tool now."
-msgstr ""
+msgstr "Benvenuti nello strumento di riparazione dell'accessibilità del sistema.\n\n"
+"L'installazione e la disinstallazione di programmi, così come altri eventi, possono danneggiare le voci di accessibilità nel registro di Windows. Ciò può causare una presentazione non corretta di elementi che in precedenza erano accessibili, oppure può fare in modo che in alcune applicazioni o componenti di Windows vengano pronunciati o visualizzati in Braille termini come \"sconosciuto\" o \"riquadro\" invece del contenuto atteso.\n\n"
+"Questo strumento tenta di correggere tali problemi comuni. Si noti che lo strumento deve accedere al registro di sistema e richiede pertanto privilegi amministrativi.\n\n"
+"Premere Continua per eseguire lo strumento."
 
 #. Translators: The title of various dialogs displayed when using the System Accessibility Repair Tool
 #: gui\__init__.py:582
