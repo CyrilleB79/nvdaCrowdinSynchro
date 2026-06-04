@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-03 03:24+0000\n"
-"PO-Revision-Date: 2026-06-03 23:27\n"
+"POT-Creation-Date: 2026-06-04 04:09+0000\n"
+"PO-Revision-Date: 2026-06-04 07:18\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -20366,7 +20366,7 @@ msgid "Cannot start magnifier. Another magnifier application may already be runn
 msgstr ""
 
 #. Translators: Message announced when the magnifier stops due to an unrecoverable error.
-#: _magnifier\fullscreenMagnifier.py:198
+#: _magnifier\fullscreenMagnifier.py:218
 msgctxt "magnifier"
 msgid "Magnifier stopped due to an error. Please restart it."
 msgstr ""
