@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-05 01:11+0000\n"
-"PO-Revision-Date: 2026-06-05 11:18\n"
+"PO-Revision-Date: 2026-06-05 14:28\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -5104,7 +5104,7 @@ msgstr "Attiva/disattiva la modalità focus per l'ingranditore a tutto schermo"
 #. Translators: Describe a command.
 #: globalCommands.py:5289
 msgid "Launch spotlight if magnifier is full-screen"
-msgstr ""
+msgstr "Attiva la modalità panoramica se l'ingranditore è a tutto schermo"
 
 #. Translators: Describes a command.
 #: globalCommands.py:5303
@@ -12214,30 +12214,32 @@ msgstr "Benvenuti nello strumento di riparazione dell'accessibilità del sistema
 #. Translators: The title of various dialogs displayed when using the System Accessibility Repair Tool
 #: gui\__init__.py:582
 msgid "System Accessibility Repair Tool"
-msgstr ""
+msgstr "Strumento per la riparazione dell'accessibilità di sistema"
 
 #. Translators: The message displayed while NVDA is running the System Accessibility Repair Tool
 #: gui\__init__.py:597
 msgid "Please wait while NVDA attempts to repair your system's accessibility registrations..."
-msgstr ""
+msgstr "Attendi mentre NVDA tenta di riparare il registro di accessibilità del tuo sistema..."
 
 #. Translators: message shown to the user on System Accessibility Repair fail
 #: gui\__init__.py:624
 #, python-brace-format
 msgid "The System Accessibility Repair Tool was unsuccessful. This Windows error may provide more information.\n"
 "{error}"
-msgstr ""
+msgstr "Lo strumento di riparazione dell'accessibilità del sistema non è andato a buon fine. Questo errore di Windows potrebbe fornire ulteriori informazioni.\n"
+"{error}"
 
 #. Translators: The title of a System Accessibility Repair Tool dialog, when the tool has failed
 #: gui\__init__.py:628
 msgid "System Accessibility Repair Failed"
-msgstr ""
+msgstr "Riparazione dell'accessibilità del sistema fallita"
 
 #. Translators: Message shown when the System Accessibility Repair Tool completes.
 #: gui\__init__.py:635
 msgid "The System Accessibility Repair Tool has completed successfully.\n"
 "It is highly recommended that you restart your computer now, to make sure the changes take full effect."
-msgstr ""
+msgstr "Lo strumento di riparazione dell'accessibilità del sistema è stato completato correttamente.\n"
+"Si consiglia vivamente di riavviare il computer adesso, per assicurarsi che le modifiche abbiano pieno effetto."
 
 #. Translators: The label for the menu item to open NVDA Settings dialog.
 #: gui\__init__.py:662
@@ -12307,7 +12309,7 @@ msgstr "&Installa NVDA..."
 #. Translators: The label for the menu item to run the System Accessibility Repair Tool
 #: gui\__init__.py:725
 msgid "Run System Accessibility Repair Tool..."
-msgstr ""
+msgstr "Esegui lo strumento di riparazione dell'accessibilità del sistema..."
 
 #. Translators: The label for the menu item to reload plugins.
 #: gui\__init__.py:729
@@ -12637,26 +12639,27 @@ msgstr "Azione non disponibile quando l'accesso remoto è disabilitato"
 #. Translators: The title of the dialog shown after resetting configuration to factory defaults.
 #: gui\configManagement.py:27
 msgid "Factory Defaults Restored"
-msgstr ""
+msgstr "Impostazioni di fabbrica ripristinate"
 
 #. Translators: The message shown in the dialog after the configuration has been reset to factory defaults.
 #. The user can choose to keep the factory defaults or undo the reset.
 #: gui\configManagement.py:31
 msgid "Your configuration has been reset to factory defaults.\n"
 "Choose OK to keep factory defaults, or Undo to restore your previous configuration."
-msgstr ""
+msgstr "La tua configurazione è stata ripristinata alle impostazioni di fabbrica.\n"
+"Scegli OK per mantenere le impostazioni di fabbrica o Annulla per ripristinare la configurazione precedente."
 
 #. Translators: The label of the undo button in the factory defaults reset dialog.
 #. Pressing this button restores the previous configuration.
 #: gui\configManagement.py:38
 msgid "&Undo"
-msgstr ""
+msgstr "Ann&ulla"
 
 #. Translators: Reported when a factory reset has been undone
 #. and the previous configuration has been restored.
 #: gui\configManagement.py:68
 msgid "Factory reset undone. Previous configuration restored."
-msgstr ""
+msgstr "Ripristino di fabbrica annullato. Configurazione precedente ripristinata."
 
 #. Translators: The title of the Configuration Profiles dialog.
 #: gui\configProfiles.py:36
@@ -13002,33 +13005,33 @@ msgstr "Non posso salvare il file di definizione dei gesti, probabilmente il Fil
 #. shown in the post-install dialog.
 #: gui\installerGui.py:74
 msgid "Successfully updated your installation of NVDA. It is recommended to restart Windows after updating. NVDA may malfunction without a restart."
-msgstr ""
+msgstr "Installazione di NVDA aggiornata correttamente. Si consiglia di riavviare Windows dopo l'aggiornamento. In caso contrario, NVDA potrebbe non funzionare in modo adeguato."
 
 #. Translators: The message displayed when NVDA has been successfully installed,
 #. shown in the post-install dialog.
 #: gui\installerGui.py:82
 msgid "Successfully installed NVDA. It is recommended to restart Windows after installing. NVDA may malfunction without a restart."
-msgstr ""
+msgstr "NVDA è stato installato correttamente. Si consiglia di riavviare Windows dopo l'installazione. In caso contrario, NVDA potrebbe non funzionare in modo adeguato."
 
 #. Translators: Button in the post-install dialog to start the newly installed NVDA.
 #: gui\installerGui.py:96
 msgid "&Start NVDA"
-msgstr ""
+msgstr "&Avvia NVDA"
 
 #. Translators: Button in the post-install dialog to restart Windows immediately.
 #: gui\installerGui.py:101
 msgid "Restart &Windows"
-msgstr ""
+msgstr "Riavvio &Windows"
 
 #. Translators: Button in the post-install dialog to exit NVDA.
 #: gui\installerGui.py:106
 msgid "E&xit NVDA"
-msgstr ""
+msgstr "&Esci da NVDA"
 
 #. Translators: Message shown when Windows restart fails after NVDA installation.
 #: gui\installerGui.py:124
 msgid "Failed to restart Windows. Please restart Windows manually."
-msgstr ""
+msgstr "Impossibile riavviare Windows. Esegui un riavvio manuale."
 
 #. Translators: The title of the dialog presented while NVDA is being updated.
 #: gui\installerGui.py:157
@@ -13245,7 +13248,8 @@ msgstr "Per favore specificare una cartella nella quale creare la copia portable
 #, python-brace-format
 msgid "Please specify the absolute path where the portable copy should be created. It must start with a drive letter (e.g. C:). It may include system variables (e.g. %temp%, %homepath%) as placeholders for parts of the path.\n"
 "Current path: {path}. "
-msgstr ""
+msgstr "Specificare il percorso assoluto in cui creare la copia portable. Il percorso deve iniziare con una lettera di unità (ad esempio C:). È possibile utilizzare variabili di sistema (ad esempio %temp%, %homepath%) come segnaposto per parti del percorso.\n"
+"Percorso attuale: {path}."
 
 #. Translators: The message displayed when the user cancels the creation of a portable copy of NVDA.
 #: gui\installerGui.py:764
@@ -13644,7 +13648,7 @@ msgstr "Dizionari e&xtra per l'elaborazione di caratteri e simboli:"
 #. Translators: Label of the list where user can enable or disable speech dictionaries.
 #: gui\settingsDialogs.py:1862
 msgid "Sp&eech dictionaries:"
-msgstr ""
+msgstr "Dizionari p&er la voce:"
 
 #. Translators: Label of the list where user can select speech modes that will be available.
 #: gui\settingsDialogs.py:1876
@@ -14029,7 +14033,7 @@ msgstr "Inibisci i ges&ti che non rappresentano un comando"
 #. Translators: Label for the list of browse mode touch navigation element types in browse mode settings.
 #: gui\settingsDialogs.py:2676
 msgid "T&ouch navigation elements:"
-msgstr ""
+msgstr "Elementi navigazi&one touch:"
 
 #. Translators: Title of the math settings panel.
 #: gui\settingsDialogs.py:2713
@@ -14960,7 +14964,7 @@ msgstr "Utilizza WASAPI per l'uscita audio SAPI 4:"
 #. Advanced settings panel.
 #: gui\settingsDialogs.py:4568
 msgid "Use modern regular expression engine for speech dictionary entries:"
-msgstr ""
+msgstr "Utilizza il motore moderno delle espressioni regolari per i valori del dizionario vocale:"
 
 #. Translators: This is the label for a group of advanced options in the
 #. Advanced settings panel
@@ -15200,7 +15204,7 @@ msgstr "Interrompi la voce durante lo scorrimento"
 #. Translators: The label for a setting in braille settings to change the rate for autoscroll.
 #: gui\settingsDialogs.py:5533
 msgid "Auto&matic scroll rate"
-msgstr ""
+msgstr "Velocità di avanza&mento automatico"
 
 #. Translators: This message is presented when
 #. NVDA is unable to load a single vision enhancement provider.
@@ -15264,62 +15268,62 @@ msgstr "Impossibile configurare l'interfaccia utente della sezione miglioramenti
 #. Translators: This is the label for the magnifier settings panel.
 #: gui\settingsDialogs.py:6042
 msgid "Magnifier"
-msgstr ""
+msgstr "Ingranditore"
 
 #. Translators: The label for a setting in magnifier settings to enable or disable the magnifier.
 #: gui\settingsDialogs.py:6086
 msgid "&Enable magnifier (immediate effect)"
-msgstr ""
+msgstr "Abilita l'ingranditor&e (Effetto immediato)"
 
 #. Translators: The label for a setting in magnifier settings to select the zoom level.
 #: gui\settingsDialogs.py:6098
 msgid "&Zoom (%):"
-msgstr ""
+msgstr "&Livello di ingrandimento (%):"
 
 #. Translators: The label for a setting in magnifier settings to select the pan step size (in percentage).
 #: gui\settingsDialogs.py:6120
 msgid "&Panning step size (%):"
-msgstr ""
+msgstr "&Ampiezza dello spostamento (%):"
 
 #. Translators: The label for a setting in magnifier settings to select the default filter
 #: gui\settingsDialogs.py:6142
 msgid "F&ilter:"
-msgstr ""
+msgstr "F&iltro:"
 
 #. Translators: The label for a setting in magnifier settings to select the full-screen mode
 #: gui\settingsDialogs.py:6159
 msgid "&Fullscreen mode:"
-msgstr ""
+msgstr "&Modalità a schermo intero:"
 
 #. Translators: The label for a setting in magnifier settings to select whether true center is used in full-screen mode
 #: gui\settingsDialogs.py:6173
 msgid "Use &true center in fullscreen mode"
-msgstr ""
+msgstr "Mantieni sempre il focus al cen&tro in modalità a schermo intero"
 
 #. Translators: This is the label for a group of focus options in the magnifier settings panel
 #: gui\settingsDialogs.py:6191
 msgid "Focus"
-msgstr ""
+msgstr "Focus"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the mouse
 #: gui\settingsDialogs.py:6199
 msgid "Follow &mouse"
-msgstr ""
+msgstr "Segue il &mouse"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the system focus
 #: gui\settingsDialogs.py:6201
 msgid "Follow &system focus"
-msgstr ""
+msgstr "Segue il focus di &sistema"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the review cursor
 #: gui\settingsDialogs.py:6203
 msgid "Follow &review cursor"
-msgstr ""
+msgstr "Segue il cu&rsore di controllo"
 
 #. Translators: The label for a setting in magnifier settings to select whether the magnifier view should follow the navigator object
 #: gui\settingsDialogs.py:6206
 msgid "Follow &navigator object"
-msgstr ""
+msgstr "Segue il &navigatore ad oggetti"
 
 #. Translators: The title of the privacy and security category in NVDA's settings.
 #: gui\settingsDialogs.py:6276
@@ -15329,17 +15333,17 @@ msgstr "Privacy e sicurezza"
 #. Translators: Warning shown when enabling the "debug (unredacted)" log level from NVDA settings.
 #: gui\settingsDialogs.py:6289
 msgid "Setting the logging level to \"debug (unredacted)\" will write sensitive information to the log without redaction, including passwords, API keys, or other private data. Only enable this temporarily if you explicitly need unredacted diagnostic logs. Do you want to continue?"
-msgstr ""
+msgstr "L'impostazione del livello di log su \"debug (senza oscuramento)\" comporterà la scrittura nel log di informazioni sensibili, incluse password, chiavi API e altri dati privati. Attivare questa modalità solo temporaneamente se si ha la necessità esplicita di ottenere log diagnostici completi. Continuare?"
 
 #. Translators: Title of the warning dialog shown when enabling the "debug (unredacted)" log level.
 #: gui\settingsDialogs.py:6296
 msgid "High risk logging level"
-msgstr ""
+msgstr "Livello di log ad alto rischio"
 
 #. Translators: Warning shown when enabling a logging level above info from NVDA settings.
 #: gui\settingsDialogs.py:6301
 msgid "Setting the logging level above info may record sensitive information such as typed input, speech output, or other private data in the log. Only enable higher logging levels temporarily while troubleshooting. Do you want to continue?"
-msgstr ""
+msgstr "Impostare i log al di sopra del livello Info potrebbe registrare informazioni sensibili come caratteri digitati, testo pronunciato della sintesi vocale o altri dati privati. Abilitare livelli di log più elevati solo temporaneamente durante la risoluzione dei problemi. Vuoi continuare?"
 
 #. Translators: Name for a feature that disables output to the screen,
 #. making it black.
@@ -16307,7 +16311,7 @@ msgstr "Seleziona un file contenente il componente aggiuntivo"
 #: gui\addonStoreGui\viewModels\addonList.py:63
 msgctxt "addonStore"
 msgid "Relevance"
-msgstr ""
+msgstr "Rilevanza"
 
 #. Translators: The name of the column that contains the status of the addon.
 #. e.g. available, downloading installing
@@ -16532,7 +16536,7 @@ msgstr "Interazione con contenuto matematico non supportata."
 #. Translators: The name of the category of MathCAT navigation commands in the Input Gestures dialog.
 #: mathPres\MathCAT\MathCAT.py:50
 msgid "MathCat navigation"
-msgstr ""
+msgstr "Navigazione MathCat"
 
 #. Translators: this message reports an error in starting navigation of math.
 #: mathPres\MathCAT\MathCAT.py:92
@@ -17038,7 +17042,7 @@ msgstr "Bordi dell'oggetto posizionati {left:.1f} percento dal bordo sinistro de
 #, python-format
 msgid "%d percent"
 msgid_plural "%d percent"
-msgstr[0] ""
+msgstr[0] "%d percento"
 msgstr[1] ""
 
 #. Translators: Announced in braille when suggestions appear when search term is entered
@@ -19865,7 +19869,7 @@ msgstr "Dizionario temporaneo"
 #. Translators: Name of the default speech dictionary.
 #: speechDictHandler\definitions.py:56
 msgid "Default Dictionary"
-msgstr ""
+msgstr "Dizionario predefinito"
 
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:54
@@ -19885,42 +19889,42 @@ msgstr "&Parola intera"
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:60
 msgid "&Part of word"
-msgstr ""
+msgstr "&Parte della parola"
 
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:62
 msgid "&Start of word"
-msgstr ""
+msgstr "&Inizio della parola"
 
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:64
 msgid "E&nd of word"
-msgstr ""
+msgstr "Fi&ne della parola"
 
 #. Translators: This is a label for an Entry Type radio button in add dictionary entry dialog.
 #: speechDictHandler\types.py:66
 msgid "&Unix shell-style wildcards"
-msgstr ""
+msgstr "&Caratteri jolly in stile shell Unix"
 
 #. Translators: A type of speech dictionary.
 #: speechDictHandler\types.py:107
 msgid "Temporary"
-msgstr ""
+msgstr "Temporaneo"
 
 #. Translators: A type of speech dictionary.
 #: speechDictHandler\types.py:109
 msgid "Voice specific"
-msgstr ""
+msgstr "Specifico per la voce"
 
 #. Translators: A type of speech dictionary.
 #: speechDictHandler\types.py:111
 msgid "Default"
-msgstr ""
+msgstr "Predefinito"
 
 #. Translators: A type of speech dictionary.
 #: speechDictHandler\types.py:113
 msgid "Built-in"
-msgstr ""
+msgstr "Incorporato"
 
 #. Translators: Title for voice dictionary for the current voice such as current eSpeak variant.
 #: speechDictHandler\types.py:324
@@ -20222,7 +20226,7 @@ msgstr "Desktop protetto"
 #: _magnifier\commands.py:43 _magnifier\commands.py:64
 msgctxt "magnifier"
 msgid "left edge"
-msgstr ""
+msgstr "bordo sinistro"
 
 #. Translators: Message announced when already at right edge of the screen while panning the magnified view
 #. Translators: Message announced when already at right edge of the screen while panning the magnified view
@@ -20230,7 +20234,7 @@ msgstr ""
 #: _magnifier\commands.py:48 _magnifier\commands.py:70
 msgctxt "magnifier"
 msgid "right edge"
-msgstr ""
+msgstr "bordo destro"
 
 #. Translators: Message announced when already at top edge of the screen while panning the magnified view
 #. Translators: Message announced when already at top edge of the screen while panning the magnified view
@@ -20238,7 +20242,7 @@ msgstr ""
 #: _magnifier\commands.py:53 _magnifier\commands.py:76
 msgctxt "magnifier"
 msgid "top edge"
-msgstr ""
+msgstr "bordo superiore"
 
 #. Translators: Message announced when already at bottom edge of the screen while panning the magnified view
 #. Translators: Message announced when already at left edge of the screen while panning the magnified view
@@ -20246,118 +20250,118 @@ msgstr ""
 #: _magnifier\commands.py:58 _magnifier\commands.py:82
 msgctxt "magnifier"
 msgid "bottom edge"
-msgstr ""
+msgstr "bordo inferiore"
 
 #. Translators: Message announced when stopping the NVDA magnifier.
 #: _magnifier\commands.py:99
 msgctxt "magnifier"
 msgid "Exiting magnifier"
-msgstr ""
+msgstr "Chiusura dell'ingranditore"
 
 #. Translators: Message announced when trying to start magnifier while Screen Curtain is active.
 #: _magnifier\commands.py:108
 msgctxt "magnifier"
 msgid "Cannot start magnifier: Screen Curtain is active. Please disable Screen Curtain first."
-msgstr ""
+msgstr "Non è possibile avviare l'ingranditore."
 
 #. Translators: Message announced when starting the NVDA magnifier.
 #: _magnifier\commands.py:121
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Starting {magnifiedView} magnifier with {zoomLevel} zoom level, {filter} filter, and {fullscreenMode} full-screen mode"
-msgstr ""
+msgstr "Avvio dell'ingranditore {magnifiedView} con livello ingrandimento {zoomLevel}, filtro {filter} e modalità a schermo intero {fullscreenMode}"
 
 #. Translators: Message announced when starting the NVDA magnifier.
 #: _magnifier\commands.py:132
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Starting {magnifiedView} magnifier with {zoomLevel} zoom level and {filter} filter"
-msgstr ""
+msgstr "Avvio dell'ingranditore {magnifiedView} con livello ingrandimento {zoomLevel} e filtro {filter} "
 
 #. Translators: Message announced when changing the color filter with {filter} being the new color filter.
 #: _magnifier\commands.py:196
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Color filter changed to {filter}"
-msgstr ""
+msgstr "Filtro colore cambiato in {filter}"
 
 #. Translators: Message announced when changing the magnifier view with {view} being the new magnifier view.
 #: _magnifier\commands.py:220
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Magnifier view changed to {view}"
-msgstr ""
+msgstr "Visualizzazione dell'ingranditore impostata su {view}"
 
 #. Translators: Message announced when toggling a follow setting with {setting} being the name of the setting and {state} being either "enabled" or "disabled".
 #: _magnifier\commands.py:243
 #, python-brace-format
 msgctxt "magnifier"
 msgid "{setting} {state}"
-msgstr ""
+msgstr "{setting} {state}"
 
 #. Translators: State of the follow setting being toggled enabled.
 #: _magnifier\commands.py:249
 msgctxt "magnifier"
 msgid "enabled"
-msgstr ""
+msgstr "Attivato"
 
 #. Translators: State of the follow setting being toggled disabled.
 #: _magnifier\commands.py:255
 msgctxt "magnifier"
 msgid "disabled"
-msgstr ""
+msgstr "Disattivato"
 
 #. Translators: State of all follow settings being toggled disabled.
 #: _magnifier\commands.py:273
 msgctxt "magnifier"
 msgid "All follow settings disabled"
-msgstr ""
+msgstr "Tutte le impostazioni di inseguimento disabilitate"
 
 #. Translators: State of all follow settings being restored.
 #: _magnifier\commands.py:279
 msgctxt "magnifier"
 msgid "All follow settings restored"
-msgstr ""
+msgstr "Tutte le impostazioni di inseguimento sono state ripristinate"
 
 #. Translators: Message announced when changing the full-screen mode with {mode} being the new full-screen mode.
 #: _magnifier\commands.py:307
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Full-screen mode changed to {mode}"
-msgstr ""
+msgstr "Modalità a schermo intero cambiata in {mode}"
 
 #. Translators: Message announced when trying to start spotlight mode while it's already active.
 #: _magnifier\commands.py:331
 msgctxt "magnifier"
 msgid "Spotlight mode is already active"
-msgstr ""
+msgstr "La modalità panoramica è già attiva"
 
 #. Translators: Message announced when spotlight mode is started.
 #: _magnifier\commands.py:341
 msgctxt "magnifier"
 msgid "Spotlight mode started"
-msgstr ""
+msgstr "Modalità panoramica avviata"
 
 #. Translators: Message announced when the magnifier is not active.
 #: _magnifier\commands.py:365
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Cannot {action} when Magnifier is not active."
-msgstr ""
+msgstr "Impossibile {action} se l'ingranditore è disattivo."
 
 #. Translators: Message announced when the magnifier is not full-screen.
 #: _magnifier\commands.py:390
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Cannot {action} when Magnifier is not full-screen."
-msgstr ""
+msgstr "Impossibile {action} se l'Ingranditore non è a schermo intero."
 
 #. Translators: Message announced when zooming in with {zoomLevel} being the target zoom level.
 #: _magnifier\config.py:49
 #, python-brace-format
 msgctxt "magnifier"
 msgid "{zoomLevel}x"
-msgstr ""
+msgstr "{zoomLevel}x"
 
 #. Translators: Message when NVDA's Magnifier cannot start because another magnifier is already running.
 #: _magnifier\fullscreenMagnifier.py:76
