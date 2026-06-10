@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-09 02:27+0000\n"
-"PO-Revision-Date: 2026-06-09 21:42\n"
+"POT-Creation-Date: 2026-06-10 01:09+0000\n"
+"PO-Revision-Date: 2026-06-10 02:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -1887,7 +1887,7 @@ msgstr "Intestazioni (&h)"
 
 #. Translators: The label of a radio button to select the type of element
 #. in the browse mode Elements List dialog.
-#: browseMode.py:1445 NVDAObjects\window\excel.py:762
+#: browseMode.py:1445 NVDAObjects\window\excel.py:773
 msgid "&Form fields"
 msgstr "campi (&f)"
 
@@ -2497,7 +2497,7 @@ msgstr "Nessuna selezione"
 #: displayModel.py:556 appModules\powerpnt.py:1223 appModules\soffice.py:99
 #: controlTypes\formatFields.py:53 NVDAObjects\JAB\__init__.py:206
 #: NVDAObjects\UIA\__init__.py:194 NVDAObjects\window\edit.py:339
-#: NVDAObjects\window\edit.py:702 NVDAObjects\window\excel.py:1362
+#: NVDAObjects\window\edit.py:702 NVDAObjects\window\excel.py:1373
 #: NVDAObjects\window\scintilla.py:154 NVDAObjects\window\winword.py:1272
 #: virtualBuffers\adobeAcrobat.py:83
 #, python-format
@@ -18311,316 +18311,316 @@ msgstr "Colore sconosciuto"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Excel controls the pattern.
-#: NVDAObjects\window\excel.py:245
+#: NVDAObjects\window\excel.py:246
 msgid "automatic"
 msgstr "automatico"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Checkerboard
-#: NVDAObjects\window\excel.py:248
+#: NVDAObjects\window\excel.py:249
 msgid "diagonal crosshatch"
 msgstr "tratteggio incrociato diagonale"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Criss-cross lines
-#: NVDAObjects\window\excel.py:251
+#: NVDAObjects\window\excel.py:252
 msgid "thin diagonal crosshatch"
 msgstr "tratteggio incrociato diagonale sottile"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Dark diagonal lines running from the upper left to the lower right
-#: NVDAObjects\window\excel.py:254
+#: NVDAObjects\window\excel.py:255
 msgid "reverse diagonal stripe"
 msgstr "striscia diagonale inversa"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. 12.5% gray
-#: NVDAObjects\window\excel.py:258
+#: NVDAObjects\window\excel.py:259
 #, no-python-format
 msgid "12.5% gray"
 msgstr "grigio 12.5%"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. 25% gray
-#: NVDAObjects\window\excel.py:262
+#: NVDAObjects\window\excel.py:263
 #, no-python-format
 msgid "25% gray"
 msgstr "grigio 25%"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. 50% gray
-#: NVDAObjects\window\excel.py:266
+#: NVDAObjects\window\excel.py:267
 #, no-python-format
 msgid "50% gray"
 msgstr "grigio 50%"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. 75% gray
-#: NVDAObjects\window\excel.py:270
+#: NVDAObjects\window\excel.py:271
 #, no-python-format
 msgid "75% gray"
 msgstr "grigio 75%"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. 6.25% gray
-#: NVDAObjects\window\excel.py:274
+#: NVDAObjects\window\excel.py:275
 #, no-python-format
 msgid "6.25% gray"
 msgstr "Grigio 6.25%"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Grid
-#: NVDAObjects\window\excel.py:277
+#: NVDAObjects\window\excel.py:278
 msgid "thin horizontal crosshatch"
 msgstr "tratteggio incrociato orizzontale sottile"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Dark horizontal lines
-#: NVDAObjects\window\excel.py:280
+#: NVDAObjects\window\excel.py:281
 msgid "horizontal stripe"
 msgstr "striscia orizzontale"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Light diagonal lines running from the upper left to the lower right
-#: NVDAObjects\window\excel.py:283
+#: NVDAObjects\window\excel.py:284
 msgid "thin reverse diagonal stripe"
 msgstr "striscia diagonale inversa sottile"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Light horizontal lines
-#: NVDAObjects\window\excel.py:286
+#: NVDAObjects\window\excel.py:287
 msgid "thin horizontal stripe"
 msgstr "striscia orizzontale sottile"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Light diagonal lines running from the lower left to the upper right
-#: NVDAObjects\window\excel.py:289
+#: NVDAObjects\window\excel.py:290
 msgid "thin diagonal stripe"
 msgstr "striscia diagonale sottile"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Light vertical bars
-#: NVDAObjects\window\excel.py:292
+#: NVDAObjects\window\excel.py:293
 msgid "thin vertical stripe"
 msgstr "striscia verticale sottile"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. No pattern
-#: NVDAObjects\window\excel.py:295 speech\speech.py:2810
+#: NVDAObjects\window\excel.py:296 speech\speech.py:2810
 msgid "none"
 msgstr "nessuno"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. 75% dark moire
-#: NVDAObjects\window\excel.py:298
+#: NVDAObjects\window\excel.py:299
 msgid "thick diagonal crosshatch"
 msgstr "tratteggio incrociato diagonale spesso"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Solid color
-#: NVDAObjects\window\excel.py:301
+#: NVDAObjects\window\excel.py:302
 msgid "solid"
 msgstr "solido"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Dark diagonal lines running from the lower left to the upper right
-#: NVDAObjects\window\excel.py:304
+#: NVDAObjects\window\excel.py:305
 msgid "diagonal stripe"
 msgstr "striscia diagonale"
 
 #. Translators: A type of background pattern in Microsoft Excel.
 #. Dark vertical bars
-#: NVDAObjects\window\excel.py:307
+#: NVDAObjects\window\excel.py:308
 msgid "vertical stripe"
 msgstr "striscia verticale"
 
 #. Translators: A type of background pattern in Microsoft Excel.
-#: NVDAObjects\window\excel.py:309
+#: NVDAObjects\window\excel.py:310
 msgid "linear gradient"
 msgstr "gradiente lineare"
 
 #. Translators: A type of background pattern in Microsoft Excel.
-#: NVDAObjects\window\excel.py:311
+#: NVDAObjects\window\excel.py:312
 msgid "rectangular gradient"
 msgstr "gradiente rettangolare"
 
 #. Translators: the description for the elements list command in Microsoft Excel.
-#: NVDAObjects\window\excel.py:743
+#: NVDAObjects\window\excel.py:754
 msgid "Lists various types of elements in this spreadsheet"
 msgstr "Elenca vari tipi di elementi in questo foglio elettronico"
 
 #. Translators: The label of a radio button to select the type of element
 #. in the browse mode Elements List dialog.
-#: NVDAObjects\window\excel.py:753 NVDAObjects\window\winword.py:2222
+#: NVDAObjects\window\excel.py:764 NVDAObjects\window\winword.py:2222
 msgid "&Charts"
 msgstr "&Grafici"
 
 #. Translators: The label of a radio button to select the type of element
 #. in the browse mode Elements List dialog.
-#: NVDAObjects\window\excel.py:756
+#: NVDAObjects\window\excel.py:767
 msgid "N&otes"
 msgstr "N&ote"
 
 #. Translators: The label of a radio button to select the type of element
 #. in the browse mode Elements List dialog.
-#: NVDAObjects\window\excel.py:759
+#: NVDAObjects\window\excel.py:770
 msgid "Fo&rmulas"
 msgstr "Fo&rmule"
 
 #. Translators: The label of a radio button to select the type of element
 #. in the browse mode Elements List dialog.
-#: NVDAObjects\window\excel.py:765
+#: NVDAObjects\window\excel.py:776
 msgid "&Sheets"
 msgstr "Fogli (&s)"
 
 #. Translators: Used to express an address range in excel.
-#: NVDAObjects\window\excel.py:797 NVDAObjects\window\excel.py:1795
+#: NVDAObjects\window\excel.py:808 NVDAObjects\window\excel.py:1806
 #, python-brace-format
 msgid "{start} through {end}"
 msgstr "{start} fino a {end}"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
 #. Translators: a message when toggling formatting in Microsoft word
-#: NVDAObjects\window\excel.py:1286 NVDAObjects\window\winword.py:1763
+#: NVDAObjects\window\excel.py:1297 NVDAObjects\window\winword.py:1763
 msgid "Bold off"
 msgstr "Grassetto disattivato"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
 #. Translators: a message when toggling formatting in Microsoft word
-#: NVDAObjects\window\excel.py:1288 NVDAObjects\window\winword.py:1760
+#: NVDAObjects\window\excel.py:1299 NVDAObjects\window\winword.py:1760
 msgid "Bold on"
 msgstr "Grassetto attivato"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
 #. Translators: a message when toggling formatting in Microsoft word
-#: NVDAObjects\window\excel.py:1300 NVDAObjects\window\winword.py:1781
+#: NVDAObjects\window\excel.py:1311 NVDAObjects\window\winword.py:1781
 msgid "Italic off"
 msgstr "Corsivo disattivato"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
 #. Translators: a message when toggling formatting in Microsoft word
-#: NVDAObjects\window\excel.py:1302 NVDAObjects\window\winword.py:1778
+#: NVDAObjects\window\excel.py:1313 NVDAObjects\window\winword.py:1778
 msgid "Italic on"
 msgstr "Corsivo attivato"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
 #. Translators: a message when toggling formatting in Microsoft word
-#: NVDAObjects\window\excel.py:1314 NVDAObjects\window\winword.py:1810
+#: NVDAObjects\window\excel.py:1325 NVDAObjects\window\winword.py:1810
 msgid "Underline off"
 msgstr "Sottolineatura disattivata"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
-#: NVDAObjects\window\excel.py:1316
+#: NVDAObjects\window\excel.py:1327
 msgid "Underline on"
 msgstr "Sottolineatura attivata"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
-#: NVDAObjects\window\excel.py:1328
+#: NVDAObjects\window\excel.py:1339
 msgid "Strikethrough off"
 msgstr "Barrato disattivo"
 
 #. Translators: a message when toggling formatting in Microsoft Excel
-#: NVDAObjects\window\excel.py:1330
+#: NVDAObjects\window\excel.py:1341
 msgid "Strikethrough on"
 msgstr "Barrato attivo"
 
 #. Translators: the description for a script for Excel
-#: NVDAObjects\window\excel.py:1666
+#: NVDAObjects\window\excel.py:1677
 msgid "Sets the current cell as start of column header. Pressing once will set this cell as the first column header for any cell lower and to the right of it within this region. Pressing twice will forget the current column header for this cell."
 msgstr "Imposta l'intestazione corrente come inizio intestazione colonna. Una singola pressione imposterà questa cella come prima intestazione colonna per qualsiasi cella al di sotto e a destra in questa regione. La doppia pressione eliminerà l'intestazione di colonna corrente per questa cella."
 
 #. Translators: a message reported in the SetColumnHeader script for Excel.
-#: NVDAObjects\window\excel.py:1678
+#: NVDAObjects\window\excel.py:1689
 #, python-brace-format
 msgid "Set {address} as start of column headers"
 msgstr "Imposta {address} come inizio intestazioni colonna"
 
 #. Translators: a message reported in the SetColumnHeader script for Excel.
-#: NVDAObjects\window\excel.py:1682
+#: NVDAObjects\window\excel.py:1693
 #, python-brace-format
 msgid "Already set {address} as start of column headers"
 msgstr "{address} già impostato a inizio intestazioni colonna"
 
 #. Translators: a message reported in the SetColumnHeader script for Excel.
-#: NVDAObjects\window\excel.py:1687
+#: NVDAObjects\window\excel.py:1698
 #, python-brace-format
 msgid "Removed {address} from column headers"
 msgstr "Rimosso {address} dalle intestazioni delle colonne"
 
 #. Translators: a message reported in the SetColumnHeader script for Excel.
-#: NVDAObjects\window\excel.py:1691
+#: NVDAObjects\window\excel.py:1702
 #, python-brace-format
 msgid "Cannot find {address} in column headers"
 msgstr "Impossibile trovare {address} nelle intestazioni delle colonne"
 
 #. Translators: the description for a script for Excel
-#: NVDAObjects\window\excel.py:1697
+#: NVDAObjects\window\excel.py:1708
 msgid "Sets the current cell as start of row headers. Pressing once will set this cell as the first row header for any cell lower and to the right of it within this region. Pressing twice will forget the current row header for this cell."
 msgstr "Imposta l'intestazione corrente come inizio intestazione di riga. Una singola pressione imposterà questa cella come prima intestazione di riga per qualsiasi cella al di sotto e a destra in questa regione. La doppia pressione eliminerà l'intestazione di riga corrente per questa cella."
 
 #. Translators: a message reported in the SetRowHeader script for Excel.
-#: NVDAObjects\window\excel.py:1709
+#: NVDAObjects\window\excel.py:1720
 #, python-brace-format
 msgid "Set {address} as start of row headers"
 msgstr "Imposta {address} all'inizio  intestazioni riga"
 
 #. Translators: a message reported in the SetRowHeader script for Excel.
-#: NVDAObjects\window\excel.py:1713
+#: NVDAObjects\window\excel.py:1724
 #, python-brace-format
 msgid "Already set {address} as start of row headers"
 msgstr "{address} già impostato a inizio intestazioni riga"
 
 #. Translators: a message reported in the SetRowHeader script for Excel.
-#: NVDAObjects\window\excel.py:1718
+#: NVDAObjects\window\excel.py:1729
 #, python-brace-format
 msgid "Removed {address}    from row headers"
 msgstr "{address} rimosso dalle intestazioni riga"
 
 #. Translators: a message reported in the SetRowHeader script for Excel.
-#: NVDAObjects\window\excel.py:1721
+#: NVDAObjects\window\excel.py:1732
 #, python-brace-format
 msgid "Cannot find {address}    in row headers"
 msgstr "Impossibile trovare {address} nelle intestazioni riga"
 
 #. Translators: a message reported in the get location text script for Excel. {0} is replaced with the name of the excel worksheet, and {1} is replaced with the row and column identifier EG "G4"
-#: NVDAObjects\window\excel.py:1823
+#: NVDAObjects\window\excel.py:1834
 #, python-brace-format
 msgid "Sheet {0}, {1}"
 msgstr "Foglio {0}, {1}"
 
-#: NVDAObjects\window\excel.py:1903
+#: NVDAObjects\window\excel.py:1914
 #, python-brace-format
 msgid "Input Message is {title}: {message}"
 msgstr "Il messaggio immesso è  {title}: {message}"
 
-#: NVDAObjects\window\excel.py:1905
+#: NVDAObjects\window\excel.py:1916
 #, python-brace-format
 msgid "Input Message is {message}"
 msgstr "Il messaggio immesso è {message}"
 
 #. Translators: the description for a script for Excel
-#: NVDAObjects\window\excel.py:1920
+#: NVDAObjects\window\excel.py:1931
 msgid "Reports the note on the current cell. If pressed twice, presents the information in browse mode"
 msgstr "Legge la nota sulla cella corrente. Se premuto due volte, mostra le informazioni in modalità navigazione"
 
 #. Translators: title for note on the current Excel cell dialog.
 #. Translators: Title for the note editing  dialog
-#: NVDAObjects\window\excel.py:1937 NVDAObjects\window\excel.py:1956
+#: NVDAObjects\window\excel.py:1948 NVDAObjects\window\excel.py:1967
 msgid "Note"
 msgstr "Nota"
 
 #. Translators: A message in Excel when there is no note
-#: NVDAObjects\window\excel.py:1941
+#: NVDAObjects\window\excel.py:1952
 msgid "Not on a note"
 msgstr "Non su una nota"
 
 #. Translators: the description  for a script for Excel
-#: NVDAObjects\window\excel.py:1945
+#: NVDAObjects\window\excel.py:1956
 msgid "Opens the note editing dialog"
 msgstr "Apre la finestra di dialogo per la modifica delle note"
 
 #. Translators: Dialog text for the note editing dialog
-#: NVDAObjects\window\excel.py:1954
+#: NVDAObjects\window\excel.py:1965
 #, python-brace-format
 msgid "Editing note for cell {address}"
 msgstr "Modifico la nota per la cella {address}"
@@ -18628,7 +18628,7 @@ msgstr "Modifico la nota per la cella {address}"
 #. Translators: This is presented in Excel to show the current selection, for example 'a1 c3 through a10 c10'
 #. Beware to keep two spaces between the address and the content. Otherwise some synthesizer
 #. may mix the address and the content when the cell contains a 3-digit number.
-#: NVDAObjects\window\excel.py:2010
+#: NVDAObjects\window\excel.py:2041
 #, python-brace-format
 msgid "{firstAddress}  {firstContent} through {lastAddress}  {lastContent}"
 msgstr "{firstAddress}  {firstContent} fino a {lastAddress}  {lastContent}"
