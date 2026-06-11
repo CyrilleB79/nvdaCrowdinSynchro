@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-10 01:09+0000\n"
-"PO-Revision-Date: 2026-06-11 10:09\n"
+"PO-Revision-Date: 2026-06-11 14:31\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -15277,7 +15277,7 @@ msgstr "Loupe"
 #. Translators: The label for a setting in magnifier settings to enable or disable the magnifier.
 #: gui\settingsDialogs.py:6095
 msgid "&Enable magnifier (immediate effect)"
-msgstr "&Activer la loupe (effet immédiat)"
+msgstr "Activ&er la loupe (effet immédiat)"
 
 #. Translators: The label for a setting in magnifier settings to select the zoom level.
 #: gui\settingsDialogs.py:6109
@@ -15292,12 +15292,12 @@ msgstr "F&iltre :"
 #. Translators: The label for a setting in magnifier settings to select whether true center is used
 #: gui\settingsDialogs.py:6148
 msgid "&True center tracking"
-msgstr ""
+msgstr "Suivi du cen&tre réel"
 
 #. Translators: The label for a setting in magnifier settings to select the pan step size (in percentage).
 #: gui\settingsDialogs.py:6162
 msgid "&Panning step size (%):"
-msgstr "&Taille du pas de déplacement (%) :"
+msgstr "Taille du &pas de déplacement (%) :"
 
 #. Translators: This is the label for a group of focus options in the magnifier settings panel
 #: gui\settingsDialogs.py:6184
@@ -15328,12 +15328,12 @@ msgstr "Suivre l'objet &navigateur"
 #. magnifier settings panel
 #: gui\settingsDialogs.py:6217
 msgid "Fullscreen"
-msgstr ""
+msgstr "Plein écran"
 
 #. Translators: The label for a setting in magnifier settings to select the full-screen mode
 #: gui\settingsDialogs.py:6225
 msgid "Focus &mode:"
-msgstr ""
+msgstr "&Mode de suivi :"
 
 #. Translators: The title of the privacy and security category in NVDA's settings.
 #: gui\settingsDialogs.py:6298
