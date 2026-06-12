@@ -6673,9 +6673,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 39</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Built-in screen magnification and color filtering</source>
-        <target>Built-in screen magnification and color filtering</target>
+        <target>Loupe intégrée et filtres de couleur</target>
       </segment>
     </unit>
     <unit id="9e8a8992-9934-4641-98c2-b1a3fd3aaf36">
@@ -17345,9 +17345,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1579</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Important: The NVDA Magnifier cannot be used simultaneously with Screen Curtain for security reasons.</source>
-        <target>Important: The NVDA Magnifier cannot be used simultaneously with Screen Curtain for security reasons.</target>
+        <target>Important : La loupe NVDA ne peut pas être utilisée simultanément avec le rideau d'écran pour des raisons de sécurité.</target>
       </segment>
     </unit>
     <unit id="85c736e8-74fc-406d-9748-ea4418a5481f">
@@ -17365,18 +17365,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MagnifierCommands}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Magnifier Commands</source>
-        <target>Magnifier Commands</target>
+        <target>Commandes de la loupe</target>
       </segment>
     </unit>
     <unit id="b8893b75-7b95-4c65-bb4f-7005c82f17aa">
       <notes>
         <note appliesTo="source">line: 1584</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Once the magnifier is enabled, you can use the following keyboard commands to control it:</source>
-        <target>Once the magnifier is enabled, you can use the following keyboard commands to control it:</target>
+        <target>Une fois la loupe activée, vous pouvez utiliser les commandes clavier suivantes pour la contrôler :</target>
       </segment>
     </unit>
     <unit id="1dad6e9b-db46-4305-a3fb-ae46243aac6d">
@@ -17385,9 +17385,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Name | Key | Description </source>
-        <target> Name | Key | Description </target>
+        <target> Nom | Touche | Description </target>
       </segment>
     </unit>
     <unit id="3b4deade-138f-404c-af27-d789d82d9397">
@@ -27797,27 +27797,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#BrowseModeSettingsBrowseModeNavigationElements}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Browse mode touch navigation elements</source>
-        <target>Browse mode touch navigation elements</target>
+        <target>Éléments pour le mode navigation tactile</target>
       </segment>
     </unit>
     <unit id="c500ea2e-b9d9-4459-a9b3-7388c9eae434">
       <notes>
         <note appliesTo="source">line: 3405</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This list allows you to choose which element types are available when cycling through elements in browse touch mode.</source>
-        <target>This list allows you to choose which element types are available when cycling through elements in browse touch mode.</target>
+        <target>Cette liste vous permet de choisir les types d'éléments disponibles lorsque vous parcourez les éléments en mode navigation tactile.</target>
       </segment>
     </unit>
     <unit id="aba85b83-10d5-4449-90c8-c75a8cad6183">
       <notes>
         <note appliesTo="source">line: 3406</note>
       </notes>
-      <segment state="initial">
+      <segment state="translated">
         <source>Use the checkboxes to enable or disable individual element types.</source>
-        <target>Use the checkboxes to enable or disable individual element types.</target>
+        <target>Utilisez les cases à cocher pour activer ou désactiver des types d'éléments individuels.</target>
       </segment>
     </unit>
     <unit id="9d79eb50-e08c-442a-ae31-c37d3b6d7053">
