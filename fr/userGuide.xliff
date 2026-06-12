@@ -27815,7 +27815,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3406</note>
       </notes>
-      <segment state="translated">
+      <segment state="final">
         <source>Use the checkboxes to enable or disable individual element types.</source>
         <target>Utilisez les cases à cocher pour activer ou désactiver des types d'éléments individuels.</target>
       </segment>
@@ -27824,27 +27824,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3407</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only the checked element types will appear when flicking up or down to cycle through browse mode navigation elements.</source>
-        <target>Only the checked element types will appear when flicking up or down to cycle through browse mode navigation elements.</target>
+        <target>Seuls les types d'éléments cochés apparaîtront lorsque vous ferez un glissé haut ou bas pour parcourir les éléments de navigation en mode navigation.</target>
       </segment>
     </unit>
     <unit id="70bbd2f6-2eac-478d-8e55-03dab261d682">
       <notes>
         <note appliesTo="source">line: 3408</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting only affects touch navigation and has no effect on keyboard browse mode navigation.</source>
-        <target>This setting only affects touch navigation and has no effect on keyboard browse mode navigation.</target>
+        <target>Ce paramètre affecte uniquement la navigation tactile et n’a aucun effet sur le mode navigation utilisé au clavier.</target>
       </segment>
     </unit>
     <unit id="c4abd168-0dee-41e1-9d65-82300bcf5214">
       <notes>
         <note appliesTo="source">line: 3410</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Available element types are those available from [single letter navigation](#SingleLetterNavigation).</source>
-        <target>Available element types are those available from [single letter navigation](#SingleLetterNavigation).</target>
+        <target>Les types d'éléments disponibles sont ceux disponibles avec les [touches de navigation rapide](#SingleLetterNavigation).</target>
       </segment>
     </unit>
     <unit id="bcfc7b41-3341-4d76-aa51-068b29f9e036">
@@ -32643,27 +32643,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SpeechDictsUseModernRegex}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use modern regular expression engine for speech dictionary entries</source>
-        <target>Use modern regular expression engine for speech dictionary entries</target>
+        <target>Utiliser le moteur d'expression régulière moderne pour les entrées du dictionnaire vocal</target>
       </segment>
     </unit>
     <unit id="04a28ecb-a7cb-40a5-9189-98ceaed97d4d">
       <notes>
         <note appliesTo="source">line: 4195</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting controls how Regular expression entries in [speech dictionaries](#SpeechDictionaries) are matched.</source>
-        <target>This setting controls how Regular expression entries in [speech dictionaries](#SpeechDictionaries) are matched.</target>
+        <target>Ce paramètre contrôle la façon dont les entrées en expression régulière dans les [dictionnaires de prononciation](#SpeechDictionaries) sont mise en correspondance.</target>
       </segment>
     </unit>
     <unit id="58b2a801-3179-4bd9-a49c-8ab963507f0d">
       <notes>
         <note appliesTo="source">line: 4196</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The [modern engine](https://pypi.org/project/regex/) has better support for non-Latin scripts, such as Hebrew and Arabic, and offers more powerful matching options.</source>
-        <target>The [modern engine](https://pypi.org/project/regex/) has better support for non-Latin scripts, such as Hebrew and Arabic, and offers more powerful matching options.</target>
+        <target>Le [moteur moderne](https://pypi.org/project/regex/) offre une meilleure prise en charge des scripts non latins, comme l’hébreu et l’arabe, et propose des options de correspondance plus puissantes.</target>
       </segment>
     </unit>
     <unit id="2472f059-e2d2-4bf1-a060-116f8f2b5723">
@@ -32672,9 +32672,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Default (Disabled), Disabled, Enabled </source>
-        <target> Options | Default (Disabled), Disabled, Enabled </target>
+        <target> Options | Défaut (Désactivé), Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="04b5ac9d-bfa1-4083-8b5f-b1d42e25719a">
@@ -32683,9 +32683,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Disabled </source>
-        <target> Default | Disabled </target>
+        <target> Défaut | Désactivé </target>
       </segment>
     </unit>
     <unit id="9818ec02-721e-4b97-aa0e-668e024c4ab0">
@@ -32826,27 +32826,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4224</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Choosing "Only in test versions (default)" makes NVDA play error sounds only if the current NVDA version is a test version (alpha, beta or run from source).</source>
-        <target>Choosing "Only in test versions (default)" makes NVDA play error sounds only if the current NVDA version is a test version (alpha, beta or run from source).</target>
+        <target>En sélectionnant "Uniquement dans les versions de test" (par défaut), NVDA émet des sons d'erreur uniquement si la version actuelle de NVDA est une version de test (alpha, bêta ou exécutée à partir de la source).</target>
       </segment>
     </unit>
     <unit id="72a81354-4aa7-4b1d-ba44-9534dd79d5b2">
       <notes>
         <note appliesTo="source">line: 4225</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Choosing "Yes" allows to enable error sounds whatever your current NVDA version is.</source>
-        <target>Choosing "Yes" allows to enable error sounds whatever your current NVDA version is.</target>
+        <target>En sélectionnant "Oui" les sons d'erreur sont activés quelle que soit votre version actuelle de NVDA.</target>
       </segment>
     </unit>
     <unit id="0756770e-86e7-4a3b-a4b6-13052497d47a">
       <notes>
         <note appliesTo="source">line: 4226</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Choosing "No" disables error sounds no matter what your current NVDA version is, i.e. even in test versions.</source>
-        <target>Choosing "No" disables error sounds no matter what your current NVDA version is, i.e. even in test versions.</target>
+        <target>En sélectionnant "Non" les sons d'erreur sont désactivés quelle que soit votre version actuelle de NVDA, c'est-à-dire même dans les versions de test.</target>
       </segment>
     </unit>
     <unit id="3ca8ba30-8997-4dd3-b513-28dc5437a1e3">
@@ -33087,18 +33087,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4265</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A set of radio buttons allows you to tell NVDA how your pattern should be matched.</source>
-        <target>A set of radio buttons allows you to tell NVDA how your pattern should be matched.</target>
+        <target>Un ensemble de boutons radio vous permet de dire à NVDA comment votre modèle doit s'appliquer.</target>
       </segment>
     </unit>
     <unit id="1a38a0d1-fb11-4693-9cd8-0478f310c930">
       <notes>
         <note appliesTo="source">line: 4266</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The available types are:</source>
-        <target>The available types are:</target>
+        <target>Les types disponibles sont :</target>
       </segment>
     </unit>
     <unit id="44d31f37-c63a-4b05-9520-57b1d48d51cf">
@@ -33106,9 +33106,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4268</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Anywhere: The pattern can match anywhere in the text.</source>
-        <target>Anywhere: The pattern can match anywhere in the text.</target>
+        <target>N'importe où : le modèle peut s'appliquer n'importe où dans le texte.</target>
       </segment>
     </unit>
     <unit id="290b9c91-1b7e-4a86-9c71-2d4ef4feeb88">
@@ -33116,36 +33116,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4269</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Whole word: The replacement will only be made if the pattern occurs as a complete word.</source>
-        <target>Whole word: The replacement will only be made if the pattern occurs as a complete word.</target>
+        <target>Mot entier : le remplacement ne sera effectué que si le modèle apparaît comme un mot complet.</target>
       </segment>
     </unit>
     <unit id="bce74ba5-726a-47b4-bc68-cd911592c203">
       <notes>
         <note appliesTo="source">line: 4270</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means the pattern does not occur as part of a larger word.</source>
-        <target>This means the pattern does not occur as part of a larger word.</target>
+        <target>Cela signifie que le modèle n’apparaît pas dans le cadre d’un mot plus grand.</target>
       </segment>
     </unit>
     <unit id="f978ca88-0875-413b-ac46-79fa9be8d94b">
       <notes>
         <note appliesTo="source">line: 4271</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The condition is met if the characters immediately before and after the word are anything other than a letter, a number, or an underscore, or if there are no characters at all.</source>
-        <target>The condition is met if the characters immediately before and after the word are anything other than a letter, a number, or an underscore, or if there are no characters at all.</target>
+        <target>La condition est remplie si les caractères immédiatement avant et après le mot sont autres qu'une lettre, un chiffre ou un trait de soulignement, ou s'il n'y a aucun caractère.</target>
       </segment>
     </unit>
     <unit id="b75a1ad3-aacd-480e-93c8-5a25e668ef76">
       <notes>
         <note appliesTo="source">line: 4272</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, if you replace "bird" with "frog" using whole word matching, it would not match "birds" or "bluebird".</source>
-        <target>For example, if you replace "bird" with "frog" using whole word matching, it would not match "birds" or "bluebird".</target>
+        <target>Par exemple, si vous remplacez "oiseau" par "grenouille" en utilisant une correspondance de mots entiers, cela ne correspondra pas à "oiseaux" ou "damoiseau".</target>
       </segment>
     </unit>
     <unit id="39dc3906-8f20-4611-bd0b-3e8bac8df9c3">
@@ -33153,27 +33153,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4273</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Part of word: The pattern must be preceded or followed by an alphanumeric character or underscore to match.</source>
-        <target>Part of word: The pattern must be preceded or followed by an alphanumeric character or underscore to match.</target>
+        <target>Partie d'un mot : le modèle doit être précédé ou suivi d'un caractère alphanumérique ou d'un trait de soulignement pour correspondre.</target>
       </segment>
     </unit>
     <unit id="57d4d4b2-3903-4209-9edb-1a27774ef840">
       <notes>
         <note appliesTo="source">line: 4274</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is useful for matching parts of compound words.</source>
-        <target>This is useful for matching parts of compound words.</target>
+        <target>Ceci est utile pour faire correspondre des parties de mots composés.</target>
       </segment>
     </unit>
     <unit id="6b3b9e2b-2153-41c7-a9d8-54f01f0bba0b">
       <notes>
         <note appliesTo="source">line: 4275</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, if you replace "bird" with "frog" using part of word matching, it would match "birds", "bluebird", "bluebirds" and "birdsong", but not the standalone word "bird" (because it has neither a preceding nor a following alphanumeric character).</source>
-        <target>For example, if you replace "bird" with "frog" using part of word matching, it would match "birds", "bluebird", "bluebirds" and "birdsong", but not the standalone word "bird" (because it has neither a preceding nor a following alphanumeric character).</target>
+        <target>Par exemple, si vous remplacez "oiseau" par "grenouille" en utilisant la correspondance avec une partie d'un mot, cela correspondra à "oiseaux", "damoiseau" et "damoiseaux", mais pas au mot seul "oiseau" (car il n'a ni caractère alphanumérique précédent ni suivant).</target>
       </segment>
     </unit>
     <unit id="10a12557-190a-440d-9afc-ab3ba0024ad9">
