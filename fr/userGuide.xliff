@@ -17336,9 +17336,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1577</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>As with other NVDA settings, the Magnifier state is preserved across sessions.</source>
-        <target>As with other NVDA settings, the Magnifier state is preserved across sessions.</target>
+        <target>Comme pour les autres paramètres NVDA, l'état de la Loupe est conservé d'une session à l'autre.</target>
       </segment>
     </unit>
     <unit id="84675103-2732-4f90-b07f-25233bc7f8c5">
@@ -18266,7 +18266,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>While in Browse mode in Microsoft Word, you can access the Elements List by pressing NVDA+f7.</source>
-        <target>Quand vous êtes en mode navigation sous Microsoft Word, vous pouvez accéder à la liste d'éléments en pressant NVDA+f7.</target>
+        <target>Quand vous êtes en mode navigation sous Microsoft Word, vous pouvez accéder à la liste d'éléments en appuyant sur NVDA+f7.</target>
       </segment>
     </unit>
     <unit id="45ef1647-1603-4cde-89d4-ce4bd6894301">
@@ -18275,7 +18275,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Elements List can list headings, links, annotations (which includes comments and track changes) and errors (currently limited to spelling errors).</source>
-        <target>La liste d'éléments peut lister les titres, les liens, annotations (incluant inclut les commentaires et les demandes de changement) et les erreurs (actuellement limité aux fautes d'orthographe).</target>
+        <target>La liste d'éléments peut lister les titres, les liens, annotations (inclut les commentaires et le suivi des modifications) et les erreurs (actuellement limité aux fautes d'orthographe).</target>
       </segment>
     </unit>
     <unit id="3a466a22-e5a2-4051-af75-08aeb4d299c0">
@@ -39643,7 +39643,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 5215</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Orbit: Orbit Reader 20, Orbit Reader 40</source>
         <target>Orbit: Orbit Reader 20, Orbit Reader 40</target>
       </segment>
@@ -39679,9 +39679,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 5221</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Refreshabraille, Orbit Reader 20, and Orbit Reader 40 can use HID if configured appropriately.</source>
-        <target>The Refreshabraille, Orbit Reader 20, and Orbit Reader 40 can use HID if configured appropriately.</target>
+        <target>Les modèles Refreshabraille, Orbit Reader 20 et Orbit Reader 40 peuvent utiliser HID s'ils sont configurés de manière appropriée.</target>
       </segment>
     </unit>
     <unit id="792479a4-62e8-485b-aed6-cdd52ac6cf59">
@@ -47826,27 +47826,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 6243</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Dot Pad has left and right panning keys and four function keys (f1 through f4).</source>
-        <target>The Dot Pad has left and right panning keys and four function keys (f1 through f4).</target>
+        <target>Le Dot Pad possède des touches de défilement gauche et droite et quatre touches de fonction (f1 à f4).</target>
       </segment>
     </unit>
     <unit id="9e814847-5959-40bf-9069-70d95728230c">
       <notes>
         <note appliesTo="source">line: 6244</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Multiple buttons can be pressed simultaneously to create combination gestures (e.g., `f1+panLeft`), which can be assigned via the Input Gestures dialog.</source>
-        <target>Multiple buttons can be pressed simultaneously to create combination gestures (e.g., `f1+panLeft`), which can be assigned via the Input Gestures dialog.</target>
+        <target>Plusieurs boutons peuvent être enfoncés simultanément pour créer des gestes combinés (par exemple, `f1+panLeft`), qui peuvent être assignés dans la boîte de dialogue Gestes de commandes.</target>
       </segment>
     </unit>
     <unit id="f8969c04-99fd-4ca2-8ac2-519a8847b400">
       <notes>
         <note appliesTo="source">line: 6245</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Apart from panning, no other commands are assigned by default.</source>
-        <target>Apart from panning, no other commands are assigned by default.</target>
+        <target>Hormis les commandes de défilement, aucune autre commande n'est assignée par défaut.</target>
       </segment>
     </unit>
     <unit id="5f5dca51-965e-45a9-ad9e-154c095d3c7b">
@@ -47918,9 +47918,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Name | Key </source>
-        <target> Name | Key </target>
+        <target> Nom | Touche </target>
       </segment>
     </unit>
     <unit id="eebfaba6-30c3-4c22-8c91-61763ea2685b">
@@ -47929,9 +47929,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Scroll braille display back | `panLeft` </source>
-        <target> Scroll braille display back | `panLeft` </target>
+        <target> Faire défiler l'afficheur braille vers l'arrière | `panLeft` </target>
       </segment>
     </unit>
     <unit id="72b841c6-172c-47ae-a98c-7fb512b5d1a6">
@@ -47940,9 +47940,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Scroll braille display forward | `panRight` </source>
-        <target> Scroll braille display forward | `panRight` </target>
+        <target> Faire défiler l'afficheur braille vers l'avant | `panRight` </target>
       </segment>
     </unit>
     <unit id="b4d61299-abab-4dd4-94f4-2b490bad7b6b">
