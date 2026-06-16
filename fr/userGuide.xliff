@@ -17396,9 +17396,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Toggle the magnifier on and off | `NVDA+shift+w` | Enables or disables the magnifier </source>
-        <target> Toggle the magnifier on and off | `NVDA+shift+w` | Enables or disables the magnifier </target>
+        <target> Activer et désactiver la loupe | `NVDA+maj+w` | Active ou désactive la loupe </target>
       </segment>
     </unit>
     <unit id="012aea5d-d8fb-49ac-8661-a1aed04797f7">
@@ -17451,9 +17451,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Show entire screen overview | `NVDA+shift+l` | Temporarily shows an overview of the entire screen </source>
-        <target> Show entire screen overview | `NVDA+shift+l` | Temporarily shows an overview of the entire screen </target>
+        <target> Afficher un aperçu de l'écran entier | `NVDA+maj+l` | Affiche temporairement un aperçu de tout l'écran </target>
       </segment>
     </unit>
     <unit id="313adbd1-7049-4dac-93c9-924c3e3979f5">
@@ -17857,27 +17857,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MagnifierSettings}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Magnifier Settings</source>
-        <target>Magnifier Settings</target>
+        <target>Paramètres de la loupe</target>
       </segment>
     </unit>
     <unit id="d26da9a5-169e-400a-8127-692477429683">
       <notes>
         <note appliesTo="source">line: 1658</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The magnifier can be configured in the "Magnifier" category of the NVDA Settings dialog (`NVDA+control+w`).</source>
-        <target>The magnifier can be configured in the "Magnifier" category of the NVDA Settings dialog (`NVDA+control+w`).</target>
+        <target>La loupe peut être configurée dans la catégorie "Loupe" de la boîte de dialogue des paramètres de NVDA (`NVDA+contrôle+w`).</target>
       </segment>
     </unit>
     <unit id="156c0bf5-f85a-48d2-8806-df93b9607477">
       <notes>
         <note appliesTo="source">line: 1659</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>See the [Magnifier settings](#MagnifierSettingsCategory) section for details on available options.</source>
-        <target>See the [Magnifier settings](#MagnifierSettingsCategory) section for details on available options.</target>
+        <target>Consultez la section [Paramètres de la loupe](#MagnifierSettingsCategory) pour plus de détails sur les options disponibles.</target>
       </segment>
     </unit>
     <unit id="db268119-b152-4431-bbe7-44da8add31e6">
@@ -19947,9 +19947,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2031</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Pressing this button will allow you to copy your currently saved NVDA user configuration to NVDA's system configuration directory, so that NVDA will use it during sign-in and when running on User Account Control (UAC) and other [secure screens](#SecureScreens).</source>
-        <target>Pressing this button will allow you to copy your currently saved NVDA user configuration to NVDA's system configuration directory, so that NVDA will use it during sign-in and when running on User Account Control (UAC) and other [secure screens](#SecureScreens).</target>
+        <target>En appuyant sur ce bouton, vous pourrez copier votre configuration utilisateur NVDA actuellement enregistrée dans le répertoire de configuration système de NVDA, afin que NVDA l'utilise lors de la connexion et lorsqu'il s'exécute sur l'écran du Contrôle de compte d'utilisateur (UAC) et d'autres [écrans sécurisés](#SecureScreens).</target>
       </segment>
     </unit>
     <unit id="cc0924aa-2032-47ba-bd74-8ff1630014f3">
@@ -19965,9 +19965,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2033</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When this button is pressed, it first opens the [Copy Settings to System-wide Configuration](#CopyAddonsToSystemProfileDialog) dialog in which you can choose the add-ons you want to be copied to system configuration.</source>
-        <target>When this button is pressed, it first opens the [Copy Settings to System-wide Configuration](#CopyAddonsToSystemProfileDialog) dialog in which you can choose the add-ons you want to be copied to system configuration.</target>
+        <target>À l'appui sur ce bouton, la boîte de dialogue [Copier les paramètres dans la configuration système](#CopyAddonsToSystemProfileDialog) est d'abord ouverte, dans lequel vous pouvez choisir les extensions que vous souhaitez copier dans la configuration du système.</target>
       </segment>
     </unit>
     <unit id="cb2a9ad9-d7a0-4422-8691-87cde40704ec">
@@ -24923,18 +24923,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2872</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>All the options of this category have immediate effect on the magnifier but pressing "Cancel" or `escape` allow to dismiss the changes made.</source>
-        <target>All the options of this category have immediate effect on the magnifier but pressing "Cancel" or `escape` allow to dismiss the changes made.</target>
+        <target>Toutes les options de cette catégorie ont un effet immédiat sur la loupe mais l'appui sur "Annuler" ou `échap` permet d'ignorer les modifications apportées.</target>
       </segment>
     </unit>
     <unit id="c426994f-e62c-47ab-8c44-9f85732a066c">
       <notes>
         <note appliesTo="source">line: 2874</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This settings category contains the following options:</source>
-        <target>This settings category contains the following options:</target>
+        <target>Cette catégorie de paramètres contient les options suivantes :</target>
       </segment>
     </unit>
     <unit id="1b2852b5-ab66-4e2e-ae07-4b1217a27f17">
@@ -24943,27 +24943,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierEnable}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enable Magnifier</source>
-        <target>Enable Magnifier</target>
+        <target>Activer la loupe</target>
       </segment>
     </unit>
     <unit id="268be38e-e4fb-403e-bdee-d0cc0e23c278">
       <notes>
         <note appliesTo="source">line: 2880</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Key: `NVDA+shift+w`</source>
-        <target>Key: `NVDA+shift+w`</target>
+        <target>Touche : `NVDA+maj+w`</target>
       </segment>
     </unit>
     <unit id="b5b361b3-f676-4a0b-b560-3717f5d469e5">
       <notes>
         <note appliesTo="source">line: 2882</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option starts or stops the Magnifier.</source>
-        <target>This option starts or stops the Magnifier.</target>
+        <target>Cette option démarre ou arrête la Loupe.</target>
       </segment>
     </unit>
     <unit id="f4551dd3-bf83-4b5b-b1ee-1e1a4873da24">
@@ -24972,9 +24972,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Disabled, Enabled </source>
-        <target> Options | Disabled, Enabled </target>
+        <target> Options | Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="08786d96-67e8-4ce6-9573-2c5aed99b095">
@@ -24983,9 +24983,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Disabled </source>
-        <target> Default | Disabled </target>
+        <target> Défaut | Désactivé </target>
       </segment>
     </unit>
     <unit id="fbe6f6d9-6a7e-42fd-898a-303f5bae42ef">
@@ -25003,36 +25003,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2891</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting allows you to set the zoom level when using the magnifier.</source>
-        <target>This setting allows you to set the zoom level when using the magnifier.</target>
+        <target>Ce paramètre vous permet de définir le niveau de zoom lors de l'utilisation de la loupe.</target>
       </segment>
     </unit>
     <unit id="a7182b62-a9ff-4e66-8f61-2f8a54c293cd">
       <notes>
         <note appliesTo="source">line: 2892</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The zoom level can range from 100% (no magnification) to 5000% (maximum magnification).</source>
-        <target>The zoom level can range from 100% (no magnification) to 5000% (maximum magnification).</target>
+        <target>Le niveau de zoom peut aller de 100 % (pas de grossissement) à 5 000 % (grossissement maximum).</target>
       </segment>
     </unit>
     <unit id="0c98565c-afd5-4dd2-bff7-3dbb5994f5fa">
       <notes>
         <note appliesTo="source">line: 2893</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The default value is 200%.</source>
-        <target>The default value is 200%.</target>
+        <target>La valeur par défaut est de 200 %.</target>
       </segment>
     </unit>
     <unit id="b2608f0e-9c09-477d-9605-cdda53eb6ba8">
       <notes>
         <note appliesTo="source">line: 2895</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can always adjust the zoom level on the fly using the zoom in (`NVDA+shift+equals`) and zoom out (`NVDA+shift+minus`) commands while the magnifier is active.</source>
-        <target>You can always adjust the zoom level on the fly using the zoom in (`NVDA+shift+equals`) and zoom out (`NVDA+shift+minus`) commands while the magnifier is active.</target>
+        <target>Vous pouvez toujours ajuster le niveau de zoom à la volée en utilisant les commandes de zoom avant (`NVDA+maj+égal`) et zoom arrière (`NVDA+maj+)`) pendant que la loupe est active.</target>
       </segment>
     </unit>
     <unit id="cd9f0562-27cd-4262-9837-03a360023783">
@@ -25041,9 +25041,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | 100% to 5000% </source>
-        <target> Options | 100% to 5000% </target>
+        <target> Options | 100% à 5000% </target>
       </segment>
     </unit>
     <unit id="f0612f44-d56b-4d60-b2e9-b082c32833db">
@@ -25052,9 +25052,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | 200% </source>
-        <target> Default | 200% </target>
+        <target> Défaut | 200% </target>
       </segment>
     </unit>
     <unit id="5fb953ba-ab52-4fa3-beca-8f60aec57890">
@@ -25063,36 +25063,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierFilter}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Color filter</source>
-        <target>Color filter</target>
+        <target>Filtre de couleur</target>
       </segment>
     </unit>
     <unit id="0c78e31f-821f-4033-83f0-a78c755d9ddd">
       <notes>
         <note appliesTo="source">line: 2906</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Key: `NVDA+shift+i`</source>
-        <target>Key: `NVDA+shift+i`</target>
+        <target>Touche : `NVDA+maj+i`</target>
       </segment>
     </unit>
     <unit id="dc0d4cf6-d216-4d9b-bad5-2204ad2bd434">
       <notes>
         <note appliesTo="source">line: 2908</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option allows you to select the filter to apply when using the magnifier.</source>
-        <target>This option allows you to select the filter to apply when using the magnifier.</target>
+        <target>Cette option permet de sélectionner le filtre à appliquer lors de l'utilisation de la loupe.</target>
       </segment>
     </unit>
     <unit id="e22ad6ec-6f9b-4c48-8fcb-aea68d03c99c">
       <notes>
         <note appliesTo="source">line: 2910</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The available options are:</source>
-        <target>The available options are:</target>
+        <target>Les options disponibles sont :</target>
       </segment>
     </unit>
     <unit id="e804ca5d-cebf-443d-8c0b-e0cae98a639f">
@@ -25101,9 +25101,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Normal, Grayscale, Inverted </source>
-        <target> Options | Normal, Grayscale, Inverted </target>
+        <target> Options | Normal, Niveaux de gris, Inversé </target>
       </segment>
     </unit>
     <unit id="5fa58d78-0c56-4dbf-a99f-e5da6c4e1fcb">
@@ -25112,9 +25112,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Normal </source>
-        <target> Default | Normal </target>
+        <target> Défaut | Normal </target>
       </segment>
     </unit>
     <unit id="67105161-a024-47e2-92ff-8ca118f78392">
@@ -25134,9 +25134,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Normal | No color modification is applied. </source>
-        <target> Normal | No color modification is applied. </target>
+        <target> Normal | Aucune modification de couleur n'est appliquée. </target>
       </segment>
     </unit>
     <unit id="37b2ff1e-ece1-49bf-b969-e30c0b38fc57">
@@ -25145,9 +25145,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Grayscale | Converts all colors to shades of gray, which can help reduce eye strain and improve contrast. </source>
-        <target> Grayscale | Converts all colors to shades of gray, which can help reduce eye strain and improve contrast. </target>
+        <target> Niveaux de gris | Convertit toutes les couleurs en nuances de gris, ce qui peut aider à réduire la fatigue oculaire et à améliorer le contraste. </target>
       </segment>
     </unit>
     <unit id="0f30f65f-2fee-4f2a-a325-43845742bb92">
@@ -25156,9 +25156,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Inverted | Inverts all colors on the screen, which can be helpful for users who prefer light text on dark backgrounds or have photophobia. </source>
-        <target> Inverted | Inverts all colors on the screen, which can be helpful for users who prefer light text on dark backgrounds or have photophobia. </target>
+        <target> Inversé | Inverse toutes les couleurs à l'écran, ce qui peut être utile pour les utilisateurs qui préfèrent le texte clair sur des arrière-plans sombres ou qui souffrent de photophobie. </target>
       </segment>
     </unit>
     <unit id="b72690c9-cdf9-411e-9ca0-591f918032d7">
@@ -25196,9 +25196,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Disabled, Enabled </source>
-        <target> Options | Disabled, Enabled </target>
+        <target> Options | Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="0135a500-d3a4-4ec7-9cc5-4bbe57a26c6d">
@@ -25207,9 +25207,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Disabled </source>
-        <target> Default | Disabled </target>
+        <target> Défaut | Désactivé </target>
       </segment>
     </unit>
     <unit id="90c43a9d-0f19-4737-87f1-5bbd6715fb12">
@@ -25256,9 +25256,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | 1 to 100 </source>
-        <target> Options | 1 to 100 </target>
+        <target> Options | 1 à 100 </target>
       </segment>
     </unit>
     <unit id="717b80d9-26fa-4636-9aac-c741522bbc92">
@@ -25267,9 +25267,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | 10 </source>
-        <target> Default | 10 </target>
+        <target> Défaut | 10 </target>
       </segment>
     </unit>
     <unit id="aee4bd0d-9522-48ef-85f1-4b08bf18db9f">
@@ -25278,27 +25278,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierFollowMouse}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Follow mouse</source>
-        <target>Follow mouse</target>
+        <target>Suivre la souris</target>
       </segment>
     </unit>
     <unit id="d8d91a4b-16eb-41c9-a9df-449cf03385bd">
       <notes>
         <note appliesTo="source">line: 2946</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checkbox controls whether the magnifier should follow the mouse pointer.</source>
-        <target>This checkbox controls whether the magnifier should follow the mouse pointer.</target>
+        <target>Cette case à cocher définit si la loupe doit suivre le pointeur de la souris.</target>
       </segment>
     </unit>
     <unit id="f5fbc3b0-f89b-4177-b64f-a7147e769ede">
       <notes>
         <note appliesTo="source">line: 2947</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, the magnified area will automatically move to follow the mouse pointer, which can be helpful for users who navigate primarily using the mouse rather than the keyboard.</source>
-        <target>When enabled, the magnified area will automatically move to follow the mouse pointer, which can be helpful for users who navigate primarily using the mouse rather than the keyboard.</target>
+        <target>Lorsqu'elle est activée, la zone agrandie se déplacera automatiquement pour suivre le pointeur de la souris, ce qui peut être utile pour les utilisateurs qui naviguent principalement à l'aide de la souris plutôt que du clavier.</target>
       </segment>
     </unit>
     <unit id="f803d727-3896-4457-8c62-31fff65cdf4a">
@@ -25307,9 +25307,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Disabled, Enabled </source>
-        <target> Options | Disabled, Enabled </target>
+        <target> Options | Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="ce464d41-441a-40bc-ad92-0b5c41dc7d21">
@@ -25318,9 +25318,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Enabled </source>
-        <target> Default | Enabled </target>
+        <target> Défaut | Activé </target>
       </segment>
     </unit>
     <unit id="5de13ec2-1ae7-46b6-b81f-c541fc4951c7">
@@ -25329,27 +25329,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierFollowSystemFocus}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Follow system focus</source>
-        <target>Follow system focus</target>
+        <target>Suivre le focus système</target>
       </segment>
     </unit>
     <unit id="dbc6d726-4bec-48bf-b981-512f6072e950">
       <notes>
         <note appliesTo="source">line: 2956</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checkbox controls whether the magnifier should follow the system focus.</source>
-        <target>This checkbox controls whether the magnifier should follow the system focus.</target>
+        <target>Cette case à cocher définit si la loupe doit suivre le focus système.</target>
       </segment>
     </unit>
     <unit id="5de11b36-efaf-4326-a986-470835f868a0">
       <notes>
         <note appliesTo="source">line: 2957</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, the magnified area will automatically move to follow the system focus, which can be helpful for users who navigate primarily using the keyboard and want the magnifier to track their navigation.</source>
-        <target>When enabled, the magnified area will automatically move to follow the system focus, which can be helpful for users who navigate primarily using the keyboard and want the magnifier to track their navigation.</target>
+        <target>Lorsqu'elle est activée, la zone agrandie se déplace automatiquement pour suivre le focus système, ce qui peut être utile pour les utilisateurs qui naviguent principalement à l'aide du clavier et souhaitent que la loupe suive leur navigation.</target>
       </segment>
     </unit>
     <unit id="b20676a8-b2e0-4729-bca9-b85b6de21412">
@@ -25358,9 +25358,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Disabled, Enabled </source>
-        <target> Options | Disabled, Enabled </target>
+        <target> Options | Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="b23ef0ad-588d-47f4-a6d9-ddcf12bdba4f">
@@ -25369,9 +25369,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Enabled </source>
-        <target> Default | Enabled </target>
+        <target> Défaut | Activé </target>
       </segment>
     </unit>
     <unit id="5504b37c-15cb-4f77-bdee-8f986e134cf5">
@@ -25380,27 +25380,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierFollowReviewCursor}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Follow review cursor</source>
-        <target>Follow review cursor</target>
+        <target>Suivre le curseur de revue</target>
       </segment>
     </unit>
     <unit id="cbe6d738-4fdd-44db-8bfc-70653b9137c0">
       <notes>
         <note appliesTo="source">line: 2966</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checkbox controls whether the magnifier should follow the review cursor.</source>
-        <target>This checkbox controls whether the magnifier should follow the review cursor.</target>
+        <target>Cette case à cocher définit si la loupe doit suivre le curseur de revue.</target>
       </segment>
     </unit>
     <unit id="78a345a3-7030-4170-80e9-2de73b8ee04d">
       <notes>
         <note appliesTo="source">line: 2967</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, the magnified area will automatically move to follow the review cursor, which can be helpful for users who use the review cursor to navigate through content and want the magnifier to track their navigation.</source>
-        <target>When enabled, the magnified area will automatically move to follow the review cursor, which can be helpful for users who use the review cursor to navigate through content and want the magnifier to track their navigation.</target>
+        <target>Lorsqu'elle est activée, la zone agrandie se déplace automatiquement pour suivre le curseur de revue, ce qui peut être utile pour les utilisateurs qui utilisent le curseur de revue pour naviguer dans le contenu et souhaitent que la loupe suive leur navigation.</target>
       </segment>
     </unit>
     <unit id="87301dff-2fd6-45c3-b2ca-c174b782303f">
@@ -25409,9 +25409,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Disabled, Enabled </source>
-        <target> Options | Disabled, Enabled </target>
+        <target> Options | Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="1ac02126-23b5-4eda-8804-91836ef9a1a4">
@@ -25420,9 +25420,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Enabled </source>
-        <target> Default | Enabled </target>
+        <target> Défaut | Activé </target>
       </segment>
     </unit>
     <unit id="9519caac-e2e7-46cd-8cd7-ee78ad81ac1a">
@@ -25431,27 +25431,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierFollowNavigatorObject}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Follow navigator object</source>
-        <target>Follow navigator object</target>
+        <target>Suivre l'objet navigateur</target>
       </segment>
     </unit>
     <unit id="c4d4c3ea-c152-43b9-8314-50fc9042d18f">
       <notes>
         <note appliesTo="source">line: 2976</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checkbox controls whether the magnifier should follow the navigator object.</source>
-        <target>This checkbox controls whether the magnifier should follow the navigator object.</target>
+        <target>Cette case à cocher définit si la loupe doit suivre l'objet navigateur.</target>
       </segment>
     </unit>
     <unit id="56ea61d0-290e-423f-9757-0d7b6f03ac0f">
       <notes>
         <note appliesTo="source">line: 2977</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, the magnified area will automatically move to follow the navigator object, which can be helpful for users who use object navigation to navigate through content and want the magnifier to track their navigation.</source>
-        <target>When enabled, the magnified area will automatically move to follow the navigator object, which can be helpful for users who use object navigation to navigate through content and want the magnifier to track their navigation.</target>
+        <target>Lorsqu'elle est activée, la zone agrandie se déplacera automatiquement pour suivre l'objet navigateur, ce qui peut être utile pour les utilisateurs qui utilisent la navigation par objets pour naviguer dans le contenu et souhaitent que la loupe suive leur navigation.</target>
       </segment>
     </unit>
     <unit id="88d1fa7a-e0bd-45cc-8354-f884629f074e">
@@ -25460,9 +25460,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Disabled, Enabled </source>
-        <target> Options | Disabled, Enabled </target>
+        <target> Options | Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="b6cf1e10-a5b9-4918-8426-79cf66869bae">
@@ -25471,9 +25471,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Enabled </source>
-        <target> Default | Enabled </target>
+        <target> Défaut | Activé </target>
       </segment>
     </unit>
     <unit id="f1e715f1-ffe7-40aa-a76f-19058737836d">
@@ -25482,9 +25482,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierTrackingMode}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tracking mode</source>
-        <target>Tracking mode</target>
+        <target>Mode de suivi</target>
       </segment>
     </unit>
     <unit id="3adfc242-8b6d-4dd7-a477-3b585c7e070e">
@@ -37145,9 +37145,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#RunCOMRegistrationFixingTool}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Run System Accessibility Repair Tool...</source>
-        <target>Run System Accessibility Repair Tool...</target>
+        <target>Exécuter l'outil de réparation de l'accessibilité du système...</target>
       </segment>
     </unit>
     <unit id="9c2e1e3a-424d-43b2-a78a-6e5218c0a0ee">
@@ -37172,9 +37172,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4889</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The System Accessibility Repair Tool attempts to fix these issues by repairing accessibility entries in the registry.</source>
-        <target>The System Accessibility Repair Tool attempts to fix these issues by repairing accessibility entries in the registry.</target>
+        <target>L'outil de réparation de l'accessibilité du système tente de résoudre ces problèmes en réparant les entrées d'accessibilité dans le registre.</target>
       </segment>
     </unit>
     <unit id="bd84720e-3e8e-4bc3-97c3-7a22976b0d64">
