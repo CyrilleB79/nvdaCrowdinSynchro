@@ -17550,36 +17550,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MagnifierZoomLevels}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Zoom Levels</source>
-        <target>Zoom Levels</target>
+        <target>Niveaux de zoom</target>
       </segment>
     </unit>
     <unit id="6d9d51cc-9f96-4dea-8634-0cb71a7e2ef8">
       <notes>
         <note appliesTo="source">line: 1609</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The magnifier supports zoom levels from 1.0 (no magnification) to 50.0 (maximum magnification).</source>
-        <target>The magnifier supports zoom levels from 1.0 (no magnification) to 50.0 (maximum magnification).</target>
+        <target>La loupe prend en charge les niveaux de zoom de 1,0 (pas de grossissement) à 50,0 (grossissement maximum).</target>
       </segment>
     </unit>
     <unit id="adc35143-1d0c-4f0c-8df2-c42be7f1f4f9">
       <notes>
         <note appliesTo="source">line: 1610</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can adjust the zoom level using the zoom in (`NVDA+shift+equals`) and zoom out (`NVDA+shift+minus`) commands.</source>
-        <target>You can adjust the zoom level using the zoom in (`NVDA+shift+equals`) and zoom out (`NVDA+shift+minus`) commands.</target>
+        <target>Vous pouvez ajuster le niveau de zoom à l'aide des commandes de zoom avant (`NVDA+maj+égal`) et de zoom arrière (`NVDA+maj+)`).</target>
       </segment>
     </unit>
     <unit id="f6102aa4-79fc-4301-ba43-d72c7d16643b">
       <notes>
         <note appliesTo="source">line: 1611</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Each press increases or decreases the zoom by a fixed increment.</source>
-        <target>Each press increases or decreases the zoom by a fixed increment.</target>
+        <target>Chaque appui augmente ou diminue le zoom d'un incrément fixe.</target>
       </segment>
     </unit>
     <unit id="570cbd2e-dfba-49d5-8adc-f58dd162bac8">
@@ -17588,27 +17588,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MagnifierColorFilters}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Color Filters</source>
-        <target>Color Filters</target>
+        <target>Filtres de couleur</target>
       </segment>
     </unit>
     <unit id="f4de9c1b-7d7b-4662-92e8-b4024dea1e59">
       <notes>
         <note appliesTo="source">line: 1615</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Color filters can help users with certain visual impairments or light sensitivity by modifying the colors displayed on the screen.</source>
-        <target>Color filters can help users with certain visual impairments or light sensitivity by modifying the colors displayed on the screen.</target>
+        <target>Les filtres de couleur peuvent aider les utilisateurs souffrant de certaines déficiences visuelles ou sensibles à la lumière en modifiant les couleurs affichées à l'écran.</target>
       </segment>
     </unit>
     <unit id="cc3b8dec-e4f3-4e3c-ba76-b3453df8a3ea">
       <notes>
         <note appliesTo="source">line: 1616</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The magnifier provides three color filter options:</source>
-        <target>The magnifier provides three color filter options:</target>
+        <target>La loupe propose trois options de filtre de couleur :</target>
       </segment>
     </unit>
     <unit id="a9fb3b9d-53ed-4dbf-bc35-eda4155d43b1">
@@ -17616,9 +17616,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1618</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Normal: No color modification is applied. This is the default setting.</source>
-        <target>Normal: No color modification is applied. This is the default setting.</target>
+        <target>Normal : Aucune modification de couleur n’est appliquée. Il s'agit du paramètre par défaut.</target>
       </segment>
     </unit>
     <unit id="75882a4c-1396-4382-a505-69e7f54a2716">
@@ -17626,9 +17626,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1619</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Grayscale: Converts all colors to shades of gray, which can help reduce eye strain and improve contrast for some users.</source>
-        <target>Grayscale: Converts all colors to shades of gray, which can help reduce eye strain and improve contrast for some users.</target>
+        <target>Niveaux de gris : convertit toutes les couleurs en nuances de gris, ce qui peut aider à réduire la fatigue oculaire et à améliorer le contraste pour certains utilisateurs.</target>
       </segment>
     </unit>
     <unit id="15ee67ea-eb85-400e-9efb-9fc1961a790b">
@@ -17636,18 +17636,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1620</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Inverted: Inverts all colors on the screen (black becomes white, white becomes black, etc.), which can be helpful for users who prefer light text on dark backgrounds or have photophobia.</source>
-        <target>Inverted: Inverts all colors on the screen (black becomes white, white becomes black, etc.), which can be helpful for users who prefer light text on dark backgrounds or have photophobia.</target>
+        <target>Inversé : inverse toutes les couleurs de l'écran (le noir devient blanc, le blanc devient noir, etc.), ce qui peut être utile pour les utilisateurs qui préfèrent les textes clairs sur des arrière-plans sombres ou qui souffrent de photophobie.</target>
       </segment>
     </unit>
     <unit id="e812191b-50c9-41de-84d3-c3386144fd58">
       <notes>
         <note appliesTo="source">line: 1622</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To cycle through the available filters press `NVDA+shift+i`.</source>
-        <target>To cycle through the available filters press `NVDA+shift+i`.</target>
+        <target>Pour parcourir les filtres disponibles, appuyez sur `NVDA+maj+i`.</target>
       </segment>
     </unit>
     <unit id="40050440-67e9-4ebd-bced-7ddaf35c235f">
@@ -17656,18 +17656,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MagnifierTrackingModes}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Tracking Modes</source>
-        <target>Tracking Modes</target>
+        <target>Modes de suivi</target>
       </segment>
     </unit>
     <unit id="29839630-1d3e-40f7-8794-16b5d2b861fe">
       <notes>
         <note appliesTo="source">line: 1626</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The magnifier offers three different modes for tracking mouse, focus, review cursor and navigatore object, and determining which part of the screen to magnify:</source>
-        <target>The magnifier offers three different modes for tracking mouse, focus, review cursor and navigatore object, and determining which part of the screen to magnify:</target>
+        <target>La loupe propose trois modes différents pour suivre la souris, le focus, le curseur de revue et l'objet navigateur, et déterminer quelle partie de l'écran doit être agrandie :</target>
       </segment>
     </unit>
     <unit id="15d736f2-db42-4d76-8cbe-016a14349423">
@@ -17751,27 +17751,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#MagnifierScreenOverview}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Show entire screen overview</source>
-        <target>Show entire screen overview</target>
+        <target>Afficher un aperçu de l'ensemble de l'écran</target>
       </segment>
     </unit>
     <unit id="7f5ed3d2-2e65-4591-aa57-7f76eb414538">
       <notes>
         <note appliesTo="source">line: 1640</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The magnifier can temporarily display an overview of the entire screen, making it useful for presentations or when you need to quickly understand the overall screen layout.</source>
-        <target>The magnifier can temporarily display an overview of the entire screen, making it useful for presentations or when you need to quickly understand the overall screen layout.</target>
+        <target>La loupe peut afficher temporairement un aperçu de l'ensemble de l'écran, ce qui la rend utile pour les présentations ou lorsque vous avez besoin de comprendre rapidement la disposition globale de l'écran.</target>
       </segment>
     </unit>
     <unit id="786909ee-b7d5-4085-a8d3-f2abbac256e8">
       <notes>
         <note appliesTo="source">line: 1642</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is useful when you want to:</source>
-        <target>This is useful when you want to:</target>
+        <target>Ceci est utile lorsque vous souhaitez :</target>
       </segment>
     </unit>
     <unit id="efb33672-03b0-4b2f-942d-a4eeac975282">
@@ -17779,9 +17779,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1644</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Show context to your audience during a presentation before zooming in on specific details</source>
-        <target>Show context to your audience during a presentation before zooming in on specific details</target>
+        <target>Montrez le contexte à votre public lors d'une présentation avant de zoomer sur des détails spécifiques</target>
       </segment>
     </unit>
     <unit id="6b276020-9027-4971-b470-545aacd84008">
@@ -17789,27 +17789,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1645</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Temporarily view the full screen layout while magnifying</source>
-        <target>Temporarily view the full screen layout while magnifying</target>
+        <target>Afficher temporairement la disposition de l'écran tout entier lorsque la loupe est active</target>
       </segment>
     </unit>
     <unit id="8b4eca65-f30a-4798-9983-02b6496c7489">
       <notes>
         <note appliesTo="source">line: 1647</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To display an overview of the entire screen, press `NVDA+shift+l`.</source>
-        <target>To display an overview of the entire screen, press `NVDA+shift+l`.</target>
+        <target>Pour afficher un aperçu de l'ensemble de l'écran, appuyez sur `NVDA+maj+l`.</target>
       </segment>
     </unit>
     <unit id="acbd7509-b0b9-427e-8578-848dd29b9175">
       <notes>
         <note appliesTo="source">line: 1648</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The magnifier will then:</source>
-        <target>The magnifier will then:</target>
+        <target>La loupe va alors :</target>
       </segment>
     </unit>
     <unit id="586e0e64-3ee9-4cbc-a6a0-939cd9a680d8">
@@ -17817,9 +17817,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1650</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Smoothly zoom out to show the full screen (zoom level 1.0x)</source>
-        <target>Smoothly zoom out to show the full screen (zoom level 1.0x)</target>
+        <target>Effectuez un zoom arrière en douceur pour afficher l'ensemble de l'écran (niveau de zoom 1,0x)</target>
       </segment>
     </unit>
     <unit id="0a0a3dad-cd51-4669-84ce-fcf9d759d3dd">
@@ -17827,9 +17827,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1651</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Monitor mouse movement</source>
-        <target>Monitor mouse movement</target>
+        <target>Surveiller le mouvement de la souris</target>
       </segment>
     </unit>
     <unit id="cb3fa15e-73ca-4fc2-ab21-42635ea36658">
@@ -17837,18 +17837,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1652</note>
         <note appliesTo="source">prefix: 1. </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When the mouse remains still for approximately 2 seconds, automatically zoom back in to the original zoom level at the new mouse position</source>
-        <target>When the mouse remains still for approximately 2 seconds, automatically zoom back in to the original zoom level at the new mouse position</target>
+        <target>Lorsque la souris reste immobile pendant environ 2 secondes, revenir automatiquement au niveau de zoom d'origine à la nouvelle position de la souris.</target>
       </segment>
     </unit>
     <unit id="5b49726a-1313-4c02-82f6-42581a48b166">
       <notes>
         <note appliesTo="source">line: 1654</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Moving the mouse before the zoom-back occurs gives you more time to view the full screen.</source>
-        <target>Moving the mouse before the zoom-back occurs gives you more time to view the full screen.</target>
+        <target>Si vous déplacez la souris avant que le zoom ne revienne à son niveau normal, vous disposez de plus de temps pour voir l’écran en entier.</target>
       </segment>
     </unit>
     <unit id="2ada38bd-598c-4037-99a5-4601dad66cac">
@@ -24914,9 +24914,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2871</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Magnifier category in the NVDA Settings dialog allows you to configure the default behavior of NVDA's built-in [Magnifier](#Magnifier) feature.</source>
-        <target>The Magnifier category in the NVDA Settings dialog allows you to configure the default behavior of NVDA's built-in [Magnifier](#Magnifier) feature.</target>
+        <target>La catégorie Loupe dans la boîte de dialogue Paramètres de NVDA vous permet de configurer le comportement par défaut de la fonctionnalité [Loupe](#Magnifier) intégrée de NVDA.</target>
       </segment>
     </unit>
     <unit id="c6dc0c97-b899-4ff9-bba1-a770d42db78e">
@@ -24994,7 +24994,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierZoom}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Zoom</source>
         <target>Zoom</target>
       </segment>
@@ -33855,9 +33855,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Name | Key | Description </source>
-        <target> Name | Key | Description </target>
+        <target> Nom | Touche | Description </target>
       </segment>
     </unit>
     <unit id="2011ff3f-8603-41c9-b794-5766a2501564">
@@ -33866,9 +33866,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Save configuration | `NVDA+control+c` | Saves your current configuration so that it is not lost when you exit NVDA </source>
-        <target> Save configuration | `NVDA+control+c` | Saves your current configuration so that it is not lost when you exit NVDA </target>
+        <target> Sauvegarder la configuration | `NVDA+contrôle+c` | Enregistre votre configuration actuelle afin qu'elle ne soit pas perdue lorsque vous quittez NVDA </target>
       </segment>
     </unit>
     <unit id="6b10a8df-30cc-45b9-b0b5-d039293a1c64">
