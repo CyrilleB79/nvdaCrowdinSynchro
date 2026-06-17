@@ -17407,9 +17407,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Increase the magnification level | `NVDA+shift+equals` | Increases the zoom level. Starts the magnifier if it's not already running. </source>
-        <target> Increase the magnification level | `NVDA+shift+equals` | Increases the zoom level. Starts the magnifier if it's not already running. </target>
+        <target> Augmenter le niveau de zoom | `NVDA+ùaj+égal` | Augmente le niveau de zoom. Démarre la loupe si elle n'est pas déjà activée. </target>
       </segment>
     </unit>
     <unit id="5708114c-18ec-49f0-aef2-53840ca6b633">
@@ -17418,9 +17418,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Decrease the magnification level | `NVDA+shift+minus` | Decreases the zoom level </source>
-        <target> Decrease the magnification level | `NVDA+shift+minus` | Decreases the zoom level </target>
+        <target> Diminuer le niveau de zoom | `NVDA+maj+)` | Diminue le niveau de zoom </target>
       </segment>
     </unit>
     <unit id="b7c6219f-5cfa-4ce0-968e-d5024583c465">
@@ -17429,9 +17429,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Cycle color filters | `NVDA+shift+i` | Cycles through the available color filters (normal, grayscale, inverted) </source>
-        <target> Cycle color filters | `NVDA+shift+i` | Cycles through the available color filters (normal, grayscale, inverted) </target>
+        <target> Faire défiler les filtres de couleur | `NVDA+maj+i` | Fait défiler les filtres de couleur disponibles (normal, niveaux de gris, inversé) </target>
       </segment>
     </unit>
     <unit id="20277254-afaa-4e02-ba6e-a42fd031ebb9">
@@ -17440,9 +17440,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Cycle tracking mode | None | Cycles through tracking modes (center, border, relative) </source>
-        <target> Cycle tracking mode | None | Cycles through tracking modes (center, border, relative) </target>
+        <target> Faire défiler les modes de suivi | Aucune | Fait défiler les modes de suivi (centre, bord, relatif) </target>
       </segment>
     </unit>
     <unit id="cc17cba6-9bbe-4f33-b289-41e55dff9860">
@@ -24916,7 +24916,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>The Magnifier category in the NVDA Settings dialog allows you to configure the default behavior of NVDA's built-in [Magnifier](#Magnifier) feature.</source>
-        <target>La catégorie Loupe dans la boîte de dialogue Paramètres de NVDA vous permet de configurer le comportement par défaut de la fonctionnalité [Loupe](#Magnifier) intégrée de NVDA.</target>
+        <target>La catégorie Loupe dans la boîte de dialogue Paramètres de NVDA vous permet de configurer le comportement par défaut de la fonctionnalité de [Loupe](#Magnifier) intégrée de NVDA.</target>
       </segment>
     </unit>
     <unit id="c6dc0c97-b899-4ff9-bba1-a770d42db78e">
@@ -25123,7 +25123,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Option | Description </source>
         <target> Option | Description </target>
       </segment>
@@ -25509,9 +25509,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2988</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The available options are:</source>
-        <target>The available options are:</target>
+        <target>Les options disponibles sont :</target>
       </segment>
     </unit>
     <unit id="018dc1be-f302-412c-80de-5658e5b77da9">
@@ -25542,7 +25542,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Option | Description </source>
         <target> Option | Description </target>
       </segment>
@@ -33181,18 +33181,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4276</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Start of word: The pattern must have a word boundary at the start and an alphanumeric character or underscore at the end.</source>
-        <target>Start of word: The pattern must have a word boundary at the start and an alphanumeric character or underscore at the end.</target>
+        <target>Début d'un mot : Le modèle doit avoir une limite de mot au début et un caractère alphanumérique ou un trait de soulignement à la fin.</target>
       </segment>
     </unit>
     <unit id="48988ef8-7284-45fd-ace4-4d7100549329">
       <notes>
         <note appliesTo="source">line: 4277</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, if you replace "bird" with "frog" using start of word matching, it would match "birds" and "birdsong", but not "bluebird" or the standalone word "bird".</source>
-        <target>For example, if you replace "bird" with "frog" using start of word matching, it would match "birds" and "birdsong", but not "bluebird" or the standalone word "bird".</target>
+        <target>Par exemple, si vous remplacez "oiseau" par "grenouille" en sélectionnant la correspondance avec le début d'un mot, cela correspondra à "oiseaux", mais pas "damoiseau" ni au mot "oiseau" tout seul.</target>
       </segment>
     </unit>
     <unit id="be291c24-afcf-4ec0-962d-26e56e842328">
@@ -33200,18 +33200,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4278</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>End of word: The pattern must have an alphanumeric character or underscore at the start and a word boundary at the end.</source>
-        <target>End of word: The pattern must have an alphanumeric character or underscore at the start and a word boundary at the end.</target>
+        <target>Fin d'un mot : Le modèle doit avoir un caractère alphanumérique ou un trait de soulignement au début et une limite de mot à la fin.</target>
       </segment>
     </unit>
     <unit id="99b67c6a-1dfd-4630-9ac8-7d69b7da7883">
       <notes>
         <note appliesTo="source">line: 4279</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, if you replace "bird" with "frog" using end of word matching, it would match "bluebird" and "songbird", but not "birds" or the standalone word "bird".</source>
-        <target>For example, if you replace "bird" with "frog" using end of word matching, it would match "bluebird" and "songbird", but not "birds" or the standalone word "bird".</target>
+        <target>Par exemple, si vous remplacez "oiseau" par "grenouille" en utilisant la correspondance avec la fin d'un mot, cela correspondra à "damoiseau", mais pas à "oiseaux" ou au mot "oiseau" seul.</target>
       </segment>
     </unit>
     <unit id="ae7eac68-294c-4315-9f79-15a1b3652271">
@@ -33219,9 +33219,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4280</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Regular expression: The pattern is treated as a regular expression, which is a pattern containing special symbols that allow you to match on more than one character at a time, or match on just numbers, or just letters, as a few examples.</source>
-        <target>Regular expression: The pattern is treated as a regular expression, which is a pattern containing special symbols that allow you to match on more than one character at a time, or match on just numbers, or just letters, as a few examples.</target>
+        <target>Expression régulière : le modèle est traité comme une expression régulière, c'est-à-dire un modèle contenant des symboles spéciaux qui vous permettent de faire correspondre plusieurs caractères à la fois, ou de faire correspondre uniquement des chiffres ou uniquement des lettres, pour ne citer que quelques exemples.</target>
       </segment>
     </unit>
     <unit id="d5b89b40-aef6-4231-906b-f3a40ce2c3d6">
@@ -33246,9 +33246,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4283</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Also consider [the advanced setting to enable a more modern engine](#SpeechDictsUseModernRegex), especially when dealing with non-Latin scripts, such as Hebrew and Arabic.</source>
-        <target>Also consider [the advanced setting to enable a more modern engine](#SpeechDictsUseModernRegex), especially when dealing with non-Latin scripts, such as Hebrew and Arabic.</target>
+        <target>Considérez également [le paramètre avancé pour activer un moteur plus moderne](#SpeechDictsUseModernRegex), en particulier lorsqu'il s'agit d'écritures non latines, telles que l'hébreu et l'arabe.</target>
       </segment>
     </unit>
     <unit id="6832c349-be40-4760-bc07-e542dbce0ec7">
@@ -33256,18 +33256,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4284</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Unix shell-style wildcards: The pattern uses Unix shell-style wildcards for matching.</source>
-        <target>Unix shell-style wildcards: The pattern uses Unix shell-style wildcards for matching.</target>
+        <target>Caractères génériques de style shell Unix : le modèle utilise des caractères génériques de style shell Unix pour la correspondance.</target>
       </segment>
     </unit>
     <unit id="5d572aa9-2db7-414b-bd75-d1c4b9d95cb3">
       <notes>
         <note appliesTo="source">line: 4285</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example:</source>
-        <target>For example:</target>
+        <target>Par exemple :</target>
       </segment>
     </unit>
     <unit id="e4efc781-4de1-46a2-acdc-19ed91187bf1">
@@ -33275,9 +33275,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4286</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`*` matches any sequence of characters.</source>
-        <target>`*` matches any sequence of characters.</target>
+        <target>`*` correspond à n'importe quelle séquence de caractères.</target>
       </segment>
     </unit>
     <unit id="7f6eaf09-5d26-4d02-850e-3d79492168a6">
@@ -33285,9 +33285,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4287</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`?` matches a single character.</source>
-        <target>`?` matches a single character.</target>
+        <target>`?` correspond à un seul caractère.</target>
       </segment>
     </unit>
     <unit id="51d95b29-00fa-4d12-9663-542818574176">
@@ -33295,9 +33295,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4288</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`[az]` matches a or z.</source>
-        <target>`[az]` matches a or z.</target>
+        <target>`[az]` correspond à a ou z.</target>
       </segment>
     </unit>
     <unit id="795bcce3-4262-4e42-b4f0-24c9aeee1873">
@@ -33305,9 +33305,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4289</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`[a-z]` matches any lowercase letter from a through z.</source>
-        <target>`[a-z]` matches any lowercase letter from a through z.</target>
+        <target>`[a-z]` correspond à n'importe quelle lettre minuscule de a à z.</target>
       </segment>
     </unit>
     <unit id="796f00f1-928c-43c9-bf5b-c6c4be838474">
@@ -33315,9 +33315,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 4290</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`[!a-z]` matches any character except lowercase letters a through z.</source>
-        <target>`[!a-z]` matches any character except lowercase letters a through z.</target>
+        <target>`[!a-z]` correspond à n'importe quel caractère, à l'exception des lettres minuscules de a à z.</target>
       </segment>
     </unit>
     <unit id="909761ee-4a29-4728-af07-9622d4e8ef0f">
@@ -33835,9 +33835,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4368</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>After resetting, a dialog will appear allowing you to undo the reset and restore your previous configuration.</source>
-        <target>After resetting, a dialog will appear allowing you to undo the reset and restore your previous configuration.</target>
+        <target>Après la réinitialisation, une boîte de dialogue apparaîtra vous permettant d'annuler la réinitialisation et de restaurer votre configuration précédente.</target>
       </segment>
     </unit>
     <unit id="d7b53c51-1e32-4877-9bc1-612abaa66bcb">
@@ -33877,9 +33877,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Revert configuration | `NVDA+control+r` | Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults without showing the undo dialog. </source>
-        <target> Revert configuration | `NVDA+control+r` | Pressing once resets your configuration to when you last saved it. Pressing three times will reset it back to factory defaults without showing the undo dialog. </target>
+        <target> Rétablir la configuration | `NVDA+contrôle+r` | Un appui réinitialise votre configuration à la dernière sauvegarde. Trois appuis la réinitialise aux paramètres par défaut sans afficher la boîte de dialogue d'annulation. </target>
       </segment>
     </unit>
     <unit id="399befd7-919a-441c-8d48-a1800124f0df">
