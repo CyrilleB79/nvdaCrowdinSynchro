@@ -17740,9 +17740,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1636</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To cycle through the tracking modes, please assign a custom gesture using the [Input Gestures dialog](#InputGestures).</source>
-        <target>To cycle through the tracking modes, please assign a custom gesture using the [Input Gestures dialog](#InputGestures).</target>
+        <target>Pour faire défiler les modes de suivi, veuillez attribuer un geste personnalisé à l'aide de la [boîte de dialogue Gestes de commandes](#InputGestures).</target>
       </segment>
     </unit>
     <unit id="7dcc406d-e586-4c4f-b8e0-d7d273f34200">
@@ -25167,27 +25167,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierTrueCenterTracking}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>true center tracking</source>
-        <target>true center tracking</target>
+        <target>Suivi du centre réel</target>
       </segment>
     </unit>
     <unit id="b2587007-053e-475b-950f-2a42a14fe015">
       <notes>
         <note appliesTo="source">line: 2925</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This checkbox controls whether the magnifier should always keep the tracked position centered on the screen, even when the tracked element is next to the screen edges, or if it should allow the tracked position to move towards the edges of the screen.</source>
-        <target>This checkbox controls whether the magnifier should always keep the tracked position centered on the screen, even when the tracked element is next to the screen edges, or if it should allow the tracked position to move towards the edges of the screen.</target>
+        <target>Cette case à cocher définit si la loupe doit toujours garder la position suivie centrée sur l'écran, même lorsque l'élément suivi est à côté des bords de l'écran, ou si elle doit permettre à la position suivie de se déplacer vers les bords de l'écran.</target>
       </segment>
     </unit>
     <unit id="8a2ad65a-23cf-4f9e-86c4-cb86a7333d02">
       <notes>
         <note appliesTo="source">line: 2926</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, the magnifier will always keep the tracked position centered on the screen, which can be helpful for users who prefer a consistent tracked position within the magnified view.</source>
-        <target>When enabled, the magnifier will always keep the tracked position centered on the screen, which can be helpful for users who prefer a consistent tracked position within the magnified view.</target>
+        <target>Lorsqu'elle est activée, la loupe gardera toujours la position suivie centrée sur l'écran, ce qui peut être utile pour les utilisateurs qui préfèrent une position suivie cohérente dans la vue agrandie.</target>
       </segment>
     </unit>
     <unit id="43cf8588-0df1-4ba2-aa42-ae3ca42f002d">
@@ -25218,36 +25218,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierPanningStepSize}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Panning step size</source>
-        <target>Panning step size</target>
+        <target>Taille du pas de déplacement</target>
       </segment>
     </unit>
     <unit id="2199e1a5-9049-4c20-b100-f5cd53858b3f">
       <notes>
         <note appliesTo="source">line: 2935</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option allows you to set the panning step size as a percentage of the visible magnified window.</source>
-        <target>This option allows you to set the panning step size as a percentage of the visible magnified window.</target>
+        <target>Cette option vous permet de définir la taille du pas de déplacement en pourcentage de la fenêtre agrandie visible.</target>
       </segment>
     </unit>
     <unit id="ede1f598-df90-4bfe-83c5-84d489a2d5ea">
       <notes>
         <note appliesTo="source">line: 2936</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This means that when you use manual pan commands, the magnified view will move by the specified percentage of the current visible window size.</source>
-        <target>This means that when you use manual pan commands, the magnified view will move by the specified percentage of the current visible window size.</target>
+        <target>Cela signifie que lorsque vous utilisez les commandes de déplacement manuel, la vue agrandie se déplacera du pourcentage spécifié de la taille actuelle de la fenêtre visible.</target>
       </segment>
     </unit>
     <unit id="74ce9f11-e871-44b7-9da5-535b6c0bf421">
       <notes>
         <note appliesTo="source">line: 2937</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Higher percentages cause larger movements, making it faster to navigate across the screen, while lower percentages provide finer control for precise positioning.</source>
-        <target>Higher percentages cause larger movements, making it faster to navigate across the screen, while lower percentages provide finer control for precise positioning.</target>
+        <target>Un pourcentage plus élevé entraîne un mouvements plus important, ce qui accélère la navigation sur l'écran, tandis que un pourcentage plus faible offre un contrôle plus fin pour un positionnement précis.</target>
       </segment>
     </unit>
     <unit id="de50c216-9b37-4c85-ac1c-b9cdbfd1b8f6">

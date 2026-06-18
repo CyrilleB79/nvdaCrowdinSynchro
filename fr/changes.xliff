@@ -6335,9 +6335,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 33</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A command allows temporarily showing an overview of the entire screen</source>
-        <target>A command allows temporarily showing an overview of the entire screen</target>
+        <target>Une commande permet d'afficher temporairement un aperçu de tout l'écran</target>
       </segment>
     </unit>
     <unit id="fc145b84-b9f3-4ad4-9124-70e72a974340">
@@ -6810,9 +6810,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 83</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The "Type" radio buttons in the "Add Dictionary Entry" dialog are now arranged vertically rather than horizontally. (#19657)</source>
-        <target>The "Type" radio buttons in the "Add Dictionary Entry" dialog are now arranged vertically rather than horizontally. (#19657)</target>
+        <target>Les boutons radio "Type" dans la boîte de dialogue "Ajouter une entrée au dictionnaire" sont désormais disposés verticalement plutôt qu'horizontalement. (#19657)</target>
       </segment>
     </unit>
     <unit id="6e83ec90-ee84-4be0-819c-f475fa970a66">
@@ -6930,9 +6930,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 97</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Excel, when visual highlight is enabled, the focused cell is now correctly highlighted. (#19641, @CyrilleB79)</source>
-        <target>In Excel, when visual highlight is enabled, the focused cell is now correctly highlighted. (#19641, @CyrilleB79)</target>
+        <target>Dans Excel, lorsque la mise en évidence  visuelle est activée, la cellule ayant le focus est désormais correctement mise en évidence. (#19641, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="46f5b2cc-76cb-460a-a744-969f63d29832">
