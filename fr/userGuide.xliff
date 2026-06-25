@@ -17625,9 +17625,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1620</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The magnifier offers three different modes for tracking the mouse, system focus, review cursor, and navigator object, and determining which part of the screen to magnify:</source>
-        <target>The magnifier offers three different modes for tracking the mouse, system focus, review cursor, and navigator object, and determining which part of the screen to magnify:</target>
+        <target>La loupe propose trois modes différents pour suivre la souris, le focus système, le curseur de revue et l'objet navigateur, et déterminer quelle partie de l'écran doit être agrandie :</target>
       </segment>
     </unit>
     <unit id="15d736f2-db42-4d76-8cbe-016a14349423">
@@ -17635,9 +17635,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1622</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Center: The magnified area is centered on the currently tracked position.</source>
-        <target>Center: The magnified area is centered on the currently tracked position.</target>
+        <target>Centre : La zone agrandie est centrée sur la position actuellement suivie.</target>
       </segment>
     </unit>
     <unit id="35f84f37-53d4-4435-9525-5fe81bf0e43b">
@@ -17663,18 +17663,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1625</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Border: The magnified area only moves when the tracked position approaches the edge of the visible area.</source>
-        <target>Border: The magnified area only moves when the tracked position approaches the edge of the visible area.</target>
+        <target>Bord : la zone agrandie se déplace uniquement lorsque la position suivie s'approche du bord de la zone visible.</target>
       </segment>
     </unit>
     <unit id="f25f564e-2866-4a5e-8d3d-d6490d132175">
       <notes>
         <note appliesTo="source">line: 1626</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This mode provides a more stable view, only adjusting when necessary.</source>
-        <target>This mode provides a more stable view, only adjusting when necessary.</target>
+        <target>Ce mode offre une vue plus stable, en l'ajustant uniquement lorsque cela est nécessaire.</target>
       </segment>
     </unit>
     <unit id="34c77646-ad96-458e-b68d-5fad6721b5dd">
@@ -20995,9 +20995,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2209</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Certain Unicode characters, such as negative circled Latin capital letters (🅐–🅩) and negative squared Latin capital letters (🅲–🆉), are treated as autonomous symbols by the Unicode standard and have no compatibility decomposition.</source>
-        <target>Certain Unicode characters, such as negative circled Latin capital letters (🅐–🅩) and negative squared Latin capital letters (🅲–🆉), are treated as autonomous symbols by the Unicode standard and have no compatibility decomposition.</target>
+        <target>Certains caractères Unicode, tels que les lettres majuscules latines encerclées négatives (🅐–🅩) et les lettres majuscules latines encadrées négatives (🅲–🆉), sont traités comme des symboles autonomes par la norme Unicode et n'ont pas de décomposition de compatibilité.</target>
       </segment>
     </unit>
     <unit id="9c5e7bd8-0ebe-4fcf-a10c-15d276d3ed6e">
@@ -24874,9 +24874,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2865</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>All options in this category take effect immediately, but selecting "Cancel" (or pressing `escape`) will discard any changes.</source>
-        <target>All options in this category take effect immediately, but selecting "Cancel" (or pressing `escape`) will discard any changes.</target>
+        <target>Toutes les options de cette catégorie prennent effet immédiatement, mais si vous choisissez "Annuler" (ou appuyer sur `Échap`), elles seront annulées.</target>
       </segment>
     </unit>
     <unit id="c426994f-e62c-47ab-8c44-9f85732a066c">
@@ -25118,9 +25118,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#MagnifierTrueCenterTracking}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>True center tracking</source>
-        <target>True center tracking</target>
+        <target>Suivi du centre réel</target>
       </segment>
     </unit>
     <unit id="b2587007-053e-475b-950f-2a42a14fe015">
