@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-08 02:35+0000\n"
-"PO-Revision-Date: 2026-07-08 10:55\n"
+"POT-Creation-Date: 2026-07-08 12:51+0000\n"
+"PO-Revision-Date: 2026-07-08 15:10\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -19956,7 +19956,7 @@ msgid "Microsoft Speech API version 4"
 msgstr "Microsoft Speech API version 4"
 
 #. Translators: Description for a speech synthesizer.
-#: synthDrivers\sapi5.py:562 _synthDrivers32\_sapi5.py:562
+#: synthDrivers\sapi5.py:558 _synthDrivers32\_sapi5.py:558
 msgid "Microsoft Speech API version 5 (64 bit)"
 msgstr "Microsoft Speech API version 5 (64 bits)"
 
