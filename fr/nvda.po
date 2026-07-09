@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-08 12:51+0000\n"
-"PO-Revision-Date: 2026-07-09 04:42\n"
+"POT-Creation-Date: 2026-07-09 05:16+0000\n"
+"PO-Revision-Date: 2026-07-09 08:19\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -20094,27 +20094,27 @@ msgid "Lock screen not secure while using NVDA"
 msgstr "Écran de verrouillage non sécurisé lors de l'utilisation de NVDA"
 
 #. Translators: Reported when a page reloads (example: after refreshing a webpage).
-#: virtualBuffers\__init__.py:603
+#: virtualBuffers\__init__.py:609
 msgid "Refreshed"
 msgstr "Réactualisé"
 
 #. Translators: Reported while loading a document.
-#: virtualBuffers\__init__.py:618
+#: virtualBuffers\__init__.py:624
 msgid "Loading document..."
 msgstr "Chargement du document..."
 
 #. Translators: the description for the refreshBuffer script on virtualBuffers.
-#: virtualBuffers\__init__.py:688
+#: virtualBuffers\__init__.py:694
 msgid "Refreshes the document content"
 msgstr "Réactualiser le contenu du document"
 
 #. Translators: Presented when use screen layout option is toggled.
-#: virtualBuffers\__init__.py:696
+#: virtualBuffers\__init__.py:702
 msgid "Use screen layout on"
 msgstr "Disposition telle qu'à l'écran activée"
 
 #. Translators: Presented when use screen layout option is toggled.
-#: virtualBuffers\__init__.py:699
+#: virtualBuffers\__init__.py:705
 msgid "Use screen layout off"
 msgstr "Disposition telle qu'à l'écran désactivée"
 
