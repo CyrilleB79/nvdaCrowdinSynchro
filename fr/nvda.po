@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-21 01:44+0000\n"
-"PO-Revision-Date: 2026-07-21 08:10\n"
+"PO-Revision-Date: 2026-07-21 10:58\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -7250,7 +7250,7 @@ msgstr[1] "{action} {numFingers} doigts"
 #: touchHandler.py:418
 msgctxt "touchHandler"
 msgid "Touch input is blocked."
-msgstr ""
+msgstr "La saisie tactile est bloquée."
 
 #. Translators: a touch screen gesture where two fingers move toward each other (zoom out)
 #: touchTracker.py:40
@@ -20386,25 +20386,25 @@ msgstr "Impossible d'activer la loupe. Veuillez d'abord désactiver le rideau d'
 #: _magnifier\magnifier.py:226
 msgctxt "magnifier"
 msgid "Touch screen input cannot be used because NVDA touch support is disabled. "
-msgstr ""
+msgstr "La saisie sur écran tactile ne peut pas être utilisée car la prise en charge tactile NVDA est désactivée. "
 
 #. Translators: Warning when the magnifier starts on a portable/source copy with a touchscreen.
 #: _magnifier\magnifier.py:232
 msgctxt "magnifier"
 msgid "Touch screen input cannot be used because NVDA is not installed. "
-msgstr ""
+msgstr "La saisie sur écran tactile ne peut pas être utilisée car NVDA n'est pas installé. "
 
 #. Translators: Suffix appended to touch warning when touch inputs cannot be blocked by the magnifier.
 #: _magnifier\magnifier.py:240
 msgctxt "magnifier"
 msgid "Touch inputs may not behave as expected while the magnifier is running."
-msgstr ""
+msgstr "Les interactions tactiles risquent de ne pas fonctionner comme prévu lorsque la loupe est active."
 
 #. Translators: Title of the warning dialog shown when touch cannot be intercepted while the magnifier is running.
 #: _magnifier\magnifier.py:245
 msgctxt "magnifier"
 msgid "Touch Screen Warning"
-msgstr ""
+msgstr "Avertissement concernant l'écran tactile"
 
 #. Translators: Spoken message when magnifier is disabled due to screen curtain being enabled.
 #: _magnifier\magnifier.py:376
