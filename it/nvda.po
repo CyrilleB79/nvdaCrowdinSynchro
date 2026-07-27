@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-27 00:50+0000\n"
-"PO-Revision-Date: 2026-07-27 02:07\n"
+"POT-Creation-Date: 2026-07-27 04:04+0000\n"
+"PO-Revision-Date: 2026-07-27 06:19\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -15304,8 +15304,8 @@ msgstr "F&iltro colore:"
 
 #. Translators: The label for a setting in magnifier settings to select whether true center tracking is used
 #: gui\settingsDialogs.py:6150
-msgid "&True center tracking"
-msgstr "&Mantieni sempre centrata la posizione seguita"
+msgid "T&rue center tracking"
+msgstr ""
 
 #. Translators: The label for a setting in magnifier settings to select the pan step size (in percentage).
 #: gui\settingsDialogs.py:6164
@@ -15341,8 +15341,8 @@ msgstr "Segue il &navigatore ad oggetti"
 
 #. Translators: The label for a setting in magnifier settings to select the full-screen mode
 #: gui\settingsDialogs.py:6227
-msgid "Tracking &mode:"
-msgstr "Modalità di &inseguimento:"
+msgid "&Tracking mode:"
+msgstr ""
 
 #. Translators: The title of the privacy and security category in NVDA's settings.
 #: gui\settingsDialogs.py:6311
@@ -15536,7 +15536,7 @@ msgstr "Voci del &dizionario"
 #. Translators: The label for a column in dictionary entries list used to identify comments for the entry.
 #. Translators: title for Word comment dialog.
 #: gui\speechDict.py:185 NVDAObjects\IAccessible\winword.py:375
-#: NVDAObjects\UIA\wordDocument.py:843
+#: NVDAObjects\UIA\wordDocument.py:903
 msgid "Comment"
 msgstr "Commento"
 
@@ -17204,7 +17204,7 @@ msgid "Reports the text of the comment where the system caret is located.If pres
 msgstr "Legge il testo del commento alla posizione del cursore di sistema. Se premuto due volte mostra le informazioni in modalità navigazione."
 
 #. Translators: a message when there is no comment to report in Microsoft Word
-#: NVDAObjects\IAccessible\winword.py:379 NVDAObjects\UIA\wordDocument.py:847
+#: NVDAObjects\IAccessible\winword.py:379 NVDAObjects\UIA\wordDocument.py:907
 msgid "No comments"
 msgstr "Non contiene commenti"
 
@@ -17467,24 +17467,24 @@ msgid "Comment: {comment} by {author} on {date}"
 msgstr "Commento: {comment} di {author} del {date}"
 
 #. Translators: a message when navigating by sentence is unavailable in MS Word
-#: NVDAObjects\UIA\wordDocument.py:802
+#: NVDAObjects\UIA\wordDocument.py:864
 msgid "Navigating by sentence not supported in this document"
 msgstr "La navigazione per frasi non è supportata in questo documento"
 
 #. Translators: a description for a script that reports the comment at the caret.
-#: NVDAObjects\UIA\wordDocument.py:825
+#: NVDAObjects\UIA\wordDocument.py:885
 msgid "Reports the text of the comment where the system caret is located. If pressed twice, presents the information in a browsable message"
 msgstr "Legge il testo del commento alla posizione del cursore di sistema. Se premuto due volte mostra le informazioni in modalità navigazione"
 
 #. Translators: The message reported in Microsoft Word for document types not supporting setting custom
 #. headers.
-#: NVDAObjects\UIA\wordDocument.py:856
+#: NVDAObjects\UIA\wordDocument.py:916
 msgid "Command not supported in this type of document. The tables have their first row cells automatically set as column headers."
 msgstr "Comando non supportato in questo tipo di documento. Le celle della prima riga delle tabelle sono impostate automaticamente come intestazioni di colonna."
 
 #. Translators: The message reported in Microsoft Word for document types not supporting setting custom
 #. headers.
-#: NVDAObjects\UIA\wordDocument.py:867
+#: NVDAObjects\UIA\wordDocument.py:927
 msgid "Command not supported in this type of document. The tables have their first column cells automatically set as row headers."
 msgstr "Comando non supportato in questo tipo di documento. Le celle della prima colonna delle tabelle sono impostate automaticamente come intestazioni di riga."
 
