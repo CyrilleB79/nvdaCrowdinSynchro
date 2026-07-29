@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-28 04:01+0000\n"
-"PO-Revision-Date: 2026-07-28 22:09\n"
+"POT-Creation-Date: 2026-07-29 01:03+0000\n"
+"PO-Revision-Date: 2026-07-29 01:51\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -7247,7 +7247,7 @@ msgstr[0] "{action} con {numFingers} dita"
 msgstr[1] "{action} {numFingers} dito"
 
 #. Translators: Message spoken when a touch gesture is blocked because touch input is disabled.
-#: touchHandler.py:418
+#: touchHandler.py:422
 msgctxt "touchHandler"
 msgid "Touch input is blocked."
 msgstr ""
