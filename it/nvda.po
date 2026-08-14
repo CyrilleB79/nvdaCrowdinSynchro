@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-13 04:19+0000\n"
-"PO-Revision-Date: 2026-08-14 10:07\n"
+"PO-Revision-Date: 2026-08-14 11:37\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -13034,7 +13034,7 @@ msgstr "&Avvia NVDA"
 #. Translators: Button in the post-install dialog to restart Windows immediately.
 #: gui\installerGui.py:157
 msgid "Restart &Windows"
-msgstr "Riavvio &Windows"
+msgstr "Riavvia &Windows"
 
 #. Translators: Button in the post-install dialog to exit NVDA.
 #: gui\installerGui.py:162
