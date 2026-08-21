@@ -16088,9 +16088,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Cycle move system caret when routing review cursor | None | Cycle through the braille move system caret when routing review cursor states </source>
-        <target> Cycle move system caret when routing review cursor | None | Cycle through the braille move system caret when routing review cursor states </target>
+        <target> Faire défiler déplacer le curseur système lors du routage du curseur de revue | Aucune | Faire défiler les choix pour Déplacer le curseur système lors du routage du curseur de revue </target>
       </segment>
     </unit>
     <unit id="083f81af-43d6-40e4-b546-c17982f274f4">
@@ -16220,9 +16220,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Toggle braille context information | None | Toggle the way context information is presented in braille </source>
-        <target> Toggle braille context information | None | Toggle the way context information is presented in braille </target>
+        <target> Faire défiler les informations contextuelles en braille | Aucune | Faire défiler les modes de présentation des informations contextuelles en braille </target>
       </segment>
     </unit>
     <unit id="cfc752b3-03e7-461f-bdc6-42dea0716845">
