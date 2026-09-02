@@ -19340,7 +19340,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Toggle speaker notes reading |control+shift+s |When in a running slide show, this command will toggle between the speaker notes for the slide and the content for the slide. This only affects what NVDA reads, not what is displayed on screen.</source>
-        <target>Basculer l'arrêt de la lecture vocale |contrôle+maj+s |Lorsque l'on est dans un diaporama en cours de lecture, cette commande basculera entre les notes du commentateur du diaporama et le contenu de celui-ci. Cela n'affecte que ce que NVDA lira, pas l'affichage à l'écran.</target>
+        <target>Basculer les notes du présentateur |contrôle+maj+s |Lorsque l'on est dans un diaporama en cours de lecture, cette commande basculera entre les notes du présentateur de la diapositive et le contenu de celle-ci. Cela n'affecte que ce que NVDA lira, pas l'affichage à l'écran.</target>
       </segment>
     </unit>
     <unit id="ad5ff8ce-486a-49ed-82c1-3170ce64a869">
