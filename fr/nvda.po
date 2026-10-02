@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-30 03:51+0000\n"
-"PO-Revision-Date: 2026-10-02 10:11\n"
+"PO-Revision-Date: 2026-10-02 16:25\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -11014,13 +11014,13 @@ msgstr "Hérité (Uniscribe)"
 #: config\featureFlagEnums.py:180
 msgctxt "braille text wrap"
 msgid "Off"
-msgstr "Off"
+msgstr "Désactivé"
 
 #. Translators: A choice in a combo box in the braille settings panel to configure text wrapping.
 #: config\featureFlagEnums.py:182
 msgctxt "braille text wrap"
 msgid "Show mark when words are cut"
-msgstr "Afficher symbole lorsque les mots sont coupés"
+msgstr "Afficher un signe lorsque les mots sont coupés"
 
 #. Translators: A choice in a combo box in the braille settings panel to configure text wrapping.
 #: config\featureFlagEnums.py:184

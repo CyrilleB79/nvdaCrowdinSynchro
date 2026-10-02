@@ -8077,9 +8077,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 205</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>From within any NVDA dialog, press `f1` to open the User Guide to the topic on the current control.</source>
-        <target>From within any NVDA dialog, press `f1` to open the User Guide to the topic on the current control.</target>
+        <target>Dans n'importe quelle boîte de dialogue NVDA, appuyez sur `f1` pour ouvrir le guide de l'utilisateur sur le sujet relatif à la commande actuelle.</target>
       </segment>
     </unit>
     <unit id="e6e23bc7-8c74-4127-b4e6-74478e82ba5c">
@@ -8420,9 +8420,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Copy last spoken information | `NVDA+control+x` | `NVDA+control+x` | Copies the last information spoken by NVDA to the clipboard </source>
-        <target> Copy last spoken information | `NVDA+control+x` | `NVDA+control+x` | Copies the last information spoken by NVDA to the clipboard </target>
+        <target> Copier la dernière information annoncée | `NVDA+contrôle+x` | `NVDA+contrôle+x` | Copie dans le presse-papiers la dernière information annoncées par NVDA </target>
       </segment>
     </unit>
     <unit id="dc126fc4-503c-4e99-a501-cb2817d26b60">
@@ -9378,9 +9378,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 378</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If the add-on is disabled, the action will instead be labelled "Update (and enable)", as add-ons must be enabled to be installed; updating a disabled add-on re-enables it.</source>
-        <target>If the add-on is disabled, the action will instead be labelled "Update (and enable)", as add-ons must be enabled to be installed; updating a disabled add-on re-enables it.</target>
+        <target>Si l'extension est désactivée, l'action sera alors intitulée "Mettre à jour (et activer)", car les extensions doivent être activées pour être installées ; la mise à jour d'une extension désactivée la réactive.</target>
       </segment>
     </unit>
     <unit id="1318394c-807b-43b5-b039-4fc7b06acd30">
@@ -9517,9 +9517,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 399</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>From within any NVDA dialog, press `f1` to open the User Guide to the topic on the current control.</source>
-        <target>From within any NVDA dialog, press `f1` to open the User Guide to the topic on the current control.</target>
+        <target>Dans n'importe quelle boîte de dialogue NVDA, appuyez sur `f1` pour ouvrir le guide de l'utilisateur sur le sujet relatif à la commande actuelle.</target>
       </segment>
     </unit>
     <unit id="66650ab1-b49d-4742-832b-545a9dc3227f">
@@ -10251,9 +10251,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 509</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA ignores touch input (gestures are passed through).</source>
-        <target>NVDA ignores touch input (gestures are passed through).</target>
+        <target>NVDA ignore les entrées tactiles (les gestes sont transmis).</target>
       </segment>
     </unit>
     <unit id="e595b705-01ac-4dad-95f3-65541f8d43f3">
@@ -10261,9 +10261,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 510</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Mouse and touch input will not work correctly with the NVDA magnifier enabled (i.e. inaccurate input).</source>
-        <target>Mouse and touch input will not work correctly with the NVDA magnifier enabled (i.e. inaccurate input).</target>
+        <target>Les entrées souris et tactile ne fonctionneront pas correctement avec la loupe NVDA activée (c'est-à-dire une saisie imprécise).</target>
       </segment>
     </unit>
     <unit id="fec543b9-d54e-4c7b-8d28-8a0d5f583062">
@@ -10957,36 +10957,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SequentialFlicks}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sequential Flicks</source>
-        <target>Sequential Flicks</target>
+        <target>Glissés séquentiels</target>
       </segment>
     </unit>
     <unit id="2c4b6de8-0650-4576-b097-c258330fb21a">
       <notes>
         <note appliesTo="source">line: 625</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You can perform two flicks in quick succession to trigger a sequential flick gesture.</source>
-        <target>You can perform two flicks in quick succession to trigger a sequential flick gesture.</target>
+        <target>Vous pouvez effectuer deux glissés en succession rapide pour déclencher un geste de glissé séquentiel.</target>
       </segment>
     </unit>
     <unit id="7cc4a858-4adb-4640-acf7-1835569a3e3d">
       <notes>
         <note appliesTo="source">line: 626</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This greatly expands the number of touch gestures that can be assigned to NVDA commands.</source>
-        <target>This greatly expands the number of touch gestures that can be assigned to NVDA commands.</target>
+        <target>Cela augmente considérablement le nombre de gestes tactiles pouvant être associés aux commandes NVDA.</target>
       </segment>
     </unit>
     <unit id="df7a721c-22bb-4049-9852-f5096b740630">
       <notes>
         <note appliesTo="source">line: 628</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Both flicks can be performed in two ways:</source>
-        <target>Both flicks can be performed in two ways:</target>
+        <target>Les deux glissés peuvent être réalisés de deux manières :</target>
       </segment>
     </unit>
     <unit id="d3e2031a-13cb-46dc-8236-637b37a5eb6f">
@@ -10994,9 +10994,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 630</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Lifting your finger after the first flick and then performing the second flick before the gesture times out.</source>
-        <target>Lifting your finger after the first flick and then performing the second flick before the gesture times out.</target>
+        <target>Lever le doigt après le premier mouvement, puis effectuer le second mouvement avant que le geste n'expire.</target>
       </segment>
     </unit>
     <unit id="980c5809-8315-46f8-8071-cb9dc01ee125">
@@ -11004,18 +11004,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 631</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Or as a single continuous swipe that sharply changes direction, without lifting your finger.</source>
-        <target>Or as a single continuous swipe that sharply changes direction, without lifting your finger.</target>
+        <target>Ou encore, d'un seul geste continu qui change brusquement de direction, sans lever le doigt.</target>
       </segment>
     </unit>
     <unit id="20c7ba4f-fa6b-4fde-b58e-ba6161d18668">
       <notes>
         <note appliesTo="source">line: 633</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Twelve combinations are recognised: the four opposite-direction pairs (such as flick right then flick left), and the eight perpendicular L-shaped pairs (such as flick right then flick up).</source>
-        <target>Twelve combinations are recognised: the four opposite-direction pairs (such as flick right then flick left), and the eight perpendicular L-shaped pairs (such as flick right then flick up).</target>
+        <target>Douze combinaisons sont reconnues : les quatre paires de directions opposées (comme un glissé à droite puis à gauche), et les huit paires perpendiculaires en forme de L (comme un glissé à droite puis vers le haut).</target>
       </segment>
     </unit>
     <unit id="1e3c9e38-6f8b-4303-b2ba-23fb70e702fe">
@@ -11373,9 +11373,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Copy last spoken information | `NVDA+control+x` | `NVDA+control+x` | None | Copies the last information spoken by NVDA to the clipboard </source>
-        <target> Copy last spoken information | `NVDA+control+x` | `NVDA+control+x` | None | Copies the last information spoken by NVDA to the clipboard </target>
+        <target> Copier la dernière information annoncée | `NVDA+contrôle+x` | `NVDA+contrôle+x` | Aucun | Copie dans le presse-papiers la dernière information annoncée par NVDA </target>
       </segment>
     </unit>
     <unit id="8b767a3a-276c-462e-a73a-66691666d7b9">
@@ -11972,9 +11972,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Next sentence | `alt+downArrow` | `alt+downArrow` | Moves the caret to the next sentence and announces it. Some documents are not supported </source>
-        <target> Next sentence | `alt+downArrow` | `alt+downArrow` | Moves the caret to the next sentence and announces it. Some documents are not supported </target>
+        <target> Phrase suivante | `alt+flècheBas` | `alt+flècheBas` | Déplace le curseur à la phrase suivante et l'annonce. Certains documents ne sont pas pris en charge </target>
       </segment>
     </unit>
     <unit id="07d4d4ae-17cd-44b5-a336-b92206037d66">
@@ -11983,9 +11983,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Previous sentence | `alt+upArrow` | `alt+upArrow` | Moves the caret to the previous sentence and announces it. Some documents are not supported </source>
-        <target> Previous sentence | `alt+upArrow` | `alt+upArrow` | Moves the caret to the previous sentence and announces it. Some documents are not supported </target>
+        <target> Phrase précédente | `alt+flècheHaut` | `alt+flècheHaut` | Déplace le curseur à la phrase précédente et l'annonce. Certains documents ne sont pas pris en charge </target>
       </segment>
     </unit>
     <unit id="f2c5e713-d2a2-4c3e-8d24-898fa503ee8e">
@@ -14463,9 +14463,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1154</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Clickable element</source>
-        <target>Clickable element</target>
+        <target>Élément cliquable</target>
       </segment>
     </unit>
     <unit id="125751a0-7c42-4440-aba6-53a4788f58f2">
@@ -14715,9 +14715,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1191</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When the [Keep search history](#SearchHistory) browse mode setting is enabled, this field is a combo box that also offers the terms you have recently searched for (up to 20), which are cleared when NVDA restarts.</source>
-        <target>When the [Keep search history](#SearchHistory) browse mode setting is enabled, this field is a combo box that also offers the terms you have recently searched for (up to 20), which are cleared when NVDA restarts.</target>
+        <target>Quand l'option [Conserver l'historique de recherche](#SearchHistory) du mode navigation est activée, Ce champ est une zone de liste déroulante qui propose également les termes que vous avez récemment recherchés (jusqu'à 20), qui sont effacés lorsque NVDA redémarre.</target>
       </segment>
     </unit>
     <unit id="7b7daada-42a3-42a7-ae00-f3d6e097518b">
@@ -14893,9 +14893,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1223</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>However, NVDA has a Native Selection Mode which can be toggled on or off in Browse Mode documents that support it.</source>
-        <target>However, NVDA has a Native Selection Mode which can be toggled on or off in Browse Mode documents that support it.</target>
+        <target>Cependant, NVDA dispose d'un mode de sélection native qui peut être activé ou désactivé dans les documents en mode navigation qui le prennent en charge.</target>
       </segment>
     </unit>
     <unit id="7657ffc2-f9a7-40ee-a0e8-e888bdc9407d">
@@ -14951,18 +14951,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1230</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Microsoft Word and Outlook, where it cannot be toggled off</source>
-        <target>Microsoft Word and Outlook, where it cannot be toggled off</target>
+        <target>Microsoft Word et Outlook, où il ne peut pas être désactivée</target>
       </segment>
     </unit>
     <unit id="5d5a047d-ddb8-49f2-8553-1c7933c2f6c6">
       <notes>
         <note appliesTo="source">line: 1232</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Native Selection Mode can also be [turned on automatically](#NativeSelectionModeSetting) in supporting documents via NVDA's Browse Mode settings.</source>
-        <target>Native Selection Mode can also be [turned on automatically](#NativeSelectionModeSetting) in supporting documents via NVDA's Browse Mode settings.</target>
+        <target>Le mode de sélection native peut également être [activé automatiquement](#NativeSelectionModeSetting) dans les documents pris en charge via les paramètres du mode navigation de NVDA.</target>
       </segment>
     </unit>
     <unit id="0c220da6-bf37-40be-b1a7-95859acd96c7">
@@ -15387,9 +15387,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1302</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When [Visual Highlight](#VisionFocusHighlight) is enabled and the browse mode cursor highlighter is enabled, the current subpart of MathML on the web is also exposed visually.</source>
-        <target>When [Visual Highlight](#VisionFocusHighlight) is enabled and the browse mode cursor highlighter is enabled, the current subpart of MathML on the web is also exposed visually.</target>
+        <target>Lorsque la [mise en évidence visuelle](#VisionFocusHighlight) est activée et que la mise en évidence du curseur du mode navigation est activé, la sous-partie actuelle du contenu mathématique sur le Web est également mise en évidence visuellement.</target>
       </segment>
     </unit>
     <unit id="704098d5-1145-4741-bfa0-0d6755f2905f">
@@ -18010,9 +18010,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 1627</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Solid yellow highlights the virtual caret used in browse mode (where there is no physical caret such as in web browsers), the cursor in OCR recognition results, and the current subpart while navigating math on the web.</source>
-        <target>Solid yellow highlights the virtual caret used in browse mode (where there is no physical caret such as in web browsers), the cursor in OCR recognition results, and the current subpart while navigating math on the web.</target>
+        <target>Le jaune continu indique le curseur virtuel utilisé en mode navigation (quand il n'y a pas de curseur physique comme dans les navigateurs web), le curseur dans les résultats de reconnaissance optique de caractères et la sous-partie courante lors de la navigation dans les mathématique sur le Web.</target>
       </segment>
     </unit>
     <unit id="88d4faf1-1fcf-41f2-929d-888fc923bb74">
@@ -18108,27 +18108,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1648</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When Screen Curtain is enabled, some features that rely on what is literally on screen will not function.</source>
-        <target>When Screen Curtain is enabled, some features that rely on what is literally on screen will not function.</target>
+        <target>Lorsque le rideau d'écran est activé, certaines fonctionnalités qui dépendent de ce qui est affiché réellement à l'écran ne fonctionneront pas.</target>
       </segment>
     </unit>
     <unit id="fa989819-1408-40e0-9c30-9a097d0f849e">
       <notes>
         <note appliesTo="source">line: 1649</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On supported systems, [Windows OCR](#Win10Ocr) can still be used while Screen Curtain is enabled.</source>
-        <target>On supported systems, [Windows OCR](#Win10Ocr) can still be used while Screen Curtain is enabled.</target>
+        <target>Sur les systèmes compatibles, [la reconnaissance optique de caractères de Windows](#Win10Ocr) peut toujours être utilisé lorsque le rideau d'écran est activé.</target>
       </segment>
     </unit>
     <unit id="7e4f34bb-a1be-4fcd-a64b-a422ff75d148">
       <notes>
         <note appliesTo="source">line: 1650</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Some screenshot utilities may not work.</source>
-        <target>Some screenshot utilities may not work.</target>
+        <target>Certains utilitaires de capture d'écran peuvent ne pas fonctionner.</target>
       </segment>
     </unit>
     <unit id="002145a3-909c-48ef-90c3-a591cb9905a3">
@@ -18425,9 +18425,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Move mouse to view | None | Move the mouse cursor to the center of the magnified view </source>
-        <target> Move mouse to view | None | Move the mouse cursor to the center of the magnified view </target>
+        <target> Déplacer la souris vers la vue | Aucun | Déplace le curseur de la souris au centre de la vue agrandie </target>
       </segment>
     </unit>
     <unit id="d807d2a3-540f-4ae6-9f96-167a4f143cbd">
@@ -18908,27 +18908,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1772</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On supported systems, Windows OCR can still be used while [Screen Curtain](#VisionScreenCurtain) or NVDA's built-in [Magnifier](#Magnifier) is active.</source>
-        <target>On supported systems, Windows OCR can still be used while [Screen Curtain](#VisionScreenCurtain) or NVDA's built-in [Magnifier](#Magnifier) is active.</target>
+        <target>Sur les systèmes compatibles, la reconnaissance optique de caractères de Windows peut toujours être utilisée pendant que le [rideau d'écran](#VisionScreenCurtain) ou la [Loupe](#Magnifier) ​​intégrée de NVDA est active.</target>
       </segment>
     </unit>
     <unit id="c680e9d2-3909-49b8-9ff2-64465bece811">
       <notes>
         <note appliesTo="source">line: 1773</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>External visual aids may be partially or fully incompatible with Windows OCR.</source>
-        <target>External visual aids may be partially or fully incompatible with Windows OCR.</target>
+        <target>Les aides visuelles externes peuvent être partiellement ou totalement incompatibles avec la reconnaissance optique de caractères de Windows.</target>
       </segment>
     </unit>
     <unit id="c2e8777a-e9bf-4127-9e66-116b7dec92f0">
       <notes>
         <note appliesTo="source">line: 1774</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>You may need to disable these aids before proceeding to a recognition.</source>
-        <target>You may need to disable these aids before proceeding to a recognition.</target>
+        <target>Vous devrez peut-être désactiver ces aides avant de procéder à une reconnaissance.</target>
       </segment>
     </unit>
     <unit id="0ac3a78f-d6c6-41b2-84fd-4c464189cf76">
@@ -20235,36 +20235,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2021</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In some cases, such as when connected over SSH, caret updates may be delayed.</source>
-        <target>In some cases, such as when connected over SSH, caret updates may be delayed.</target>
+        <target>Dans certains cas, comme lors d'une connexion via SSH, les mises à jour du curseur peuvent être retardées.</target>
       </segment>
     </unit>
     <unit id="f2aa2a3e-add5-427b-b547-cb64be02cc1e">
       <notes>
         <note appliesTo="source">line: 2022</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA waits slightly longer for caret movement in Windows Terminal, so it is less likely to report stale characters.</source>
-        <target>NVDA waits slightly longer for caret movement in Windows Terminal, so it is less likely to report stale characters.</target>
+        <target>NVDA attend un peu plus longtemps le déplacement du curseur dans le Terminal Windows, il est donc moins susceptible d'annoncer des caractères obsolètes.</target>
       </segment>
     </unit>
     <unit id="f6301205-a2af-4800-8562-a4e1111113fd">
       <notes>
         <note appliesTo="source">line: 2023</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If caret reporting is still inaccurate, try increasing [Caret move timeout](#AdvancedSettingsCaretMoveTimeout) in Advanced settings.</source>
-        <target>If caret reporting is still inaccurate, try increasing [Caret move timeout](#AdvancedSettingsCaretMoveTimeout) in Advanced settings.</target>
+        <target>Si l'annonce du curseur est toujours inexact, essayez d'augmenter le [délai d'attente du déplacement du curseur](#AdvancedSettingsCaretMoveTimeout) dans les paramètres avancés.</target>
       </segment>
     </unit>
     <unit id="568ce591-9139-4df3-9a8d-33be6e5ed878">
       <notes>
         <note appliesTo="source">line: 2024</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Increasing this value may make caret movement feel slower, so consider changing it in a configuration profile for terminal applications.</source>
-        <target>Increasing this value may make caret movement feel slower, so consider changing it in a configuration profile for terminal applications.</target>
+        <target>L'augmentation de cette valeur peut rendre le déplacement du curseur plus lent ; il est donc conseillé de la modifier dans un profil de configuration pour les applications de terminal.</target>
       </segment>
     </unit>
     <unit id="8dd52f52-6113-4aed-b410-32e528650d79">
@@ -22007,72 +22007,72 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SpeechSettingsSayAllReadingUnit}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Say all reads by</source>
-        <target>Say all reads by</target>
+        <target>Dire tout lit par</target>
       </segment>
     </unit>
     <unit id="f75f3f3c-8e81-4199-872f-b27acc4627be">
       <notes>
         <note appliesTo="source">line: 2321</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This combo box lets you choose the unit of text that say all (continuous reading) advances by.</source>
-        <target>This combo box lets you choose the unit of text that say all (continuous reading) advances by.</target>
+        <target>Cette zone de liste déroulante vous permet de choisir l'unité de texte par laquelle dire tout (lecture continue) avance.</target>
       </segment>
     </unit>
     <unit id="ce987eff-80e0-4ab3-942f-7a1961657f75">
       <notes>
         <note appliesTo="source">line: 2322</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This affects how frequently the text caret and view move during say all, and can also affect intonation in long blocks of text.</source>
-        <target>This affects how frequently the text caret and view move during say all, and can also affect intonation in long blocks of text.</target>
+        <target>Cela influe sur la fréquence à laquelle le curseur et la vue du texte se déplacent pendant la lecture, et peut également affecter l'intonation dans les longs blocs de texte.</target>
       </segment>
     </unit>
     <unit id="179d01ff-04bd-4220-b0dc-3e30eb5e4d3f">
       <notes>
         <note appliesTo="source">line: 2323</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When set to "Sentence where possible", NVDA reads sentence by sentence in controls and documents that support sentence boundaries, and automatically falls back to reading by line where sentence boundaries are not supported.</source>
-        <target>When set to "Sentence where possible", NVDA reads sentence by sentence in controls and documents that support sentence boundaries, and automatically falls back to reading by line where sentence boundaries are not supported.</target>
+        <target>Lorsque l'option "Phrase si possible" est sélectionnée, NVDA lit phrase par phrase les commandes et les documents qui prennent en charge les limites de phrases, et passe automatiquement à une lecture par ligne lorsque les limites de phrases ne sont pas prises en charge.</target>
       </segment>
     </unit>
     <unit id="507f0e81-42df-49b8-9b3d-37588cc4d9b7">
       <notes>
         <note appliesTo="source">line: 2324</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sentence boundaries are supported in Microsoft Word and Outlook, in several edit controls, and in most browse mode documents such as web pages.</source>
-        <target>Sentence boundaries are supported in Microsoft Word and Outlook, in several edit controls, and in most browse mode documents such as web pages.</target>
+        <target>Les limites de phrases sont prises en charge dans Microsoft Word et Outlook, dans plusieurs contrôles d'édition et dans la plupart des documents en mode navigation, tels que les pages Web.</target>
       </segment>
     </unit>
     <unit id="57e647fa-9653-4a0e-b971-4e6a132418aa">
       <notes>
         <note appliesTo="source">line: 2325</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When set to "Paragraph", NVDA reads paragraph by paragraph.</source>
-        <target>When set to "Paragraph", NVDA reads paragraph by paragraph.</target>
+        <target>Lorsque l'option "Paragraphe" est sélectionnée, NVDA lit paragraphe par paragraphe.</target>
       </segment>
     </unit>
     <unit id="90ad0097-f14f-4277-bae3-6e2ea606702c">
       <notes>
         <note appliesTo="source">line: 2326</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When set to "Line", NVDA always reads line by line.</source>
-        <target>When set to "Line", NVDA always reads line by line.</target>
+        <target>Lorsque l'option  "Ligne" est sélectionnée, NVDA lit toujours ligne par ligne.</target>
       </segment>
     </unit>
     <unit id="b82f768b-2246-4196-a8d2-0984708b90fd">
       <notes>
         <note appliesTo="source">line: 2327</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, when set to "Line", say all reads by line in Rich Edit controls such as NVDA's log viewer, whereas the default reads these by sentence.</source>
-        <target>For example, when set to "Line", say all reads by line in Rich Edit controls such as NVDA's log viewer, whereas the default reads these by sentence.</target>
+        <target>Par exemple, lorsque l'option "Ligne" est sélectionnée, dire tout lit par ligne dans les contrôles Rich Edit tels que la visionneuse du journal de NVDA, alors que la valeur par défaut lit par phrase.</target>
       </segment>
     </unit>
     <unit id="7b7c73cf-9d8e-4d63-8025-c8567a1c7b3d">
@@ -22081,9 +22081,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Default (Sentence where possible), Sentence where possible, Paragraph, Line </source>
-        <target> Options | Default (Sentence where possible), Sentence where possible, Paragraph, Line </target>
+        <target> Options | Défaut (Phrase si possible), Phrase si possible, Paragraphe, Ligne </target>
       </segment>
     </unit>
     <unit id="87f2450a-1462-40c4-9a30-51a99ea078fe">
@@ -22092,9 +22092,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Sentence where possible </source>
-        <target> Default | Sentence where possible </target>
+        <target> Défault | Phrase si possible </target>
       </segment>
     </unit>
     <unit id="50f3a4ca-fb8b-4154-b9ed-44d4aecc86b6">
@@ -24205,18 +24205,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2684</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>While the automatic scroll option is enabled, you can still use the scroll back command to read previous contents again, and scroll forward, for example, to skip a blank line, or if the line being read is too short.</source>
-        <target>While the automatic scroll option is enabled, you can still use the scroll back command to read previous contents again, and scroll forward, for example, to skip a blank line, or if the line being read is too short.</target>
+        <target>Lorsque l'option de défilement automatique est activée, vous pouvez toujours utiliser la commande de défilement vers l'arrière pour relire le contenu précédent, et faire défiler vers l'avant, par exemple, pour ignorer une ligne vide ou si la ligne en cours de lecture est trop courte.</target>
       </segment>
     </unit>
     <unit id="9f7eafae-e383-4ef2-8e42-84d78de49b09">
       <notes>
         <note appliesTo="source">line: 2686</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Automatic scrolling will be disabled if a routing key is pressed, if a message is presented in braille, if a new object is displayed, when entering a secure screen, when the session is locked, or when the end of the window is reached.</source>
-        <target>Automatic scrolling will be disabled if a routing key is pressed, if a message is presented in braille, if a new object is displayed, when entering a secure screen, when the session is locked, or when the end of the window is reached.</target>
+        <target>Le défilement automatique sera désactivé si un curseur de routage est enfoncée, si un message est présenté en braille, si un nouvel objet est affiché, lors de l'accès à un écran sécurisé, lorsque la session est verrouillée ou lorsque la fin de la fenêtre est atteinte.</target>
       </segment>
     </unit>
     <unit id="39c16359-560b-4581-ac94-32c33dbe125a">
@@ -24234,36 +24234,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#BrailleSettingsWordWrap}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Text wrap</source>
-        <target>Text wrap</target>
+        <target>Retour à la ligne automatique</target>
       </segment>
     </unit>
     <unit id="2d1d2579-b607-45ce-9fc9-7424877cc300">
       <notes>
         <note appliesTo="source">line: 2692</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This combo box allows you to configure how NVDA handles text that is too long to fit on the braille display.</source>
-        <target>This combo box allows you to configure how NVDA handles text that is too long to fit on the braille display.</target>
+        <target>Cette liste déroulante vous permet de configurer la façon dont NVDA gère les textes trop longs pour tenir sur l'afficheur braille.</target>
       </segment>
     </unit>
     <unit id="33a7226c-baf1-4851-b1c5-4d004e11e6fd">
       <notes>
         <note appliesTo="source">line: 2693</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When a word is cut across rows, the continuation mark (dots 7 and 8) is shown in the last cell of the row, unless otherwise noted below.</source>
-        <target>When a word is cut across rows, the continuation mark (dots 7 and 8) is shown in the last cell of the row, unless otherwise noted below.</target>
+        <target>Lorsqu'un mot est coupé sur plusieurs lignes, le signe de continuation (points 7 et 8) est indiqué dans la dernière cellule de la ligne, sauf indication contraire ci-dessous.</target>
       </segment>
     </unit>
     <unit id="caa3cd93-4df1-4ed1-ab98-6087a9cffe70">
       <notes>
         <note appliesTo="source">line: 2694</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following options are available:</source>
-        <target>The following options are available:</target>
+        <target>Les options suivantes sont disponibles :</target>
       </segment>
     </unit>
     <unit id="818bfd3a-a1b8-4efa-a735-b46758a62b92">
@@ -24271,27 +24271,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2696</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Off: Text wraps at the display edge, cutting words mid-way if necessary, without showing any continuation mark.</source>
-        <target>Off: Text wraps at the display edge, cutting words mid-way if necessary, without showing any continuation mark.</target>
+        <target>Désactivé : Le texte revient à la ligne au bord de l'afficheur, coupant les mots au milieu si nécessaire, sans afficher de signe de continuation.</target>
       </segment>
     </unit>
     <unit id="3f465aeb-8d18-4aec-bb56-8b6e3a5fc5b9">
       <notes>
         <note appliesTo="source">line: 2697</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>As much of the text as possible will be displayed on each row.</source>
-        <target>As much of the text as possible will be displayed on each row.</target>
+        <target>Autant de texte que possible sera affiché sur chaque ligne.</target>
       </segment>
     </unit>
     <unit id="b45b5d1e-67a0-4f68-8e54-5f51abc87277">
       <notes>
         <note appliesTo="source">line: 2698</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When you scroll the display, you will be able to read the rest of the text.</source>
-        <target>When you scroll the display, you will be able to read the rest of the text.</target>
+        <target>En faisant défiler l'écran, vous pourrez lire le reste du texte.</target>
       </segment>
     </unit>
     <unit id="e9ba066c-85ae-45a4-99bc-47d12ec1a4f1">
@@ -24299,18 +24299,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2699</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Show mark when words are cut: Text is not wrapped, but whenever a word is cut at the end of the display, a continuation mark is shown.</source>
-        <target>Show mark when words are cut: Text is not wrapped, but whenever a word is cut at the end of the display, a continuation mark is shown.</target>
+        <target>Afficher un signe lorsque les mots sont coupés : Le texte n'est pas renvoyé à la ligne, mais lorsqu'un mot est coupé à la fin de l'afficheur, un signe de continuation est indiqué.</target>
       </segment>
     </unit>
     <unit id="c63ba117-bb6b-49d9-beb3-ef040f0443b6">
       <notes>
         <note appliesTo="source">line: 2700</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When you scroll the display, you will be able to read the rest of the word.</source>
-        <target>When you scroll the display, you will be able to read the rest of the word.</target>
+        <target>En faisant défiler l'écran, vous pourrez lire le reste du mot.</target>
       </segment>
     </unit>
     <unit id="688a1087-4c2b-4084-a649-c04494d3d3d4">
@@ -24318,9 +24318,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2701</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>At word boundaries: A word which is too large to fit at the end of the braille display will not be split.</source>
-        <target>At word boundaries: A word which is too large to fit at the end of the braille display will not be split.</target>
+        <target>Aux limites des mots : Un mot trop long pour tenir à la fin de l'afficheur braille ne sera pas coupé.</target>
       </segment>
     </unit>
     <unit id="2225f79a-a139-43ad-8d56-e77db9f030e2">
@@ -24345,18 +24345,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2704</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note that if the word is too large to fit on the display even by itself, the word must still be split; the continuation mark is then shown.</source>
-        <target>Note that if the word is too large to fit on the display even by itself, the word must still be split; the continuation mark is then shown.</target>
+        <target>Notez que si le mot seul est trop long pour tenir sur l'écran, il doit tout de même être divisé ; le signe de continuation est alors affiché.</target>
       </segment>
     </unit>
     <unit id="ec18ac7f-04a6-4c4c-838c-9ad12bd26387">
       <notes>
         <note appliesTo="source">line: 2705</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option may allow for more fluent reading, but generally requires you to scroll the display more.</source>
-        <target>This option may allow for more fluent reading, but generally requires you to scroll the display more.</target>
+        <target>Cette option peut permettre une lecture plus fluide, mais elle vous oblige généralement à faire défiler l'afficheur plus souvent.</target>
       </segment>
     </unit>
     <unit id="6ba19c47-c374-4177-b2b3-37fa62eb7f82">
@@ -24364,27 +24364,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2706</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>At word or syllable boundaries: Like "At word boundaries", but long words that don't fit are split at a syllable boundary when possible, using the language of the word if known.</source>
-        <target>At word or syllable boundaries: Like "At word boundaries", but long words that don't fit are split at a syllable boundary when possible, using the language of the word if known.</target>
+        <target>Aux limites des mots ou des syllabes : Comme "Aux limites des mots", mais les mots longs qui ne rentrent pas sont coupés à une limite de syllabe lorsque c'est possible, en utilisant la langue du mot si elle est connue.</target>
       </segment>
     </unit>
     <unit id="87e1224f-1732-404c-9695-c7aa5305ae80">
       <notes>
         <note appliesTo="source">line: 2707</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, the word `behave` may be split between `be` and `have`.</source>
-        <target>For example, the word `behave` may be split between `be` and `have`.</target>
+        <target>Par exemple, le mot `manger` peut être divisé en `man` et `ger`.</target>
       </segment>
     </unit>
     <unit id="07cf9761-d7f2-4aa3-ae4f-bd8c92f17899">
       <notes>
         <note appliesTo="source">line: 2708</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The continuation mark is shown whenever a word is split.</source>
-        <target>The continuation mark is shown whenever a word is split.</target>
+        <target>Le signe de continuation est indiqué chaque fois qu'un mot est coupé.</target>
       </segment>
     </unit>
     <unit id="4bd1a767-eada-4513-a64c-a86731f2ed02">
@@ -24540,45 +24540,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#ChineseBrailleWordSegmentation}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Use Chinese word segmentation</source>
-        <target>Use Chinese word segmentation</target>
+        <target>Utiliser la segmentation des mots chinoise</target>
       </segment>
     </unit>
     <unit id="7a2b95a5-1182-41a7-b276-121d2d4500f9">
       <notes>
         <note appliesTo="source">line: 2740</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting controls whether NVDA uses Chinese word segmentation when translating text into braille.</source>
-        <target>This setting controls whether NVDA uses Chinese word segmentation when translating text into braille.</target>
+        <target>Ce paramètre détermine si NVDA utilise la segmentation des mots chinois lors de la transcription de texte en braille.</target>
       </segment>
     </unit>
     <unit id="3ce0a898-f01f-4e93-847a-a405af277e30">
       <notes>
         <note appliesTo="source">line: 2741</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled and a Chinese braille output table other than "Chinese (Taiwan, Mandarin)" is in use, NVDA inserts spaces between Chinese words before translation.</source>
-        <target>When enabled and a Chinese braille output table other than "Chinese (Taiwan, Mandarin)" is in use, NVDA inserts spaces between Chinese words before translation.</target>
+        <target>Lorsque cette fonction est activée et qu'une table de sortie braille chinoise autre que "Chinois (Taïwan, Mandarin)" est utilisée, NVDA insère des espaces entre les mots chinois avant la transcription.</target>
       </segment>
     </unit>
     <unit id="4fe157a5-9c9d-4dbc-98a7-4d6015d594d2">
       <notes>
         <note appliesTo="source">line: 2742</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When disabled, NVDA passes text directly to the output table without inserting spaces between words.</source>
-        <target>When disabled, NVDA passes text directly to the output table without inserting spaces between words.</target>
+        <target>Lorsqu'elle est désactivée, NVDA transmet le texte directement à la table de sortie sans insérer d'espaces entre les mots.</target>
       </segment>
     </unit>
     <unit id="5cff7def-bbd7-4c02-9c1f-2298ac286cda">
       <notes>
         <note appliesTo="source">line: 2743</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting has no effect with the "Chinese (Taiwan, Mandarin)" table or other non-Chinese output tables.</source>
-        <target>This setting has no effect with the "Chinese (Taiwan, Mandarin)" table or other non-Chinese output tables.</target>
+        <target>Ce paramètre n'a aucun effet sur la tabe "Chinois (Taïwan, Mandarin)" ni sur les autres table de sortie non chinoise.</target>
       </segment>
     </unit>
     <unit id="c2f79fd8-afb0-4eb2-931b-6efc543bbb08">
@@ -24587,9 +24587,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Enabled, Disabled </source>
-        <target> Options | Enabled, Disabled </target>
+        <target> Options | Activé, Désactivé </target>
       </segment>
     </unit>
     <unit id="469256a2-2da1-447a-b01a-55f294cd28da">
@@ -24598,9 +24598,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Enabled </source>
-        <target> Default | Enabled </target>
+        <target> Défaut | Activé </target>
       </segment>
     </unit>
     <unit id="5b7765ac-52bc-4f3f-b358-c0fca9c5839c">
@@ -25962,9 +25962,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 2980</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Highlight browse mode cursor: Toggles whether the [virtual browse mode cursor](#BrowseMode) will be highlighted, including the cursor in OCR recognition results and the current subpart while navigating math on the web.</source>
-        <target>Highlight browse mode cursor: Toggles whether the [virtual browse mode cursor](#BrowseMode) will be highlighted, including the cursor in OCR recognition results and the current subpart while navigating math on the web.</target>
+        <target>Mettre en évidence le curseur du mode navigation : Définit si le [Curseur virtuel du mode navigation](#BrowseMode) sera mis en évidence, y compris le curseur dans les résultats de reconnaissance optique de caractères et la sous-partie courante lors de la navigation dans les mathématiques sur le Web.</target>
       </segment>
     </unit>
     <unit id="fe43547e-810d-4094-9bcb-fa8547848ab6">
@@ -26968,27 +26968,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3175</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If on, this option will cause speech to be interrupted each time a character is typed.</source>
-        <target>If on, this option will cause speech to be interrupted each time a character is typed.</target>
+        <target>Si cette option est activée, la parole sera interrompue à chaque fois qu'un caractère est saisi.</target>
       </segment>
     </unit>
     <unit id="9c1d9ff1-e5eb-46a8-9c78-ab5daa7a4928">
       <notes>
         <note appliesTo="source">line: 3176</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is enabled by default.</source>
-        <target>This option is enabled by default.</target>
+        <target>Cette option est activée par défaut.</target>
       </segment>
     </unit>
     <unit id="74c1df32-b800-4e11-aa64-ed22151bb7cf">
       <notes>
         <note appliesTo="source">line: 3177</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option affects all NVDA speech, including in browse mode, focus mode, and say all.</source>
-        <target>This option affects all NVDA speech, including in browse mode, focus mode, and say all.</target>
+        <target>Cette option affecte l'ensemble de la parole de NVDA, y compris en mode navigation, en mode focus et pendant dire tout.</target>
       </segment>
     </unit>
     <unit id="c36b4346-470e-42e8-a324-71522c127902">
@@ -27006,27 +27006,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3181</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If on, this option will cause speech to be interrupted each time the Enter key is pressed.</source>
-        <target>If on, this option will cause speech to be interrupted each time the Enter key is pressed.</target>
+        <target>Si cette option est activée, la parole sera interrompue à chaque pression sur la touche Entrée.</target>
       </segment>
     </unit>
     <unit id="136fd6b1-4a93-42e0-b6ef-7e5702835443">
       <notes>
         <note appliesTo="source">line: 3182</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option is enabled by default.</source>
-        <target>This option is enabled by default.</target>
+        <target>Cette option est activée par défaut.</target>
       </segment>
     </unit>
     <unit id="fe3040ce-ff3c-40d3-9979-6998358a9c40">
       <notes>
         <note appliesTo="source">line: 3183</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This option affects all NVDA speech, including in browse mode, focus mode, and say all.</source>
-        <target>This option affects all NVDA speech, including in browse mode, focus mode, and say all.</target>
+        <target>Cette option affecte l'ensemble de la parole de NVDA, y compris en mode navigation, en mode focus et pendant dire tout.</target>
       </segment>
     </unit>
     <unit id="07faa9fc-deb8-4f8f-9549-f754c6d006f0">
@@ -29016,36 +29016,36 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#SearchHistory}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Keep search history</source>
-        <target>Keep search history</target>
+        <target>Conserver l'historique de recherche</target>
       </segment>
     </unit>
     <unit id="2ab4f0c8-e003-49e9-9f61-ed98e5f719a4">
       <notes>
         <note appliesTo="source">line: 3540</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Enabled by default, this option determines whether the [Find dialog](#SearchingForText) remembers the terms you have searched for during the current NVDA session.</source>
-        <target>Enabled by default, this option determines whether the [Find dialog](#SearchingForText) remembers the terms you have searched for during the current NVDA session.</target>
+        <target>Activée par défaut, cette option détermine si la boîte de dialogue [Rechercher](#SearchingForText) se souvient des termes que vous avez recherchés durant la session NVDA actuelle.</target>
       </segment>
     </unit>
     <unit id="b6ec66fb-5e33-47d0-9da5-dd46e9b55b56">
       <notes>
         <note appliesTo="source">line: 3541</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, the Find dialog offers up to 20 recently used search terms from a combo box; this history is kept in memory only and is cleared when NVDA restarts.</source>
-        <target>When enabled, the Find dialog offers up to 20 recently used search terms from a combo box; this history is kept in memory only and is cleared when NVDA restarts.</target>
+        <target>Lorsqu'elle est activée, la boîte de dialogue Rechercher propose jusqu'à 20 termes de recherche récemment utilisés à partir d'une liste déroulante ; cet historique est conservé uniquement en mémoire et est effacé au redémarrage de NVDA.</target>
       </segment>
     </unit>
     <unit id="98044c8d-a677-42ae-848c-1c449fab8996">
       <notes>
         <note appliesTo="source">line: 3542</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>If the combo box interferes with your input method, such as with some IMEs, you can set this option to Disabled to return the Find dialog to a plain edit field.</source>
-        <target>If the combo box interferes with your input method, such as with some IMEs, you can set this option to Disabled to return the Find dialog to a plain edit field.</target>
+        <target>Si la zone de liste déroulante interfère avec votre méthode de saisie, comme c'est le cas avec certains IME pour les caractères asiatiques, vous pouvez désactiver cette option pour que la boîte de dialogue Rechercher redevienne un simple champ de saisie.</target>
       </segment>
     </unit>
     <unit id="d07be643-a027-468d-96cf-810967dde6aa">
@@ -29054,9 +29054,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Default (Enabled), Disabled, Enabled </source>
-        <target> Options | Default (Enabled), Disabled, Enabled </target>
+        <target> Options | Défaut (Activé), Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="3f47a03c-3792-499e-af98-e7519a446455">
@@ -29065,9 +29065,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Enabled </source>
-        <target> Default | Enabled </target>
+        <target> Défaut | Activé </target>
       </segment>
     </unit>
     <unit id="ba11363c-8918-4ab9-a3c8-dd4df38e33b2">
@@ -29076,45 +29076,45 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#NativeSelectionModeSetting}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Native selection mode</source>
-        <target>Native selection mode</target>
+        <target>Mode de sélection natif</target>
       </segment>
     </unit>
     <unit id="db954d0d-14a6-47bd-83ae-07f1b20be7cb">
       <notes>
         <note appliesTo="source">line: 3551</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Disabled by default, this option determines whether [Native Selection Mode](#NativeSelectionMode) is automatically turned on in Browse Mode documents which support it.</source>
-        <target>Disabled by default, this option determines whether [Native Selection Mode](#NativeSelectionMode) is automatically turned on in Browse Mode documents which support it.</target>
+        <target>Désactivée par défaut, cette option détermine si le [Mode de sélection natif](#NativeSelectionMode) est automatiquement activé dans les documents en mode navigation qui le prennent en charge.</target>
       </segment>
     </unit>
     <unit id="8b9c0f07-3a4e-489c-b6d6-de7dede1f500">
       <notes>
         <note appliesTo="source">line: 3552</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This setting does not affect Microsoft Word and Outlook, where Native Selection Mode is always used.</source>
-        <target>This setting does not affect Microsoft Word and Outlook, where Native Selection Mode is always used.</target>
+        <target>Ce paramètre n'affecte pas Microsoft Word et Outlook, où le mode de sélection natif est toujours utilisé.</target>
       </segment>
     </unit>
     <unit id="fdb1dad3-9d1c-48e8-b66c-61537d026608">
       <notes>
         <note appliesTo="source">line: 3553</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When disabled, you can still turn on native selection mode manually per document with `NVDA+shift+f10`.</source>
-        <target>When disabled, you can still turn on native selection mode manually per document with `NVDA+shift+f10`.</target>
+        <target>Lorsque cette option est désactivée, vous pouvez toujours activer manuellement le mode de sélection natif pour chaque document avec `NVDA+maj+f10`.</target>
       </segment>
     </unit>
     <unit id="77b02798-0255-4048-8a3d-10a785db5d04">
       <notes>
         <note appliesTo="source">line: 3554</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changing this option takes effect for newly loaded documents.</source>
-        <target>Changing this option takes effect for newly loaded documents.</target>
+        <target>La modification de cette option s'applique aux documents nouvellement chargés.</target>
       </segment>
     </unit>
     <unit id="75acede4-bd40-4ea8-8aae-252775640872">
@@ -29123,9 +29123,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Options | Default (Disabled), Disabled, Enabled </source>
-        <target> Options | Default (Disabled), Disabled, Enabled </target>
+        <target> Options | Défaut (Désactivé), Désactivé, Activé </target>
       </segment>
     </unit>
     <unit id="6a5fb6ca-5bb9-4b3f-b8e1-4ee2962f1b92">
@@ -29134,9 +29134,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source> Default | Disabled </source>
-        <target> Default | Disabled </target>
+        <target> Défaut | Désactivé </target>
       </segment>
     </unit>
     <unit id="ea7aba20-559d-469c-9a29-682ca521a6ac">
@@ -39423,9 +39423,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 5194</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Help Tech displays (formerly Handy Tech)</source>
-        <target>Help Tech displays (formerly Handy Tech)</target>
+        <target>Terminaux Help Tech (anciennement Handy Tech)</target>
       </segment>
     </unit>
     <unit id="593fd58a-7e22-4df3-8f67-fea0c7faf82b">
@@ -40751,9 +40751,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#HandyTech}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Help Tech Displays</source>
-        <target>Help Tech Displays</target>
+        <target>Terminaux Help Tech</target>
       </segment>
     </unit>
     <unit id="65f10b2c-e5a4-4205-9227-97b516f33a54">
@@ -50090,43 +50090,43 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ### </note>
         <note appliesTo="source">suffix:  {#DownloadingNVDA}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Downloading NVDA</source>
-        <target>Downloading NVDA</target>
+        <target>Télécharger NVDA</target>
       </segment>
     </unit>
     <unit id="5e2af35b-29b7-4289-b706-44db5c88b772">
       <notes>
         <note appliesTo="source">line: 6535</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The recommended place to download NVDA is from the NV Access download page at [https://www.nvaccess.org/download/](https://www.nvaccess.org/download/).</source>
-        <target>The recommended place to download NVDA is from the NV Access download page at [https://www.nvaccess.org/download/](https://www.nvaccess.org/download/).</target>
+        <target>Il est recommandé de télécharger NVDA depuis la page de téléchargement de NV Access à l'adresse suivante : [https://www.nvaccess.org/download/](https://www.nvaccess.org/download/).</target>
       </segment>
     </unit>
     <unit id="75c1fc38-30be-4ff7-97dd-167d57d6d0cd">
       <notes>
         <note appliesTo="source">line: 6537</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA can also be downloaded and installed using the Windows Package Manager (WinGet).</source>
-        <target>NVDA can also be downloaded and installed using the Windows Package Manager (WinGet).</target>
+        <target>NVDA peut également être téléchargé et installé à l'aide du Gestionnaire de packages Windows (WinGet).</target>
       </segment>
     </unit>
     <unit id="0c110b3a-4430-4868-a11e-019817948920">
       <notes>
         <note appliesTo="source">line: 6538</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Run the following command in Command Prompt (`cmd`) or PowerShell to install the latest version of NVDA:</source>
-        <target>Run the following command in Command Prompt (`cmd`) or PowerShell to install the latest version of NVDA:</target>
+        <target>Exécutez la commande suivante dans l'invite de commandes (`cmd`) ou PowerShell pour installer la dernière version de NVDA :</target>
       </segment>
     </unit>
     <unit id="428a65f2-4d38-4392-97e4-eeb1b12332cf">
       <notes>
         <note appliesTo="source">line: 6540</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`winget install --id NVAccess.NVDA`</source>
         <target>`winget install --id NVAccess.NVDA`</target>
       </segment>
@@ -50135,9 +50135,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 6542</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To install beta or RC versions, use the following commands:</source>
-        <target>To install beta or RC versions, use the following commands:</target>
+        <target>Pour installer les versions bêta ou RC, utilisez les commandes suivantes :</target>
       </segment>
     </unit>
     <unit id="1147a0af-bc9c-40a6-bb09-22378c048c40">
@@ -50145,9 +50145,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 6544</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Beta: `winget install --id NVAccess.NVDA.Beta`</source>
-        <target>Beta: `winget install --id NVAccess.NVDA.Beta`</target>
+        <target>Beta : `winget install --id NVAccess.NVDA.Beta`</target>
       </segment>
     </unit>
     <unit id="3b386359-4423-4584-a5d3-86362f12546c">
@@ -50155,9 +50155,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 6545</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>RC: `winget install --id NVAccess.NVDA.RC`</source>
-        <target>RC: `winget install --id NVAccess.NVDA.RC`</target>
+        <target>RC : `winget install --id NVAccess.NVDA.RC`</target>
       </segment>
     </unit>
     <unit id="a8007df1-6160-404f-80d7-0e43900f9bb4">
