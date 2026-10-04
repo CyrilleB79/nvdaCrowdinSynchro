@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 03:51+0000\n"
-"PO-Revision-Date: 2026-10-04 20:42\n"
+"POT-Creation-Date: 2026-10-04 23:36+0000\n"
+"PO-Revision-Date: 2026-10-04 23:44\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -16753,7 +16753,7 @@ msgstr "Ultima versione testata di NVDA"
 
 #. Translators: An option of a combo box to sort columns in the add-on store, in ascending order.
 #. {column} will be replaced with the column display string.
-#: gui\addonStoreGui\viewModels\addonList.py:455
+#: gui\addonStoreGui\viewModels\addonList.py:458
 #, python-brace-format
 msgctxt "addonStore"
 msgid "{column} (ascending)"
@@ -16761,7 +16761,7 @@ msgstr "{column} (ascendente)"
 
 #. Translators: An option of a combo box to sort columns in the add-on store, in descending order.
 #. {column} will be replaced with the column display string.
-#: gui\addonStoreGui\viewModels\addonList.py:465
+#: gui\addonStoreGui\viewModels\addonList.py:468
 #, python-brace-format
 msgctxt "addonStore"
 msgid "{column} (descending)"
