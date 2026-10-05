@@ -8420,7 +8420,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source> Copy last spoken information | `NVDA+control+x` | `NVDA+control+x` | Copies the last information spoken by NVDA to the clipboard </source>
-        <target> Copier la dernière information annoncée | `NVDA+contrôle+x` | `NVDA+contrôle+x` | Copier la dernière information annoncée par NVDA dans le presse-papiers </target>
+        <target> Copier la dernière information annoncée | `NVDA+contrôle+x` | `NVDA+contrôle+x` | Copie dans le presse-papiers la dernière information annoncées par NVDA </target>
       </segment>
     </unit>
     <unit id="dc126fc4-503c-4e99-a501-cb2817d26b60">
@@ -9378,7 +9378,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>If the add-on is disabled, the action will instead be labelled "Update (and enable)", as add-ons must be enabled to be installed; updating a disabled add-on re-enables it.</source>
-        <target>Si l'extension est désactivée, l'action sera alors intitulée « Mettre à jour (et activer) », car les extensions doivent être activées pour être installées ; la mise à jour d'une extension désactivée la réactive.</target>
+        <target>Si l'extension est désactivée, l'action sera alors intitulée "Mettre à jour (et activer)", car les extensions doivent être activées pour être installées ; la mise à jour d'une extension désactivée la réactive.</target>
       </segment>
     </unit>
     <unit id="1318394c-807b-43b5-b039-4fc7b06acd30">
