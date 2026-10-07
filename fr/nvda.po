@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-05 04:24+0000\n"
-"PO-Revision-Date: 2026-10-07 14:05\n"
+"PO-Revision-Date: 2026-10-07 20:21\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -13885,7 +13885,7 @@ msgstr "Synthétiseur"
 #. it appears in the context of a braille display group on the braille settings panel.
 #: gui\settingsDialogs.py:1171 gui\settingsDialogs.py:5043
 msgid "C&hange..."
-msgstr "Modifie&r"
+msgstr "&Change..."
 
 #. Translators: This is the label for the synthesizer selection dialog
 #: gui\settingsDialogs.py:1226
@@ -20855,13 +20855,13 @@ msgstr "changer la vue de la loupe"
 #: _magnifier\utils\types.py:87
 msgctxt "magnifier action"
 msgid "change tracking mode"
-msgstr "modifier le mode de suivi"
+msgstr "changer le mode de suivi"
 
 #. Translators: Action description for move mouse to view
 #: _magnifier\utils\types.py:89
 msgctxt "magnifier action"
 msgid "move mouse to view"
-msgstr "Déplacez la souris vers la vue"
+msgstr "déplacer la souris vers la vue"
 
 #. Translators: Action description for showing entire screen overview.
 #: _magnifier\utils\types.py:91
