@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-05 04:24+0000\n"
-"PO-Revision-Date: 2026-10-11 18:32\n"
+"PO-Revision-Date: 2026-10-11 22:35\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -10998,7 +10998,7 @@ msgstr "Balises"
 #. Translators: Label for a method of word segmentation.
 #: config\featureFlagEnums.py:155
 msgid "Chinese"
-msgstr "Chinois"
+msgstr "Chinoise"
 
 #. Translators: Label for a method of word segmentation.
 #: config\featureFlagEnums.py:157
@@ -11008,7 +11008,7 @@ msgstr "Unicode (ICU)"
 #. Translators: Label for a method of word segmentation.
 #: config\featureFlagEnums.py:159
 msgid "Legacy (Uniscribe)"
-msgstr "Hérité (Uniscribe)"
+msgstr "Héritée (Uniscribe)"
 
 #. Translators: A choice in a combo box in the braille settings panel to configure text wrapping.
 #: config\featureFlagEnums.py:180
@@ -15577,7 +15577,7 @@ msgstr "Vitesse de défilement auto&matique"
 #. Translators: The label for a checkbox in the Braille settings panel.
 #: gui\settingsDialogs.py:5640
 msgid "Use &Chinese word segmentation"
-msgstr "Utiliser la segmentation des mots &chinoise"
+msgstr "Utiliser la segmentation &chinoise des mots"
 
 #. Translators: This message is presented when
 #. NVDA is unable to load a single vision enhancement provider.
