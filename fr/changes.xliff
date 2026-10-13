@@ -6487,7 +6487,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2026.3</source>
         <target>2026.3</target>
       </segment>
@@ -7597,18 +7597,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 146</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes for Developers</source>
-        <target>Changes for Developers</target>
+        <target>Changements pour les dévelopeurs</target>
       </segment>
     </unit>
     <unit id="137357bb-a794-4ee1-ab1f-902645f52e8e">
       <notes>
         <note appliesTo="source">line: 148</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</source>
-        <target>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</target>
+        <target>Veuillez vous référer au [guide du développeur](https://download.nvaccess.org/documentation/developerGuide.html#API) pour obtenir des informations sur le processus de dépréciation et de suppression de l'API de NVDA.</target>
       </segment>
     </unit>
     <unit id="06928784-1405-40a9-b941-0febcfde50db">
@@ -7616,9 +7616,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 150</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated dependencies:</source>
-        <target>Updated dependencies:</target>
+        <target>Dépendances mises à jour :</target>
       </segment>
     </unit>
     <unit id="b1a82318-18f8-4f81-9617-3a63ce049ceb">
@@ -7626,9 +7626,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 151</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Python to 3.13.15. (#20634, @dpy013)</source>
-        <target>Python to 3.13.15. (#20634, @dpy013)</target>
+        <target>Python à la version 3.13.15. (#20634, @dpy013)</target>
       </segment>
     </unit>
     <unit id="80777219-a861-4f39-b622-5e66ddc90030">
@@ -7636,9 +7636,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 152</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>ruff to 0.16.3. (#20732)</source>
-        <target>ruff to 0.16.3. (#20732)</target>
+        <target>ruff à la version 0.16.3. (#20732)</target>
       </segment>
     </unit>
     <unit id="6f984b02-f369-443f-bb1a-625ff8ccfe56">
@@ -7646,9 +7646,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 153</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>pyright to 1.1.411. (#20732)</source>
-        <target>pyright to 1.1.411. (#20732)</target>
+        <target>pyright à la version 1.1.411. (#20732)</target>
       </segment>
     </unit>
     <unit id="931db1ca-5842-4257-823f-77ce5a9aa80a">
@@ -7656,9 +7656,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 154</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>ty to 0.0.73. (#20732)</source>
-        <target>ty to 0.0.73. (#20732)</target>
+        <target>ty à la version 0.0.73. (#20732)</target>
       </segment>
     </unit>
     <unit id="94c31c7e-cf66-4f2c-ab4e-bed2774c420c">
@@ -7666,9 +7666,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 155</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>comtypes to 1.4.16. (#20707)</source>
-        <target>comtypes to 1.4.16. (#20707)</target>
+        <target>comtypes à la version 1.4.16. (#20707)</target>
       </segment>
     </unit>
     <unit id="c3e0574f-92d3-4d43-98d4-a3ac6f0da651">
@@ -7676,9 +7676,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 156</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>cryptography to 50.0.0. (#20707)</source>
-        <target>cryptography to 50.0.0. (#20707)</target>
+        <target>cryptography à la version 50.0.0. (#20707)</target>
       </segment>
     </unit>
     <unit id="5eeaa8e3-c384-4ede-83e7-609563eaa718">
@@ -7686,9 +7686,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 157</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>requests to 2.34.2. (#20707)</source>
-        <target>requests to 2.34.2. (#20707)</target>
+        <target>requests à la version 2.34.2. (#20707)</target>
       </segment>
     </unit>
     <unit id="7f19ea93-336c-457a-9141-019ca6391c6b">
@@ -7696,9 +7696,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 158</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>url-normalize to 3.0.0. (#20707)</source>
-        <target>url-normalize to 3.0.0. (#20707)</target>
+        <target>url-normalize à la version 3.0.0. (#20707)</target>
       </segment>
     </unit>
     <unit id="81a282a7-6ee3-4505-96da-13062dc96828">
@@ -7706,9 +7706,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 159</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>pywin32 to 312. (#20707)</source>
-        <target>pywin32 to 312. (#20707)</target>
+        <target>pywin32 à la version 312. (#20707)</target>
       </segment>
     </unit>
     <unit id="e1690d6b-bfd6-4f2e-b363-284da383255c">
@@ -7716,9 +7716,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 160</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>scons to 4.11.0. (#20707)</source>
-        <target>scons to 4.11.0. (#20707)</target>
+        <target>scons à la version 4.11.0. (#20707)</target>
       </segment>
     </unit>
     <unit id="284a7466-82a9-4e76-be8b-3c83cd893178">
@@ -7726,9 +7726,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 161</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>py2exe to 0.14.2.0. (#20707, #20260, @LeonarddeR)</source>
-        <target>py2exe to 0.14.2.0. (#20707, #20260, @LeonarddeR)</target>
+        <target>py2exe à la version 0.14.2.0. (#20707, #20260, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="ec76404c-3f89-46ee-8be7-0734fc800652">
@@ -7736,9 +7736,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 162</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>nh3 to 0.3.6. (#20707)</source>
-        <target>nh3 to 0.3.6. (#20707)</target>
+        <target>nh3 à la version 0.3.6. (#20707)</target>
       </segment>
     </unit>
     <unit id="137e4c0c-4f9a-4aac-bb03-f2a9c70b9224">
@@ -7746,9 +7746,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 163</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>crowdin-api-client to 1.28.0. (#20707)</source>
-        <target>crowdin-api-client to 1.28.0. (#20707)</target>
+        <target>crowdin-api-client à la version 1.28.0. (#20707)</target>
       </segment>
     </unit>
     <unit id="03e09f2a-aa9e-42f7-8b90-0ec72f3aa7da">
@@ -7756,9 +7756,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 164</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>markdown to 3.10.3. (#20707)</source>
-        <target>markdown to 3.10.3. (#20707)</target>
+        <target>markdown à la version 3.10.3. (#20707)</target>
       </segment>
     </unit>
     <unit id="6fa5237b-d8c3-482a-9a31-acf32b6f577a">
@@ -7766,9 +7766,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 165</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>lxml to 6.1.2. (#20707)</source>
-        <target>lxml to 6.1.2. (#20707)</target>
+        <target>lxml à la version 6.1.2. (#20707)</target>
       </segment>
     </unit>
     <unit id="c7a134a0-8876-4bcb-89bc-63412aef8b13">
@@ -7776,9 +7776,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 166</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>pymdown-extensions to 11.0.1. (#20707)</source>
-        <target>pymdown-extensions to 11.0.1. (#20707)</target>
+        <target>pymdown-extensions à la version 11.0.1. (#20707)</target>
       </segment>
     </unit>
     <unit id="7fc5d5d9-a0cd-422e-826b-f655576c7cd2">
@@ -7786,9 +7786,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 167</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>pyphen to 0.18.1. (#20707)</source>
-        <target>pyphen to 0.18.1. (#20707)</target>
+        <target>pyphen à la version 0.18.1. (#20707)</target>
       </segment>
     </unit>
     <unit id="da505bed-2f20-4ef9-89ae-b8a2b7dc6b11">
@@ -7796,9 +7796,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 168</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>regex to 2026.7.19. (#20707)</source>
-        <target>regex to 2026.7.19. (#20707)</target>
+        <target>regex à la version 2026.7.19. (#20707)</target>
       </segment>
     </unit>
     <unit id="67d12a8a-9760-4b20-ad63-de96c9c4268b">
@@ -7806,9 +7806,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 169</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>uv to 0.12.5. (#20707)</source>
-        <target>uv to 0.12.5. (#20707)</target>
+        <target>uv à la version 0.12.5. (#20707)</target>
       </segment>
     </unit>
     <unit id="955448fe-1eca-40aa-86ed-28d709beb60a">
@@ -7816,9 +7816,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 170</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>licensecheck to 2026.0.8. (#20707)</source>
-        <target>licensecheck to 2026.0.8. (#20707)</target>
+        <target>licensecheck à la version 2026.0.8. (#20707)</target>
       </segment>
     </unit>
     <unit id="f14c7a4e-8f86-4c50-9d73-5ae607c8de1b">
@@ -7826,9 +7826,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 171</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>sphinx to 9.1.0. (#20707)</source>
-        <target>sphinx to 9.1.0. (#20707)</target>
+        <target>sphinx à la version 9.1.0. (#20707)</target>
       </segment>
     </unit>
     <unit id="de46b41d-9582-4855-a45a-f493ba839709">
@@ -7836,9 +7836,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 172</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>sphinx-rtd-theme to 3.1.0. (#20707)</source>
-        <target>sphinx-rtd-theme to 3.1.0. (#20707)</target>
+        <target>sphinx-rtd-theme à la version 3.1.0. (#20707)</target>
       </segment>
     </unit>
     <unit id="47f7dde5-14b6-4a7b-abac-669e2ef80c76">
@@ -7846,9 +7846,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 173</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>robotframework to 7.4.2. (#20707)</source>
-        <target>robotframework to 7.4.2. (#20707)</target>
+        <target>robotframework à la version 7.4.2. (#20707)</target>
       </segment>
     </unit>
     <unit id="a1723f0e-f7be-4f76-9aa6-ea74496c98d2">
@@ -7856,9 +7856,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 174</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>unittest-xml-reporting to 4.0.0. (#20707)</source>
-        <target>unittest-xml-reporting to 4.0.0. (#20707)</target>
+        <target>unittest-xml-reporting à la version 4.0.0. (#20707)</target>
       </segment>
     </unit>
     <unit id="bb8a6af2-4726-468c-929d-b70955cf1cd7">
@@ -7866,9 +7866,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 175</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>setuptools to 84.0.0. (#20744)</source>
-        <target>setuptools to 84.0.0. (#20744)</target>
+        <target>setuptools à la version 84.0.0. (#20744)</target>
       </segment>
     </unit>
     <unit id="e308dc93-49db-40f2-9e7f-cc68502d730c">
@@ -7876,9 +7876,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 176</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated the NVDA Controller Client API to 3.0, adding a `nvdaController_isSpeaking` function. (#20188)</source>
-        <target>Updated the NVDA Controller Client API to 3.0, adding a `nvdaController_isSpeaking` function. (#20188)</target>
+        <target>Mise à jour de l'API client du contrôleur NVDA vers la version 3.0, avec ajout d'une fonction `nvdaController_isSpeaking`. (#20188)</target>
       </segment>
     </unit>
     <unit id="83ddb15e-c04e-4e62-b91c-0ff0153316eb">
@@ -7886,9 +7886,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 177</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The remote Python console, available when running NVDA from source, works again. (#20626, @LeonarddeR)</source>
-        <target>The remote Python console, available when running NVDA from source, works again. (#20626, @LeonarddeR)</target>
+        <target>La console Python distante, disponible lors de l'exécution de NVDA à partir du code source, fonctionne à nouveau. (#20626, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="10691650-360d-4e22-bc64-a8fa3a928c07">
@@ -7896,9 +7896,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 178</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The UIA remote operations framework now supports cache requests. (#20621, @LeonarddeR)</source>
-        <target>The UIA remote operations framework now supports cache requests. (#20621, @LeonarddeR)</target>
+        <target>Le framework d'opérations à distance UIA prend désormais en charge les requêtes de cache. (#20621, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="1ee23539-7333-4c7d-9517-5379070a2dc0">
@@ -7906,9 +7906,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 179</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A remote operation can create a cache request with `ra.newCacheRequest`, add properties and patterns to it, and populate the cache of a remote element with `RemoteElement.populateCache`.</source>
-        <target>A remote operation can create a cache request with `ra.newCacheRequest`, add properties and patterns to it, and populate the cache of a remote element with `RemoteElement.populateCache`.</target>
+        <target>Une opération distante peut créer une requête de cache avec `ra.newCacheRequest`, y ajouter des propriétés et des modèles, et remplir le cache d'un élément distant avec `RemoteElement.populateCache`.</target>
       </segment>
     </unit>
     <unit id="1c6985ae-4272-48f0-9d49-0f662fc88262">
@@ -7916,9 +7916,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 180</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Elements returned or yielded from the operation carry the populated cache.</source>
-        <target>Elements returned or yielded from the operation carry the populated cache.</target>
+        <target>Les éléments renvoyés ou produits par l'opération contiennent le cache rempli.</target>
       </segment>
     </unit>
     <unit id="bc5dbfb5-fa4b-4f34-b292-e5ae4d561cc2">
@@ -7926,9 +7926,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 181</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Such a cache stores default values for properties the element does not support; the reserved "not supported" value is not preserved.</source>
-        <target>Such a cache stores default values for properties the element does not support; the reserved "not supported" value is not preserved.</target>
+        <target>Ce type de cache stocke les valeurs par défaut des propriétés que l'élément ne prend pas en charge ; la valeur réservée "not supported" n'est pas conservée.</target>
       </segment>
     </unit>
     <unit id="a858b097-42d7-48b1-84a8-eed6802ea844">
@@ -7936,9 +7936,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 182</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>UIA remote operations can now return `UInt32`, `Int64`, `Single` and `Double` values, as well as the reserved "not supported" value for property fetches that ignore defaults. (#20621, @LeonarddeR)</source>
-        <target>UIA remote operations can now return `UInt32`, `Int64`, `Single` and `Double` values, as well as the reserved "not supported" value for property fetches that ignore defaults. (#20621, @LeonarddeR)</target>
+        <target>Les opérations distantes UIA peuvent désormais renvoyer des valeurs `UInt32`, `Int64`, `Single` et `Double`, ainsi que la valeur réservée "not supported" pour les récupérations de propriétés qui ignorent les valeurs par défaut. (#20621, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="de82ef2f-d1ae-405a-89f6-5b29cef0b438">
@@ -7946,9 +7946,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 183</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A remote variant can be tested for the reserved "not supported" value inside the operation with `RemoteVariant.isNotSupported`.</source>
-        <target>A remote variant can be tested for the reserved "not supported" value inside the operation with `RemoteVariant.isNotSupported`.</target>
+        <target>Il est possible de tester si un variant distant contient la valeur réservée "not supported" au sein de l'operation avec `RemoteVariant.isNotSupported`.</target>
       </segment>
     </unit>
     <unit id="876c84de-3a76-4438-a6f6-3b3320d97383">
@@ -7956,27 +7956,27 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 184</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`mathPres.interactWithMathMl` now accepts an optional `sourceObj` argument.</source>
-        <target>`mathPres.interactWithMathMl` now accepts an optional `sourceObj` argument.</target>
+        <target>`mathPres.interactWithMathMl` accepte désormais un argument optionnel `sourceObj`.</target>
       </segment>
     </unit>
     <unit id="bd00fdcc-c594-4159-9864-ed7c5837f6d9">
       <notes>
         <note appliesTo="source">line: 185</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Math presentation providers can override `MathPresentationProvider.interactWithMathMlFromSource` to use the source object when starting interaction.</source>
-        <target>Math presentation providers can override `MathPresentationProvider.interactWithMathMlFromSource` to use the source object when starting interaction.</target>
+        <target>Les fournisseurs de présentations mathématiques peuvent remplacer `MathPresentationProvider.interactWithMathMlFromSource` pour utiliser l'objet source lors du démarrage de l'interaction.</target>
       </segment>
     </unit>
     <unit id="f831991e-7534-472e-978f-11d0f0f16d7d">
       <notes>
         <note appliesTo="source">line: 186</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The default implementation forwards to `interactWithMathMl`, preserving compatibility with existing providers. (#20372, @RyanMcCleary)</source>
-        <target>The default implementation forwards to `interactWithMathMl`, preserving compatibility with existing providers. (#20372, @RyanMcCleary)</target>
+        <target>L'implémentation par défaut redirige vers `interactWithMathMl`, préservant ainsi la compatibilité avec les fournisseurs existants. (#20372, @RyanMcCleary)</target>
       </segment>
     </unit>
     <unit id="29ba5961-ec21-4c10-9928-3aea94163a2f">
@@ -7984,9 +7984,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 187</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Vision enhancement providers can register with `vision.handler.extensionPoints.post_mathNavigation` to receive the screen rectangle of the current math navigation position, or `None` when no rectangle is available. (#20372, @RyanMcCleary)</source>
-        <target>Vision enhancement providers can register with `vision.handler.extensionPoints.post_mathNavigation` to receive the screen rectangle of the current math navigation position, or `None` when no rectangle is available. (#20372, @RyanMcCleary)</target>
+        <target>Les fournisseurs d'améliorations visuelles peuvent s'enregistrer auprès de `vision.handler.extensionPoints.post_mathNavigation` pour recevoir le rectangle d'écran de la position de navigation mathématique courante, ou `None` lorsqu'aucun rectangle n'est disponible. (#20372, @RyanMcCleary)</target>
       </segment>
     </unit>
     <unit id="31f9afcd-f767-40a6-be5a-2ba4e71c87f5">
@@ -7994,9 +7994,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 188</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The local Git hook runner has been switched from [pre-commit](https://pre-commit.com/) to [prek](https://prek.j178.dev/), a faster, drop-in compatible alternative. (#20305, @LeonarddeR)</source>
-        <target>The local Git hook runner has been switched from [pre-commit](https://pre-commit.com/) to [prek](https://prek.j178.dev/), a faster, drop-in compatible alternative. (#20305, @LeonarddeR)</target>
+        <target>Le gestionnaire de hooks Git local [pre-commit](https://pre-commit.com/) a été remplacé par [prek](https://prek.j178.dev/), une alternative plus rapide et compatible. (#20305, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="b4049e66-8122-4a5f-a8d8-adbdd25ca926">
@@ -8004,18 +8004,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 189</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The [pre-commit.ci](https://pre-commit.ci/) integration will be dropped entirely.</source>
-        <target>The [pre-commit.ci](https://pre-commit.ci/) integration will be dropped entirely.</target>
+        <target>L'intégration [pre-commit.ci](https://pre-commit.ci/) sera entièrement abandonnée.</target>
       </segment>
     </unit>
     <unit id="830e9528-981d-4969-9fd1-9a227e532089">
       <notes>
         <note appliesTo="source">line: 190</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Linting and autofixing now run via GitHub Actions, using an autofix-or-fail workflow plus an automatic `prek auto-update` workflow.</source>
-        <target>  Linting and autofixing now run via GitHub Actions, using an autofix-or-fail workflow plus an automatic `prek auto-update` workflow.</target>
+        <target>  Le linting et la correction automatique s'exécutent désormais via une des actions GitHub, utilisant un flux de travail autofix-or-fail, ainsi qu'un flux de travail de mise à jour automatique `prek`.</target>
       </segment>
     </unit>
     <unit id="450a27fe-a26f-46c6-9f16-5e9d7c9891f8">
@@ -8023,9 +8023,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 191</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Developers who previously ran `pre-commit install` should run `uv run prek install -f` once to replace the installed Git hook.</source>
-        <target>Developers who previously ran `pre-commit install` should run `uv run prek install -f` once to replace the installed Git hook.</target>
+        <target>Les développeurs qui ont précédemment exécuté `pre-commit install` doivent exécuter `uv run prek install -f` une fois pour remplacer le hook Git installé.</target>
       </segment>
     </unit>
     <unit id="1b99d41d-4a52-4ce2-87fa-1c89933777fe">
@@ -8033,9 +8033,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 192</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.configSections.registerSection` and `config.configSections.unregisterSection` methods can be used to register and unregister configuration sections. (#7467, @nvdaes)</source>
-        <target>`config.configSections.registerSection` and `config.configSections.unregisterSection` methods can be used to register and unregister configuration sections. (#7467, @nvdaes)</target>
+        <target>Les méthodes `config.configSections.registerSection` et `config.configSections.unregisterSection` peuvent être utilisées pour enregistrer et désenregistrer des sections de configuration. (#7467, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="e6b634a3-cb5d-4636-93dc-a2f036f82a87">
@@ -8043,9 +8043,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 193</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In the `installTasks` module, add-on developers can add a spec for each configuration section to be registered.</source>
-        <target>In the `installTasks` module, add-on developers can add a spec for each configuration section to be registered.</target>
+        <target>Dans le module `installTasks`, les développeurs d'extensions peuvent ajouter une spécification pour chaque section de configuration à enregistrer.</target>
       </segment>
     </unit>
     <unit id="36966470-0d2e-4d26-8d59-a0ef7380182d">
@@ -8053,9 +8053,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 194</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `config.configSections.registerSection` method can be used in the `onInstall` function.</source>
-        <target>The `config.configSections.registerSection` method can be used in the `onInstall` function.</target>
+        <target>La méthode `config.configSections.registerSection` peut être utilisée dans la fonction `onInstall`.</target>
       </segment>
     </unit>
     <unit id="bb677ad1-d442-4ec6-acd1-b6c454d32ab3">
@@ -8063,9 +8063,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 195</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>To register a section to be used in the normal configuration, regardless of profiles, the `isBaseOnly` parameter should be set to `True`.</source>
-        <target>To register a section to be used in the normal configuration, regardless of profiles, the `isBaseOnly` parameter should be set to `True`.</target>
+        <target>Pour enregistrer une section à utiliser dans la configuration normale, indépendamment des profils, le paramètre `isBaseOnly` doit être défini à `True`.</target>
       </segment>
     </unit>
     <unit id="e561538f-df06-45fb-8e34-16f3c156bd33">
@@ -8073,9 +8073,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 196</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `braille` module is now a package, split into focused submodules such as `braille.constants`, `braille.labels`, `braille.formatting`, `braille.regions`, `braille.display`, `braille.buffers`, `braille.brailleHandler` and `braille.extensions`. (#12772, #20458, @LeonarddeR)</source>
-        <target>The `braille` module is now a package, split into focused submodules such as `braille.constants`, `braille.labels`, `braille.formatting`, `braille.regions`, `braille.display`, `braille.buffers`, `braille.brailleHandler` and `braille.extensions`. (#12772, #20458, @LeonarddeR)</target>
+        <target>Le module `braille` est désormais un package, divisé en sous-modules spécialisés tels que `braille.constants`, `braille.labels`, `braille.formatting`, `braille.regions`, `braille.display`, `braille.buffers`, `braille.brailleHandler` et `braille.extensions`. (#12772, #20458, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="b1c8e878-5680-46ea-a47e-52dc7719c2c6">
@@ -8083,9 +8083,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 197</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `brailleInput` module has also moved into this package as `braille.input`, split into `braille.input.constants`, `braille.input.gesture` and `braille.input.inputHandler`. (#12772, #20509, @LeonarddeR)</source>
-        <target>The `brailleInput` module has also moved into this package as `braille.input`, split into `braille.input.constants`, `braille.input.gesture` and `braille.input.inputHandler`. (#12772, #20509, @LeonarddeR)</target>
+        <target>Le module `brailleInput` a également été déplacé dans ce package sous le nom de `braille.input`, divisé en `braille.input.constants`, `braille.input.gesture` et `braille.input.inputHandler`. (#12772, #20509, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="49d635f0-f3fa-4954-a528-5c1bffde25b2">
@@ -8093,9 +8093,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 198</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added `gui.message.HtmlMessageDialog`, a `MessageDialog` subclass that renders a full HTML document in a `wx.html2.WebView`. (#18878, @LeonarddeR)</source>
-        <target>Added `gui.message.HtmlMessageDialog`, a `MessageDialog` subclass that renders a full HTML document in a `wx.html2.WebView`. (#18878, @LeonarddeR)</target>
+        <target>Ajout de `gui.message.HtmlMessageDialog`, une sous-classe de `MessageDialog` qui affiche un document HTML complet dans une `wx.html2.WebView`. (#18878, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="6fe0ca5c-e88e-47c9-ab85-031caa928113">
@@ -8103,9 +8103,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 199</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The WebView backend can be overridden via the `_webViewBackend` class attribute, which defaults to the IE backend.</source>
-        <target>The WebView backend can be overridden via the `_webViewBackend` class attribute, which defaults to the IE backend.</target>
+        <target>Le moteur WebView peut être remplacé via l'attribut de classe `_webViewBackend`, qui utilise par défaut le moteur IE.</target>
       </segment>
     </unit>
     <unit id="7161ff5a-36c4-478c-add4-b6f05ab8f489">
@@ -8113,9 +8113,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 200</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>JavaScript in the message can trigger NVDA actions by navigating to `nvda-action://&lt;action&gt;` URLs; `close` is handled internally and other actions can be registered with `registerAction`.</source>
-        <target>JavaScript in the message can trigger NVDA actions by navigating to `nvda-action://&lt;action&gt;` URLs; `close` is handled internally and other actions can be registered with `registerAction`.</target>
+        <target>Le JavaScript contenu dans le message peut déclencher des actions NVDA en naviguant vers des URL `nvda-action://&lt;action&gt;` ; `close` est géré en interne et d'autres actions peuvent être enregistrées avec `registerAction`.</target>
       </segment>
     </unit>
     <unit id="1b539dd1-5db3-4626-93a9-d479800bcd81">
@@ -8123,9 +8123,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 201</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.message.MessageDialog` gained the protected `_createMessageControl` and `_wrapMessageControl` hooks, so subclasses can use a different control for the message body. (#18878, @LeonarddeR)</source>
-        <target>`gui.message.MessageDialog` gained the protected `_createMessageControl` and `_wrapMessageControl` hooks, so subclasses can use a different control for the message body. (#18878, @LeonarddeR)</target>
+        <target>`gui.message.MessageDialog` a désormais les hooks protégés `_createMessageControl` et `_wrapMessageControl`, permettant ainsi aux sous-classes d'utiliser un contrôle différent pour le corps du message. (#18878, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="af47a102-1417-4130-909b-4acf41c8242b">
@@ -8133,9 +8133,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 202</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added [cppjieba](https://github.com/yanyiwu/cppjieba) as a git submodule for Chinese word segmentation. (#18548, @CrazySteve0605)</source>
-        <target>Added [cppjieba](https://github.com/yanyiwu/cppjieba) as a git submodule for Chinese word segmentation. (#18548, @CrazySteve0605)</target>
+        <target>Ajout de  [cppjieba](https://github.com/yanyiwu/cppjieba) comme sous-module git pour la segmentation des mots chinois. (#18548, @CrazySteve0605)</target>
       </segment>
     </unit>
     <unit id="7bac71f1-fe81-4fe0-a78a-f39e387847c5">
