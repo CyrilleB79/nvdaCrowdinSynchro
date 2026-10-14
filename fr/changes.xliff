@@ -6496,135 +6496,135 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 6</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This release includes significant performance improvements, improvements to NVDA's dialogs, and expanded touch screen input.</source>
-        <target>This release includes significant performance improvements, improvements to NVDA's dialogs, and expanded touch screen input.</target>
+        <target>Cette version inclut des améliorations significatives des performances, des améliorations des boîtes de dialogue de NVDA et une prise en charge étendue de l'écran tactile.</target>
       </segment>
     </unit>
     <unit id="f0e2d13e-773a-491f-b5c8-343d03ed99ce">
       <notes>
         <note appliesTo="source">line: 8</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Several performance improvements have been made to reduce lag and improve responsiveness.</source>
-        <target>Several performance improvements have been made to reduce lag and improve responsiveness.</target>
+        <target>Plusieurs améliorations de performance ont été apportées afin de réduire la latence et d'améliorer la réactivité.</target>
       </segment>
     </unit>
     <unit id="adce0405-1565-4652-a883-6f7b7d5526d6">
       <notes>
         <note appliesTo="source">line: 9</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now fetches and caches more information about controls in the background, improving performance in controls such as combo boxes and File Explorer.</source>
-        <target>NVDA now fetches and caches more information about controls in the background, improving performance in controls such as combo boxes and File Explorer.</target>
+        <target>NVDA récupère et met en cache désormais davantage d'informations sur les contrôles en arrière-plan, améliorant ainsi les performances des contrôles tels que les listes déroulantes et l'explorateur de fichiers.</target>
       </segment>
     </unit>
     <unit id="4efe35f5-9864-433a-a345-545badea3660">
       <notes>
         <note appliesTo="source">line: 10</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA no longer causes File Explorer or other applications to crash when NVDA is exited or restarted.</source>
-        <target>NVDA no longer causes File Explorer or other applications to crash when NVDA is exited or restarted.</target>
+        <target>NVDA ne provoque plus de plantage de l'Explorateur de fichiers ou d'autres applications lors de sa fermeture ou de son redémarrage.</target>
       </segment>
     </unit>
     <unit id="c0f43226-5250-4fc1-a15d-adf52a4abc18">
       <notes>
         <note appliesTo="source">line: 11</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now recovers more quickly when an application stops responding, and will no longer freeze or flood the log with errors from unresponsive applications.</source>
-        <target>NVDA now recovers more quickly when an application stops responding, and will no longer freeze or flood the log with errors from unresponsive applications.</target>
+        <target>NVDA récupère désormais plus rapidement lorsqu'une application cesse de répondre et ne se bloque plus ni ne sature plus le journal d'erreurs provenant d'applications ne répondant pas.</target>
       </segment>
     </unit>
     <unit id="9faf4a8e-2397-4974-b0fe-25a65d7ff3ae">
       <notes>
         <note appliesTo="source">line: 13</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Context menus and keyboard shortcuts have been added to the Configuration Profiles, Input Gestures, and Speech Dictionaries dialogs, making these dialogs easier to use with the keyboard.</source>
-        <target>Context menus and keyboard shortcuts have been added to the Configuration Profiles, Input Gestures, and Speech Dictionaries dialogs, making these dialogs easier to use with the keyboard.</target>
+        <target>Des menus contextuels et des raccourcis clavier ont été ajoutés aux boîtes de dialogue Profils de configuration, Gestes d'entrée et Dictionnaires vocaux, ce qui facilite leur utilisation au clavier.</target>
       </segment>
     </unit>
     <unit id="20ee1613-1f5a-4df4-bd87-c445f8466d18">
       <notes>
         <note appliesTo="source">line: 14</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is also now possible to change an existing gesture directly in the Input Gestures dialog.</source>
-        <target>It is also now possible to change an existing gesture directly in the Input Gestures dialog.</target>
+        <target>Il est désormais également possible de modifier directement un geste existant dans la boîte de dialogue Gestes de commandes.</target>
       </segment>
     </unit>
     <unit id="cf23c8c2-8351-425d-8325-3bdf2e212a7f">
       <notes>
         <note appliesTo="source">line: 15</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The dialog used to present browseable messages has been modernized and now better supports resizing, maximizing, and minimizing.</source>
-        <target>The dialog used to present browseable messages has been modernized and now better supports resizing, maximizing, and minimizing.</target>
+        <target>La boîte de dialogue utilisée pour afficher les messages navigables a été modernisée et prend désormais mieux en charge le redimensionnement, l'agrandissement et la réduction.</target>
       </segment>
     </unit>
     <unit id="80d56177-a017-4f30-ace2-bc615c490ad8">
       <notes>
         <note appliesTo="source">line: 17</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Touch screen input has been significantly expanded.</source>
-        <target>Touch screen input has been significantly expanded.</target>
+        <target>La saisie tactile a été considérablement étendue.</target>
       </segment>
     </unit>
     <unit id="7d81078f-8528-48c7-8de4-b2c5870f7824">
       <notes>
         <note appliesTo="source">line: 18</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sequential two-flick gestures now combine two flicks in quick succession into a single gesture, greatly increasing the number of bindable touch gestures.</source>
-        <target>Sequential two-flick gestures now combine two flicks in quick succession into a single gesture, greatly increasing the number of bindable touch gestures.</target>
+        <target>Les gestes séquentiels à deux glissés combinent désormais deux glissés rapides successifs en un seul geste, augmentant considérablement le nombre de gestes tactiles assignables.</target>
       </segment>
     </unit>
     <unit id="20b59425-fd7a-4527-86ad-19f6d19a04f7">
       <notes>
         <note appliesTo="source">line: 19</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Edge gestures are also now supported, allowing gestures that start from any screen edge to be bound independently from the same gesture performed in the center of the screen.</source>
-        <target>Edge gestures are also now supported, allowing gestures that start from any screen edge to be bound independently from the same gesture performed in the center of the screen.</target>
+        <target>Les gestes à partir des bords sont désormais également pris en charge, ce qui permet d'assigner les gestes effectués à partir de n'importe quel bord de l'écran indépendamment  du même geste réalisé au centre de l'écran.</target>
       </segment>
     </unit>
     <unit id="b60dd8be-4633-4cbb-b02b-cf26d56aa266">
       <notes>
         <note appliesTo="source">line: 21</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A new unassigned command has been added to move the mouse cursor to the center of the magnified view.</source>
-        <target>A new unassigned command has been added to move the mouse cursor to the center of the magnified view.</target>
+        <target>Une nouvelle commande non assignée a été ajoutée pour déplacer le curseur de la souris au centre de la vue agrandie.</target>
       </segment>
     </unit>
     <unit id="be6f6e58-2fee-4525-9afa-5d511eefb3b9">
       <notes>
         <note appliesTo="source">line: 22</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Windows OCR can now be used while the Screen Curtain or NVDA's built-in Magnifier is active.</source>
-        <target>Windows OCR can now be used while the Screen Curtain or NVDA's built-in Magnifier is active.</target>
+        <target>La fonction Reconnaissance Optique de Caractères de Windows peut désormais être utilisée même lorsque le rideau d'écran ou la loupe intégrée de NVDA est active.</target>
       </segment>
     </unit>
     <unit id="d09474da-5562-4eab-8b44-123e8e649d20">
       <notes>
         <note appliesTo="source">line: 24</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Liblouis has been updated with new Elfdalian, Sami, Maori, New Zealand Unified English Braille, Haitian Creole braille tables, a Norwegian table for Spanish text, and additional Swedish 6 and 8 dot variants.</source>
-        <target>Liblouis has been updated with new Elfdalian, Sami, Maori, New Zealand Unified English Braille, Haitian Creole braille tables, a Norwegian table for Spanish text, and additional Swedish 6 and 8 dot variants.</target>
+        <target>Liblouis a été mis à jour avec de nouvelles tables Elfdalien, Sami, Maori, braille Anglais unifié de Nouvelle-Zélande, Créole haïtien, une table norvégienne pour le texte espagnol, et des variantes suédoises supplémentaires à 6 et 8 points.</target>
       </segment>
     </unit>
     <unit id="f28f7e08-ce4d-42f1-a8e4-fb379db43d8f">
       <notes>
         <note appliesTo="source">line: 25</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>eSpeak NG has been updated with added support for Ligurian and Abkhaz.</source>
-        <target>eSpeak NG has been updated with added support for Ligurian and Abkhaz.</target>
+        <target>eSpeak NG a été mis à jour avec la prise en charge supplémentaire du ligure et de l'abkhaze.</target>
       </segment>
     </unit>
     <unit id="318cd8bd-a6a9-41c4-acba-a070f1db104f">
@@ -6632,9 +6632,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 27</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>New Features</source>
-        <target>New Features</target>
+        <target>Nouvelles fonctionnalités</target>
       </segment>
     </unit>
     <unit id="c744dc0e-04eb-4bbe-8ce7-52aeb7262e21">
