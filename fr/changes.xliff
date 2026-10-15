@@ -7349,18 +7349,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 114</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On HumanWare Brailliant displays with C-keys, the `c1`, `c2`, `c3` and `c5` command keys now move the braille display to the previous line, scroll it back, move it to the next line and scroll it forward.</source>
-        <target>On HumanWare Brailliant displays with C-keys, the `c1`, `c2`, `c3` and `c5` command keys now move the braille display to the previous line, scroll it back, move it to the next line and scroll it forward.</target>
+        <target>Sur les afficheurs HumanWare Brailliant avec touches C, les touches de commande `c1`, `c2`, `c3` et `c5` permettent désormais de déplacer l'afficheur braille vers la ligne précédente, de le faire défiler vers l'arrière, de le déplacer vers la ligne suivante et de le faire défiler vers l'avant.</target>
       </segment>
     </unit>
     <unit id="71516045-0c52-4316-827e-b668d3ae88be">
       <notes>
         <note appliesTo="source">line: 115</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Previously these keys had no function when pressed on their own. (#20366, @fla-rion)</source>
-        <target>Previously these keys had no function when pressed on their own. (#20366, @fla-rion)</target>
+        <target>Auparavant, ces touches n'avaient aucune fonction lorsqu'on appuyait dessus seules. (#20366, @fla-rion)</target>
       </segment>
     </unit>
     <unit id="31625d61-f693-48bf-a4fa-1380c048d71b">
@@ -7368,9 +7368,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 116</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The HID keyboard input simulation setting for ALVA braille displays is now remembered across reconnects and restarts. (#20455, @Cary-rowen)</source>
-        <target>The HID keyboard input simulation setting for ALVA braille displays is now remembered across reconnects and restarts. (#20455, @Cary-rowen)</target>
+        <target>Le paramètre de simulation de saisie clavier HID pour les afficheurs braille ALVA est désormais mémorisé lors des reconnexions et des redémarrages. (#20455, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="34770fe3-23ce-49e6-b602-7452fd8d90ed">
@@ -7378,9 +7378,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 117</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille now follows the spoken text during say all in browse mode when braille is tethered to focus. (#3287, @LeonarddeR)</source>
-        <target>Braille now follows the spoken text during say all in browse mode when braille is tethered to focus. (#3287, @LeonarddeR)</target>
+        <target>Le braille suit désormais le texte annoncé lors de la lecture de l'écran en mode navigation lorsque le braille suit le focus. (#3287, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="a7ef78f8-95ad-42ff-811b-6875252b8ace">
@@ -7388,9 +7388,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 118</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>HIMS Braille Sense and Braille EDGE displays connected via USB now work on systems where the older HIMS USB driver cannot be installed, such as Windows 11. (#20555, @KihunJang1981)</source>
-        <target>HIMS Braille Sense and Braille EDGE displays connected via USB now work on systems where the older HIMS USB driver cannot be installed, such as Windows 11. (#20555, @KihunJang1981)</target>
+        <target>Les afficheurs HIMS Braille Sense et Braille EDGE connectés via USB fonctionnent désormais sur les systèmes où l'ancien pilote USB HIMS ne peut plus être installé, comme Windows 11. (#20555, @KihunJang1981)</target>
       </segment>
     </unit>
     <unit id="b0942205-7f95-4363-80f4-7bf1ba760c95">
@@ -7398,9 +7398,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 119</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On these systems, install the [HIMS WinUSB driver](https://hims-product.s3.ap-northeast-2.amazonaws.com/Util/HIMS_Braille_Driver_V3_1.exe) instead.</source>
-        <target>On these systems, install the [HIMS WinUSB driver](https://hims-product.s3.ap-northeast-2.amazonaws.com/Util/HIMS_Braille_Driver_V3_1.exe) instead.</target>
+        <target>Sur ces systèmes, installez le [pilote HIMS WinUSB](https://hims-product.s3.ap-northeast-2.amazonaws.com/Util/HIMS_Braille_Driver_V3_1.exe) à la place.</target>
       </segment>
     </unit>
     <unit id="0a31bd61-564c-4420-b0c5-d9a8b33b6490">
@@ -7408,9 +7408,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 120</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA no longer briefly disconnects and re-detects the braille display on desktop switches that do not enter the secure desktop, such as when switching between a Remote Desktop session and the local machine. (#18810, #20550, @LeonarddeR)</source>
-        <target>NVDA no longer briefly disconnects and re-detects the braille display on desktop switches that do not enter the secure desktop, such as when switching between a Remote Desktop session and the local machine. (#18810, #20550, @LeonarddeR)</target>
+        <target>NVDA ne se déconnecte plus brièvement et ne redétecte plus l'afficheur braille sur les changements de bureau qui n'entrent pas dans le bureau sécurisé, par exemple lors du passage d'une session de bureau à distance à la machine locale. (#18810, #20550, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="72c915cd-df44-4aa9-a840-f8e3af168bc5">
@@ -7418,9 +7418,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 121</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed incorrect back-translation when using Hindi and several other Indian grade 1 tables for braille input. (#20671, @codeofdusk)</source>
-        <target>Fixed incorrect back-translation when using Hindi and several other Indian grade 1 tables for braille input. (#20671, @codeofdusk)</target>
+        <target>Correction d'une traduction inverse incorrecte lors de l'utilisation de l'hindi et de plusieurs autres tables indiennes de braille intégral pour la saisie en braille. (#20671, @codeofdusk)</target>
       </segment>
     </unit>
     <unit id="a4df7e5d-d5c3-4870-83db-ec22fef83d67">
