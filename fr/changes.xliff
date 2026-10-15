@@ -6642,9 +6642,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 29</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-ons can be removed from the "Updatable add-ons" tab in the Add-on Store. (#15030, @nvdaes)</source>
-        <target>Add-ons can be removed from the "Updatable add-ons" tab in the Add-on Store. (#15030, @nvdaes)</target>
+        <target>Les extensions peuvent être supprimés depuis l'onglet "Mises à jour" de l'add-on store. (#15030, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="1eb80ecd-b3b7-4c6e-86e5-633808931f11">
@@ -6652,9 +6652,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 30</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Chinese text can now be navigated by word using built-in input gestures.</source>
-        <target>Chinese text can now be navigated by word using built-in input gestures.</target>
+        <target>Il est désormais possible de naviguer dans les textes chinois mot à mot grâce aux gestes d'entrée intégrés.</target>
       </segment>
     </unit>
     <unit id="890e00b8-d64d-4ffa-8082-f91f846e5fa1">
@@ -6662,9 +6662,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 31</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A Word Segmentation Standard setting was added to the "Document Navigation" panel. (#18735, @CrazySteve0605, @Cary-rowen)</source>
-        <target>A Word Segmentation Standard setting was added to the "Document Navigation" panel. (#18735, @CrazySteve0605, @Cary-rowen)</target>
+        <target>Un paramètre Norme de segmentation des mots a été ajouté au panneau "Navigation dans les documents". (#18735, @CrazySteve0605, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="9067de88-0f14-4740-95af-011287a8a736">
@@ -6672,9 +6672,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 32</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Word segmentation can also use the Windows built-in ICU library for boundary detection, improving navigation for Japanese and emoji. (#20343, #20494, @LeonarddeR)</source>
-        <target>Word segmentation can also use the Windows built-in ICU library for boundary detection, improving navigation for Japanese and emoji. (#20343, #20494, @LeonarddeR)</target>
+        <target>La segmentation des mots peut également utiliser la bibliothèque ICU intégrée à Windows pour la détection des mots, améliorant ainsi la navigation pour le japonais et les émojis. (#20343, #20494, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="3c743a08-d57e-4c4c-ba93-9dec5aaf8ccc">
@@ -6682,9 +6682,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 33</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>By default, ICU is preferred over the legacy Windows segmentation wherever available, while Chinese word segmentation takes precedence for Chinese text.</source>
-        <target>By default, ICU is preferred over the legacy Windows segmentation wherever available, while Chinese word segmentation takes precedence for Chinese text.</target>
+        <target>Par défaut, ICU est préféré à la segmentation Windows traditionnelle lorsqu'elle est disponible, tandis que la segmentation des mots chinois est prioritaire pour le texte chinois.</target>
       </segment>
     </unit>
     <unit id="6f923b97-c5a9-4ab0-ab99-8d948e0d0c5a">
@@ -6692,9 +6692,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 34</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Magnifier: A new unassigned command has been added to move the mouse cursor to the center of the magnified view. (#20127, @CyrilleB79)</source>
-        <target>Magnifier: A new unassigned command has been added to move the mouse cursor to the center of the magnified view. (#20127, @CyrilleB79)</target>
+        <target>Loupe : Une nouvelle commande non assignée a été ajoutée pour déplacer le curseur de la souris au centre de la vue agrandie. (#20127, @CyrilleB79)</target>
       </segment>
     </unit>
     <unit id="62f2f9bf-e7a7-4fcf-ae1b-d963b92df27a">
@@ -6702,9 +6702,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 35</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added context menu and shortcuts support to the Configuration Profiles, Input Gestures and Speech Dictionaries dialogs. (#18169, #16816, #20420, @amirmahdifard)</source>
-        <target>Added context menu and shortcuts support to the Configuration Profiles, Input Gestures and Speech Dictionaries dialogs. (#18169, #16816, #20420, @amirmahdifard)</target>
+        <target>Ajout de la prise en charge des menus contextuels et des touches de raccourci dans les boîtes de dialogue Profils de configuration, Gestes d'entrée et Dictionnaires vocaux. (#18169, #16816, #20420, @amirmahdifard)</target>
       </segment>
     </unit>
     <unit id="04c6d600-9be0-417f-8cb8-4c5069e88d43">
@@ -6712,9 +6712,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 36</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is now possible to change an existing gesture in the Input Gestures dialog. (#10983, @amirmahdifard)</source>
-        <target>It is now possible to change an existing gesture in the Input Gestures dialog. (#10983, @amirmahdifard)</target>
+        <target>Il est désormais possible de modifier un geste existant dans la boîte de dialogue Gestes d'entrée. (#10983, @amirmahdifard)</target>
       </segment>
     </unit>
     <unit id="9dea6bd1-c327-4be1-82f3-879400c5dba2">
@@ -6722,9 +6722,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 37</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A new "Say all reads by" speech setting lets you choose whether say all reads by sentence, paragraph or line; say all now reads by sentence by default where supported. (#13420, #9179, #13971, @LeonarddeR)</source>
-        <target>A new "Say all reads by" speech setting lets you choose whether say all reads by sentence, paragraph or line; say all now reads by sentence by default where supported. (#13420, #9179, #13971, @LeonarddeR)</target>
+        <target>Un nouveau paramètre vocal "Dire tout lit par" vous permet de choisir si Dire tout lit par phrase, par paragraphe ou par ligne ; par défaut, Dire tout lit par phrase lorsque cette option est prise en charge. (#13420, #9179, #13971, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="6843a405-e8c1-4af6-9461-ca7057489f38">
@@ -6732,9 +6732,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 38</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A new command, assigned to `NVDA+control+x`, copies the last spoken information to the clipboard. (#19385, @Cary-rowen)</source>
-        <target>A new command, assigned to `NVDA+control+x`, copies the last spoken information to the clipboard. (#19385, @Cary-rowen)</target>
+        <target>Une nouvelle commande, assignée à `NVDA+control+x`, copie la dernière information annoncée dans le presse-papiers. (#19385, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="b0a10885-22d1-45c7-82b7-f935907bcafd">
@@ -6742,9 +6742,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 39</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The duration of indentation beeps can now be configured via a new "Indent tone duration (ms)" spin control in the Document Formatting settings panel. (#19353, @Mubashir78)</source>
-        <target>The duration of indentation beeps can now be configured via a new "Indent tone duration (ms)" spin control in the Document Formatting settings panel. (#19353, @Mubashir78)</target>
+        <target>La durée des bips d'indentation peut désormais être configurée via un nouveau contrôle "Durée du son d'indentation (ms:" dans le panneau de paramètres Mise en forme des documents. (#19353, @Mubashir78)</target>
       </segment>
     </unit>
     <unit id="3970447c-f86e-474c-9e7b-e3138dcc65f2">
@@ -6752,9 +6752,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 40</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Sentence navigation (`alt+upArrow` and `alt+downArrow`) now works in many more situations, such as in most browse mode documents and in several edit controls. (#18901, @LeonarddeR)</source>
-        <target>Sentence navigation (`alt+upArrow` and `alt+downArrow`) now works in many more situations, such as in most browse mode documents and in several edit controls. (#18901, @LeonarddeR)</target>
+        <target>La navigation dans les phrases (`alt+flècheHaut` et `alt+flècheBas`) fonctionne désormais dans beaucoup plus de situations, comme dans la plupart des documents en mode navigation et dans plusieurs contrôles d'édition. (#18901, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="92a5f119-a07a-49a5-b4d6-2e72a45cb096">
@@ -6762,7 +6762,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 42</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille</source>
         <target>Braille</target>
       </segment>
@@ -6772,9 +6772,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 44</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille output for Chinese now includes spaces between words. (#18865, @CrazySteve0605, @Cary-rowen)</source>
-        <target>Braille output for Chinese now includes spaces between words. (#18865, @CrazySteve0605, @Cary-rowen)</target>
+        <target>L'affichage braille pour le chinois inclut désormais des espaces entre les mots. (#18865, @CrazySteve0605, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="0c94bf47-fafe-49e8-aa33-9e34e7b74dc2">
@@ -6782,9 +6782,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 45</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>On supported braille displays, pressing multiple routing keys simultaneously can now be bound to a new "multi routing" gesture. (#20001, @LeonarddeR)</source>
-        <target>On supported braille displays, pressing multiple routing keys simultaneously can now be bound to a new "multi routing" gesture. (#20001, @LeonarddeR)</target>
+        <target>Sur les afficheurs braille compatibles, l'appui simultané sur plusieurs touches de routage peut désormais être associée à un nouveau geste de "routage multiple". (#20001, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="18de3986-b674-461a-88d0-bc7665d69e6e">
@@ -6792,9 +6792,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 46</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The "select range" command, which selects the text from the first up to the last pressed routing key, is bound to this gesture by default on supporting drivers.</source>
-        <target>The "select range" command, which selects the text from the first up to the last pressed routing key, is bound to this gesture by default on supporting drivers.</target>
+        <target>La commande "sélectionner une plage", qui sélectionne le texte de la première à la dernière touche de routage pressée, est associée par défaut à ce geste sur les pilotes compatibles.</target>
       </segment>
     </unit>
     <unit id="79f036b9-7919-4d3a-9935-bb0a3403b69e">
@@ -6802,9 +6802,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 47</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Drivers with built-in support for multi routing: ALVA, Albatross (only when combined with `home1` or `home2`), Baum (and compatible), Freedom Scientific Focus/PAC Mate, HumanWare Brailliant BI/B series, Handy Tech, NLS eReader Zoomax, Seika Notetaker, and Standard HID Braille displays.</source>
-        <target>Drivers with built-in support for multi routing: ALVA, Albatross (only when combined with `home1` or `home2`), Baum (and compatible), Freedom Scientific Focus/PAC Mate, HumanWare Brailliant BI/B series, Handy Tech, NLS eReader Zoomax, Seika Notetaker, and Standard HID Braille displays.</target>
+        <target>Pilotes avec prise en charge intégrée du routage multiple : ALVA, Albatross (seulement lorsqu'il est combiné avec `home1` ou `home2`), Baum (et compatible), Freedom Scientific Focus/PAC Mate, HumanWare Brailliant BI/B series, Handy Tech, NLS eReader Zoomax, Seika Notetaker, et terminaux braille au standard HID.</target>
       </segment>
     </unit>
     <unit id="251e4e8f-3e51-4fc8-841a-b41ef767269e">
@@ -6812,9 +6812,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 48</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Support for the myBraille family of Help Tech Braille displays has been added. (#20426)</source>
-        <target>Support for the myBraille family of Help Tech Braille displays has been added. (#20426)</target>
+        <target>La prise en charge des afficheurs braille de la gamme myBraille de Help Tech a été ajoutée. (#20426)</target>
       </segment>
     </unit>
     <unit id="4127d524-7424-4ed7-b507-f543d63f18e3">
@@ -6822,9 +6822,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 49</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The braille "word wrap" option has been replaced with a four-valued "Text wrap" option: Off, Show mark when words are cut, At word boundaries, and At word or syllable boundaries. (#17010, @LeonarddeR)</source>
-        <target>The braille "word wrap" option has been replaced with a four-valued "Text wrap" option: Off, Show mark when words are cut, At word boundaries, and At word or syllable boundaries. (#17010, @LeonarddeR)</target>
+        <target>L'option braille "Retour à la ligne" a été remplacée par une option "Retour à la ligne automatique" à quatre valeurs possibles : Désactivé, Afficher un signe lorsque les mots sont coupés, Aux limites des mots et Aux limites des mots ou des syllabes. (#17010, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="7a5c5ef4-de27-4082-9279-c7c26c80f664">
@@ -6832,9 +6832,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 50</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In all modes other than Off, when a word is cut across rows, the last cell of the row now shows a continuation mark (braille dots 7-8) so it is clear that the word continues on the next row.</source>
-        <target>In all modes other than Off, when a word is cut across rows, the last cell of the row now shows a continuation mark (braille dots 7-8) so it is clear that the word continues on the next row.</target>
+        <target>Dans tous les modes autres que Désactivé, lorsqu'un mot est coupé sur plusieurs lignes, la dernière cellule de la ligne affiche désormais un signe de continuation (points braille 7-8) afin qu'il soit clair que le mot continue sur la ligne suivante.</target>
       </segment>
     </unit>
     <unit id="9a8a6d46-9328-4213-a26f-27cd9b399ef9">
@@ -6842,9 +6842,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 52</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Touch screen input</source>
-        <target>Touch screen input</target>
+        <target>Saisie tactile</target>
       </segment>
     </unit>
     <unit id="214f28ed-ad29-404c-85e6-a029ef8e8fa9">
@@ -6852,9 +6852,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 54</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added sequential two-flick touch gestures that combine two flicks performed in quick succession into a single gesture, increasing the number of touch gestures that can be bound to scripts. (#19938, @kefaslungu)</source>
-        <target>Added sequential two-flick touch gestures that combine two flicks performed in quick succession into a single gesture, increasing the number of touch gestures that can be bound to scripts. (#19938, @kefaslungu)</target>
+        <target>Ajout de gestes tactiles séquentiels à deux glissés qui combinent deux glissés effectués rapidement en succession en un seul geste, augmentant ainsi le nombre de gestes tactiles pouvant être assignés à des scripts. (#19938, @kefaslungu)</target>
       </segment>
     </unit>
     <unit id="786d4d45-bf97-4f00-be7e-603f79c66680">
@@ -6862,9 +6862,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 55</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Twelve combinations are recognised: opposite-direction pairs (e.g. flick right then flick left) and perpendicular L-shaped pairs (e.g. flick right then flick up).</source>
-        <target>Twelve combinations are recognised: opposite-direction pairs (e.g. flick right then flick left) and perpendicular L-shaped pairs (e.g. flick right then flick up).</target>
+        <target>Douze combinaisons sont reconnues : les paires de directions opposées (par exemple, glissé vers la droite puis vers la gauche) et les paires en forme de L perpendiculaires (par exemple, glissé vers la droite puis vers le haut).</target>
       </segment>
     </unit>
     <unit id="b9001a67-f47f-4daa-a924-2ab65288a2a0">
@@ -6872,9 +6872,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 56</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The two flicks can be performed either by lifting the finger between strokes or as a single continuous swipe with a sharp change in direction.</source>
-        <target>The two flicks can be performed either by lifting the finger between strokes or as a single continuous swipe with a sharp change in direction.</target>
+        <target>Les deux glissés peuvent être effectués soit en levant le doigt entre les mouvements, soit en un seul glissement continu avec un changement de direction brusque.</target>
       </segment>
     </unit>
     <unit id="b32c7498-eb86-429e-9d19-34d40658d04e">
@@ -6882,9 +6882,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 57</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added edge gesture support for touch screens, allowing gestures that start from any screen edge to be bound independently from the same gesture performed in the centre of the screen. (#19938, @kefaslungu)</source>
-        <target>Added edge gesture support for touch screens, allowing gestures that start from any screen edge to be bound independently from the same gesture performed in the centre of the screen. (#19938, @kefaslungu)</target>
+        <target>Ajout de la prise en charge des gestes à partir des bords de l'écran pour les écrans tactiles, permettant d'assigner les gestes effectués depuis n'importe quel bord de l'écran indépendamment du même geste effectué au centre de l'écran. (#19938, @kefaslungu)</target>
       </segment>
     </unit>
     <unit id="9cd26474-d066-43f9-aaa7-a43da27116e3">
@@ -6892,9 +6892,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 58</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Edge gestures are disabled by default and can be enabled in the Touch Interaction settings panel.</source>
-        <target>Edge gestures are disabled by default and can be enabled in the Touch Interaction settings panel.</target>
+        <target>Les gestes à partir des bords sont désactivés par défaut et peuvent être activés dans le panneau de paramètres d'interaction tactile.</target>
       </segment>
     </unit>
     <unit id="6c3b3ee8-5172-4f0f-a96a-cd6eecf61bb7">
@@ -6902,27 +6902,27 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 59</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>All four edges are supported.</source>
-        <target>All four edges are supported.</target>
+        <target>Les quatre bords sont pris en charge.</target>
       </segment>
     </unit>
     <unit id="361dbdcf-adc2-4e40-a923-c69f787b690f">
       <notes>
         <note appliesTo="source">line: 60</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Note that the Windows taskbar may override gestures on an edge.</source>
-        <target>  Note that the Windows taskbar may override gestures on an edge.</target>
+        <target>  Veuillez notez que la barre des tâches de Windows peut intercepter les gestes effectués sur un bord.</target>
       </segment>
     </unit>
     <unit id="65f4d95d-d641-49a7-8aaf-d163472db736">
       <notes>
         <note appliesTo="source">line: 61</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  Gestures from the taskbar edge open the Start menu or Action Center, NVDA will not receive them.</source>
-        <target>  Gestures from the taskbar edge open the Start menu or Action Center, NVDA will not receive them.</target>
+        <target>  Les gestes effectués depuis le bord de la barre des tâches ouvre le menu Démarrer ou le Centre de notifications, ils ne seront pas pris en compte par NVDA.</target>
       </segment>
     </unit>
     <unit id="410ad813-0db8-4048-964a-cf6fa3753766">
@@ -6930,9 +6930,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 63</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Browse mode</source>
-        <target>Browse mode</target>
+        <target>Mode navigation</target>
       </segment>
     </unit>
     <unit id="2d2a5c01-7e4b-4a08-a777-423999a5dfac">
@@ -6940,9 +6940,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 65</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added an unassigned Quick Navigation Command for jumping to next/previous clickable element in browse mode. (#14429, @cary-rowen)</source>
-        <target>Added an unassigned Quick Navigation Command for jumping to next/previous clickable element in browse mode. (#14429, @cary-rowen)</target>
+        <target>Ajout d'une commande de navigation rapide non assignée permettant de passer à l'élément cliquable suivant/précédent en mode navigation. (#14429, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="01ea6a28-666f-4563-9e08-d64bca20ed53">
@@ -6950,9 +6950,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 66</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added a "Native selection mode" option to NVDA's Browse Mode settings, disabled by default. (#15908)</source>
-        <target>Added a "Native selection mode" option to NVDA's Browse Mode settings, disabled by default. (#15908)</target>
+        <target>Ajout d'une option "Mode de sélection natif" aux paramètres du Mode de navigation de NVDA, désactivée par défaut. (#15908)</target>
       </segment>
     </unit>
     <unit id="7ae983e9-1bdd-476b-b6ad-4bfc728b21c4">
@@ -6960,9 +6960,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 67</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, native selection mode is automatically turned on in browse mode documents which support it, such as in Mozilla Firefox and browsers based on Chromium 134 or newer.</source>
-        <target>When enabled, native selection mode is automatically turned on in browse mode documents which support it, such as in Mozilla Firefox and browsers based on Chromium 134 or newer.</target>
+        <target>Lorsqu'il est activé, le mode de sélection natif est automatiquement activé dans les documents en mode navigation qui le prennent en charge, comme dans Mozilla Firefox et les navigateurs basés sur Chromium 134 ou plus récent.</target>
       </segment>
     </unit>
     <unit id="41271a2c-39ff-4dba-9c04-4fa8e377964f">
@@ -6970,9 +6970,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 68</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Native selection mode can still be toggled per document with `NVDA+shift+f10`.</source>
-        <target>Native selection mode can still be toggled per document with `NVDA+shift+f10`.</target>
+        <target>Le mode de sélection natif peut toujours être activé/désactivé pour chaque document par `NVDA+maj+f10`.</target>
       </segment>
     </unit>
     <unit id="53022a91-bd53-4bba-a326-feb332933118">
@@ -6980,9 +6980,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 69</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When navigating math on the web, Visual Highlight now follows the current subpart of the expression using the browse mode cursor highlighter. (#19191, @RyanMcCleary)</source>
-        <target>When navigating math on the web, Visual Highlight now follows the current subpart of the expression using the browse mode cursor highlighter. (#19191, @RyanMcCleary)</target>
+        <target>Lors de la navigation dans les formules mathématiques sur le Web, la mise en évidence visuelle suit désormais la sous-partie courante de l'expression en s'appuyant sur la mise en évidence du curseur du mode navigation. (#19191, @RyanMcCleary)</target>
       </segment>
     </unit>
     <unit id="5583fc6f-1535-4b42-90ad-e1ba757adb8e">
@@ -6990,9 +6990,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 70</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Find dialog in browse mode can now remember previously searched terms in a search history combo box, which can be turned off via a new "Keep search history" browse mode setting. (#8482, @marlon-sousa, @LeonarddeR)</source>
-        <target>The Find dialog in browse mode can now remember previously searched terms in a search history combo box, which can be turned off via a new "Keep search history" browse mode setting. (#8482, @marlon-sousa, @LeonarddeR)</target>
+        <target>La boîte de dialogue Rechercher du mode navigation peut désormais garder en mémoire les termes précédemment recherchés dans une zone de liste déroulante historique de recherche, qui peut être désactivée via un nouveau paramètre de mode navigation « Conserver l’historique de recherche ». (#8482, @marlon-sousa, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="251fe4ca-6acb-483c-a12a-28f340753c5b">
@@ -7000,9 +7000,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 72</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes</source>
-        <target>Changes</target>
+        <target>Changements</target>
       </segment>
     </unit>
     <unit id="a27ff69f-132f-4e6e-bbb5-18474cf72e8e">
@@ -7010,9 +7010,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 74</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated Liblouis Braille translator to [3.39.0](https://github.com/liblouis/liblouis/releases/tag/v3.39.0). (#20269, #20776, @codeofdusk)</source>
-        <target>Updated Liblouis Braille translator to [3.39.0](https://github.com/liblouis/liblouis/releases/tag/v3.39.0). (#20269, #20776, @codeofdusk)</target>
+        <target>Mise à jour du traducteur braille Liblouis à la version [3.39.0](https://github.com/liblouis/liblouis/releases/tag/v3.39.0). (#20269, #20776, @codeofdusk)</target>
       </segment>
     </unit>
     <unit id="34eebe17-d158-42aa-a4ee-4ba05f036f63">
@@ -7020,9 +7020,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 75</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added new Elfdalian, Sami, Maori, New Zealand Unified English Braille, Haitian Creole tables, a Norwegian table for Spanish text, and additional Swedish 6 and 8 dot variants.</source>
-        <target>Added new Elfdalian, Sami, Maori, New Zealand Unified English Braille, Haitian Creole tables, a Norwegian table for Spanish text, and additional Swedish 6 and 8 dot variants.</target>
+        <target>Ajout de nouvelles tables en elfdalien, sami, maori, braille anglais unifié de Nouvelle-Zélande, créole haïtien, d'une table norvégienne pour le texte espagnol et de variantes suédoises supplémentaires à 6 et 8 points.</target>
       </segment>
     </unit>
     <unit id="4997e258-753c-4a1d-9115-97bea484acef">
@@ -7030,9 +7030,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 76</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated eSpeak NG to [commit `f13549940`](https://github.com/espeak-ng/espeak-ng/commit/f1354994057fa9b85001675732e7fed2d437292b). (#20691, #20816)</source>
-        <target>Updated eSpeak NG to [commit `f13549940`](https://github.com/espeak-ng/espeak-ng/commit/f1354994057fa9b85001675732e7fed2d437292b). (#20691, #20816)</target>
+        <target>Mise à jour de eSpeak NG au [commit `f13549940`](https://github.com/espeak-ng/espeak-ng/commit/f1354994057fa9b85001675732e7fed2d437292b). (#20691, #20816)</target>
       </segment>
     </unit>
     <unit id="e105bcad-a46d-4e41-b79f-7310bdce32a3">
@@ -7040,9 +7040,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 77</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added Ligurian and Abkhaz support.</source>
-        <target>Added Ligurian and Abkhaz support.</target>
+        <target>Ajout de la prise en charge du ligure et de l'abkhaze.</target>
       </segment>
     </unit>
     <unit id="923b20fd-dab0-45cc-9cec-4af1e6ff88cc">
@@ -7050,9 +7050,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 78</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated CLDR to version 48.2. (#20234, @OzancanKaratas)</source>
-        <target>Updated CLDR to version 48.2. (#20234, @OzancanKaratas)</target>
+        <target>CLDR a été mis à jour à la version 48.2. (#20234, @OzancanKaratas)</target>
       </segment>
     </unit>
     <unit id="40fa99d8-c89b-474c-ba83-9f643e17ef2a">
@@ -7060,9 +7060,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 79</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The dialog used to present browseable messages (such as formatting information) has been modernized. (#18878, @LeonarddeR)</source>
-        <target>The dialog used to present browseable messages (such as formatting information) has been modernized. (#18878, @LeonarddeR)</target>
+        <target>La boîte de dialogue utilisée pour présenter les messages navigables (tels que les informations de mise en forme) a été modernisée. (#18878, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="af52ae98-a5bb-4c03-a8dc-c3da4e39569c">
@@ -7070,9 +7070,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 80</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The dialog's shortcut to copy contents of the message to the clipboard was changed to `alt+c`.</source>
-        <target>The dialog's shortcut to copy contents of the message to the clipboard was changed to `alt+c`.</target>
+        <target>Le raccourci de la boîte de dialogue permettant de copier le contenu du message dans le presse-papiers a été modifié et est désormais `alt+c`.</target>
       </segment>
     </unit>
     <unit id="d18e58aa-c481-41e8-ba68-c2e98dd1d48c">
@@ -7080,9 +7080,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 81</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Browseable message dialogs now better support resizing, maximizing and minimizing, with text wrapping to the dialog width. (#20429, @Cary-rowen)</source>
-        <target>Browseable message dialogs now better support resizing, maximizing and minimizing, with text wrapping to the dialog width. (#20429, @Cary-rowen)</target>
+        <target>Les boîtes de dialogue de messages navigables prennent désormais mieux en charge le redimensionnement, l'agrandissement et la réduction, avec un retour à la ligne automatique du texte à la largeur de la boîte de dialogue. (#20429, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="b3093759-dd3c-4d04-ad47-a64849aaff3b">
@@ -7090,9 +7090,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 82</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Improved speech responsiveness in long text with mixed capitalization or many digits. (#20433, @codeofdusk)</source>
-        <target>Improved speech responsiveness in long text with mixed capitalization or many digits. (#20433, @codeofdusk)</target>
+        <target>Amélioration de la réactivité de la parole pour les textes longs comportant une typographie mixte (majuscules et minuscules) ou de nombreux chiffres. (#20433, @codeofdusk)</target>
       </segment>
     </unit>
     <unit id="c567cdb7-46af-4a53-b61d-23fa3c44a9cf">
@@ -7100,9 +7100,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 83</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Windows OCR can now be used while Screen Curtain or NVDA's built-in Magnifier is active on supported systems. (#19164, #20630, @cary-rowen)</source>
-        <target>Windows OCR can now be used while Screen Curtain or NVDA's built-in Magnifier is active on supported systems. (#19164, #20630, @cary-rowen)</target>
+        <target>La Reconnaissance Optique de Caractères de Windows peut désormais être utilisée lorsque le rideau d'écran ou la loupe intégrée de NVDA est active sur les systèmes compatibles. (#19164, #20630, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="0d60252d-3333-4d91-a8a2-5ba6b6295ad6">
@@ -7110,9 +7110,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 84</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reduced the number of cross-process UI Automation calls when processing events, reporting focus changes, reporting objects under the mouse and rendering browse mode content, by caching more properties and batching focus property fetches. (#20608, @LeonarddeR)</source>
-        <target>Reduced the number of cross-process UI Automation calls when processing events, reporting focus changes, reporting objects under the mouse and rendering browse mode content, by caching more properties and batching focus property fetches. (#20608, @LeonarddeR)</target>
+        <target>Réduction du nombre d'appels interprocessus UI Automation lors du traitement des événements, de l'annonce des changements de focus, de l'annonce des objets sous la souris et du rendu du contenu du mode navigation, grâce à la mise en cache d'un plus grand nombre de propriétés et au regroupement des récupérations de propriétés du focus. (#20608, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="b14dcc4a-0252-4e77-90ee-65c2de794d34">
@@ -7120,9 +7120,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 85</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Limit the speed of rapid Magnifier filter updates to reduce the risk of triggering seizures. (#20750)</source>
-        <target>Limit the speed of rapid Magnifier filter updates to reduce the risk of triggering seizures. (#20750)</target>
+        <target>Limitation de la vitesse des mises à jour rapides du filtre de couleurs de la Loupe afin de réduire le risque de déclencher des crises d'épilepsie. (#20750)</target>
       </segment>
     </unit>
     <unit id="b416a4bf-973a-45e3-9b15-db8268fbed69">
@@ -7130,9 +7130,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 87</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Bug Fixes</source>
-        <target>Bug Fixes</target>
+        <target>Corrections de Bogues</target>
       </segment>
     </unit>
     <unit id="e58041c5-6933-4f18-8368-c1cec41b4cbf">
@@ -7279,9 +7279,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 104</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Performance</source>
-        <target>Performance</target>
+        <target>Performances</target>
       </segment>
     </unit>
     <unit id="6b40f759-4b20-4418-bfae-de9fa57d0935">
@@ -7289,9 +7289,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 106</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA should no longer cause File Explorer or other applications to crash when NVDA is exited or restarted. (#16207)</source>
-        <target>NVDA should no longer cause File Explorer or other applications to crash when NVDA is exited or restarted. (#16207)</target>
+        <target>NVDA ne devrait plus provoquer de plantage de l'Explorateur de fichiers ou d'autres applications lors de sa fermeture ou de son redémarrage. (#16207)</target>
       </segment>
     </unit>
     <unit id="d4a07f72-4227-482b-bb24-855155bb0304">
@@ -7299,9 +7299,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 107</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When an application stops responding, NVDA no longer freezes or floods its log with errors; it stays responsive and drops UIA and MSAA events from the unresponsive application until it recovers. (#16749, @heath-toby)</source>
-        <target>When an application stops responding, NVDA no longer freezes or floods its log with errors; it stays responsive and drops UIA and MSAA events from the unresponsive application until it recovers. (#16749, @heath-toby)</target>
+        <target>Lorsqu'une application cesse de répondre, NVDA ne se bloque plus et ne sature plus son journal d'erreurs ; il reste réactif et ignore les événements UIA et MSAA de l'application non réactive jusqu'à ce qu'elle reprenne son fonctionnement normal. (#16749, @heath-toby)</target>
       </segment>
     </unit>
     <unit id="8e7ad34c-fa45-495a-b508-101a3903141e">
@@ -7309,9 +7309,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 108</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Reduced lag on UI Automation text change events, improving the responsiveness of controls such as combo boxes and of File Explorer, by using the cached element class name instead of a live cross-process fetch. (#16749, @heath-toby)</source>
-        <target>Reduced lag on UI Automation text change events, improving the responsiveness of controls such as combo boxes and of File Explorer, by using the cached element class name instead of a live cross-process fetch. (#16749, @heath-toby)</target>
+        <target>Réduction de la latence lors des événements de modification de texte UI Automation, améliorant la réactivité des contrôles tels que les listes déroulantes et de l'explorateur de fichiers, en utilisant le nom de classe de l'élément mis en cache au lieu d'une récupération interprocessus directe. (#16749, @heath-toby)</target>
       </segment>
     </unit>
     <unit id="079cdadc-7cf9-4d07-9bfb-3a02ea0878b7">
@@ -7319,9 +7319,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 109</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA recovers more quickly when an application stops responding; in particular, switching away from a hung application returns NVDA to responsiveness immediately. (#20169, @heath-toby)</source>
-        <target>NVDA recovers more quickly when an application stops responding; in particular, switching away from a hung application returns NVDA to responsiveness immediately. (#20169, @heath-toby)</target>
+        <target>NVDA récupère plus rapidement lorsqu'une application cesse de répondre ; en particulier, le passage à une autre application bloquée permet à NVDA de redevenir immédiatement réactif. (#20169, @heath-toby)</target>
       </segment>
     </unit>
     <unit id="e701c57a-014e-4afc-a9d5-983c8ec9f477">
@@ -7329,9 +7329,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 110</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA no longer floods its log with errors while Windows is locked and a browse mode document keeps updating in the background, such as a playing video in Mozilla Firefox. (#18861, @bramd)</source>
-        <target>NVDA no longer floods its log with errors while Windows is locked and a browse mode document keeps updating in the background, such as a playing video in Mozilla Firefox. (#18861, @bramd)</target>
+        <target>NVDA ne surcharge plus son journal d'erreurs lorsque Windows est verrouillé et qu'un document en mode navigation continue de se mettre à jour en arrière-plan, comme une vidéo en cours de lecture dans Mozilla Firefox. (#18861, @bramd)</target>
       </segment>
     </unit>
     <unit id="914281f2-8d2a-44c3-8732-103cb2ae19d3">
@@ -7339,7 +7339,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 112</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Braille</source>
         <target>Braille</target>
       </segment>
@@ -14138,7 +14138,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Changes</source>
-        <target>Modifications</target>
+        <target>Changements</target>
       </segment>
     </unit>
     <unit id="8544ecbf-c7dc-4d16-a240-c3b69429f33a">
@@ -14415,7 +14415,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Changes for Developers</source>
-        <target>Modifications pour les développeurs</target>
+        <target>Changements pour les développeurs</target>
       </segment>
     </unit>
     <unit id="ac3da7d2-599d-45d9-a25e-b81f7bf5e460">
