@@ -7140,9 +7140,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 89</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now reports the correct location and label for Win32 menu items of 32-bit applications when display scaling is above 100%. (#19225, #20158, @christopherpross)</source>
-        <target>NVDA now reports the correct location and label for Win32 menu items of 32-bit applications when display scaling is above 100%. (#19225, #20158, @christopherpross)</target>
+        <target>NVDA indique désormais l'emplacement et le label corrects des éléments de menu Win32 des applications 32 bits lorsque la mise à l'échelle de l'affichage est supérieure à 100 %. (#19225, #20158, @christopherpross)</target>
       </segment>
     </unit>
     <unit id="ed9fc72f-92a5-40e7-8159-d831fe982443">
@@ -7150,9 +7150,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 90</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In PowerPoint and other Office applications, NVDA will now correctly read and navigate the edit fields in the insert hyperlink dialog. (#17390, @aryanchoudharypro)</source>
-        <target>In PowerPoint and other Office applications, NVDA will now correctly read and navigate the edit fields in the insert hyperlink dialog. (#17390, @aryanchoudharypro)</target>
+        <target>Dans PowerPoint et d'autres applications Office, NVDA lira et naviguera désormais correctement dans les champs d'édition de la boîte de dialogue d'insertion de lien hypertexte. (#17390, @aryanchoudharypro)</target>
       </segment>
     </unit>
     <unit id="dc24541f-efd4-4dbc-be88-926bdb84e3ec">
@@ -7160,9 +7160,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 91</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Notepad++, NVDA now continues to report IME composition text in speech and braille while selecting or navigating within Chinese IME composition. (#14140, #14152, @keyang556)</source>
-        <target>In Notepad++, NVDA now continues to report IME composition text in speech and braille while selecting or navigating within Chinese IME composition. (#14140, #14152, @keyang556)</target>
+        <target>Dans Notepad++, NVDA continue désormais à lire le texte de composition IME en synthèse vocale et en braille lors de la sélection ou de la navigation dans la composition IME chinoise. (#14140, #14152, @keyang556)</target>
       </segment>
     </unit>
     <unit id="6fe4bd1c-36f5-4d81-84d5-01104c1dfbdc">
@@ -7170,9 +7170,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 92</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed UAC slider not being read when changing values with arrow keys. (#9356, @tareh7z)</source>
-        <target>Fixed UAC slider not being read when changing values with arrow keys. (#9356, @tareh7z)</target>
+        <target>Correction d'un problème où le curseur UAC n'était pas lu lors de la modification des valeurs avec les touches fléchées. (#9356, @tareh7z)</target>
       </segment>
     </unit>
     <unit id="17fc7478-3516-488e-8210-f704050a6e98">
@@ -7180,9 +7180,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 93</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>After marking the start of text for review cursor copy with `NVDA+f9`, moving with Find or Go To no longer causes `NVDA+f10` to report that no start marker is set. (#13864, @Cary-rowen)</source>
-        <target>After marking the start of text for review cursor copy with `NVDA+f9`, moving with Find or Go To no longer causes `NVDA+f10` to report that no start marker is set. (#13864, @Cary-rowen)</target>
+        <target>Après avoir marqué le début du texte à copier avec le curseur de revue par `NVDA+f9`, le déplacement avec Rechercher ou Atteindre n'entraine plus le message de `NVDA+f10` signalant qu'aucun marqueur de début n'est défini. (#13864, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="c728ff47-f295-41e1-8ed8-f49632be4c72">
@@ -7190,18 +7190,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 94</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Only one browse mode Find dialog can be open at a time.</source>
-        <target>Only one browse mode Find dialog can be open at a time.</target>
+        <target>Une seule boîte de dialogue de recherche en mode navigation peut être ouverte à la fois.</target>
       </segment>
     </unit>
     <unit id="c643f84c-e9d1-49db-9963-9b25364352ef">
       <notes>
         <note appliesTo="source">line: 95</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Executing the find command while the dialog is open brings it to the foreground and points it at the document you executed the command from. (#20484, @LeonarddeR)</source>
-        <target>Executing the find command while the dialog is open brings it to the foreground and points it at the document you executed the command from. (#20484, @LeonarddeR)</target>
+        <target>L'exécution de la commande de recherche alors que la boîte de dialogue est ouverte la fait passer au premier plan et la dirige vers le document à partir duquel vous avez exécuté la commande. (#20484, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="932fd30b-f37a-4d64-b6ac-1db72a94b145">
@@ -7209,9 +7209,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 96</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Focus is no longer silent on list items in Qt-based applications (such as Telegram Desktop). (#20255, @rezabakhshilaktasaraei)</source>
-        <target>Focus is no longer silent on list items in Qt-based applications (such as Telegram Desktop). (#20255, @rezabakhshilaktasaraei)</target>
+        <target>Le focus n'est plus silencieux sur les éléments de liste dans les applications basées sur Qt (telles que Telegram Desktop). (#20255, @rezabakhshilaktasaraei)</target>
       </segment>
     </unit>
     <unit id="f52ccc5e-8f05-4539-9087-1430ed0a8c57">
@@ -7219,9 +7219,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 97</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now reports checked ToolStrip menu items in .NET Framework Windows Forms applications using UI Automation. (#19335, @Cary-rowen)</source>
-        <target>NVDA now reports checked ToolStrip menu items in .NET Framework Windows Forms applications using UI Automation. (#19335, @Cary-rowen)</target>
+        <target>NVDA annonce désormais les éléments de menu ToolStrip cochés dans les applications Windows Forms .NET Framework utilisant UI Automation. (#19335, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="a0be213c-e739-4557-ba9c-479ec4a146c7">
@@ -7229,9 +7229,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 98</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Object descriptions are now reported for .NET Framework Windows Forms ToolStrip menu items exposed through UI Automation. (#20486, @Cary-rowen)</source>
-        <target>Object descriptions are now reported for .NET Framework Windows Forms ToolStrip menu items exposed through UI Automation. (#20486, @Cary-rowen)</target>
+        <target>Les descriptions des objets sont désormais fournies pour les éléments de menu ToolStrip de Windows Forms .NET Framework exposés via UI Automation. (#20486, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="a1f6adfb-d396-4e3e-bc20-c324713b6cc4">
@@ -7239,9 +7239,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 99</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now reports the selected item when using the arrow keys in collapsed .NET Framework Windows Forms combo boxes. (#17454, @Cary-rowen)</source>
-        <target>NVDA now reports the selected item when using the arrow keys in collapsed .NET Framework Windows Forms combo boxes. (#17454, @Cary-rowen)</target>
+        <target>NVDA annonce désormais l'élément sélectionné lors de l'utilisation des touches fléchées dans les listes déroulantes réduites des formulaires Windows .NET Framework. (#17454, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="ff4bc12d-d784-4716-931b-470b08e8cc57">
@@ -7249,9 +7249,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 100</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Remote Access: NVDA now reports when connecting as the controlled computer fails, while continuing to retry the connection in the background. (#19103, @danielw97)</source>
-        <target>Remote Access: NVDA now reports when connecting as the controlled computer fails, while continuing to retry the connection in the background. (#19103, @danielw97)</target>
+        <target>Accès à distance : NVDA anonce désormais les échecs de connexion en tant qu'ordinateur contrôlé, tout en continuant à tenter de rétablir la connexion en arrière-plan. (#19103, @danielw97)</target>
       </segment>
     </unit>
     <unit id="05689ace-e796-4a26-99c3-d601f74866ae">
@@ -7259,9 +7259,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 101</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Fixed an error when loading 32-bit synthesizers on some systems. (#20088)</source>
-        <target>Fixed an error when loading 32-bit synthesizers on some systems. (#20088)</target>
+        <target>Correction d'une erreur lors du chargement de synthétiseurs 32 bits sur certains systèmes. (#20088)</target>
       </segment>
     </unit>
     <unit id="decda1a6-2226-4946-abf5-7172e085436d">
@@ -7269,9 +7269,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 102</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Magnifier's "Show entire screen overview" feature now works when relative tracking mode is enabled. (#20746)</source>
-        <target>Magnifier's "Show entire screen overview" feature now works when relative tracking mode is enabled. (#20746)</target>
+        <target>La fonction "Afficher un aperçu de tout l'écran" de la loupe fonctionne désormais lorsque le mode de suivi relatif est activé. (#20746)</target>
       </segment>
     </unit>
     <unit id="0ef818ff-4500-4055-a142-59071db12dfd">
@@ -7428,9 +7428,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 123</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Web browsers</source>
-        <target>Web browsers</target>
+        <target>navigateurs web</target>
       </segment>
     </unit>
     <unit id="7b0c70cd-9305-434b-8e64-da43f1d2c8f0">
@@ -7438,9 +7438,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 125</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When moving to an ARIA grid cell in focus mode in web browsers, NVDA no longer reports both the row and column headers even if only the row or only the column changed. (#17750, @jcsteh)</source>
-        <target>When moving to an ARIA grid cell in focus mode in web browsers, NVDA no longer reports both the row and column headers even if only the row or only the column changed. (#17750, @jcsteh)</target>
+        <target>Lors du déplacement vers une cellule de grille ARIA en mode focus dans les navigateurs web, NVDA ne signale plus à la fois les en-têtes de ligne et de colonne même si seule la ligne ou seule la colonne a changé. (#17750, @jcsteh)</target>
       </segment>
     </unit>
     <unit id="d9e46774-3330-4aa8-82df-c4baf94c7d8e">
@@ -7448,9 +7448,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 126</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now announces heading, paragraph, list, and list item children inside webpage alerts (`role="alert"`). (#14990, @mehm8128)</source>
-        <target>NVDA now announces heading, paragraph, list, and list item children inside webpage alerts (`role="alert"`). (#14990, @mehm8128)</target>
+        <target>NVDA annonce désormais les titres, paragraphes, listes et éléments de liste enfants dans les alertes de page Web (`role="alert"`). (#14990, @mehm8128)</target>
       </segment>
     </unit>
     <unit id="d8cd8a4e-2ba0-469d-a884-630a785643ab">
@@ -7458,9 +7458,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 127</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA should no longer fail to navigate tables, read editable text fields or enable native app selection mode in Web browsers after a random period of time. (#16020)</source>
-        <target>NVDA should no longer fail to navigate tables, read editable text fields or enable native app selection mode in Web browsers after a random period of time. (#16020)</target>
+        <target>NVDA ne devrait plus rencontrer de problèmes de navigation dans les tableaux, de lecture des champs de texte modifiables ou d'activation du mode de sélection d'applications natives dans les navigateurs Web après une période de temps aléatoire. (#16020)</target>
       </segment>
     </unit>
     <unit id="d90350d2-8661-4a70-95bd-4b23e43675c3">
@@ -7468,9 +7468,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 128</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Mozilla Firefox, reporting annotation details now works correctly in focus mode on controls which are not editable text. (#20208, @jcsteh)</source>
-        <target>In Mozilla Firefox, reporting annotation details now works correctly in focus mode on controls which are not editable text. (#20208, @jcsteh)</target>
+        <target>Dans Mozilla Firefox, l'affichage des détails des annotations fonctionne désormais correctement en mode focus sur les contrôles qui ne sont pas du texte éditable. (#20208, @jcsteh)</target>
       </segment>
     </unit>
     <unit id="1b3326d7-c061-4fc1-8c5d-bc6e8816d025">
@@ -7478,9 +7478,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 129</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Mozilla Firefox and Chromium based browsers with native selection mode enabled, the caret no longer gets stuck when switching to focus mode, and typing in edit fields works again. (#19075, #18028, @LeonarddeR)</source>
-        <target>In Mozilla Firefox and Chromium based browsers with native selection mode enabled, the caret no longer gets stuck when switching to focus mode, and typing in edit fields works again. (#19075, #18028, @LeonarddeR)</target>
+        <target>Dans Mozilla Firefox et les navigateurs basés sur Chromium avec le mode de sélection natif activé, le curseur ne se bloque plus lors du passage en mode focus, et la saisie dans les champs d'édition fonctionne à nouveau. (#19075, #18028, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="f49b2e03-6320-4833-8e88-63b4f48bf7c3">
@@ -7488,9 +7488,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 130</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Chromium based browsers, NVDA no longer reports invalid math formatting for ARIA `role="math"` elements with an author-provided accessible name and no MathML. (#20727, @cary-rowen)</source>
-        <target>In Chromium based browsers, NVDA no longer reports invalid math formatting for ARIA `role="math"` elements with an author-provided accessible name and no MathML. (#20727, @cary-rowen)</target>
+        <target>Dans les navigateurs basés sur Chromium, NVDA ne signale plus de format mathématique invalide pour les éléments ARIA `role="math"` avec un nom accessible fourni par l'auteur et sans MathML. (#20727, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="cc944143-5881-4f0c-9e6c-e9ca5c77421e">
@@ -7498,9 +7498,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 132</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Terminals</source>
-        <target>Terminals</target>
+        <target>Terminaux</target>
       </segment>
     </unit>
     <unit id="18d32f92-31e1-46b3-87ba-3ea88b40ff0b">
@@ -7508,9 +7508,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 134</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Windows Terminal, NVDA is less likely to report stale characters when moving the caret in delayed remote sessions such as SSH. (#19503, @sheldon-im)</source>
-        <target>In Windows Terminal, NVDA is less likely to report stale characters when moving the caret in delayed remote sessions such as SSH. (#19503, @sheldon-im)</target>
+        <target>Dans Windows Terminal, NVDA est moins susceptible de signaler des caractères obsolètes lors du déplacement du curseur dans des sessions distantes différées telles que SSH. (#19503, @sheldon-im)</target>
       </segment>
     </unit>
     <unit id="e12e8f49-4727-492a-ad7d-82bd7944ec59">
@@ -7518,9 +7518,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 135</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>In Windows Terminal, mouse tracking now reports the line of text under the mouse pointer. (#20448, @DataTriny)</source>
-        <target>In Windows Terminal, mouse tracking now reports the line of text under the mouse pointer. (#20448, @DataTriny)</target>
+        <target>Dans Windows Terminal, le suivi de la souris affiche désormais la ligne de texte située sous le pointeur de la souris. (#20448, @DataTriny)</target>
       </segment>
     </unit>
     <unit id="1f931e8f-2e83-4210-9806-9c01f3a35edc">
@@ -7528,7 +7528,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 137</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-on Store</source>
         <target>Add-on Store</target>
       </segment>
@@ -7538,9 +7538,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 139</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Add-on Store no longer becomes unresponsive when navigating the list of add-ons quickly, such as by holding down an arrow key. (#17351, @christopherpross)</source>
-        <target>The Add-on Store no longer becomes unresponsive when navigating the list of add-ons quickly, such as by holding down an arrow key. (#17351, @christopherpross)</target>
+        <target>L'add-on store ne se bloque plus lors de la navigation rapide dans la liste des extensions, par exemple en maintenant une touche fléchée enfoncée. (#17351, @christopherpross)</target>
       </segment>
     </unit>
     <unit id="c4e182ac-6a51-4a64-a1a7-e49e2b66c36a">
@@ -7548,9 +7548,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 140</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Add-on Store no longer becomes unresponsive when searching for add-ons with a one-character query. (#20886, @Cary-rowen)</source>
-        <target>The Add-on Store no longer becomes unresponsive when searching for add-ons with a one-character query. (#20886, @Cary-rowen)</target>
+        <target>L'add-on store ne se bloque plus lors de la recherche d'extensions avec une requête d'un seul caractère. (#20886, @Cary-rowen)</target>
       </segment>
     </unit>
     <unit id="c368e9ef-0ea5-40c1-9089-275e44525e5b">
@@ -7558,9 +7558,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 141</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA now restarts reliably when requested after installing an add-on package from File Explorer. (#17925, @cary-rowen)</source>
-        <target>NVDA now restarts reliably when requested after installing an add-on package from File Explorer. (#17925, @cary-rowen)</target>
+        <target>NVDA redémarre désormais de manière fiable lorsque cela est demandé après l'installation d'une extension depuis l'explorateur de fichiers. (#17925, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="da7d0370-c2fd-45b7-9f32-33d0bb62892e">
@@ -7568,9 +7568,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 142</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The actions button can now be used when selecting multiple add-ons in the Add-on Store to perform batch actions, instead of just via the context menu in the add-ons list. (#19971, @amirmahdifard)</source>
-        <target>The actions button can now be used when selecting multiple add-ons in the Add-on Store to perform batch actions, instead of just via the context menu in the add-ons list. (#19971, @amirmahdifard)</target>
+        <target>Le bouton "Actions" peut désormais être utilisé lors de la sélection de plusieurs extensions dans l'add-on store pour effectuer des actions groupées, au lieu de se limiter au menu contextuel de la liste des extensions. (#19971, @amirmahdifard)</target>
       </segment>
     </unit>
     <unit id="57e6033f-ea2d-45d2-925d-4c5352350090">
@@ -7578,18 +7578,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 143</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updating an add-on no longer leaves modules of the old version loaded.</source>
-        <target>Updating an add-on no longer leaves modules of the old version loaded.</target>
+        <target>La mise à jour d'une extensions ne laisse plus chargés les modules de l'ancienne version.</target>
       </segment>
     </unit>
     <unit id="85299ca2-af25-4a3e-b6a4-527ff28b53b2">
       <notes>
         <note appliesTo="source">line: 144</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This could cause errors in the updated add-on on the first start of NVDA after the update. (#18971, @LeonarddeR)</source>
-        <target>This could cause errors in the updated add-on on the first start of NVDA after the update. (#18971, @LeonarddeR)</target>
+        <target>Cela pouvait entraîner des erreurs dans l'extension mis à jour lors du premier démarrage de NVDA après la mise à jour. (#18971, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="241d703e-0e2e-4b76-bea6-7516629410bc">

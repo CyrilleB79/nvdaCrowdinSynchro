@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-14 02:42+0000\n"
-"PO-Revision-Date: 2026-10-15 06:46\n"
+"PO-Revision-Date: 2026-10-15 12:20\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -15042,7 +15042,7 @@ msgstr "Mode de frappe &tactile"
 #. Translators: This is the label for a checkbox in the touch interaction settings panel.
 #: gui\settingsDialogs.py:4217
 msgid "Enable &edge gestures"
-msgstr "Activer les gestes depuis le &bord"
+msgstr "Activer les gestes à partir des &bords"
 
 #. Translators: The title of the Windows OCR panel.
 #: gui\settingsDialogs.py:4231
