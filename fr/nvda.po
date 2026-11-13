@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-13 05:18+0000\n"
-"PO-Revision-Date: 2026-11-13 12:44\n"
+"PO-Revision-Date: 2026-11-13 20:11\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1242,7 +1242,7 @@ msgstr "Non supporté dans ce document."
 #. Translators: input help message for toggle native selection command
 #: browseMode.py:2954
 msgid "Toggles native selection mode on and off"
-msgstr "Activer ou désactiver le mode de sélection natif"
+msgstr "Activer ou désactiver le mode de sélection native"
 
 #. Translators: the message when native selection mode is not available in this browse mode document.
 #: browseMode.py:2960
@@ -1257,7 +1257,7 @@ msgstr "Le mode de sélection native ne peut pas être désactivé dans ce docum
 #. Translators: the message when native selection mode is not available in this browse mode document.
 #: browseMode.py:2975
 msgid "Native selection mode unsupported in this document"
-msgstr "Mode de sélection natif de l'application non pris en charge dans ce document"
+msgstr "Mode de sélection native de l'application non pris en charge dans ce document"
 
 #. Translators: reported when native selection mode is toggled on.
 #: browseMode.py:2979
@@ -14408,7 +14408,7 @@ msgstr "Conserver l'&historique de recherche"
 #. Translators: This is the label for a combo box in the browse mode settings panel.
 #: gui\settingsDialogs.py:2731
 msgid "Nati&ve selection mode on page load"
-msgstr "Mode de &sélection natif au chargement de la page"
+msgstr "Mode de &sélection native au chargement de la page"
 
 #. Translators: Label for the list of browse mode touch navigation element types in browse mode settings.
 #: gui\settingsDialogs.py:2747

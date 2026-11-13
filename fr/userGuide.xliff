@@ -14916,7 +14916,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Currently, Native Selection Mode is supported in:</source>
-        <target>Actuellement, le mode de sélection natif est pris en charge dans :</target>
+        <target>Actuellement, le mode de sélection native est pris en charge dans :</target>
       </segment>
     </unit>
     <unit id="5d42ddfe-2210-4db7-83c7-cfa24e0d6487">
@@ -15014,7 +15014,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Please note however that in native selection mode, some accessible labels or other information that NVDA generates in Browse Mode will not be included.</source>
-        <target>Veuillez noter cependant qu'en mode de sélection natif, certains labels accessibles ou autres informations générées par NVDA en mode Navigation ne seront pas inclus.</target>
+        <target>Veuillez noter cependant qu'en mode de sélection native, certains labels accessibles ou autres informations générées par NVDA en mode Navigation ne seront pas inclus.</target>
       </segment>
     </unit>
     <unit id="2e639397-72bd-4e62-8905-ed4b444ef7d5">
@@ -18138,18 +18138,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1651</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA's [Magnifier](#Magnifier) is turned off while Screen Curtain is enabled, and is turned back on when Screen Curtain is disabled.</source>
-        <target>NVDA's [Magnifier](#Magnifier) is turned off while Screen Curtain is enabled, and is turned back on when Screen Curtain is disabled.</target>
+        <target>La [Loupe](#Magnifier) de NVDA est désactivée lorsque le rideau d'écran est activé, et est réactivée lorsque le rideau d'écran est désactivé.</target>
       </segment>
     </unit>
     <unit id="aff990f2-f386-4e83-b108-388cc719ab6a">
       <notes>
         <note appliesTo="source">line: 1652</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Since the screen is black, this is not announced.</source>
-        <target>Since the screen is black, this is not announced.</target>
+        <target>Vu que l'écran est noir, cela n'est pas annoncé.</target>
       </segment>
     </unit>
     <unit id="002145a3-909c-48ef-90c3-a591cb9905a3">
@@ -18259,9 +18259,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 1670</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The Magnifier is turned off while [Screen Curtain](#VisionScreenCurtain) is enabled, and is turned back on when Screen Curtain is disabled.</source>
-        <target>The Magnifier is turned off while [Screen Curtain](#VisionScreenCurtain) is enabled, and is turned back on when Screen Curtain is disabled.</target>
+        <target>La loupe est désactivée lorsque le [rideau d'écran](#VisionScreenCurtain) est activé, et est réactivée lorsque le rideau d'écran est désactivé.</target>
       </segment>
     </unit>
     <unit id="96a940bb-9b9e-4181-8a6e-4c080c620933">
@@ -22189,9 +22189,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 2347</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These dictionaries contain descriptions for symbols (particularly emoji) that are provided by the [Unicode Consortium](https://www.unicode.org/consortium/) as part of their [Common Locale Data and Rules](http://cldr.unicode.org/).</source>
-        <target>These dictionaries contain descriptions for symbols (particularly emoji) that are provided by the [Unicode Consortium](https://www.unicode.org/consortium/) as part of their [Common Locale Data and Rules](http://cldr.unicode.org/).</target>
+        <target>Ces dictionnaires contiennent des descriptions de symboles (en particulier les emoji) qui sont fournies par le [Consortium Unicode](https://www.unicode.org/consortium/) comme faisant partie de leur [Données et règles de localisation communes](http://cldr.unicode.org/).</target>
       </segment>
     </unit>
     <unit id="8280300f-a504-45d6-83fd-c3c9c8cdd0bc">
@@ -26488,27 +26488,27 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3080</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, the magnified area will automatically move to follow the system focus and the system text cursor, which can be helpful for users who navigate primarily using the keyboard and want the magnifier to track their navigation.</source>
-        <target>When enabled, the magnified area will automatically move to follow the system focus and the system text cursor, which can be helpful for users who navigate primarily using the keyboard and want the magnifier to track their navigation.</target>
+        <target>Lorsqu'elle est activée, la zone agrandie se déplace automatiquement pour suivre le focus système et le curseur de texte du système, ce qui peut être utile pour les utilisateurs qui naviguent principalement à l'aide du clavier et souhaitent que la loupe suive leur navigation.</target>
       </segment>
     </unit>
     <unit id="16c5792b-549b-4f8e-817d-ca080d2f96ff">
       <notes>
         <note appliesTo="source">line: 3081</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It also moves to follow alternative cursors replacing the system cursor in specific situations such as browse mode cursor in browse mode or current subpart when navigating math content.</source>
-        <target>It also moves to follow alternative cursors replacing the system cursor in specific situations such as browse mode cursor in browse mode or current subpart when navigating math content.</target>
+        <target>Elle se déplace également pour suivre les curseurs alternatifs remplaçant le curseur système dans des situations spécifiques telles que le curseur en mode navigation ou le curseur de la sous-partie courante lors de la navigation dans du contenu mathématique.</target>
       </segment>
     </unit>
     <unit id="e3c1f475-f0e8-4fb1-95da-d22abccf071d">
       <notes>
         <note appliesTo="source">line: 3082</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Math navigation trackinng is only supported on the web.</source>
-        <target>Math navigation trackinng is only supported on the web.</target>
+        <target>Le suivi dans la navigation mathématique n'est pris en charge que sur le Web.</target>
       </segment>
     </unit>
     <unit id="b20676a8-b2e0-4729-bca9-b85b6de21412">
@@ -27722,9 +27722,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 3302</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When enabled, gestures that start from any screen edge are treated as distinct gestures and can be bound independently in the [Input Gestures dialog](#InputGestures).</source>
-        <target>When enabled, gestures that start from any screen edge are treated as distinct gestures and can be bound independently in the [Input Gestures dialog](#InputGestures).</target>
+        <target>Lorsqu'elle est activée, les gestes qui démarrent depuis n'importe quel bord de l'écran sont traités comme des gestes distincts et peuvent être assignés indépendamment dans la boîte de dialogue [Gestes de commandes](#InputGestures).</target>
       </segment>
     </unit>
     <unit id="36ed2834-c73e-422c-aa01-8fca7c2291d1">
@@ -29115,18 +29115,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: ##### </note>
         <note appliesTo="source">suffix:  {#NativeSelectionModeSetting}</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Native selection mode on page load</source>
-        <target>Native selection mode on page load</target>
+        <target>Mode de sélection native au chargement de la page</target>
       </segment>
     </unit>
     <unit id="dd98895f-c76a-4b73-83c5-70cde588d432">
       <notes>
         <note appliesTo="source">line: 3554</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Disabled by default, this option determines whether [Native Selection Mode](#NativeSelectionMode) is automatically turned on in Browse Mode documents which support it when loaded.</source>
-        <target>Disabled by default, this option determines whether [Native Selection Mode](#NativeSelectionMode) is automatically turned on in Browse Mode documents which support it when loaded.</target>
+        <target>Désactivée par défaut, cette option détermine si le [Mode de sélection native](#NativeSelectionMode) est automatiquement activé lors de leur chargement dans les documents en mode navigation qui le prennent en charge.</target>
       </segment>
     </unit>
     <unit id="8b9c0f07-3a4e-489c-b6d6-de7dede1f500">
@@ -29135,7 +29135,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>This setting does not affect Microsoft Word and Outlook, where Native Selection Mode is always used.</source>
-        <target>Ce paramètre n'affecte pas Microsoft Word et Outlook, où le mode de sélection natif est toujours utilisé.</target>
+        <target>Ce paramètre n'affecte pas Microsoft Word et Outlook, où le mode de sélection native est toujours utilisé.</target>
       </segment>
     </unit>
     <unit id="fdb1dad3-9d1c-48e8-b66c-61537d026608">
@@ -29144,7 +29144,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>When disabled, you can still turn on native selection mode manually per document with `NVDA+shift+f10`.</source>
-        <target>Lorsque cette option est désactivée, vous pouvez toujours activer manuellement le mode de sélection natif pour chaque document avec `NVDA+maj+f10`.</target>
+        <target>Lorsque cette option est désactivée, vous pouvez toujours activer manuellement le mode de sélection native pour chaque document avec `NVDA+maj+f10`.</target>
       </segment>
     </unit>
     <unit id="75acede4-bd40-4ea8-8aae-252775640872">
@@ -35570,18 +35570,18 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 4588</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Most settings can be changed in configuration profiles.</source>
-        <target>Most settings can be changed in configuration profiles.</target>
+        <target>La plupart des paramètres peuvent être modifiés dans les profils de configuration.</target>
       </segment>
     </unit>
     <unit id="c028e139-b317-4222-bd6c-ef0faf42c07f">
       <notes>
         <note appliesTo="source">line: 4589</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Settings in the following categories of [NVDA Settings](#NVDASettings) dialog apply to the entirety of NVDA: General, Privacy and Security, Magnifier, Remote Access, Math, and Add-on Store.</source>
-        <target>Settings in the following categories of [NVDA Settings](#NVDASettings) dialog apply to the entirety of NVDA: General, Privacy and Security, Magnifier, Remote Access, Math, and Add-on Store.</target>
+        <target>Les paramètres des catégories suivantes de la boîte de dialogue [Paramètres de NVDA](#NVDASettings) s'appliquent à l'ensemble de NVDA : Général, Confidentialité et sécurité, Loupe, Accès à distance, Mathématiques et Add-on Store.</target>
       </segment>
     </unit>
     <unit id="f1ad1123-5c11-468a-a1af-ca0f439b9fe3">
@@ -50509,9 +50509,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>None |`--debug-logging` |Enable debug level logging just for this run. This setting will override any other log level ( `--log-level`, `-l`) argument given, including no logging option.</source>
-        <target>None |`--debug-logging` |Enable debug level logging just for this run. This setting will override any other log level ( `--log-level`, `-l`) argument given, including no logging option.</target>
+        <target>Aucune | `--debug-logging` | Active le niveau de journalisation débogage seulement pour cette session. Ce paramètre remplacera tout autre argument de niveau de journalisation (`--log-level`, `-l`) fourni, y compris l'option `--no-logging`.</target>
       </segment>
     </unit>
     <unit id="0eb8c339-39ba-456b-baee-788eb6119f02">
@@ -50520,9 +50520,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">prefix: |</note>
         <note appliesTo="source">suffix: |</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>None |`--no-logging` |Disable logging altogether while using NVDA. This setting can be overridden if a log level (`--log-level`, `-l`) is specified from command line or if debug logging is turned on.</source>
-        <target>None |`--no-logging` |Disable logging altogether while using NVDA. This setting can be overridden if a log level (`--log-level`, `-l`) is specified from command line or if debug logging is turned on.</target>
+        <target>Aucune |`--no-logging` |Désactive complètement la journalisation durant l'utilisation de NVDA. Ce paramètre peut être ignoré si un niveau de journalisation (`--log-level`, `-l`) est spécifié dans la ligne de commande ou ou si la journalisation de débogage est activée.</target>
       </segment>
     </unit>
     <unit id="d7cd7445-af1b-4bc0-b413-651d84ad1396">
