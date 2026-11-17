@@ -30226,7 +30226,7 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       </notes>
       <segment state="final">
         <source>Note that this paragraph style cannot be used in Microsoft Word or Microsoft Outlook, unless you are using UIA to access Microsoft Word controls.</source>
-        <target>Notez que ce style de paragraphe ne peut pas être utilisé dans Microsoft Word ou Microsoft Outlook, sauf si vous utilisez l'UIA pour accéder aux contrôles de Microsoft Word.</target>
+        <target>Veuillez noter que ce style de paragraphe ne peut pas être utilisé dans Microsoft Word ou Microsoft Outlook, sauf si vous utilisez UIA pour accéder aux contrôles de Microsoft Word.</target>
       </segment>
     </unit>
     <unit id="54c20924-af77-4b55-9603-2faa2fbe9c75">
