@@ -7178,9 +7178,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 80</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated components:</source>
-        <target>Updated components:</target>
+        <target>Mise à jour de composants :</target>
       </segment>
     </unit>
     <unit id="ace937a7-5d91-482c-bd59-19c7b2374487">
@@ -7188,9 +7188,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 81</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>wxPython to 4.3.2, which is based on wxWidgets 3.3.4. (#20882, #20983, @LeonarddeR, @cary-rowen)</source>
-        <target>wxPython to 4.3.2, which is based on wxWidgets 3.3.4. (#20882, #20983, @LeonarddeR, @cary-rowen)</target>
+        <target>wxPython à la version 4.3.2, qui est basé sur wxWidgets 3.3.4. (#20882, #20983, @LeonarddeR, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="1e36151d-cb98-4279-b5fe-368e097483b9">
@@ -7198,9 +7198,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 82</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `appx` SCons build alias and packaging targets have been removed. (#18799, #20681, @makhlwf)</source>
-        <target>The `appx` SCons build alias and packaging targets have been removed. (#18799, #20681, @makhlwf)</target>
+        <target>L'alias de compilation SCons `appx`  et les cibles d'empaquetage ont été supprimés. (#18799, #20681, @makhlwf)</target>
       </segment>
     </unit>
     <unit id="19171b75-a940-4354-b514-80578f6e36bf">
@@ -7208,18 +7208,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 83</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Overlapped writes in `hwIo.base.IoBase` now wait for completion on a dedicated event rather than on the device handle.</source>
-        <target>Overlapped writes in `hwIo.base.IoBase` now wait for completion on a dedicated event rather than on the device handle.</target>
+        <target>Les écritures superposées dans `hwIo.base.IoBase` attendent désormais leur achèvement sur un événement dédié plutôt que sur le descripteur du périphérique.</target>
       </segment>
     </unit>
     <unit id="4a5edae4-2205-4eed-8c45-3875419a6e63">
       <notes>
         <note appliesTo="source">line: 84</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A read completing on the same handle no longer ends the wait while the write is still pending. (#20569, @LeonarddeR)</source>
-        <target>A read completing on the same handle no longer ends the wait while the write is still pending. (#20569, @LeonarddeR)</target>
+        <target>Une lecture terminée sur le même descripteur ne met plus fin à l'attente tant que l'écriture est en cours. (#20569, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="a150f62d-c2a0-4d07-92e7-028d91c3470f">
@@ -7227,9 +7227,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 85</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`IoBase.write` now raises `OSError` when a write fails, instead of returning silently.</source>
-        <target>`IoBase.write` now raises `OSError` when a write fails, instead of returning silently.</target>
+        <target>`IoBase.write` lève désormais une exception `OSError` en cas d'échec d'écriture, au lieu de se terminer silencieusement.</target>
       </segment>
     </unit>
     <unit id="f271a0af-ff33-406a-99e0-e4a54464baf3">
@@ -7237,9 +7237,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 86</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Closing a device now cancels a pending write, and repeated `close()` calls are safe.</source>
-        <target>Closing a device now cancels a pending write, and repeated `close()` calls are safe.</target>
+        <target>La fermeture d'un périphérique annule désormais une écriture en cours, et les appels répétés à `close()` sont sans risque.</target>
       </segment>
     </unit>
     <unit id="f9330b77-1370-4a09-811c-11e1c87deeb2">
@@ -7247,9 +7247,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 87</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A failure to start a background read is now reported through the driver's read error callback, instead of silently ending the read loop.</source>
-        <target>A failure to start a background read is now reported through the driver's read error callback, instead of silently ending the read loop.</target>
+        <target>L'échec du démarrage d'une lecture en arrière-plan est désormais signalé par la callback d'erreur de lecture du pilote, au lieu de mettre fin silencieusement à la boucle de lecture.</target>
       </segment>
     </unit>
     <unit id="f3bae5d8-c301-49b6-89c9-6a018a5356c0">
@@ -7257,9 +7257,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 88</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`keyboardHandler.KeyboardInputGesture.fromName` now treats the non modifier key as the main key, regardless of its position in the name. (#8201, @LeonarddeR)</source>
-        <target>`keyboardHandler.KeyboardInputGesture.fromName` now treats the non modifier key as the main key, regardless of its position in the name. (#8201, @LeonarddeR)</target>
+        <target>`keyboardHandler.KeyboardInputGesture.fromName` traite désormais la touche qui n'est pas un modificateur comme la touche principale, quelle que soit sa position dans le nom. (#8201, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="f8216b82-6d8c-475f-8cef-e506e7049bc2">
@@ -7267,9 +7267,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 89</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>For example, `alt+b+control` now creates the same gesture as `alt+control+b`.</source>
-        <target>For example, `alt+b+control` now creates the same gesture as `alt+control+b`.</target>
+        <target>Par exemple, `alt+b+control` crée désormais le même geste que `alt+control+b`.</target>
       </segment>
     </unit>
     <unit id="9f263389-601a-4f82-af8a-98ecc7e80420">
@@ -7277,9 +7277,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 90</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>When the name contains only modifiers, the last key remains the main key.</source>
-        <target>When the name contains only modifiers, the last key remains the main key.</target>
+        <target>Lorsque le nom ne contient que des modificateurs, la dernière touche reste la touche principale.</target>
       </segment>
     </unit>
     <unit id="135dd7d6-3fbf-43ef-9ee0-35d486f6269c">
@@ -7287,9 +7287,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 91</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>A `ValueError` is now raised for names with multiple non modifier keys, unknown key names, or an empty name.</source>
-        <target>A `ValueError` is now raised for names with multiple non modifier keys, unknown key names, or an empty name.</target>
+        <target>Une exception `ValueError` est désormais levée pour les noms comportant plusieurs touches qui ne sont pas des modificateurs, des noms de touches inconnus ou un nom vide.</target>
       </segment>
     </unit>
     <unit id="83a9a9af-f2f4-4743-925c-996b9e9425f4">
@@ -7297,18 +7297,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 92</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The `speech.extensions.pre_speech` extension point now receives an `originalSpeechSequence` keyword argument containing the sequence passed to `speech.speak` before filtering.</source>
-        <target>The `speech.extensions.pre_speech` extension point now receives an `originalSpeechSequence` keyword argument containing the sequence passed to `speech.speak` before filtering.</target>
+        <target>Le point d'extension `speech.extensions.pre_speech` reçoit désormais un argument nommé `originalSpeechSequence` contenant la séquence transmise à `speech.speak` avant le filtrage.</target>
       </segment>
     </unit>
     <unit id="8f7cb752-195b-475e-824c-ae47900a6ccd">
       <notes>
         <note appliesTo="source">line: 93</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Existing handlers which only accept `speechSequence` remain compatible. (#20766, @cary-rowen)</source>
-        <target>Existing handlers which only accept `speechSequence` remain compatible. (#20766, @cary-rowen)</target>
+        <target>Les gestionnaires existants qui n'acceptent que `speechSequence` restent compatibles. (#20766, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="4a8619cf-95e9-4698-ba54-98f6a57685b1">
@@ -7316,9 +7316,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 94</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`speech.speech.getSpellingSpeech` and `speech.shortcutKeys.shouldUseSpellingFunctionality` now only use spelling functionality if the active synthesizer declares support for `CharacterModeCommand` in its `supportedCommands`. (#20831)</source>
-        <target>`speech.speech.getSpellingSpeech` and `speech.shortcutKeys.shouldUseSpellingFunctionality` now only use spelling functionality if the active synthesizer declares support for `CharacterModeCommand` in its `supportedCommands`. (#20831)</target>
+        <target>`speech.speech.getSpellingSpeech` et `speech.shortcutKeys.shouldUseSpellingFunctionality` n'utilisent désormais la fonctionnalité d'épellation que si le synthétiseur actif déclare la prise en charge de `CharacterModeCommand` dans ses `supportedCommands`. (#20831)</target>
       </segment>
     </unit>
     <unit id="0f4cb3e6-db0c-40e0-9688-f8db29d5ac14">
@@ -7326,9 +7326,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 95</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`comInterfaces.tom` is now generated from the Text Object Model type library in `msftedit.dll`. (#20987, @LeonarddeR)</source>
-        <target>`comInterfaces.tom` is now generated from the Text Object Model type library in `msftedit.dll`. (#20987, @LeonarddeR)</target>
+        <target>`comInterfaces.tom` est désormais généré à partir de la bibliothèque de types Text Object Model dans `msftedit.dll`. (#20987, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="3fd6838b-053c-4f70-a87e-4a549590c692">
@@ -7562,7 +7562,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       </notes>
       <segment state="final">
         <source>Security fixes</source>
-        <target>correctifs de sécurité</target>
+        <target>Correctifs de sécurité</target>
       </segment>
     </unit>
     <unit id="5afd417b-7c3a-4192-b5d7-ab0365dc0add">
