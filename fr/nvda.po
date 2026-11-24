@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-16 07:04+0000\n"
-"PO-Revision-Date: 2026-11-23 22:19\n"
+"POT-Creation-Date: 2026-11-24 06:12+0000\n"
+"PO-Revision-Date: 2026-11-24 06:36\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -20693,78 +20693,78 @@ msgid "Magnifier enabled"
 msgstr "Loupe activée"
 
 #. Translators: Message announced when changing the color filter with {filter} being the new color filter.
-#: _magnifier\commands.py:194
+#: _magnifier\commands.py:191
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Color filter {filter}"
 msgstr "Filtre de couleur {filter}"
 
 #. Translators: Message announced when changing the magnifier view with {view} being the new magnifier view.
-#: _magnifier\commands.py:218
+#: _magnifier\commands.py:215
 #, python-brace-format
 msgctxt "magnifier"
 msgid "{view} view"
 msgstr "vue {view}"
 
 #. Translators: Message announced when toggling a follow setting with {setting} being the name of the setting and {state} being either "enabled" or "disabled".
-#: _magnifier\commands.py:241
+#: _magnifier\commands.py:238
 #, python-brace-format
 msgctxt "magnifier"
 msgid "{setting} {state}"
 msgstr "{setting} {state}"
 
 #. Translators: State of the follow setting being toggled enabled.
-#: _magnifier\commands.py:247
+#: _magnifier\commands.py:244
 msgctxt "magnifier"
 msgid "enabled"
 msgstr "activé"
 
 #. Translators: State of the follow setting being toggled disabled.
-#: _magnifier\commands.py:253
+#: _magnifier\commands.py:250
 msgctxt "magnifier"
 msgid "disabled"
 msgstr "désactivé"
 
 #. Translators: State of all follow settings being toggled disabled.
-#: _magnifier\commands.py:271
+#: _magnifier\commands.py:268
 msgctxt "magnifier"
 msgid "All tracking settings disabled"
 msgstr "Tous les paramètres de suivi désactivés"
 
 #. Translators: State of all follow settings being restored.
-#: _magnifier\commands.py:277
+#: _magnifier\commands.py:274
 msgctxt "magnifier"
 msgid "Tracking settings restored"
 msgstr "Paramètres de suivi restaurés"
 
 #. Translators: Message announced when changing the tracking mode with {mode} being the new tracking mode.
-#: _magnifier\commands.py:305
+#: _magnifier\commands.py:302
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Tracking mode {mode}"
 msgstr "Mode de suivi {mode}"
 
 #. Translators: Message announced when trying to show temporary overview of the screen while it's already active.
-#: _magnifier\commands.py:331
+#: _magnifier\commands.py:328
 msgctxt "magnifier"
 msgid "The screen overview is already active"
 msgstr "L'aperçu de l'écran est déjà actif"
 
 #. Translators: Message announced when overview of the entire screen is being showed.
-#: _magnifier\commands.py:342
+#: _magnifier\commands.py:339
 msgctxt "magnifier"
 msgid "Showing entire screen"
 msgstr "Affichage de tout l'écran"
 
 #. Translators: Message announced when the magnifier is not active.
-#: _magnifier\commands.py:366
+#: _magnifier\commands.py:363
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Cannot {action} when Magnifier is not active."
 msgstr "Impossible de {action} lorsque la loupe n'est pas active."
 
 #. Translators: Message announced when the magnifier is not full-screen.
-#: _magnifier\commands.py:391
+#: _magnifier\commands.py:388
 #, python-brace-format
 msgctxt "magnifier"
 msgid "Cannot {action} when Magnifier is not full-screen."
@@ -20784,7 +20784,7 @@ msgid "Cannot start magnifier. Another magnifier application may already be runn
 msgstr "Impossible de démarrer la loupe. Une autre application d'agrandissement est peut-être déjà en cours d'exécution."
 
 #. Translators: Message announced when the magnifier stops due to an unrecoverable error.
-#: _magnifier\fullscreenMagnifier.py:245
+#: _magnifier\fullscreenMagnifier.py:249
 msgctxt "magnifier"
 msgid "Magnifier stopped due to an error. Please restart it."
 msgstr "La loupe s'est arrêtée en raison d'une erreur. Veuillez la redémarrer."
