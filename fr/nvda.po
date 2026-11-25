@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-24 06:12+0000\n"
-"PO-Revision-Date: 2026-11-24 06:36\n"
+"POT-Creation-Date: 2026-11-24 06:52+0000\n"
+"PO-Revision-Date: 2026-11-25 02:51\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1683,17 +1683,17 @@ msgid "gesture map File Error"
 msgstr "Erreur dans le fichier de définition de gestes"
 
 #. Translators: This is spoken when NVDA is starting.
-#: core.py:813
+#: core.py:808
 msgid "Loading NVDA. Please wait..."
 msgstr "Chargement de NVDA. Veuillez patienter..."
 
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts with the screen curtain enabled.
-#: core.py:964
+#: core.py:959
 msgid "NVDA started with screen curtain enabled"
 msgstr "NVDA a démarré avec le rideau d'écran activé"
 
 #. Translators: This is shown on a braille display (if one is connected) when NVDA starts.
-#: core.py:967
+#: core.py:962
 msgid "NVDA started"
 msgstr "NVDA démarré"
 
