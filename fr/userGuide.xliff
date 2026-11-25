@@ -6836,9 +6836,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
         <note appliesTo="source">line: 32</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Translated into 57 languages</source>
-        <target>Translated into 57 languages</target>
+        <target>Une traduction dans 57 langues</target>
       </segment>
     </unit>
     <unit id="137a5d15-17a5-49db-b795-9a88989dad16">
@@ -7077,9 +7077,9 @@ $(ID:061d7d61-cfab-44b3-a92c-4e65cf63213b)
       <notes>
         <note appliesTo="source">line: 63</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Besides English, NVDA has been translated into 57 languages including: Afrikaans, Albanian, Amharic, Arabic, Aragonese, Bosnian, Bulgarian, Burmese, Cambodian, Catalan, Chinese (simplified and traditional), Croatian, Czech, Danish, Dutch, Farsi, Finnish, French, Galician, Georgian, German (Germany and Switzerland), Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Japanese, Kannada, Korean, Kyrgyz, Lithuanian, Macedonian, Mongolian, Nepali, Norwegian, Polish, Portuguese (Brazil and Portugal), Punjabi, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish (Colombia and Spain), Swedish, Tamil, Thai, Turkish, Turkmen, Ukrainian and Vietnamese.</source>
-        <target>Besides English, NVDA has been translated into 57 languages including: Afrikaans, Albanian, Amharic, Arabic, Aragonese, Bosnian, Bulgarian, Burmese, Cambodian, Catalan, Chinese (simplified and traditional), Croatian, Czech, Danish, Dutch, Farsi, Finnish, French, Galician, Georgian, German (Germany and Switzerland), Greek, Hebrew, Hindi, Hungarian, Icelandic, Irish, Italian, Japanese, Kannada, Korean, Kyrgyz, Lithuanian, Macedonian, Mongolian, Nepali, Norwegian, Polish, Portuguese (Brazil and Portugal), Punjabi, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish (Colombia and Spain), Swedish, Tamil, Thai, Turkish, Turkmen, Ukrainian and Vietnamese.</target>
+        <target>En plus de l'anglais, NVDA a été traduit en 56 langues, y compris : afrikaans, albanais, amharique, arabe, aragonais, bosniaque, bulgare, birman, catalan, cambodgien, chinois (simplifié et traditionnel), croate, tchèque, danois, néerlandais, farsi, finnois, français, galicien, géorgien, allemand (Allemagne et Suisse), grec, hébreu, hindi, hongrois, islandais, irlandais, italien, japonais, kannada, coréen, kirghiz, lituanien, macédonien, mongol, népalais, norvégien, polonais, portugais (Brésil et Portugal), pendjabi, roumain, russe, serbe, slovaque, slovène, espagnol (Colombie et Espagne), suédois, tamoul, thaï, turc, turkmène, ukrainien et vietnamien.</target>
       </segment>
     </unit>
     <unit id="6dbfeab6-d167-4f5e-9706-f501d729511e">
