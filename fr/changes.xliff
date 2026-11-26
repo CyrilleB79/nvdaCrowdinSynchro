@@ -6678,7 +6678,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 4</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2027.1</source>
         <target>2027.1</target>
       </segment>
@@ -7184,18 +7184,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 75</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes for Developers</source>
-        <target>Changes for Developers</target>
+        <target>Changements pour les développeurs</target>
       </segment>
     </unit>
     <unit id="f2db716e-336b-4bcd-a79d-21826ab7d1ec">
       <notes>
         <note appliesTo="source">line: 77</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</source>
-        <target>Please refer to [the developer guide](https://download.nvaccess.org/documentation/developerGuide.html#API) for information on NVDA's API deprecation and removal process.</target>
+        <target>Veuillez vous référer au [guide du développeur].(https://download.nvaccess.org/documentation/developerGuide.html#API) pour obtenir des informations sur le processus de dépréciation et de suppression de l'API de NVDA.</target>
       </segment>
     </unit>
     <unit id="f6d7ed75-e0cf-4f2c-883a-1e40fda41ed6">
@@ -7203,18 +7203,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 79</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Note: this is an Add-on API compatibility breaking release.</source>
-        <target>Note: this is an Add-on API compatibility breaking release.</target>
+        <target>Remarque : cette version entraîne une rupture de compatibilité avec l'API des extensions.</target>
       </segment>
     </unit>
     <unit id="62ae67bd-6cef-4e0b-8d42-0d397c491753">
       <notes>
         <note appliesTo="source">line: 80</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Add-ons will need to be re-tested and have their manifest updated.</source>
-        <target>Add-ons will need to be re-tested and have their manifest updated.</target>
+        <target>Les extensions devront être testés à nouveau et leur fichier manifeste devra être mis à jour.</target>
       </segment>
     </unit>
     <unit id="e645432e-d2d2-4298-99d1-77dc47e5b86c">
@@ -7380,18 +7380,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 97</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Added the `config.pre_configProfileSwitch` extension point, called before switching configuration profiles while the current configuration is still readable and writable.</source>
-        <target>Added the `config.pre_configProfileSwitch` extension point, called before switching configuration profiles while the current configuration is still readable and writable.</target>
+        <target>Ajout du point d'extension `config.pre_configProfileSwitch`, appelé avant de changer de profil de configuration alors que la configuration actuelle est encore lisible et modifiable.</target>
       </segment>
     </unit>
     <unit id="d1be069a-0fb0-4589-9836-3e19af897e07">
       <notes>
         <note appliesTo="source">line: 98</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>It is not called for speech-only profile switches. (#21162, @cary-rowen)</source>
-        <target>It is not called for speech-only profile switches. (#21162, @cary-rowen)</target>
+        <target>Il n'est pas appelé pour les changements de profils de parole. (#21162, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="3fd6838b-053c-4f70-a87e-4a549590c692">
@@ -7399,27 +7399,27 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 100</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>API Breaking Changes</source>
-        <target>API Breaking Changes</target>
+        <target>Changements avec rupture de l'APIAPI Breaking Changes</target>
       </segment>
     </unit>
     <unit id="b6f0cdb2-be7f-4227-b71e-77d0aec9871c">
       <notes>
         <note appliesTo="source">line: 102</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>These are breaking API changes.</source>
-        <target>These are breaking API changes.</target>
+        <target>Il s'agit de changements entraînant une rupture de compatibilité avec l'API.</target>
       </segment>
     </unit>
     <unit id="1efd867c-df35-4a5a-8714-a224aac82b7b">
       <notes>
         <note appliesTo="source">line: 103</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please open a GitHub issue if your add-on has an issue with updating to the new API.</source>
-        <target>Please open a GitHub issue if your add-on has an issue with updating to the new API.</target>
+        <target>Veuillez ouvrir un ticket (issue) sur GitHub si votre extension rencontre des problèmes lors de la mise à jour vers la nouvelle API.</target>
       </segment>
     </unit>
     <unit id="41623bb5-5a86-4a92-9a8f-6cd5ac50104c">
@@ -7427,18 +7427,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 105</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>APIs that wxWidgets deprecated in version 3.0 are no longer available.</source>
-        <target>APIs that wxWidgets deprecated in version 3.0 are no longer available.</target>
+        <target>Les API que wxWidgets a rendues obsolètes dans la version 3.0 ne sont plus disponibles.</target>
       </segment>
     </unit>
     <unit id="f61b1a58-490c-43e2-ad93-89bb36c58acd">
       <notes>
         <note appliesTo="source">line: 106</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Refer to the [wxPython changelog](https://github.com/wxWidgets/Phoenix/blob/wxPython-4.3.1/CHANGES.rst) for details. (#20700, @LeonarddeR)</source>
-        <target>Refer to the [wxPython changelog](https://github.com/wxWidgets/Phoenix/blob/wxPython-4.3.1/CHANGES.rst) for details. (#20700, @LeonarddeR)</target>
+        <target>Consultez le  [journal des modifications de wxPython](https://github.com/wxWidgets/Phoenix/blob/wxPython-4.3.1/CHANGES.rst) pour plus de détails. (#20700, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="6be944db-1653-4903-ad35-d41d72b1fc21">
@@ -7446,9 +7446,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 107</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.nvdaControls.CustomCheckListBox.notifyIAccessible` has been removed with no public replacement. (#20700, @LeonarddeR)</source>
-        <target>`gui.nvdaControls.CustomCheckListBox.notifyIAccessible` has been removed with no public replacement. (#20700, @LeonarddeR)</target>
+        <target>`gui.nvdaControls.CustomCheckListBox.notifyIAccessible` a été supprimé sans remplacement public. (#20700, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="6e948ebf-218a-427e-94cf-c4650d425e1b">
@@ -7456,9 +7456,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 108</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols have been removed from `winKernel` with no replacement: `PROCESS_ALL_ACCESS`, `PROCESS_VM_OPERATION`, `PROCESS_VM_READ` and `PROCESS_VM_WRITE`. (#20836)</source>
-        <target>The following symbols have been removed from `winKernel` with no replacement: `PROCESS_ALL_ACCESS`, `PROCESS_VM_OPERATION`, `PROCESS_VM_READ` and `PROCESS_VM_WRITE`. (#20836)</target>
+        <target>Les symboles suivants ont été supprimés de `winKernel` sans remplacement : `PROCESS_ALL_ACCESS`, `PROCESS_VM_OPERATION`, `PROCESS_VM_READ` et `PROCESS_VM_WRITE`. (#20836)</target>
       </segment>
     </unit>
     <unit id="2fac481d-6afe-405c-b922-042b75e29566">
@@ -7466,9 +7466,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 109</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`config.isAppX` has been removed with no replacement, as support for running NVDA as a Windows Store application has been removed. (#18799, #20681, @makhlwf)</source>
-        <target>`config.isAppX` has been removed with no replacement, as support for running NVDA as a Windows Store application has been removed. (#18799, #20681, @makhlwf)</target>
+        <target>`config.isAppX` a été supprimé sans remplacement, car la prise en charge de l'exécution de NVDA en tant qu'application du Windows Store a été supprimée. (#18799, #20681, @makhlwf)</target>
       </segment>
     </unit>
     <unit id="1fa6f559-be48-44bf-8e6c-f83b122ec33e">
@@ -7476,9 +7476,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 110</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`gui.blockAction.Context.WINDOWS_STORE_VERSION` has been removed with no replacement. (#18799, #20681, @makhlwf)</source>
-        <target>`gui.blockAction.Context.WINDOWS_STORE_VERSION` has been removed with no replacement. (#18799, #20681, @makhlwf)</target>
+        <target>`gui.blockAction.Context.WINDOWS_STORE_VERSION` a été supprimé sans remplacement. (#18799, #20681, @makhlwf)</target>
       </segment>
     </unit>
     <unit id="d7ecfe65-4bea-4b69-adb9-62fd32d5f02e">
@@ -7486,9 +7486,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 111</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Some symbols in `comInterfaces.tom` have changed, as it is now generated from the type library in `msftedit.dll`: (#20987, @LeonarddeR)</source>
-        <target>Some symbols in `comInterfaces.tom` have changed, as it is now generated from the type library in `msftedit.dll`: (#20987, @LeonarddeR)</target>
+        <target>Certains symboles dans `comInterfaces.tom` ont changé, car le module est désormais généré à partir de la bibliothèque de types dans `msftedit.dll` : (#20987, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="765dccb6-8b56-45d2-ade3-87df49e31c9f">
@@ -7496,18 +7496,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 112</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`ITextDocument2` is now the Text Object Model 2 interface.</source>
-        <target>`ITextDocument2` is now the Text Object Model 2 interface.</target>
+        <target>`ITextDocument2` correspond désormais à l'interface Text Object Model 2.</target>
       </segment>
     </unit>
     <unit id="f4cf1061-cf00-4c33-8630-5071f45523be">
       <notes>
         <note appliesTo="source">line: 113</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>  The interface previously available under this name has been removed with no replacement.</source>
-        <target>  The interface previously available under this name has been removed with no replacement.</target>
+        <target>  L'interface précédemment disponible sous ce nom a été supprimée sans remplacement.</target>
       </segment>
     </unit>
     <unit id="72f4daac-a09d-4b84-92c5-689c5bacc816">
@@ -7515,9 +7515,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 114</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`ITextMsgFilter`, `tomAlignGlyphs`, `tomAlignSnapGrid` and `tomMatchFontCharset` have been removed with no replacement.</source>
-        <target>`ITextMsgFilter`, `tomAlignGlyphs`, `tomAlignSnapGrid` and `tomMatchFontCharset` have been removed with no replacement.</target>
+        <target>`ITextMsgFilter`, `tomAlignGlyphs`, `tomAlignSnapGrid` et `tomMatchFontCharset` ont été supprimés sans remplacement.</target>
       </segment>
     </unit>
     <unit id="8ffbcf55-f6a3-4408-9645-1c8b3a92b2f8">
@@ -7525,9 +7525,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 115</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Removed app module and support code for Skype (discontinued by Microsoft in May 2025). (#19781, @josephsl)</source>
-        <target>Removed app module and support code for Skype (discontinued by Microsoft in May 2025). (#19781, @josephsl)</target>
+        <target>• Suppression du module d'application et du code de prise en charge pour Skype (abandonné par Microsoft en mai 2025). (#19781, @josephsl)</target>
       </segment>
     </unit>
     <unit id="3d905304-6bdc-447d-8fb6-6473bbe32c48">
@@ -7535,9 +7535,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 116</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Removed `source/markdownTranslate.py`, `source/md2html.py`. (#20796, @nvdaes)</source>
-        <target>Removed `source/markdownTranslate.py`, `source/md2html.py`. (#20796, @nvdaes)</target>
+        <target>Suppression de `source/markdownTranslate.py` et `source/md2html.py`. (#20796, @nvdaes)</target>
       </segment>
     </unit>
     <unit id="a49db7c9-fab4-48de-bbde-99dd81cbe822">
@@ -7545,36 +7545,36 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 117</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`driverHandler.Driver.terminate()` no longer saves settings.</source>
-        <target>`driverHandler.Driver.terminate()` no longer saves settings.</target>
+        <target>`driverHandler.Driver.terminate()` n'enregistre plus les paramètres.</target>
       </segment>
     </unit>
     <unit id="fac95682-31fa-44bf-8e10-e2a292552585">
       <notes>
         <note appliesTo="source">line: 118</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>NVDA saves settings for drivers it manages before replacement or profile switching.</source>
-        <target>NVDA saves settings for drivers it manages before replacement or profile switching.</target>
+        <target>NVDA enregistre les paramètres des pilotes qu'il gère avant leur remplacement ou un changement de profil.</target>
       </segment>
     </unit>
     <unit id="791a24ad-d190-4b42-a789-359e098d66cb">
       <notes>
         <note appliesTo="source">line: 119</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Code managing its own drivers must call `saveSettings()` before replacement or from a `config.pre_configProfileSwitch` handler to keep changes.</source>
-        <target>Code managing its own drivers must call `saveSettings()` before replacement or from a `config.pre_configProfileSwitch` handler to keep changes.</target>
+        <target>Le code qui gère ses propres pilotes doit appeler  `saveSettings()` avant leur remplacement ou depuis un handler `config.pre_configProfileSwitch` pour conserver les modifications.</target>
       </segment>
     </unit>
     <unit id="b78986c7-ec17-47fd-9429-e3eff08443fa">
       <notes>
         <note appliesTo="source">line: 120</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Overrides of `terminate()` must not save settings and must call `super().terminate()` for cleanup. (#21162, @cary-rowen)</source>
-        <target>Overrides of `terminate()` must not save settings and must call `super().terminate()` for cleanup. (#21162, @cary-rowen)</target>
+        <target>Les surcharges de `terminate()` ne doivent pas enregistrer les paramètres et doivent appeler `super().terminate()` pour le nettoyage. (#21162, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="36c55c81-5a5f-4cfc-bb1c-0927e79ac756">
@@ -7582,18 +7582,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 121</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`autoSettingsUtils.autoSettings.AutoSettings.saveSettings()` now saves to the profile stack used by the most recent `initSettings()` or `loadSettings()` call.</source>
-        <target>`autoSettingsUtils.autoSettings.AutoSettings.saveSettings()` now saves to the profile stack used by the most recent `initSettings()` or `loadSettings()` call.</target>
+        <target>`autoSettingsUtils.autoSettings.AutoSettings.saveSettings()` enregistre désormais les paramètres dans la pile de profils utilisée lors de l'appel le plus récent à `initSettings()` ou `loadSettings()`.</target>
       </segment>
     </unit>
     <unit id="b49a7f83-5cda-4c60-ae4d-6c63574b650d">
       <notes>
         <note appliesTo="source">line: 122</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Overrides of these methods must call the superclass method or preserve its profile tracking. (#21162, @cary-rowen)</source>
-        <target>Overrides of these methods must call the superclass method or preserve its profile tracking. (#21162, @cary-rowen)</target>
+        <target>Les surcharges de ces méthodes doivent appeler la méthode de la superclasse ou préserver son suivi des profils. (#21162, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="3c66e4c9-a9d5-4b73-97f3-051ec8d512df">
@@ -7601,27 +7601,27 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 123</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`vision.providerBase.VisionEnhancementProviderSettings` no longer registers a `config.pre_configSave` callback.</source>
-        <target>`vision.providerBase.VisionEnhancementProviderSettings` no longer registers a `config.pre_configSave` callback.</target>
+        <target>`vision.providerBase.VisionEnhancementProviderSettings` n'enregistre plus de fonction de rappel (callback) `config.pre_configSave`.</target>
       </segment>
     </unit>
     <unit id="e87712bf-69ed-498b-a801-5574ab6797bf">
       <notes>
         <note appliesTo="source">line: 124</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`vision.visionHandler.VisionHandler` saves settings for active providers only.</source>
-        <target>`vision.visionHandler.VisionHandler` saves settings for active providers only.</target>
+        <target>`vision.visionHandler.VisionHandler` enregistre les paramètres seulement pour les providers actifs.</target>
       </segment>
     </unit>
     <unit id="5ef64f4d-a0dc-41f6-a559-be9b2d2d7873">
       <notes>
         <note appliesTo="source">line: 125</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Code editing inactive providers' settings must call `saveSettings()` explicitly. (#21162, @cary-rowen)</source>
-        <target>Code editing inactive providers' settings must call `saveSettings()` explicitly. (#21162, @cary-rowen)</target>
+        <target>Le code qui modifie les paramètres de providers inactifs doit appeler `saveSettings()` explicitement. (#21162, @cary-rowen)</target>
       </segment>
     </unit>
     <unit id="b24353c9-b1be-4aba-8595-8be1ecab7ea9">
@@ -7629,9 +7629,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 127</note>
         <note appliesTo="source">prefix: #### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Deprecations</source>
-        <target>Deprecations</target>
+        <target>Dépréciations</target>
       </segment>
     </unit>
     <unit id="415a4dfd-7735-491e-b8a9-1431301d79c7">
@@ -7639,9 +7639,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 129</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The following symbols from `winKernel` are deprecated: (#20784, #20836)</source>
-        <target>The following symbols from `winKernel` are deprecated: (#20784, #20836)</target>
+        <target>Les symboles suivants de `winKernel` sont obsolètes : (#20784, #20836)</target>
       </segment>
     </unit>
     <unit id="b2f45062-ab88-43ae-b704-58fccd3c76f8">
@@ -7649,9 +7649,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 130</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`DUPLICATE_SAME_ACCESS`: use `winBindings.kernel32.DUPLICATE.SAME_ACCESS` instead.</source>
-        <target>`DUPLICATE_SAME_ACCESS`: use `winBindings.kernel32.DUPLICATE.SAME_ACCESS` instead.</target>
+        <target>`DUPLICATE_SAME_ACCESS` : utilisez `winBindings.kernel32.DUPLICATE.SAME_ACCESS` à la place.</target>
       </segment>
     </unit>
     <unit id="f9e30216-f7ec-4b59-a7fb-af9bdf8a173f">
@@ -7659,9 +7659,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 131</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`GENERIC_READ` and `GENERIC_WRITE`: use `winBindings.kernel32.GENERIC.READ` and `winBindings.kernel32.GENERIC.WRITE` instead.</source>
-        <target>`GENERIC_READ` and `GENERIC_WRITE`: use `winBindings.kernel32.GENERIC.READ` and `winBindings.kernel32.GENERIC.WRITE` instead.</target>
+        <target>`GENERIC_READ` et `GENERIC_WRITE` : utilisez `winBindings.kernel32.GENERIC.READ` et `winBindings.kernel32.GENERIC.WRITE` à la place.</target>
       </segment>
     </unit>
     <unit id="30e12dff-fc81-4d93-9745-f4ca0ac0c47e">
@@ -7669,9 +7669,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 132</note>
         <note appliesTo="source">prefix:   * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`PROCESS_QUERY_INFORMATION` and `PROCESS_TERMINATE`: use `winBindings.kernel32.PROCESS.QUERY_INFORMATION` and `winBindings.kernel32.PROCESS.TERMINATE` instead.</source>
-        <target>`PROCESS_QUERY_INFORMATION` and `PROCESS_TERMINATE`: use `winBindings.kernel32.PROCESS.QUERY_INFORMATION` and `winBindings.kernel32.PROCESS.TERMINATE` instead.</target>
+        <target>`PROCESS_QUERY_INFORMATION` et `PROCESS_TERMINATE` : utilisez `winBindings.kernel32.PROCESS.QUERY_INFORMATION` et `winBindings.kernel32.PROCESS.TERMINATE` à la place.</target>
       </segment>
     </unit>
     <unit id="9bc515a5-745f-4551-ac12-42084431d47a">
@@ -7679,9 +7679,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 133</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>`getCommentInfoFromPosition` and `getPresentableCommentInfoFromPosition` in `NVDAObjects.UIA.wordDocument` are deprecated with no public replacement. (#14985, @LeonarddeR)</source>
-        <target>`getCommentInfoFromPosition` and `getPresentableCommentInfoFromPosition` in `NVDAObjects.UIA.wordDocument` are deprecated with no public replacement. (#14985, @LeonarddeR)</target>
+        <target>`getCommentInfoFromPosition` et `getPresentableCommentInfoFromPosition` dans `NVDAObjects.UIA.wordDocument` sont obsolètes et n'ont pas de remplacement public. (#14985, @LeonarddeR)</target>
       </segment>
     </unit>
     <unit id="a9c4a7e6-f2ca-4134-85f1-5f18c7fa850c">
@@ -7689,7 +7689,7 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 138</note>
         <note appliesTo="source">prefix: ## </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>2026.3.2</source>
         <target>2026.3.2</target>
       </segment>
@@ -7698,9 +7698,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
       <notes>
         <note appliesTo="source">line: 140</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This is a patch release to fix a security issue and an issue using NVDA on some systems.</source>
-        <target>This is a patch release to fix a security issue and an issue using NVDA on some systems.</target>
+        <target>Il s'agit d'une version corrective visant à résoudre un problème de sécurité et un problème pour l'utilisation de NVDA sur certains systèmes.</target>
       </segment>
     </unit>
     <unit id="0f2f3228-d656-4d47-a995-2a87e3e0e98c">
@@ -7708,18 +7708,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 142</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Security fixes</source>
-        <target>Security fixes</target>
+        <target>correctifs de sécurité</target>
       </segment>
     </unit>
     <unit id="aca48913-d484-4d7b-b294-a8bbc7e6000c">
       <notes>
         <note appliesTo="source">line: 144</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</source>
-        <target>Please responsibly disclose security issues following NVDA's [security policy](https://github.com/nvaccess/nvda/blob/master/security.md).</target>
+        <target>Merci de divulguer les problèmes de sécurité de manière responsable, conformément à la [politique de sécurité](https://github.com/nvaccess/nvda/blob/master/security.md) de NVDA.</target>
       </segment>
     </unit>
     <unit id="0961f666-889a-43b5-bd92-de7b26065852">
@@ -7727,9 +7727,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 146</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The screen is no longer briefly revealed when enabling the Screen Curtain just after changing the Magnifier's colour filter. (#21109, @JulienCochuyt)</source>
-        <target>The screen is no longer briefly revealed when enabling the Screen Curtain just after changing the Magnifier's colour filter. (#21109, @JulienCochuyt)</target>
+        <target>L'écran n'est plus brièvement révélé lors de l'activation du rideau d'écran juste après avoir modifié le filtre de couleur de la loupe. (#21109, @JulienCochuyt)</target>
       </segment>
     </unit>
     <unit id="2a21deeb-2b5c-4619-95fd-f931e46ee7fa">
@@ -7737,9 +7737,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 147</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>The screen is no longer briefly revealed when reverting or resetting the configuration if the Screen Curtain is enabled in both the old and new configurations. (#21163)</source>
-        <target>The screen is no longer briefly revealed when reverting or resetting the configuration if the Screen Curtain is enabled in both the old and new configurations. (#21163)</target>
+        <target>L'écran n'est plus brièvement révélé lors du rétablissement ou de la réinitialisation de la configuration si le rideau d'écran est activé dans les anciennes et nouvelles configurations. (#21163)</target>
       </segment>
     </unit>
     <unit id="62da0b6d-19a8-4796-9830-318944287879">
@@ -7747,9 +7747,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 149</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Bug Fixes</source>
-        <target>Bug Fixes</target>
+        <target>Corrections de bogues</target>
       </segment>
     </unit>
     <unit id="6369925a-58fe-4940-b17c-f39597f85597">
@@ -7757,9 +7757,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 151</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Ensure NVDA can still be used with Windows Smart App Control enabled. (#21124)</source>
-        <target>Ensure NVDA can still be used with Windows Smart App Control enabled. (#21124)</target>
+        <target>• Il est désormais garanti que NVDA puisse toujours être utilisé lorsque le Contrôle intelligent des applications (Smart App Control) de Windows est activé. (#21124)</target>
       </segment>
     </unit>
     <unit id="923d7e3c-0184-47b8-990e-03f8e864b20c">
@@ -7767,9 +7767,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 153</note>
         <note appliesTo="source">prefix: ### </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Changes for developers</source>
-        <target>Changes for developers</target>
+        <target>Changements pour les développeurs</target>
       </segment>
     </unit>
     <unit id="fd9b4f46-126c-4d37-9cfc-2bb4c53d9c07">
@@ -7777,18 +7777,18 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 155</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated eSpeak NG to [commit `c6c19ba85`](https://github.com/nvaccess/espeak-ng/commit/c6c19ba855410c788a0afbd9b517b9ae66f19986).</source>
-        <target>Updated eSpeak NG to [commit `c6c19ba85`](https://github.com/nvaccess/espeak-ng/commit/c6c19ba855410c788a0afbd9b517b9ae66f19986).</target>
+        <target>Mise à jour de eSpeak NG à la version [commit `c6c19ba85`](https://github.com/nvaccess/espeak-ng/commit/c6c19ba855410c788a0afbd9b517b9ae66f19986).</target>
       </segment>
     </unit>
     <unit id="17b31ded-465d-4704-b775-c6a35423a16d">
       <notes>
         <note appliesTo="source">line: 156</note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>This fixes an issue with compiling on MSVC 14.52. (#21174)</source>
-        <target>This fixes an issue with compiling on MSVC 14.52. (#21174)</target>
+        <target>Cela corrige un problème de compilation sur MSVC 14.52. (#21174)</target>
       </segment>
     </unit>
     <unit id="1f104db9-2e17-4ce5-8964-987ccf3d1ea6">
@@ -7796,9 +7796,9 @@ $(ID:efa13148-65e5-4484-85b1-9e57c61df3e3)
         <note appliesTo="source">line: 157</note>
         <note appliesTo="source">prefix: * </note>
       </notes>
-      <segment state="initial">
+      <segment state="final">
         <source>Updated setuptools to 84.2.1. (#21195)</source>
-        <target>Updated setuptools to 84.2.1. (#21195)</target>
+        <target>Mise à jour de setuptools à la version 84.2.1. (#21195)</target>
       </segment>
     </unit>
     <unit id="76c44e5e-76cd-4018-996a-3650c526cb30">
