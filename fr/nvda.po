@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nvda\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 01:53+0000\n"
-"PO-Revision-Date: 2026-11-27 04:40\n"
+"POT-Creation-Date: 2026-11-27 09:07+0000\n"
+"PO-Revision-Date: 2026-11-27 14:31\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -4566,47 +4566,47 @@ msgstr "Divers"
 #. if the default key causes problems for the normal locale keyboard layout.
 #. The key must be formatted as described in this article:
 #. http://msdn.microsoft.com/en-us/library/3zb1shc6%28v=vs.84%29.aspx
-#: installer.py:501
+#: installer.py:500
 msgid "CTRL+ALT+N"
 msgstr "CTRL+ALT+N"
 
 #. Translators: A label for a shortcut in start menu and a menu entry in NVDA menu (to go to NVDA website).
-#: installer.py:524
+#: installer.py:523
 msgid "NVDA web site"
 msgstr "Site Web de NVDA"
 
 #. Translators: A label for a shortcut item in start menu to uninstall NVDA from the computer.
-#: installer.py:533
+#: installer.py:532
 msgid "Uninstall NVDA"
 msgstr "Désinstaller NVDA"
 
 #. Translators: A label for a shortcut item in start menu to open current user's NVDA configuration directory.
-#: installer.py:543
+#: installer.py:542
 msgid "Explore NVDA user configuration directory"
 msgstr "Explorer le répertoire de configuration utilisateur de NVDA"
 
 #. Translators: The label of the NVDA Documentation menu in the Start Menu.
-#: installer.py:554
+#: installer.py:553
 msgid "Documentation"
 msgstr "Documentation"
 
 #. Translators: The label of the Start Menu item to open the Commands Quick Reference document.
-#: installer.py:557
+#: installer.py:556
 msgid "Commands Quick Reference"
 msgstr "Résumé des commandes"
 
 #. Translators: A label for a shortcut in start menu to open NVDA user guide.
-#: installer.py:566
+#: installer.py:565
 msgid "User Guide"
 msgstr "Guide de l'utilisateur"
 
 #. Translators: A label for a shortcut in start menu to open NVDA what's new.
-#: installer.py:575
+#: installer.py:574
 msgid "What's new"
 msgstr "Quoi de neuf"
 
 #. Translators: A file extension label for NVDA add-on package.
-#: installer.py:717
+#: installer.py:716
 msgid "NVDA add-on package"
 msgstr "Paquet d'extension de NVDA"
 
@@ -6957,13 +6957,13 @@ msgstr "&Terminé"
 
 #. Translators: Message shown to users when attempting to update NVDA
 #. on a computer which is being remotely controlled via NVDA Remote Access
-#: updateCheck.py:1010 gui\installerGui.py:709
+#: updateCheck.py:1009 gui\installerGui.py:709
 msgid "Updating NVDA when connected to NVDA Remote Access as the controlled computer is not recommended. "
 msgstr "Il est déconseillé de mettre à jour NVDA lorsque l’ordinateur contrôlé est connecté via l'accès à distance NVDA "
 
 #. Translators: Message shown to users when attempting to update NVDA from an installed copy
 #. on a computer which is being remotely controlled via NVDA Remote Access.
-#: updateCheck.py:1015
+#: updateCheck.py:1014
 msgid "The currently active connection may not be continued during or after the update. Even if the connection is continued, you will be unable to respond to User Account Control (UAC) prompts from the controlling computer. You should only proceed if you have physical access to the controlled computer.\n\n"
 "Are you sure you want to continue?"
 msgstr "La connexion actuellement active pourrait ne pas être maintenue pendant ou après la mise à jour. Même si la connexion est maintenue, il vous sera impossible de répondre aux demandes de Contrôle de Compte Utilisateur (UAC) depuis l’ordinateur de contrôle. Vous ne devriez continuer que si vous avez un accès physique à l’ordinateur contrôlé.\n\n"
@@ -6976,7 +6976,7 @@ msgstr "La connexion actuellement active pourrait ne pas être maintenue pendant
 #. Translators: Title of the warning dialog shown when enabling a risky logging level.
 #. Translators: The title of a dialog.
 #. Translators: Title of warning dialog
-#: updateCheck.py:1021 gui\_SetURLDialog.py:113 gui\configProfiles.py:539
+#: updateCheck.py:1020 gui\_SetURLDialog.py:113 gui\configProfiles.py:539
 #: gui\installerGui.py:568 gui\installerGui.py:726 gui\settingsDialogs.py:2013
 #: gui\settingsDialogs.py:6456 screenCurtain\_screenCurtain.py:70
 #: _remoteClient\dialogs.py:291
